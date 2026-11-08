@@ -5,6 +5,8 @@ plugins {
 }
 
 val dataOwner: String = (project.findProperty("dataOwner") as String?) ?: System.getenv("DATA_OWNER") ?: "OWNER"
+val keystorePassword: String = System.getenv("KEYSTORE_PASSWORD")?.takeIf { it.isNotEmpty() }
+    ?: rootProject.file("keystore/heslo.txt").takeIf { it.exists() }?.readText()?.trim() ?: "anglictina"
 val buildNumber: Int = (System.getenv("GITHUB_RUN_NUMBER") ?: "1").toInt()
 
 android {
@@ -23,9 +25,9 @@ android {
     signingConfigs {
         create("release") {
             storeFile = file("../keystore/anglictina.jks")
-            storePassword = System.getenv("KEYSTORE_PASSWORD")?.takeIf { it.isNotEmpty() } ?: "anglictina"
+            storePassword = keystorePassword
             keyAlias = "anglictina"
-            keyPassword = System.getenv("KEYSTORE_PASSWORD")?.takeIf { it.isNotEmpty() } ?: "anglictina"
+            keyPassword = keystorePassword
         }
     }
 

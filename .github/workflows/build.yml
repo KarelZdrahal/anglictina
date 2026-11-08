@@ -29,6 +29,8 @@ jobs:
           if [ -n "$KEYSTORE_B64" ]; then
             echo "$KEYSTORE_B64" | base64 -d > keystore/anglictina.jks
             echo "SIGNED=1" >> $GITHUB_ENV
+          elif [ -f keystore/anglictina.jks ]; then
+            echo "SIGNED=1" >> $GITHUB_ENV
           else
             echo "::warning::Chybí secret KEYSTORE_B64 – sestavuji jen zkušební verzi s dočasným klíčem (nevydává se)."
             keytool -genkeypair -keystore keystore/anglictina.jks -alias anglictina -keyalg RSA -keysize 2048 -validity 365 \
