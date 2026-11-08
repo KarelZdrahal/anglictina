@@ -1,12 +1,12 @@
 {
  "course": "Roční kurz angličtiny B1 → B1+",
- "last_completed_week": 0,
- "next_week": 1,
+ "last_completed_week": 1,
+ "next_week": 2,
  "lessons": [
   {
    "week": 1,
    "date": "2026-11-09",
-   "status": "vygenerováno (čeká na schválení vzoru)",
+   "status": "schváleno Karlem 2026-11-08 (vzor pro další lekce)",
    "topic": "People & personalities",
    "grammar": "Present simple vs present continuous; state verbs",
    "vocab_core": [
@@ -54,5 +54,6 @@
   }
  ],
  "note": "Po vygenerování každé lekce sem přidej záznam: week, date, topic, grammar, vocab_core (seznam), vocab_extension (seznam), notes_for_next (co navázat, co zopakovat).",
- "last_generated_week": 1
+ "last_generated_week": 1,
+ "generation_day": "čtvrtek"
 }

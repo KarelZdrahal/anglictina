@@ -1,6 +1,6 @@
 # Postup pro týdenní lekci (pro automatickou rutinu)
 
-Každou neděli večer se vytvoří lekce na následující pondělí.
+Každý čtvrtek ráno se vytvoří další lekce (datum v sylabu = čtvrtek, kdy vzniká).
 
 1. Přečti `course/sylabus.json` (plán) a `course/stav_kurzu.json` (co už proběhlo, `notes_for_next`).
    Další lekce = `next_week`. Typ týdne (`lesson` / `review` / `test`) určuje obsah.
