@@ -1,0 +1,58 @@
+{
+ "course": "Roční kurz angličtiny B1 → B1+",
+ "last_completed_week": 0,
+ "next_week": 1,
+ "lessons": [
+  {
+   "week": 1,
+   "date": "2026-11-09",
+   "status": "vygenerováno (čeká na schválení vzoru)",
+   "topic": "People & personalities",
+   "grammar": "Present simple vs present continuous; state verbs",
+   "vocab_core": [
+    "outgoing",
+    "shy",
+    "reliable",
+    "easy-going",
+    "hard-working",
+    "lazy",
+    "generous",
+    "mean",
+    "honest",
+    "ambitious",
+    "patient",
+    "confident",
+    "sensitive",
+    "stubborn",
+    "bossy",
+    "cheerful",
+    "moody",
+    "thoughtful",
+    "selfish",
+    "talkative",
+    "sociable",
+    "organised",
+    "calm",
+    "curious",
+    "loyal"
+   ],
+   "vocab_ext": [
+    "down-to-earth",
+    "open-minded",
+    "narrow-minded",
+    "absent-minded",
+    "quick-tempered",
+    "laid-back",
+    "big-headed",
+    "two-faced",
+    "a people person",
+    "a good listener",
+    "get on well with sb",
+    "take after sb"
+   ],
+   "notes_for_next": "Lekce 2 (Work & daily routines) naváže: zvyky (usually, tend to, will pro zvyk), kolokace make/do; zopakovat stavová slovesa a always + průběhový čas; small talk rozšířit o mluvení o práci."
+  }
+ ],
+ "note": "Po vygenerování každé lekce sem přidej záznam: week, date, topic, grammar, vocab_core (seznam), vocab_extension (seznam), notes_for_next (co navázat, co zopakovat).",
+ "last_generated_week": 1
+}
