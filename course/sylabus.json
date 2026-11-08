@@ -1,7 +1,7 @@
 {
  "title": "Roční kurz angličtiny B1 → B1+",
- "start": "2026-11-09",
- "weekday": "čtvrtek (lekce 1: pondělí 9. 11. 2026)",
+ "start": "2026-11-08",
+ "weekday": "čtvrtek (lekce 1: neděle 8. 11. 2026)",
  "level_in": "B1",
  "level_out": "B1+",
  "learners": 2,
@@ -27,7 +27,7 @@
   {
    "week": 1,
    "quarter": 1,
-   "date": "2026-11-09",
+   "date": "2026-11-08",
    "type": "lesson",
    "topic_en": "People & personalities",
    "topic_cz": "Lidé a povahy",
