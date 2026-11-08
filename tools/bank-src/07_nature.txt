@@ -1,0 +1,41 @@
+#Nature & environment|Příroda a životní prostředí
+environment|životní prostředí|We must protect the environment.|B1
+pollution|znečištění|Air pollution is a big problem in cities.|B1
+climate change|klimatická změna|Climate change affects everyone.|B1
+global warming|globální oteplování|Global warming is melting the ice.|B1
+recycle|recyklovat|We recycle paper and plastic.|B1
+waste|odpad; plýtvat|Don't waste water.|B1
+rubbish|odpadky|Take the rubbish out, please.|B1
+renewable energy|obnovitelná energie|Solar power is a renewable energy source.|B2
+fossil fuels|fosilní paliva|We need to stop burning fossil fuels.|B2
+carbon footprint|uhlíková stopa|Flying increases your carbon footprint.|B2
+endangered species|ohrožený druh|Tigers are an endangered species.|B2
+extinct|vyhynulý|Dinosaurs are extinct.|B1
+wildlife|divoká zvířata a rostliny|The park is full of wildlife.|B1
+habitat|přirozené prostředí|Forests are the habitat of many animals.|B2
+deforestation|odlesňování|Deforestation destroys ecosystems.|C1
+drought|sucho|The drought lasted three months.|B2
+flood|povodeň|The flood damaged many houses.|B1
+storm|bouřka, bouře|There was a big storm last night.|A2
+heatwave|vlna veder|Europe had a terrible heatwave.|B2
+earthquake|zemětřesení|The earthquake destroyed the town.|B1
+natural disaster|přírodní katastrofa|Floods are the most common natural disaster.|B1
+sustainable|udržitelný|We need a more sustainable lifestyle.|B2
+eco-friendly|šetrný k přírodě|This is an eco-friendly product.|B2
+reduce|snížit|We must reduce our energy use.|B1
+reuse|znovu použít|Reuse your shopping bags.|B1
+single-use plastic|jednorázový plast|The EU has banned some single-use plastic.|B2
+countryside|venkov, krajina|I prefer the countryside to the city.|B1
+valley|údolí|The village lies in a beautiful valley.|B1
+coast|pobřeží|We drove along the coast.|B1
+stream|potok|We walked along a stream.|B1
+cliff|útes|The house stands on a cliff above the sea.|B2
+pond|rybník|There are ducks in the pond.|B1
+soil|půda, hlína|The soil here is very good for wine.|B2
+protect|chránit|This area is protected by law.|B1
+threaten|ohrožovat|Pollution threatens wildlife.|B2
+emissions|emise|Car emissions are bad for our health.|B2
+organic|bio, ekologický|I buy organic vegetables.|B1
+greenhouse gases|skleníkové plyny|Cows produce a lot of greenhouse gases.|B2
+melt|tát|The glaciers are melting.|B1
+scenery|scenérie, krajina|The scenery in Scotland is amazing.|B2

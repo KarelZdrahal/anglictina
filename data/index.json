@@ -1,0 +1,175 @@
+{
+ "version": 2,
+ "lessons": [
+  {
+   "file": "lessons/L01.json",
+   "v": 1,
+   "h": "eb23fad38fa9",
+   "id": "L01",
+   "week": 1,
+   "title": "People & personalities"
+  }
+ ],
+ "bank": [
+  {
+   "file": "bank/pack01.json",
+   "v": 1,
+   "h": "668e9b70312f",
+   "id": "pack01",
+   "topic": "Work & career",
+   "count": 40
+  },
+  {
+   "file": "bank/pack02.json",
+   "v": 1,
+   "h": "e50fdb272e5c",
+   "id": "pack02",
+   "topic": "Money & finance",
+   "count": 40
+  },
+  {
+   "file": "bank/pack03.json",
+   "v": 1,
+   "h": "9a37b45c9195",
+   "id": "pack03",
+   "topic": "Travel & tourism",
+   "count": 40
+  },
+  {
+   "file": "bank/pack04.json",
+   "v": 1,
+   "h": "c3c5f4718590",
+   "id": "pack04",
+   "topic": "Health & body",
+   "count": 40
+  },
+  {
+   "file": "bank/pack05.json",
+   "v": 1,
+   "h": "5d2655b43465",
+   "id": "pack05",
+   "topic": "Food & cooking",
+   "count": 40
+  },
+  {
+   "file": "bank/pack06.json",
+   "v": 1,
+   "h": "b5b581998709",
+   "id": "pack06",
+   "topic": "Home & housing",
+   "count": 40
+  },
+  {
+   "file": "bank/pack07.json",
+   "v": 1,
+   "h": "0d137624d020",
+   "id": "pack07",
+   "topic": "Nature & environment",
+   "count": 40
+  },
+  {
+   "file": "bank/pack08.json",
+   "v": 1,
+   "h": "67b881964ae1",
+   "id": "pack08",
+   "topic": "Technology & internet",
+   "count": 40
+  },
+  {
+   "file": "bank/pack09.json",
+   "v": 1,
+   "h": "561052cb9ca8",
+   "id": "pack09",
+   "topic": "Media & news",
+   "count": 40
+  },
+  {
+   "file": "bank/pack10.json",
+   "v": 1,
+   "h": "b85efb812c4c",
+   "id": "pack10",
+   "topic": "Relationships & feelings",
+   "count": 40
+  },
+  {
+   "file": "bank/pack11.json",
+   "v": 1,
+   "h": "900d4f1a1530",
+   "id": "pack11",
+   "topic": "Education & learning",
+   "count": 40
+  },
+  {
+   "file": "bank/pack12.json",
+   "v": 1,
+   "h": "7965d002fed0",
+   "id": "pack12",
+   "topic": "Crime & law",
+   "count": 40
+  },
+  {
+   "file": "bank/pack13.json",
+   "v": 1,
+   "h": "8dae91783836",
+   "id": "pack13",
+   "topic": "Sport & fitness",
+   "count": 40
+  },
+  {
+   "file": "bank/pack14.json",
+   "v": 1,
+   "h": "ae6a27aaa5f4",
+   "id": "pack14",
+   "topic": "Culture & the arts",
+   "count": 40
+  },
+  {
+   "file": "bank/pack15.json",
+   "v": 1,
+   "h": "d1e3a60d2b91",
+   "id": "pack15",
+   "topic": "Shopping & consumerism",
+   "count": 40
+  },
+  {
+   "file": "bank/pack16.json",
+   "v": 1,
+   "h": "5ba93e190151",
+   "id": "pack16",
+   "topic": "City & transport",
+   "count": 40
+  },
+  {
+   "file": "bank/pack17.json",
+   "v": 1,
+   "h": "52fb4a2dc358",
+   "id": "pack17",
+   "topic": "Society & community",
+   "count": 40
+  },
+  {
+   "file": "bank/pack18.json",
+   "v": 1,
+   "h": "54f334b64a4f",
+   "id": "pack18",
+   "topic": "Science & research",
+   "count": 40
+  },
+  {
+   "file": "bank/pack19.json",
+   "v": 1,
+   "h": "ac2b754d0f6b",
+   "id": "pack19",
+   "topic": "Everyday phrasal verbs",
+   "count": 40
+  },
+  {
+   "file": "bank/pack20.json",
+   "v": 1,
+   "h": "d8a61cf2fca0",
+   "id": "pack20",
+   "topic": "Idioms & useful expressions",
+   "count": 40
+  }
+ ]
+}

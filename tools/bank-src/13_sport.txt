@@ -1,0 +1,41 @@
+#Sport & fitness|Sport a kondice
+compete|soutěžit|Over 200 athletes will compete.|B1
+competition|soutěž|She won a cooking competition.|B1
+championship|mistrovství|The World Championship starts next week.|B1
+tournament|turnaj|We're playing in a tennis tournament.|B1
+team|tým|Which team do you support?|A2
+coach|trenér|Our coach is very strict.|B1
+referee|rozhodčí|The referee gave him a red card.|B1
+score|skóre; skórovat|What's the score?|B1
+draw|remíza; remizovat|The match ended in a draw.|B1
+beat|porazit|We beat them 3–1.|B1
+win|vyhrát|Who won the race?|A2
+lose|prohrát|We lost the final.|A2
+opponent|soupeř|Her opponent was much younger.|B2
+fan|fanoušek|The fans were singing.|B1
+stadium|stadion|The stadium holds 50,000 people.|B1
+pitch|hřiště (fotbalové)|The players are on the pitch.|B2
+court|kurt|The tennis courts are behind the school.|B1
+track|dráha|They run on the track every morning.|B1
+train|trénovat|She trains five days a week.|B1
+warm up|rozcvičit se|Always warm up before running.|B1
+stretch|protahovat se|Stretch after exercise.|B1
+sweat|potit se; pot|I was sweating after the run.|B1
+work out|cvičit|I work out at the gym.|B1
+gym|posilovna|I go to the gym after work.|A2
+marathon|maraton|He ran his first marathon.|B1
+record|rekord|She broke the world record.|B1
+medal|medaile|He won a gold medal.|B1
+amateur|amatér(ský)|He plays for an amateur club.|B2
+professional|profesionální|She's a professional footballer.|B1
+injury time|nastavený čas|They scored in injury time.|B2
+spectator|divák|Thousands of spectators watched the race.|B2
+take up|začít (s koníčkem)|I've taken up yoga.|B1
+give up|vzdát, přestat|Don't give up now!|B1
+challenge|výzva|Running a marathon is a real challenge.|B1
+fit|v kondici|You look very fit.|B1
+stamina|výdrž|Swimming builds stamina.|C1
+equipment|vybavení|Skiing equipment is expensive.|B1
+extreme sports|extrémní sporty|He loves extreme sports like base jumping.|B2
+cheer|fandit, povzbuzovat|The crowd cheered loudly.|B1
+team spirit|týmový duch|Our team spirit is amazing.|B2

@@ -1,0 +1,288 @@
+{
+"id": "pack18",
+"topic": "Science & research",
+"topic_cz": "Věda a výzkum",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b18-research",
+"en": "research",
+"cz": "výzkum; zkoumat",
+"ex": "Research shows that sleep improves memory.",
+"level": "B1"
+},
+{
+"id": "b18-scientist",
+"en": "scientist",
+"cz": "vědec",
+"ex": "Scientists have discovered a new planet.",
+"level": "B1"
+},
+{
+"id": "b18-experiment",
+"en": "experiment",
+"cz": "experiment, pokus",
+"ex": "They did an experiment in the lab.",
+"level": "B1"
+},
+{
+"id": "b18-laboratory",
+"en": "laboratory",
+"cz": "laboratoř",
+"ex": "She works in a laboratory.",
+"level": "B1"
+},
+{
+"id": "b18-discover",
+"en": "discover",
+"cz": "objevit",
+"ex": "Who discovered penicillin?",
+"level": "B1"
+},
+{
+"id": "b18-discovery",
+"en": "discovery",
+"cz": "objev",
+"ex": "It was an important discovery.",
+"level": "B1"
+},
+{
+"id": "b18-invent",
+"en": "invent",
+"cz": "vynalézt",
+"ex": "Who invented the telephone?",
+"level": "B1"
+},
+{
+"id": "b18-invention",
+"en": "invention",
+"cz": "vynález",
+"ex": "The wheel was a great invention.",
+"level": "B1"
+},
+{
+"id": "b18-theory",
+"en": "theory",
+"cz": "teorie",
+"ex": "Darwin's theory of evolution",
+"level": "B1"
+},
+{
+"id": "b18-prove",
+"en": "prove",
+"cz": "dokázat",
+"ex": "Can you prove it?",
+"level": "B1"
+},
+{
+"id": "b18-evidence",
+"en": "evidence",
+"cz": "důkaz",
+"ex": "There's no evidence that it works.",
+"level": "B2"
+},
+{
+"id": "b18-result",
+"en": "result",
+"cz": "výsledek",
+"ex": "The results were surprising.",
+"level": "B1"
+},
+{
+"id": "b18-data",
+"en": "data",
+"cz": "data",
+"ex": "We collected data from 500 people.",
+"level": "B1"
+},
+{
+"id": "b18-survey",
+"en": "survey",
+"cz": "průzkum (dotazník)",
+"ex": "A survey found that most people sleep too little.",
+"level": "B2"
+},
+{
+"id": "b18-analyse",
+"en": "analyse",
+"cz": "analyzovat",
+"ex": "Scientists analysed the samples.",
+"level": "B2"
+},
+{
+"id": "b18-conclusion",
+"en": "conclusion",
+"cz": "závěr",
+"ex": "What conclusion did they reach?",
+"level": "B2"
+},
+{
+"id": "b18-breakthrough",
+"en": "breakthrough",
+"cz": "průlom",
+"ex": "It was a breakthrough in cancer research.",
+"level": "C1"
+},
+{
+"id": "b18-space",
+"en": "space",
+"cz": "vesmír",
+"ex": "Would you like to travel to space?",
+"level": "B1"
+},
+{
+"id": "b18-planet",
+"en": "planet",
+"cz": "planeta",
+"ex": "Mars is the fourth planet from the sun.",
+"level": "A2"
+},
+{
+"id": "b18-astronaut",
+"en": "astronaut",
+"cz": "astronaut",
+"ex": "The astronauts returned safely.",
+"level": "B1"
+},
+{
+"id": "b18-gravity",
+"en": "gravity",
+"cz": "gravitace",
+"ex": "Gravity keeps us on the ground.",
+"level": "B2"
+},
+{
+"id": "b18-genetic",
+"en": "genetic",
+"cz": "genetický",
+"ex": "Some diseases are genetic.",
+"level": "B2"
+},
+{
+"id": "b18-vaccine",
+"en": "vaccine",
+"cz": "vakcína",
+"ex": "The vaccine was developed quickly.",
+"level": "B2"
+},
+{
+"id": "b18-cure",
+"en": "cure",
+"cz": "lék; vyléčit",
+"ex": "There's no cure for the common cold.",
+"level": "B2"
+},
+{
+"id": "b18-brain",
+"en": "brain",
+"cz": "mozek",
+"ex": "The human brain is amazing.",
+"level": "B1"
+},
+{
+"id": "b18-species",
+"en": "species",
+"cz": "druh",
+"ex": "Scientists found a new species of frog.",
+"level": "B2"
+},
+{
+"id": "b18-the-human-body",
+"en": "the human body",
+"cz": "lidské tělo",
+"ex": "The human body is 60% water.",
+"level": "B1"
+},
+{
+"id": "b18-microscope",
+"en": "microscope",
+"cz": "mikroskop",
+"ex": "Look at it under the microscope.",
+"level": "B1"
+},
+{
+"id": "b18-develop",
+"en": "develop",
+"cz": "vyvinout",
+"ex": "They're developing a new medicine.",
+"level": "B1"
+},
+{
+"id": "b18-test",
+"en": "test",
+"cz": "testovat; test",
+"ex": "The drug was tested on volunteers.",
+"level": "B1"
+},
+{
+"id": "b18-study",
+"en": "study",
+"cz": "studie",
+"ex": "A new study suggests that coffee is healthy.",
+"level": "B1"
+},
+{
+"id": "b18-expert",
+"en": "expert",
+"cz": "odborník",
+"ex": "Experts disagree on this.",
+"level": "B1"
+},
+{
+"id": "b18-robot",
+"en": "robot",
+"cz": "robot",
+"ex": "Robots do many jobs in factories.",
+"level": "A2"
+},
+{
+"id": "b18-solar-system",
+"en": "solar system",
+"cz": "sluneční soustava",
+"ex": "There are eight planets in our solar system.",
+"level": "B1"
+},
+{
+"id": "b18-chemical",
+"en": "chemical",
+"cz": "chemická látka; chemický",
+"ex": "Some chemicals are dangerous.",
+"level": "B2"
+},
+{
+"id": "b18-measure",
+"en": "measure",
+"cz": "měřit",
+"ex": "We measured the temperature every hour.",
+"level": "B1"
+},
+{
+"id": "b18-predict",
+"en": "predict",
+"cz": "předpovědět",
+"ex": "It's hard to predict the future.",
+"level": "B2"
+},
+{
+"id": "b18-artificial",
+"en": "artificial",
+"cz": "umělý",
+"ex": "The flowers are artificial.",
+"level": "B2"
+},
+{
+"id": "b18-progress",
+"en": "progress",
+"cz": "pokrok",
+"ex": "Science has made huge progress.",
+"level": "B1"
+},
+{
+"id": "b18-scientific",
+"en": "scientific",
+"cz": "vědecký",
+"ex": "There's no scientific proof.",
+"level": "B2"
+}
+]
+}

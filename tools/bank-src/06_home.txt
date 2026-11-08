@@ -1,0 +1,41 @@
+#Home & housing|Bydlení a domov
+rent|nájem; pronajmout si|The rent is due on the first of the month.|B1
+landlord|pronajímatel|Our landlord is very nice.|B1
+tenant|nájemník|The tenants complained about the heating.|B2
+flatmate|spolubydlící|I share a flat with two flatmates.|B1
+move house|stěhovat se|We're moving house next month.|B1
+neighbourhood|čtvrť, okolí|It's a quiet neighbourhood.|B1
+suburbs|předměstí|They live in the suburbs.|B1
+detached house|samostatně stojící dům|They bought a detached house with a garden.|B2
+semi-detached house|dvojdům|We live in a semi-detached house.|B2
+terraced house|řadový dům|Terraced houses are typical in England.|B2
+block of flats|panelák, činžovní dům|I grew up in a block of flats.|B1
+spacious|prostorný|The living room is very spacious.|B2
+cosy|útulný|What a cosy little flat!|B1
+cramped|stísněný|The kitchen is a bit cramped.|B2
+furnished|zařízený (nábytkem)|The flat is fully furnished.|B1
+utility bills|účty za energie|Utility bills are included in the rent.|B2
+heating|topení|The heating doesn't work.|B1
+leak|únik, protékat|There's a leak in the bathroom.|B2
+repair|opravit; oprava|The landlord should repair the boiler.|B1
+decorate|vymalovat, vyzdobit|We're decorating the bedroom.|B1
+do up|zrekonstruovat|They're doing up an old farmhouse.|B2
+housework|domácí práce|I hate doing housework.|B1
+do the washing-up|umýt nádobí|It's your turn to do the washing-up.|B1
+hoover|vysávat|I hoover the flat every Saturday.|B1
+tidy up|uklidit|Please tidy up your room.|B1
+mess|nepořádek|What a mess!|B1
+cupboard|skříňka|The cups are in the cupboard.|A2
+drawer|zásuvka|The keys are in the top drawer.|B1
+shelf|police|Put the books on the shelf.|B1
+balcony|balkon|We have breakfast on the balcony.|A2
+attic|půda, podkroví|We keep old things in the attic.|B1
+basement|suterén, sklep|The washing machine is in the basement.|B1
+doorbell|zvonek|The doorbell rang.|B1
+view|výhled|The flat has a great view of the river.|B1
+noisy|hlučný|The street is very noisy at night.|B1
+property|nemovitost|Property prices are rising.|B2
+estate agent|realitní makléř|The estate agent showed us three flats.|B2
+deposit|kauce; záloha|We paid a two-month deposit.|B2
+settle in|zabydlet se|Have you settled in yet?|B2
+homesick|stýskající se po domově|I was homesick during my first month abroad.|B1

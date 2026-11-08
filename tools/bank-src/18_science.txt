@@ -1,0 +1,41 @@
+#Science & research|Věda a výzkum
+research|výzkum; zkoumat|Research shows that sleep improves memory.|B1
+scientist|vědec|Scientists have discovered a new planet.|B1
+experiment|experiment, pokus|They did an experiment in the lab.|B1
+laboratory|laboratoř|She works in a laboratory.|B1
+discover|objevit|Who discovered penicillin?|B1
+discovery|objev|It was an important discovery.|B1
+invent|vynalézt|Who invented the telephone?|B1
+invention|vynález|The wheel was a great invention.|B1
+theory|teorie|Darwin's theory of evolution|B1
+prove|dokázat|Can you prove it?|B1
+evidence|důkaz|There's no evidence that it works.|B2
+result|výsledek|The results were surprising.|B1
+data|data|We collected data from 500 people.|B1
+survey|průzkum (dotazník)|A survey found that most people sleep too little.|B2
+analyse|analyzovat|Scientists analysed the samples.|B2
+conclusion|závěr|What conclusion did they reach?|B2
+breakthrough|průlom|It was a breakthrough in cancer research.|C1
+space|vesmír|Would you like to travel to space?|B1
+planet|planeta|Mars is the fourth planet from the sun.|A2
+astronaut|astronaut|The astronauts returned safely.|B1
+gravity|gravitace|Gravity keeps us on the ground.|B2
+genetic|genetický|Some diseases are genetic.|B2
+vaccine|vakcína|The vaccine was developed quickly.|B2
+cure|lék; vyléčit|There's no cure for the common cold.|B2
+brain|mozek|The human brain is amazing.|B1
+species|druh|Scientists found a new species of frog.|B2
+the human body|lidské tělo|The human body is 60% water.|B1
+microscope|mikroskop|Look at it under the microscope.|B1
+develop|vyvinout|They're developing a new medicine.|B1
+test|testovat; test|The drug was tested on volunteers.|B1
+study|studie|A new study suggests that coffee is healthy.|B1
+expert|odborník|Experts disagree on this.|B1
+robot|robot|Robots do many jobs in factories.|A2
+solar system|sluneční soustava|There are eight planets in our solar system.|B1
+chemical|chemická látka; chemický|Some chemicals are dangerous.|B2
+measure|měřit|We measured the temperature every hour.|B1
+predict|předpovědět|It's hard to predict the future.|B2
+artificial|umělý|The flowers are artificial.|B2
+progress|pokrok|Science has made huge progress.|B1
+scientific|vědecký|There's no scientific proof.|B2

@@ -1,0 +1,41 @@
+#Food & cooking|Jídlo a vaření
+recipe|recept (na vaření)|Can you send me the recipe?|B1
+ingredient|surovina, přísada|You only need four ingredients.|B1
+boil|vařit (ve vodě)|Boil the pasta for ten minutes.|B1
+fry|smažit|Fry the onions in a little oil.|B1
+roast|péct (maso, zeleninu)|We roasted a chicken for Sunday lunch.|B1
+bake|péct (pečivo)|My grandma bakes amazing cakes.|B1
+grill|grilovat|Let's grill some fish.|B1
+chop|nakrájet|Chop the vegetables into small pieces.|B1
+peel|loupat|Peel the potatoes first.|B1
+stir|míchat|Stir the soup from time to time.|B1
+season|ochutit, okořenit|Season with salt and pepper.|B2
+spicy|pálivý, kořeněný|I love spicy food.|B1
+bland|bez chuti, mdlý|The soup was a bit bland.|B2
+tasty|chutný|That was a really tasty meal.|B1
+raw|syrový|Sushi contains raw fish.|B1
+rare|krvavý (steak)|I like my steak rare.|B2
+leftovers|zbytky jídla|We had leftovers for lunch.|B2
+portion|porce|The portions were huge.|B1
+starter|předkrm|Would you like a starter?|B1
+main course|hlavní chod|For the main course I'll have the fish.|B1
+dessert|dezert|Let's skip dessert.|A2
+vegetarian|vegetarián(ský)|Do you have any vegetarian dishes?|B1
+vegan|vegan(ský)|She's been vegan for two years.|B1
+dairy products|mléčné výrobky|I avoid dairy products.|B2
+gluten-free|bezlepkový|They have gluten-free bread.|B2
+homemade|domácí (vyrobený doma)|This jam is homemade.|B1
+takeaway|jídlo s sebou|Let's get a takeaway tonight.|B1
+book a table|zarezervovat stůl|I've booked a table for eight.|B1
+tip|spropitné|Is the tip included?|B1
+the bill, please|zaplatím, prosím|Could we have the bill, please?|A2
+mouth-watering|lákavý, sbíhají se sliny|The smell was mouth-watering.|C1
+overcooked|převařený, připálený|The vegetables were overcooked.|B2
+frozen|mražený|I always keep frozen peas.|B1
+fresh|čerstvý|Buy fresh vegetables at the market.|A2
+snack|svačina, něco malého k jídlu|I had a snack at eleven.|B1
+diet|strava; dieta|She's on a diet.|B1
+nutritious|výživný|Lentils are cheap and nutritious.|C1
+craving|chuť (na něco)|I've got a craving for chocolate.|C1
+cuisine|kuchyně (styl vaření)|I love Thai cuisine.|B2
+eat out|jíst venku (v restauraci)|We eat out once a week.|B1

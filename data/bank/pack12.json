@@ -1,0 +1,288 @@
+{
+"id": "pack12",
+"topic": "Crime & law",
+"topic_cz": "Zločin a právo",
+"level": "B1/B2/C1",
+"words": [
+{
+"id": "b12-crime",
+"en": "crime",
+"cz": "zločin, kriminalita",
+"ex": "Crime is falling in the city.",
+"level": "B1"
+},
+{
+"id": "b12-criminal",
+"en": "criminal",
+"cz": "zločinec",
+"ex": "The criminal escaped.",
+"level": "B1"
+},
+{
+"id": "b12-steal",
+"en": "steal",
+"cz": "ukrást",
+"ex": "Someone stole my bike.",
+"level": "B1"
+},
+{
+"id": "b12-rob",
+"en": "rob",
+"cz": "okrást, vyloupit",
+"ex": "They robbed a bank.",
+"level": "B1"
+},
+{
+"id": "b12-burglar",
+"en": "burglar",
+"cz": "zloděj (vloupání)",
+"ex": "A burglar broke into our house.",
+"level": "B2"
+},
+{
+"id": "b12-burglary",
+"en": "burglary",
+"cz": "vloupání",
+"ex": "There have been several burglaries in the area.",
+"level": "B2"
+},
+{
+"id": "b12-pickpocket",
+"en": "pickpocket",
+"cz": "kapsář",
+"ex": "Watch out for pickpockets on the metro.",
+"level": "B2"
+},
+{
+"id": "b12-shoplifting",
+"en": "shoplifting",
+"cz": "krádež v obchodě",
+"ex": "He was arrested for shoplifting.",
+"level": "B2"
+},
+{
+"id": "b12-vandalism",
+"en": "vandalism",
+"cz": "vandalismus",
+"ex": "Vandalism costs the city millions.",
+"level": "B2"
+},
+{
+"id": "b12-fraud",
+"en": "fraud",
+"cz": "podvod",
+"ex": "Credit card fraud is increasing.",
+"level": "B2"
+},
+{
+"id": "b12-murder",
+"en": "murder",
+"cz": "vražda",
+"ex": "He was accused of murder.",
+"level": "B1"
+},
+{
+"id": "b12-witness",
+"en": "witness",
+"cz": "svědek",
+"ex": "The police are looking for witnesses.",
+"level": "B1"
+},
+{
+"id": "b12-suspect",
+"en": "suspect",
+"cz": "podezřelý",
+"ex": "The suspect was arrested last night.",
+"level": "B1"
+},
+{
+"id": "b12-arrest",
+"en": "arrest",
+"cz": "zatknout",
+"ex": "The police arrested two men.",
+"level": "B1"
+},
+{
+"id": "b12-charge-with",
+"en": "charge with",
+"cz": "obvinit z",
+"ex": "He was charged with theft.",
+"level": "C1"
+},
+{
+"id": "b12-evidence",
+"en": "evidence",
+"cz": "důkazy",
+"ex": "There isn't enough evidence.",
+"level": "B2"
+},
+{
+"id": "b12-guilty",
+"en": "guilty",
+"cz": "vinný",
+"ex": "The jury found him guilty.",
+"level": "B1"
+},
+{
+"id": "b12-innocent",
+"en": "innocent",
+"cz": "nevinný",
+"ex": "She says she's innocent.",
+"level": "B1"
+},
+{
+"id": "b12-court",
+"en": "court",
+"cz": "soud",
+"ex": "The case went to court.",
+"level": "B1"
+},
+{
+"id": "b12-judge",
+"en": "judge",
+"cz": "soudce",
+"ex": "The judge sentenced him to five years.",
+"level": "B1"
+},
+{
+"id": "b12-lawyer",
+"en": "lawyer",
+"cz": "právník, advokát",
+"ex": "You should talk to a lawyer.",
+"level": "B1"
+},
+{
+"id": "b12-sentence",
+"en": "sentence",
+"cz": "trest; odsoudit",
+"ex": "He got a two-year sentence.",
+"level": "B2"
+},
+{
+"id": "b12-prison",
+"en": "prison",
+"cz": "vězení",
+"ex": "He spent ten years in prison.",
+"level": "B1"
+},
+{
+"id": "b12-fine",
+"en": "fine",
+"cz": "pokuta; pokutovat",
+"ex": "I got a parking fine.",
+"level": "B1"
+},
+{
+"id": "b12-break-the-law",
+"en": "break the law",
+"cz": "porušit zákon",
+"ex": "You're breaking the law.",
+"level": "B1"
+},
+{
+"id": "b12-illegal",
+"en": "illegal",
+"cz": "nelegální",
+"ex": "It's illegal to drive without a licence.",
+"level": "B1"
+},
+{
+"id": "b12-legal",
+"en": "legal",
+"cz": "legální, právní",
+"ex": "Is it legal to camp here?",
+"level": "B1"
+},
+{
+"id": "b12-investigate",
+"en": "investigate",
+"cz": "vyšetřovat",
+"ex": "The police are investigating the crime.",
+"level": "B2"
+},
+{
+"id": "b12-detective",
+"en": "detective",
+"cz": "detektiv",
+"ex": "The detective solved the case.",
+"level": "B1"
+},
+{
+"id": "b12-clue",
+"en": "clue",
+"cz": "stopa, vodítko",
+"ex": "The police found an important clue.",
+"level": "B2"
+},
+{
+"id": "b12-victim",
+"en": "victim",
+"cz": "oběť",
+"ex": "The victim was taken to hospital.",
+"level": "B1"
+},
+{
+"id": "b12-commit-a-crime",
+"en": "commit a crime",
+"cz": "spáchat trestný čin",
+"ex": "Most crimes are committed at night.",
+"level": "B2"
+},
+{
+"id": "b12-get-away-with",
+"en": "get away with",
+"cz": "projít (beztrestně)",
+"ex": "He got away with it.",
+"level": "B2"
+},
+{
+"id": "b12-security-camera",
+"en": "security camera",
+"cz": "bezpečnostní kamera",
+"ex": "A security camera filmed the thief.",
+"level": "B1"
+},
+{
+"id": "b12-report-a-crime",
+"en": "report a crime",
+"cz": "nahlásit trestný čin",
+"ex": "I reported the theft to the police.",
+"level": "B1"
+},
+{
+"id": "b12-scam",
+"en": "scam",
+"cz": "podvod, šmejdi",
+"ex": "It's an online scam.",
+"level": "B2"
+},
+{
+"id": "b12-speeding",
+"en": "speeding",
+"cz": "překročení rychlosti",
+"ex": "I got a fine for speeding.",
+"level": "B2"
+},
+{
+"id": "b12-punishment",
+"en": "punishment",
+"cz": "trest",
+"ex": "The punishment was too harsh.",
+"level": "B2"
+},
+{
+"id": "b12-reward",
+"en": "reward",
+"cz": "odměna",
+"ex": "They offered a reward for information.",
+"level": "B1"
+},
+{
+"id": "b12-mystery",
+"en": "mystery",
+"cz": "záhada",
+"ex": "The case remains a mystery.",
+"level": "B1"
+}
+]
+}

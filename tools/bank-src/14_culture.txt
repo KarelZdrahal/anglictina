@@ -1,0 +1,41 @@
+#Culture & the arts|Kultura a umění
+exhibition|výstava|There's a new exhibition at the gallery.|B1
+gallery|galerie|We visited the National Gallery.|B1
+painting|obraz, malba|This painting is worth millions.|B1
+sculpture|socha|The park has several modern sculptures.|B2
+artist|umělec|She's a talented artist.|A2
+performance|představení, výkon|The performance lasted three hours.|B1
+audience|publikum|The audience loved the show.|B1
+stage|jeviště|The actors came back on stage.|B1
+play|divadelní hra|We saw a play by Shakespeare.|A2
+musical|muzikál|Have you seen the musical Cats?|B1
+plot|děj|The plot was hard to follow.|B1
+character|postava|The main character is a young doctor.|B1
+director|režisér|Who is the director of this film?|B1
+cast|obsazení|The film has a great cast.|B2
+soundtrack|filmová hudba|I love the soundtrack of this film.|B2
+subtitles|titulky|I watch films with English subtitles.|B1
+novel|román|Her latest novel is a bestseller.|B1
+author|autor|Who's the author of this book?|B1
+poem|báseň|He wrote a poem for her.|B1
+bestseller|bestseller|The book became a bestseller.|B2
+masterpiece|mistrovské dílo|The film is a masterpiece.|B2
+moving|dojemný|It was a very moving story.|B2
+gripping|napínavý, strhující|The book is absolutely gripping.|C1
+predictable|předvídatelný|The ending was predictable.|B2
+overrated|přeceňovaný|I think that film is overrated.|C1
+recommend|doporučit|I can recommend this book.|B1
+get tickets|sehnat lístky|We got tickets for the concert.|B1
+sold out|vyprodaný|The concert is sold out.|B1
+band|kapela|What's your favourite band?|A2
+lyrics|text písně|I don't understand the lyrics.|B2
+album|album|Their new album comes out in May.|B1
+festival|festival|We go to a music festival every summer.|B1
+heritage|dědictví|Prague is part of UNESCO World Heritage.|C1
+tradition|tradice|It's an old Czech tradition.|B1
+custom|zvyk|Every country has different customs.|B1
+review|recenze|The play got terrible reviews.|B1
+critic|kritik|The critics loved it.|B2
+premiere|premiéra|The premiere is next Friday.|B2
+applause|potlesk|There was loud applause at the end.|B2
+entertaining|zábavný|The show was very entertaining.|B1

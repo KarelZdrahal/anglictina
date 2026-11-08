@@ -1,0 +1,288 @@
+{
+"id": "pack17",
+"topic": "Society & community",
+"topic_cz": "Společnost a komunita",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b17-community",
+"en": "community",
+"cz": "komunita, obec",
+"ex": "It's a friendly community.",
+"level": "B1"
+},
+{
+"id": "b17-volunteer",
+"en": "volunteer",
+"cz": "dobrovolník; dobrovolně pomáhat",
+"ex": "She volunteers at an animal shelter.",
+"level": "B1"
+},
+{
+"id": "b17-charity",
+"en": "charity",
+"cz": "charita, dobročinná organizace",
+"ex": "We gave money to charity.",
+"level": "B1"
+},
+{
+"id": "b17-donate",
+"en": "donate",
+"cz": "darovat",
+"ex": "I donate blood twice a year.",
+"level": "B2"
+},
+{
+"id": "b17-homeless",
+"en": "homeless",
+"cz": "bez domova",
+"ex": "The number of homeless people is rising.",
+"level": "B1"
+},
+{
+"id": "b17-poverty",
+"en": "poverty",
+"cz": "chudoba",
+"ex": "Millions of people live in poverty.",
+"level": "B2"
+},
+{
+"id": "b17-unemployment",
+"en": "unemployment",
+"cz": "nezaměstnanost",
+"ex": "Unemployment is low in our region.",
+"level": "B2"
+},
+{
+"id": "b17-equality",
+"en": "equality",
+"cz": "rovnost",
+"ex": "We believe in gender equality.",
+"level": "B2"
+},
+{
+"id": "b17-discrimination",
+"en": "discrimination",
+"cz": "diskriminace",
+"ex": "Discrimination at work is illegal.",
+"level": "B2"
+},
+{
+"id": "b17-election",
+"en": "election",
+"cz": "volby",
+"ex": "The election is in October.",
+"level": "B1"
+},
+{
+"id": "b17-vote",
+"en": "vote",
+"cz": "volit; hlas",
+"ex": "Did you vote in the election?",
+"level": "B1"
+},
+{
+"id": "b17-government",
+"en": "government",
+"cz": "vláda",
+"ex": "The government announced new taxes.",
+"level": "B1"
+},
+{
+"id": "b17-law",
+"en": "law",
+"cz": "zákon",
+"ex": "There's a new law about smoking.",
+"level": "B1"
+},
+{
+"id": "b17-citizen",
+"en": "citizen",
+"cz": "občan",
+"ex": "Every citizen has the right to vote.",
+"level": "B2"
+},
+{
+"id": "b17-rights",
+"en": "rights",
+"cz": "práva",
+"ex": "Human rights must be protected.",
+"level": "B1"
+},
+{
+"id": "b17-protest",
+"en": "protest",
+"cz": "protest; protestovat",
+"ex": "Thousands protested in the streets.",
+"level": "B2"
+},
+{
+"id": "b17-issue",
+"en": "issue",
+"cz": "problém, otázka",
+"ex": "Housing is a big issue for young people.",
+"level": "B2"
+},
+{
+"id": "b17-generation",
+"en": "generation",
+"cz": "generace",
+"ex": "My generation grew up with the internet.",
+"level": "B1"
+},
+{
+"id": "b17-elderly",
+"en": "elderly",
+"cz": "starší, senioři",
+"ex": "We help elderly people with shopping.",
+"level": "B2"
+},
+{
+"id": "b17-retirement",
+"en": "retirement",
+"cz": "důchod (období)",
+"ex": "He enjoys his retirement.",
+"level": "B2"
+},
+{
+"id": "b17-population",
+"en": "population",
+"cz": "populace, obyvatelstvo",
+"ex": "The population is ageing.",
+"level": "B1"
+},
+{
+"id": "b17-immigrant",
+"en": "immigrant",
+"cz": "přistěhovalec",
+"ex": "Many immigrants work in healthcare.",
+"level": "B2"
+},
+{
+"id": "b17-diversity",
+"en": "diversity",
+"cz": "rozmanitost",
+"ex": "London is famous for its diversity.",
+"level": "C1"
+},
+{
+"id": "b17-welfare",
+"en": "welfare",
+"cz": "sociální péče",
+"ex": "The welfare system needs reform.",
+"level": "C1"
+},
+{
+"id": "b17-tolerance",
+"en": "tolerance",
+"cz": "tolerance",
+"ex": "We need more tolerance.",
+"level": "B2"
+},
+{
+"id": "b17-public-opinion",
+"en": "public opinion",
+"cz": "veřejné mínění",
+"ex": "Public opinion has changed.",
+"level": "B2"
+},
+{
+"id": "b17-make-a-difference",
+"en": "make a difference",
+"cz": "něco změnit, mít vliv",
+"ex": "Even small actions make a difference.",
+"level": "B2"
+},
+{
+"id": "b17-raise-money",
+"en": "raise money",
+"cz": "vybírat peníze",
+"ex": "We're raising money for the hospital.",
+"level": "B2"
+},
+{
+"id": "b17-neighbour",
+"en": "neighbour",
+"cz": "soused",
+"ex": "Our neighbours are very kind.",
+"level": "A2"
+},
+{
+"id": "b17-social-life",
+"en": "social life",
+"cz": "společenský život",
+"ex": "I don't have much of a social life.",
+"level": "B1"
+},
+{
+"id": "b17-peer-pressure",
+"en": "peer pressure",
+"cz": "tlak vrstevníků",
+"ex": "Teenagers often suffer from peer pressure.",
+"level": "C1"
+},
+{
+"id": "b17-role-model",
+"en": "role model",
+"cz": "vzor",
+"ex": "Parents should be role models.",
+"level": "B2"
+},
+{
+"id": "b17-behaviour",
+"en": "behaviour",
+"cz": "chování",
+"ex": "His behaviour was unacceptable.",
+"level": "B1"
+},
+{
+"id": "b17-responsibility",
+"en": "responsibility",
+"cz": "odpovědnost",
+"ex": "We all have a responsibility to help.",
+"level": "B1"
+},
+{
+"id": "b17-fair",
+"en": "fair",
+"cz": "spravedlivý",
+"ex": "That's not fair!",
+"level": "B1"
+},
+{
+"id": "b17-unfair",
+"en": "unfair",
+"cz": "nespravedlivý",
+"ex": "The decision was unfair.",
+"level": "B1"
+},
+{
+"id": "b17-support",
+"en": "support",
+"cz": "podporovat",
+"ex": "We support local businesses.",
+"level": "B1"
+},
+{
+"id": "b17-lifestyle",
+"en": "lifestyle",
+"cz": "životní styl",
+"ex": "They have a healthy lifestyle.",
+"level": "B1"
+},
+{
+"id": "b17-standard-of-living",
+"en": "standard of living",
+"cz": "životní úroveň",
+"ex": "The standard of living has improved.",
+"level": "B2"
+},
+{
+"id": "b17-take-part-in",
+"en": "take part in",
+"cz": "zúčastnit se",
+"ex": "I took part in a charity run.",
+"level": "B1"
+}
+]
+}

@@ -1,0 +1,41 @@
+#Crime & law|Zločin a právo
+crime|zločin, kriminalita|Crime is falling in the city.|B1
+criminal|zločinec|The criminal escaped.|B1
+steal|ukrást|Someone stole my bike.|B1
+rob|okrást, vyloupit|They robbed a bank.|B1
+burglar|zloděj (vloupání)|A burglar broke into our house.|B2
+burglary|vloupání|There have been several burglaries in the area.|B2
+pickpocket|kapsář|Watch out for pickpockets on the metro.|B2
+shoplifting|krádež v obchodě|He was arrested for shoplifting.|B2
+vandalism|vandalismus|Vandalism costs the city millions.|B2
+fraud|podvod|Credit card fraud is increasing.|B2
+murder|vražda|He was accused of murder.|B1
+witness|svědek|The police are looking for witnesses.|B1
+suspect|podezřelý|The suspect was arrested last night.|B1
+arrest|zatknout|The police arrested two men.|B1
+charge with|obvinit z|He was charged with theft.|C1
+evidence|důkazy|There isn't enough evidence.|B2
+guilty|vinný|The jury found him guilty.|B1
+innocent|nevinný|She says she's innocent.|B1
+court|soud|The case went to court.|B1
+judge|soudce|The judge sentenced him to five years.|B1
+lawyer|právník, advokát|You should talk to a lawyer.|B1
+sentence|trest; odsoudit|He got a two-year sentence.|B2
+prison|vězení|He spent ten years in prison.|B1
+fine|pokuta; pokutovat|I got a parking fine.|B1
+break the law|porušit zákon|You're breaking the law.|B1
+illegal|nelegální|It's illegal to drive without a licence.|B1
+legal|legální, právní|Is it legal to camp here?|B1
+investigate|vyšetřovat|The police are investigating the crime.|B2
+detective|detektiv|The detective solved the case.|B1
+clue|stopa, vodítko|The police found an important clue.|B2
+victim|oběť|The victim was taken to hospital.|B1
+commit a crime|spáchat trestný čin|Most crimes are committed at night.|B2
+get away with|projít (beztrestně)|He got away with it.|B2
+security camera|bezpečnostní kamera|A security camera filmed the thief.|B1
+report a crime|nahlásit trestný čin|I reported the theft to the police.|B1
+scam|podvod, šmejdi|It's an online scam.|B2
+speeding|překročení rychlosti|I got a fine for speeding.|B2
+punishment|trest|The punishment was too harsh.|B2
+reward|odměna|They offered a reward for information.|B1
+mystery|záhada|The case remains a mystery.|B1

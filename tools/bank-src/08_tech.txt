@@ -1,0 +1,41 @@
+#Technology & internet|Technologie a internet
+device|zařízení|You can use the app on any device.|B1
+download|stáhnout|Download the app for free.|B1
+upload|nahrát (na internet)|I uploaded the photos.|B1
+install|nainstalovat|I need to install an update.|B1
+update|aktualizace; aktualizovat|Update your software regularly.|B1
+log in|přihlásit se|Log in with your email.|B1
+password|heslo|Don't share your password.|A2
+account|účet|Create a free account.|B1
+settings|nastavení|Change the language in settings.|B1
+screen|obrazovka|My phone screen is broken.|A2
+charger|nabíječka|Have you got a phone charger?|B1
+battery|baterie|My battery is almost dead.|B1
+crash|spadnout (program)|My computer keeps crashing.|B1
+backup|záloha|Always make a backup of your files.|B2
+browser|prohlížeč|Which browser do you use?|B1
+search engine|vyhledávač|Google is the most popular search engine.|B1
+attachment|příloha|I've sent the file as an attachment.|B1
+wireless|bezdrátový|Wireless headphones are very practical.|B1
+artificial intelligence|umělá inteligence|Artificial intelligence is changing many jobs.|B2
+user-friendly|uživatelsky přívětivý|The website is very user-friendly.|B2
+cutting-edge|špičkový, nejmodernější|They use cutting-edge technology.|C1
+outdated|zastaralý|My laptop is completely outdated.|B2
+gadget|technická vychytávka|He loves new gadgets.|B1
+keyboard|klávesnice|I spilled coffee on my keyboard.|A2
+hack|hacknout|Someone hacked my email account.|B2
+privacy|soukromí|Social media can be a risk to your privacy.|B2
+data|data, údaje|The app collects personal data.|B1
+online|online, na internetu|I do most of my shopping online.|A2
+offline|offline, bez připojení|This app works offline.|B1
+stream|streamovat|We streamed the match on my laptop.|B2
+subscribe|předplatit si, odebírat|Subscribe to our newsletter.|B2
+notification|oznámení|Turn off notifications at night.|B2
+screen time|čas u obrazovky|Children need limits on screen time.|B2
+tech-savvy|technicky zdatný|My grandma is surprisingly tech-savvy.|C1
+troubleshoot|řešit (technický) problém|The IT team helped me troubleshoot the problem.|C1
+plug in|zapojit|Plug in the printer.|B1
+switch off|vypnout|Switch off your phone during the film.|B1
+restart|restartovat|Try restarting your computer.|B1
+virus|virus|My computer has got a virus.|B1
+cloud storage|cloudové úložiště|I keep my photos in cloud storage.|B2

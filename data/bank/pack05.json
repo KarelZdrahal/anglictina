@@ -1,0 +1,288 @@
+{
+"id": "pack05",
+"topic": "Food & cooking",
+"topic_cz": "Jídlo a vaření",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b05-recipe",
+"en": "recipe",
+"cz": "recept (na vaření)",
+"ex": "Can you send me the recipe?",
+"level": "B1"
+},
+{
+"id": "b05-ingredient",
+"en": "ingredient",
+"cz": "surovina, přísada",
+"ex": "You only need four ingredients.",
+"level": "B1"
+},
+{
+"id": "b05-boil",
+"en": "boil",
+"cz": "vařit (ve vodě)",
+"ex": "Boil the pasta for ten minutes.",
+"level": "B1"
+},
+{
+"id": "b05-fry",
+"en": "fry",
+"cz": "smažit",
+"ex": "Fry the onions in a little oil.",
+"level": "B1"
+},
+{
+"id": "b05-roast",
+"en": "roast",
+"cz": "péct (maso, zeleninu)",
+"ex": "We roasted a chicken for Sunday lunch.",
+"level": "B1"
+},
+{
+"id": "b05-bake",
+"en": "bake",
+"cz": "péct (pečivo)",
+"ex": "My grandma bakes amazing cakes.",
+"level": "B1"
+},
+{
+"id": "b05-grill",
+"en": "grill",
+"cz": "grilovat",
+"ex": "Let's grill some fish.",
+"level": "B1"
+},
+{
+"id": "b05-chop",
+"en": "chop",
+"cz": "nakrájet",
+"ex": "Chop the vegetables into small pieces.",
+"level": "B1"
+},
+{
+"id": "b05-peel",
+"en": "peel",
+"cz": "loupat",
+"ex": "Peel the potatoes first.",
+"level": "B1"
+},
+{
+"id": "b05-stir",
+"en": "stir",
+"cz": "míchat",
+"ex": "Stir the soup from time to time.",
+"level": "B1"
+},
+{
+"id": "b05-season",
+"en": "season",
+"cz": "ochutit, okořenit",
+"ex": "Season with salt and pepper.",
+"level": "B2"
+},
+{
+"id": "b05-spicy",
+"en": "spicy",
+"cz": "pálivý, kořeněný",
+"ex": "I love spicy food.",
+"level": "B1"
+},
+{
+"id": "b05-bland",
+"en": "bland",
+"cz": "bez chuti, mdlý",
+"ex": "The soup was a bit bland.",
+"level": "B2"
+},
+{
+"id": "b05-tasty",
+"en": "tasty",
+"cz": "chutný",
+"ex": "That was a really tasty meal.",
+"level": "B1"
+},
+{
+"id": "b05-raw",
+"en": "raw",
+"cz": "syrový",
+"ex": "Sushi contains raw fish.",
+"level": "B1"
+},
+{
+"id": "b05-rare",
+"en": "rare",
+"cz": "krvavý (steak)",
+"ex": "I like my steak rare.",
+"level": "B2"
+},
+{
+"id": "b05-leftovers",
+"en": "leftovers",
+"cz": "zbytky jídla",
+"ex": "We had leftovers for lunch.",
+"level": "B2"
+},
+{
+"id": "b05-portion",
+"en": "portion",
+"cz": "porce",
+"ex": "The portions were huge.",
+"level": "B1"
+},
+{
+"id": "b05-starter",
+"en": "starter",
+"cz": "předkrm",
+"ex": "Would you like a starter?",
+"level": "B1"
+},
+{
+"id": "b05-main-course",
+"en": "main course",
+"cz": "hlavní chod",
+"ex": "For the main course I'll have the fish.",
+"level": "B1"
+},
+{
+"id": "b05-dessert",
+"en": "dessert",
+"cz": "dezert",
+"ex": "Let's skip dessert.",
+"level": "A2"
+},
+{
+"id": "b05-vegetarian",
+"en": "vegetarian",
+"cz": "vegetarián(ský)",
+"ex": "Do you have any vegetarian dishes?",
+"level": "B1"
+},
+{
+"id": "b05-vegan",
+"en": "vegan",
+"cz": "vegan(ský)",
+"ex": "She's been vegan for two years.",
+"level": "B1"
+},
+{
+"id": "b05-dairy-products",
+"en": "dairy products",
+"cz": "mléčné výrobky",
+"ex": "I avoid dairy products.",
+"level": "B2"
+},
+{
+"id": "b05-gluten-free",
+"en": "gluten-free",
+"cz": "bezlepkový",
+"ex": "They have gluten-free bread.",
+"level": "B2"
+},
+{
+"id": "b05-homemade",
+"en": "homemade",
+"cz": "domácí (vyrobený doma)",
+"ex": "This jam is homemade.",
+"level": "B1"
+},
+{
+"id": "b05-takeaway",
+"en": "takeaway",
+"cz": "jídlo s sebou",
+"ex": "Let's get a takeaway tonight.",
+"level": "B1"
+},
+{
+"id": "b05-book-a-table",
+"en": "book a table",
+"cz": "zarezervovat stůl",
+"ex": "I've booked a table for eight.",
+"level": "B1"
+},
+{
+"id": "b05-tip",
+"en": "tip",
+"cz": "spropitné",
+"ex": "Is the tip included?",
+"level": "B1"
+},
+{
+"id": "b05-the-bill-please",
+"en": "the bill, please",
+"cz": "zaplatím, prosím",
+"ex": "Could we have the bill, please?",
+"level": "A2"
+},
+{
+"id": "b05-mouth-watering",
+"en": "mouth-watering",
+"cz": "lákavý, sbíhají se sliny",
+"ex": "The smell was mouth-watering.",
+"level": "C1"
+},
+{
+"id": "b05-overcooked",
+"en": "overcooked",
+"cz": "převařený, připálený",
+"ex": "The vegetables were overcooked.",
+"level": "B2"
+},
+{
+"id": "b05-frozen",
+"en": "frozen",
+"cz": "mražený",
+"ex": "I always keep frozen peas.",
+"level": "B1"
+},
+{
+"id": "b05-fresh",
+"en": "fresh",
+"cz": "čerstvý",
+"ex": "Buy fresh vegetables at the market.",
+"level": "A2"
+},
+{
+"id": "b05-snack",
+"en": "snack",
+"cz": "svačina, něco malého k jídlu",
+"ex": "I had a snack at eleven.",
+"level": "B1"
+},
+{
+"id": "b05-diet",
+"en": "diet",
+"cz": "strava; dieta",
+"ex": "She's on a diet.",
+"level": "B1"
+},
+{
+"id": "b05-nutritious",
+"en": "nutritious",
+"cz": "výživný",
+"ex": "Lentils are cheap and nutritious.",
+"level": "C1"
+},
+{
+"id": "b05-craving",
+"en": "craving",
+"cz": "chuť (na něco)",
+"ex": "I've got a craving for chocolate.",
+"level": "C1"
+},
+{
+"id": "b05-cuisine",
+"en": "cuisine",
+"cz": "kuchyně (styl vaření)",
+"ex": "I love Thai cuisine.",
+"level": "B2"
+},
+{
+"id": "b05-eat-out",
+"en": "eat out",
+"cz": "jíst venku (v restauraci)",
+"ex": "We eat out once a week.",
+"level": "B1"
+}
+]
+}

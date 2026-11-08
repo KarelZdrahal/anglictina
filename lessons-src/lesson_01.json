@@ -1,0 +1,861 @@
+{
+ "week": 1,
+ "id": "L01",
+ "date": "2026-11-09",
+ "level": "B1",
+ "title_en": "People & personalities",
+ "title_cz": "Lidé a povahy",
+ "grammar_focus": "Present simple vs present continuous; state verbs",
+ "goals": [
+  "popsat povahu člověka pomocí přesných přídavných jmen",
+  "jistě rozlišovat present simple a present continuous včetně stavových sloves",
+  "vést small talk s neznámým člověkem a ptát se na jeho práci, zájmy a aktuální projekty"
+ ],
+ "vocab_core": [
+  {
+   "en": "outgoing",
+   "ipa": "ˌaʊtˈɡəʊɪŋ",
+   "cz": "společenský, otevřený",
+   "ex": "She's very outgoing and makes friends easily."
+  },
+  {
+   "en": "shy",
+   "ipa": "ʃaɪ",
+   "cz": "stydlivý, plachý",
+   "ex": "He was too shy to speak to her."
+  },
+  {
+   "en": "reliable",
+   "ipa": "rɪˈlaɪəbl",
+   "cz": "spolehlivý",
+   "ex": "Tom is reliable – he never forgets a promise."
+  },
+  {
+   "en": "easy-going",
+   "ipa": "ˌiːziˈɡəʊɪŋ",
+   "cz": "pohodový, nekonfliktní",
+   "ex": "My dad is easy-going; nothing makes him angry."
+  },
+  {
+   "en": "hard-working",
+   "ipa": "ˌhɑːdˈwɜːkɪŋ",
+   "cz": "pracovitý",
+   "ex": "She's hard-working and often stays late."
+  },
+  {
+   "en": "lazy",
+   "ipa": "ˈleɪzi",
+   "cz": "líný",
+   "ex": "I feel lazy on Sunday mornings."
+  },
+  {
+   "en": "generous",
+   "ipa": "ˈdʒenərəs",
+   "cz": "štědrý",
+   "ex": "It was very generous of you to pay for dinner."
+  },
+  {
+   "en": "mean",
+   "ipa": "miːn",
+   "cz": "lakomý; zlý, nepříjemný",
+   "ex": "Don't be mean – share your chocolate!"
+  },
+  {
+   "en": "honest",
+   "ipa": "ˈɒnɪst",
+   "cz": "upřímný, poctivý",
+   "ex": "To be honest, I didn't like the film."
+  },
+  {
+   "en": "ambitious",
+   "ipa": "æmˈbɪʃəs",
+   "cz": "ctižádostivý, ambiciózní",
+   "ex": "He's ambitious and wants to run his own company."
+  },
+  {
+   "en": "patient",
+   "ipa": "ˈpeɪʃnt",
+   "cz": "trpělivý",
+   "ex": "You need to be patient with small children."
+  },
+  {
+   "en": "confident",
+   "ipa": "ˈkɒnfɪdənt",
+   "cz": "sebevědomý, sebejistý",
+   "ex": "She felt confident before the interview."
+  },
+  {
+   "en": "sensitive",
+   "ipa": "ˈsensətɪv",
+   "cz": "citlivý, vnímavý",
+   "ex": "He's sensitive to other people's feelings."
+  },
+  {
+   "en": "stubborn",
+   "ipa": "ˈstʌbən",
+   "cz": "tvrdohlavý",
+   "ex": "My grandma is too stubborn to ask for help."
+  },
+  {
+   "en": "bossy",
+   "ipa": "ˈbɒsi",
+   "cz": "panovačný",
+   "ex": "Stop being so bossy – I can decide myself!"
+  },
+  {
+   "en": "cheerful",
+   "ipa": "ˈtʃɪəfl",
+   "cz": "veselý, radostný",
+   "ex": "She's always cheerful, even on Mondays."
+  },
+  {
+   "en": "moody",
+   "ipa": "ˈmuːdi",
+   "cz": "náladový",
+   "ex": "Teenagers can be quite moody."
+  },
+  {
+   "en": "thoughtful",
+   "ipa": "ˈθɔːtfl",
+   "cz": "ohleduplný, pozorný",
+   "ex": "How thoughtful of you to bring flowers!"
+  },
+  {
+   "en": "selfish",
+   "ipa": "ˈselfɪʃ",
+   "cz": "sobecký",
+   "ex": "It's selfish to think only about yourself."
+  },
+  {
+   "en": "talkative",
+   "ipa": "ˈtɔːkətɪv",
+   "cz": "upovídaný",
+   "ex": "My neighbour is very talkative."
+  },
+  {
+   "en": "sociable",
+   "ipa": "ˈsəʊʃəbl",
+   "cz": "družný, rád ve společnosti",
+   "ex": "I'm not very sociable – I prefer small groups."
+  },
+  {
+   "en": "organised",
+   "ipa": "ˈɔːɡənaɪzd",
+   "cz": "pořádný, organizovaný",
+   "ex": "She's very organised and plans everything."
+  },
+  {
+   "en": "calm",
+   "ipa": "kɑːm",
+   "cz": "klidný",
+   "ex": "Stay calm – everything will be fine."
+  },
+  {
+   "en": "curious",
+   "ipa": "ˈkjʊəriəs",
+   "cz": "zvědavý",
+   "ex": "Children are naturally curious."
+  },
+  {
+   "en": "loyal",
+   "ipa": "ˈlɔɪəl",
+   "cz": "věrný, loajální",
+   "ex": "A loyal friend stays with you in difficult times."
+  }
+ ],
+ "vocab_ext": [
+  {
+   "en": "down-to-earth",
+   "ipa": "ˌdaʊn tu ˈɜːθ",
+   "cz": "stojící nohama na zemi, bezprostřední",
+   "ex": "Despite being famous, she's very down-to-earth."
+  },
+  {
+   "en": "open-minded",
+   "ipa": "ˌəʊpən ˈmaɪndɪd",
+   "cz": "otevřený novým názorům",
+   "ex": "Be open-minded and try something new."
+  },
+  {
+   "en": "narrow-minded",
+   "ipa": "ˌnærəʊ ˈmaɪndɪd",
+   "cz": "omezený, úzkoprsý",
+   "ex": "It's narrow-minded to judge people by their clothes."
+  },
+  {
+   "en": "absent-minded",
+   "ipa": "ˌæbsənt ˈmaɪndɪd",
+   "cz": "roztržitý",
+   "ex": "He's so absent-minded – he lost his glasses again."
+  },
+  {
+   "en": "quick-tempered",
+   "ipa": "ˌkwɪk ˈtempəd",
+   "cz": "prchlivý, vznětlivý",
+   "ex": "Our boss is quick-tempered, so be careful."
+  },
+  {
+   "en": "laid-back",
+   "ipa": "ˌleɪd ˈbæk",
+   "cz": "uvolněný, v pohodě",
+   "ex": "The atmosphere in the office is very laid-back."
+  },
+  {
+   "en": "big-headed",
+   "ipa": "ˌbɪɡ ˈhedɪd",
+   "cz": "namyšlený",
+   "ex": "Winning the prize made him a bit big-headed."
+  },
+  {
+   "en": "two-faced",
+   "ipa": "ˌtuː ˈfeɪst",
+   "cz": "falešný, pokrytecký",
+   "ex": "I don't trust her – she's two-faced."
+  },
+  {
+   "en": "a people person",
+   "ipa": "ə ˈpiːpl ˌpɜːsn",
+   "cz": "člověk, který má rád lidi a umí s nimi",
+   "ex": "I'm a people person, so I love working in sales."
+  },
+  {
+   "en": "a good listener",
+   "ipa": "ə ˌɡʊd ˈlɪsənə",
+   "cz": "dobrý posluchač",
+   "ex": "My sister is a good listener."
+  },
+  {
+   "en": "get on well with sb",
+   "ipa": "ɡet ɒn ˈwel wɪð",
+   "cz": "dobře s někým vycházet",
+   "ex": "I get on well with my colleagues."
+  },
+  {
+   "en": "take after sb",
+   "ipa": "ˈteɪk ˈɑːftə",
+   "cz": "být po někom, podobat se",
+   "ex": "I take after my mother – we're both stubborn."
+  }
+ ],
+ "parts": [
+  {
+   "n": 1,
+   "title": "Topic & vocabulary",
+   "title_cz": "Téma a slovní zásoba",
+   "minutes": 10,
+   "blocks": [
+    {
+     "type": "discussion",
+     "pair": true,
+     "label": "1A Warm-up",
+     "instr": "Discuss the questions with your partner.",
+     "items": [
+      "How would your best friend describe you in three words?",
+      "Which personality traits do you value most in a colleague? And in a friend?",
+      "Do you take after your mother or your father? In what way?",
+      "Are you more of an introvert or an extrovert? Does it depend on the situation?",
+      "Which quality would you like to have more of? Why?"
+     ]
+    },
+    {
+     "type": "vocab_table",
+     "which": "core",
+     "label": "1B Core vocabulary",
+     "instr": "Read the words. Tick (✓) the ones that describe you and put a cross (✗) next to the ones that definitely don't."
+    },
+    {
+     "type": "vocab_table",
+     "which": "ext",
+     "label": "1C Extension",
+     "instr": "These compound adjectives and phrases make your descriptions more natural."
+    },
+    {
+     "type": "match",
+     "label": "1D Match",
+     "instr": "Match the people (1–8) with the adjectives (a–h).",
+     "left": [
+      "She always does what she promises.",
+      "He never gives money to anyone.",
+      "She tells everyone what to do.",
+      "He changes his mind about nothing – ever.",
+      "She's happy and smiling most of the time.",
+      "He talks a lot, even to strangers on the bus.",
+      "She always remembers your birthday and asks how you are.",
+      "He forgets where he put his phone every day."
+     ],
+     "right": [
+      "absent-minded",
+      "bossy",
+      "cheerful",
+      "mean",
+      "reliable",
+      "stubborn",
+      "talkative",
+      "thoughtful"
+     ],
+     "answers": [
+      "1e",
+      "2d",
+      "3b",
+      "4f",
+      "5c",
+      "6g",
+      "7h",
+      "8a"
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "1E Describe someone",
+     "instr": "Think of a person you know well (a family member, a friend, a colleague). Describe them to your partner using at least three adjectives from 1B–1C. Give an example for each one: <i>My brother is very generous – last year he paid for our holiday.</i> Your partner asks two follow-up questions."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Review & practice",
+   "title_cz": "Opakování a procvičení",
+   "minutes": 20,
+   "blocks": [
+    {
+     "type": "grammar_box",
+     "label": "Grammar review: present simple vs present continuous",
+     "html": "<table class='g'><tr><th>Present simple</th><th>Present continuous</th></tr><tr><td><b>zvyky, opakované děje</b><br><i>I usually <b>get up</b> at six.</i></td><td><b>děj probíhající právě teď</b><br><i>Shh, the baby <b>is sleeping</b>.</i></td></tr><tr><td><b>fakta, obecné pravdy</b><br><i>Water <b>boils</b> at 100 °C.</i></td><td><b>dočasná situace „v těchto dnech“</b><br><i>I<b>'m working</b> from home this week.</i></td></tr><tr><td><b>trvalé stavy</b><br><i>She <b>lives</b> in Brno.</i></td><td><b>měnící se a vyvíjející se situace</b><br><i>Prices <b>are going</b> up.</i></td></tr><tr><td><b>signální slova:</b> always, usually, often, every day, never</td><td><b>signální slova:</b> now, at the moment, today, this week, currently, Look! Listen!</td></tr></table><p><b>Stavová slovesa</b> (state verbs) se v průběhovém čase obvykle <b>nepoužívají</b>: <i>know, understand, believe, think (= mít názor), like, love, hate, prefer, want, need, mean, seem, belong, own, remember</i>.<br>✗ <i>I'm knowing him.</i> → ✓ <i>I <b>know</b> him.</i></p><p><b>Slovesa se dvěma významy:</b> <i>I <b>think</b> it's a good idea</i> (názor) × <i>I<b>'m thinking</b> about my holiday</i> (přemýšlím); <i>She <b>has</b> two cats</i> (vlastní) × <i>She<b>'s having</b> lunch</i> (jí); <i>He <b>is</b> rude</i> (povaha) × <i>He<b>'s being</b> rude</i> (právě teď se tak chová).</p><p><b>always + průběhový čas</b> = něco nás opakovaně rozčiluje: <i>He<b>'s always leaving</b> his socks on the floor!</i></p>"
+    },
+    {
+     "type": "choose",
+     "label": "2A Choose",
+     "instr": "Choose the correct form.",
+     "items": [
+      {
+       "q": "I (work / 'm working) from home this week because they're repairing our office.",
+       "a": "'m working"
+      },
+      {
+       "q": "My brother (doesn't like / isn't liking) big parties.",
+       "a": "doesn't like"
+      },
+      {
+       "q": "Look! It (snows / 's snowing)!",
+       "a": "'s snowing"
+      },
+      {
+       "q": "Water (boils / is boiling) at 100 °C.",
+       "a": "boils"
+      },
+      {
+       "q": "What (do you think / are you thinking) about the new manager?",
+       "a": "do you think"
+      },
+      {
+       "q": "Please be quiet, I (think / 'm thinking)!",
+       "a": "'m thinking"
+      },
+      {
+       "q": "She (has / is having) two older sisters.",
+       "a": "has"
+      },
+      {
+       "q": "We (have / are having) dinner at the moment – can I call you back?",
+       "a": "are having"
+      },
+      {
+       "q": "This soup (tastes / is tasting) delicious.",
+       "a": "tastes"
+      },
+      {
+       "q": "He's usually very polite, but today he (is / is being) really rude.",
+       "a": "is being"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "2B Complete",
+     "instr": "Complete the sentences with the correct form of the verbs in brackets.",
+     "items": [
+      {
+       "q": "Petra ______ (live) in Brno, but this month she ______ (stay) with her parents in Prague.",
+       "a": "lives / is staying"
+      },
+      {
+       "q": "______ you ______ (understand) what I mean?",
+       "a": "Do you understand"
+      },
+      {
+       "q": "I ______ (not believe) him. He always ______ (exaggerate).",
+       "a": "don't believe / exaggerates"
+      },
+      {
+       "q": "Why ______ you ______ (smile)? What's so funny?",
+       "a": "are you smiling"
+      },
+      {
+       "q": "More and more people ______ (work) from home these days.",
+       "a": "are working"
+      },
+      {
+       "q": "This car ______ (belong) to my uncle.",
+       "a": "belongs"
+      },
+      {
+       "q": "My sister ______ (always borrow) my clothes without asking! It's so annoying.",
+       "a": "is always borrowing"
+      },
+      {
+       "q": "How often ______ your parents ______ (visit) you?",
+       "a": "do … visit"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "label": "2C Reading",
+     "instr": "Read the blog post and decide if the sentences are true (T) or false (F).",
+     "title": "Living with Jake",
+     "paras": [
+      "When I moved into my new flat in September, I was a bit nervous. I didn't know anything about my flatmate, Jake, except that he works as a nurse. Two months later, I can honestly say he's one of the most easy-going people I know.",
+      "Jake works long shifts at the hospital, so our routines are very different. He usually gets up at five and leaves before I wake up. On his days off, he loves cooking, and he always makes enough for both of us. He's incredibly generous – last week he even bought me a plant for my room because he thought it looked empty.",
+      "That doesn't mean he's perfect. He's quite absent-minded and often forgets his keys, so I sometimes have to open the door for him at midnight. He's also a bit stubborn about music: he believes that jazz is the only real music, and nothing I say changes his mind.",
+      "At the moment, Jake is studying for an important exam because he wants to become a specialist nurse. He's spending most evenings in his room with his books, so the flat is much quieter than usual. I'm trying to be thoughtful and I'm keeping the TV down.",
+      "Is he the perfect flatmate? Probably not. But he's honest and reliable, and he makes me laugh – and that's more than enough for me."
+     ],
+     "tf": [
+      {
+       "q": "The writer knew Jake well before moving in.",
+       "a": "F"
+      },
+      {
+       "q": "Jake usually gets up earlier than the writer.",
+       "a": "T"
+      },
+      {
+       "q": "Jake only cooks for himself.",
+       "a": "F"
+      },
+      {
+       "q": "Jake sometimes needs help to get into the flat.",
+       "a": "T"
+      },
+      {
+       "q": "Jake is open-minded about different kinds of music.",
+       "a": "F"
+      },
+      {
+       "q": "These days the flat is noisier than usual.",
+       "a": "F"
+      }
+     ],
+     "open": [
+      {
+       "q": "Find three examples of the present continuous in the text. Why is it used there?",
+       "a": "is studying, is spending, 'm trying, 'm keeping – dočasná situace v současném období (at the moment, these days)."
+      },
+      {
+       "q": "Which four adjectives from 1B–1C describe Jake? Would you like him as a flatmate?",
+       "a": "easy-going, generous, absent-minded, stubborn, honest, reliable – vlastní odpověď."
+      }
+     ]
+    },
+    {
+     "type": "listening",
+     "label": "2D Listening",
+     "instr": "Listen to Anna and Tom at a party (track L01). Answer the questions. If you don't have the audio, one of you reads the transcript from the key.",
+     "items": [
+      {
+       "q": "How does Tom know Kate?",
+       "options": [
+        "They went to university together.",
+        "They work in the same company.",
+        "They are neighbours."
+       ],
+       "a": "b"
+      },
+      {
+       "q": "How long have Anna and Kate known each other?",
+       "options": [
+        "a few months",
+        "since primary school",
+        "for years"
+       ],
+       "a": "c"
+      },
+      {
+       "q": "What is Anna's job?",
+       "a": "She's an English teacher (at a secondary school)."
+      },
+      {
+       "q": "Why isn't she working as a teacher this year?",
+       "a": "She's doing a course in educational psychology."
+      },
+      {
+       "q": "What does she do in the afternoons?",
+       "a": "She works part-time in a bookshop."
+      },
+      {
+       "q": "How does Anna relax?",
+       "a": "She goes swimming every Saturday morning."
+      },
+      {
+       "q": "When and where is Tom's concert?",
+       "a": "Next Friday at the Blue Lion."
+      }
+     ]
+    },
+    {
+     "type": "transform",
+     "label": "2E Vocabulary: opposites",
+     "instr": "Make the opposites using un-, in-, im-, ir- or dis-. Then complete the sentences below with four of the new words.",
+     "items": [
+      {
+       "q": "reliable",
+       "a": "unreliable"
+      },
+      {
+       "q": "patient",
+       "a": "impatient"
+      },
+      {
+       "q": "honest",
+       "a": "dishonest"
+      },
+      {
+       "q": "organised",
+       "a": "disorganised"
+      },
+      {
+       "q": "mature",
+       "a": "immature"
+      },
+      {
+       "q": "friendly",
+       "a": "unfriendly"
+      },
+      {
+       "q": "polite",
+       "a": "impolite"
+      },
+      {
+       "q": "responsible",
+       "a": "irresponsible"
+      },
+      {
+       "q": "loyal",
+       "a": "disloyal"
+      },
+      {
+       "q": "sensitive",
+       "a": "insensitive"
+      }
+     ],
+     "sentences": [
+      {
+       "q": "He's 35 but he still behaves like a teenager. He's so ______.",
+       "a": "immature"
+      },
+      {
+       "q": "Don't ask Mark to help you move – he's ______ and probably won't come.",
+       "a": "unreliable"
+      },
+      {
+       "q": "She never knows where her documents are. She's very ______.",
+       "a": "disorganised"
+      },
+      {
+       "q": "Leaving a small child alone at home is ______.",
+       "a": "irresponsible"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Development",
+   "title_cz": "Upevnění a rozvoj",
+   "minutes": 20,
+   "blocks": [
+    {
+     "type": "error",
+     "label": "3A Find the mistake",
+     "instr": "Each sentence has one mistake. Correct it.",
+     "items": [
+      {
+       "q": "I'm not knowing the answer to this question.",
+       "a": "I don't know the answer to this question."
+      },
+      {
+       "q": "She is wanting a new phone for her birthday.",
+       "a": "She wants a new phone for her birthday."
+      },
+      {
+       "q": "How often are you going to the gym?",
+       "a": "How often do you go to the gym?"
+      },
+      {
+       "q": "My uncle work in a bank in Ostrava.",
+       "a": "My uncle works in a bank in Ostrava."
+      },
+      {
+       "q": "Listen! Somebody sings in the garden.",
+       "a": "Listen! Somebody is singing in the garden."
+      },
+      {
+       "q": "My parents are owning a small cottage by a lake.",
+       "a": "My parents own a small cottage by a lake."
+      },
+      {
+       "q": "I am usually drinking coffee in the morning.",
+       "a": "I usually drink coffee in the morning."
+      },
+      {
+       "q": "This bag is belonging to my sister.",
+       "a": "This bag belongs to my sister."
+      }
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "3B Two truths and a lie",
+     "instr": "Write three sentences about yourself: one about your routine (present simple), one about something you're doing these days (present continuous) and one with a state verb (<i>like, prefer, believe, own…</i>). One of them is a lie! Read them to your partner. Your partner asks up to five questions and then guesses the lie."
+    },
+    {
+     "type": "roleplay",
+     "pair": true,
+     "label": "3C Role-play: small talk at a party",
+     "instr": "You are at a friend's birthday party and you don't know each other. Use your role card. Introduce yourselves and find at least <b>two things in common</b> and <b>two differences</b>. Use the phrases in the box.",
+     "cards": [
+      {
+       "who": "Student A",
+       "text": "You're an IT specialist and you work for a bank. You live in a flat with your cat, Mia. At the moment you're learning to cook Thai food – it's going badly! You go running three times a week. You're quite shy at first but very talkative once you know people. You know the host from a running club."
+      },
+      {
+       "who": "Student B",
+       "text": "You're an architect. You love old buildings, and these days you're renovating an old farmhouse in the country. You go hiking almost every weekend. You hate cooking and usually eat out. You're outgoing and curious. You know the host because you were at school together."
+      }
+     ],
+     "phrases": [
+      "Hi, I don't think we've met. I'm …",
+      "How do you know (Kate)?",
+      "So, what do you do?",
+      "What are you working on at the moment?",
+      "What do you do in your free time?",
+      "Really? That sounds interesting!",
+      "Me too! / Me neither. / Oh, I'm the opposite.",
+      "How are you finding it?",
+      "It was nice talking to you."
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "3D Report back",
+     "instr": "Tell your partner what you found out about their character in 3C, using adjectives from 1B–1C: <i>You seem quite outgoing and curious, and you're obviously hard-working because…</i> Does your partner agree?"
+    },
+    {
+     "type": "writing",
+     "label": "3E Writing (homework)",
+     "instr": "Write a short profile (100–120 words) of a person who is important to you. Describe their personality, their typical routine and what they're doing in their life at the moment. Use at least five adjectives from this lesson and both present tenses."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Words to remember",
+   "title_cz": "Slovíčka k zapamatování",
+   "minutes": 5,
+   "blocks": [
+    {
+     "type": "memory",
+     "label": "4A Memorise",
+     "instr": "Learn the words below (the app will help you practise them every day). In pairs: one of you covers the English column, the other reads the Czech meaning. Swap after 10 words."
+    },
+    {
+     "type": "memory_list",
+     "which": "core+ext"
+    }
+   ]
+  }
+ ],
+ "listening": {
+  "id": "L01",
+  "title": "At a party",
+  "lines": [
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Hi, I don't think we've met. I'm Tom."
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "Hi Tom, I'm Anna. Nice to meet you. So, how do you know Kate?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "We work for the same company. I'm in marketing and she's in sales. What about you?"
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "We went to university together. We've known each other for years."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Oh, nice. And what do you do, Anna?"
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "I'm a teacher. I teach English at a secondary school. But I'm not teaching this year. I'm doing a course in educational psychology, so I'm a student again."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Wow. How are you finding it?"
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "It's hard work, but I love it. I usually study in the library in the mornings, and in the afternoons I work part-time in a bookshop."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "That sounds busy. Do you have any free time at all?"
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "Not much! But I go swimming every Saturday morning. It helps me relax. What about you? What do you do when you're not working?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "I play the guitar in a band. We're not very good, but we're having a lot of fun. Actually, we're playing a small concert next Friday at the Blue Lion."
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "Really? What kind of music do you play?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Mostly rock. Some old classics, too. You should come! Kate's coming as well."
+   },
+   {
+    "sp": "Anna",
+    "voice": "female",
+    "text": "Maybe I will. I really need a break from my books!"
+   }
+  ]
+ },
+ "next_links": "Lekce 2 (Work & daily routines) naváže: zvyky (usually, tend to, will pro zvyk), kolokace make/do; zopakovat stavová slovesa a always + průběhový čas; small talk rozšířit o mluvení o práci.",
+ "extra_practice": [
+  {
+   "type": "choose",
+   "q": "I (don't understand / 'm not understanding) this word.",
+   "a": "don't understand"
+  },
+  {
+   "type": "choose",
+   "q": "Hurry up! Everybody (waits / is waiting) for you.",
+   "a": "is waiting"
+  },
+  {
+   "type": "choose",
+   "q": "My grandparents (live / are living) in a small village near Olomouc.",
+   "a": "live"
+  },
+  {
+   "type": "choose",
+   "q": "The climate (changes / is changing) faster than scientists expected.",
+   "a": "is changing"
+  },
+  {
+   "type": "choose",
+   "q": "(Do you remember / Are you remembering) her name?",
+   "a": "Do you remember"
+  },
+  {
+   "type": "choose",
+   "q": "I (see / 'm seeing) the dentist this afternoon.",
+   "a": "'m seeing"
+  },
+  {
+   "type": "choose",
+   "q": "What (does this word mean / is this word meaning)?",
+   "a": "does this word mean"
+  },
+  {
+   "type": "choose",
+   "q": "She (always complains / 's always complaining) about her job – it drives me crazy!",
+   "a": "'s always complaining"
+  },
+  {
+   "type": "choose",
+   "q": "I (prefer / 'm preferring) tea to coffee.",
+   "a": "prefer"
+  },
+  {
+   "type": "choose",
+   "q": "Why (do you wear / are you wearing) a coat? It's warm today.",
+   "a": "are you wearing"
+  },
+  {
+   "type": "gap",
+   "q": "My cousin ______ (study) medicine this year, but she ______ (not enjoy) it much.",
+   "a": "is studying / isn't enjoying"
+  },
+  {
+   "type": "gap",
+   "q": "______ he usually ______ (drive) to work?",
+   "a": "Does … drive"
+  },
+  {
+   "type": "gap",
+   "q": "I ______ (need) a break. I ______ (work) on this report all day today.",
+   "a": "need / 'm working"
+  },
+  {
+   "type": "gap",
+   "q": "Our team ______ (get) better every week.",
+   "a": "is getting"
+  },
+  {
+   "type": "gap",
+   "q": "Who ______ this umbrella ______ (belong) to?",
+   "a": "does … belong"
+  },
+  {
+   "type": "order",
+   "q": "often / she / late / for / is / meetings",
+   "a": "She is often late for meetings."
+  },
+  {
+   "type": "order",
+   "q": "moment / at / are / what / reading / the / you",
+   "a": "What are you reading at the moment?"
+  },
+  {
+   "type": "order",
+   "q": "never / my / gets / boss / angry",
+   "a": "My boss never gets angry."
+  },
+  {
+   "type": "order",
+   "q": "take / do / after / you / father / your",
+   "a": "Do you take after your father?"
+  },
+  {
+   "type": "order",
+   "q": "well / gets / colleagues / on / her / with / she",
+   "a": "She gets on well with her colleagues."
+  }
+ ]
+}

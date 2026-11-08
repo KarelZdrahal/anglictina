@@ -1,0 +1,288 @@
+{
+"id": "pack15",
+"topic": "Shopping & consumerism",
+"topic_cz": "Nakupování a spotřeba",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b15-shopping-centre",
+"en": "shopping centre",
+"cz": "nákupní centrum",
+"ex": "Let's meet at the shopping centre.",
+"level": "B1"
+},
+{
+"id": "b15-department-store",
+"en": "department store",
+"cz": "obchodní dům",
+"ex": "Harrods is a famous department store.",
+"level": "B1"
+},
+{
+"id": "b15-checkout",
+"en": "checkout",
+"cz": "pokladna",
+"ex": "There was a long queue at the checkout.",
+"level": "B1"
+},
+{
+"id": "b15-queue",
+"en": "queue",
+"cz": "fronta; stát ve frontě",
+"ex": "I hate queuing.",
+"level": "B1"
+},
+{
+"id": "b15-try-on",
+"en": "try on",
+"cz": "zkusit si (oblečení)",
+"ex": "Can I try this on?",
+"level": "A2"
+},
+{
+"id": "b15-fitting-room",
+"en": "fitting room",
+"cz": "zkušební kabinka",
+"ex": "Where are the fitting rooms?",
+"level": "B1"
+},
+{
+"id": "b15-size",
+"en": "size",
+"cz": "velikost",
+"ex": "Have you got this in a smaller size?",
+"level": "A2"
+},
+{
+"id": "b15-fit",
+"en": "fit",
+"cz": "padnout (velikostí)",
+"ex": "These jeans don't fit me.",
+"level": "B1"
+},
+{
+"id": "b15-suit",
+"en": "suit",
+"cz": "slušet",
+"ex": "That colour really suits you.",
+"level": "B1"
+},
+{
+"id": "b15-match",
+"en": "match",
+"cz": "ladit (k sobě)",
+"ex": "The shoes don't match the bag.",
+"level": "B1"
+},
+{
+"id": "b15-on-sale",
+"en": "on sale",
+"cz": "ve slevě",
+"ex": "These boots are on sale.",
+"level": "B1"
+},
+{
+"id": "b15-sales",
+"en": "sales",
+"cz": "výprodej",
+"ex": "I bought it in the January sales.",
+"level": "B1"
+},
+{
+"id": "b15-return",
+"en": "return",
+"cz": "vrátit (zboží)",
+"ex": "I'd like to return this shirt.",
+"level": "B1"
+},
+{
+"id": "b15-exchange",
+"en": "exchange",
+"cz": "vyměnit",
+"ex": "Can I exchange it for a bigger size?",
+"level": "B1"
+},
+{
+"id": "b15-faulty",
+"en": "faulty",
+"cz": "vadný",
+"ex": "The phone was faulty.",
+"level": "B2"
+},
+{
+"id": "b15-complain",
+"en": "complain",
+"cz": "stěžovat si",
+"ex": "I complained to the manager.",
+"level": "B1"
+},
+{
+"id": "b15-complaint",
+"en": "complaint",
+"cz": "stížnost",
+"ex": "I'd like to make a complaint.",
+"level": "B1"
+},
+{
+"id": "b15-guarantee",
+"en": "guarantee",
+"cz": "záruka",
+"ex": "It has a two-year guarantee.",
+"level": "B2"
+},
+{
+"id": "b15-brand",
+"en": "brand",
+"cz": "značka",
+"ex": "What's your favourite brand?",
+"level": "B1"
+},
+{
+"id": "b15-second-hand",
+"en": "second-hand",
+"cz": "z druhé ruky",
+"ex": "I buy second-hand clothes.",
+"level": "B1"
+},
+{
+"id": "b15-online-shopping",
+"en": "online shopping",
+"cz": "nakupování online",
+"ex": "Online shopping is so convenient.",
+"level": "B1"
+},
+{
+"id": "b15-delivery",
+"en": "delivery",
+"cz": "doručení",
+"ex": "Delivery is free over 50 euros.",
+"level": "B1"
+},
+{
+"id": "b15-order",
+"en": "order",
+"cz": "objednat; objednávka",
+"ex": "I ordered a new laptop.",
+"level": "B1"
+},
+{
+"id": "b15-in-stock",
+"en": "in stock",
+"cz": "skladem",
+"ex": "Is this item in stock?",
+"level": "B2"
+},
+{
+"id": "b15-out-of-stock",
+"en": "out of stock",
+"cz": "vyprodáno",
+"ex": "Sorry, it's out of stock.",
+"level": "B2"
+},
+{
+"id": "b15-shop-around",
+"en": "shop around",
+"cz": "porovnávat ceny",
+"ex": "It's worth shopping around.",
+"level": "B2"
+},
+{
+"id": "b15-window-shopping",
+"en": "window shopping",
+"cz": "prohlížení výloh",
+"ex": "We just went window shopping.",
+"level": "B2"
+},
+{
+"id": "b15-impulse-buy",
+"en": "impulse buy",
+"cz": "nákup pod vlivem impulsu",
+"ex": "The sunglasses were an impulse buy.",
+"level": "C1"
+},
+{
+"id": "b15-consumer",
+"en": "consumer",
+"cz": "spotřebitel",
+"ex": "Consumers want cheaper products.",
+"level": "B2"
+},
+{
+"id": "b15-customer",
+"en": "customer",
+"cz": "zákazník",
+"ex": "The customer is always right.",
+"level": "B1"
+},
+{
+"id": "b15-shop-assistant",
+"en": "shop assistant",
+"cz": "prodavač",
+"ex": "The shop assistant was very helpful.",
+"level": "B1"
+},
+{
+"id": "b15-loyalty-card",
+"en": "loyalty card",
+"cz": "věrnostní karta",
+"ex": "Do you have a loyalty card?",
+"level": "B2"
+},
+{
+"id": "b15-receipt",
+"en": "receipt",
+"cz": "účtenka",
+"ex": "Can I have the receipt, please?",
+"level": "B1"
+},
+{
+"id": "b15-afford",
+"en": "afford",
+"cz": "dovolit si",
+"ex": "I can't afford designer clothes.",
+"level": "B1"
+},
+{
+"id": "b15-browse",
+"en": "browse",
+"cz": "prohlížet si (zboží)",
+"ex": "I'm just browsing, thanks.",
+"level": "B2"
+},
+{
+"id": "b15-pay-by-card",
+"en": "pay by card",
+"cz": "platit kartou",
+"ex": "Can I pay by card?",
+"level": "A2"
+},
+{
+"id": "b15-trolley",
+"en": "trolley",
+"cz": "nákupní vozík",
+"ex": "I'll get a trolley.",
+"level": "B1"
+},
+{
+"id": "b15-basket",
+"en": "basket",
+"cz": "košík",
+"ex": "I only need a basket.",
+"level": "A2"
+},
+{
+"id": "b15-good-value-for-money",
+"en": "good value for money",
+"cz": "za dobrou cenu",
+"ex": "This restaurant is good value for money.",
+"level": "B2"
+},
+{
+"id": "b15-rip-off",
+"en": "rip-off",
+"cz": "zlodějina (předražené)",
+"ex": "Ten euros for a coffee? What a rip-off!",
+"level": "C1"
+}
+]
+}

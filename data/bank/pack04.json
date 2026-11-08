@@ -1,0 +1,288 @@
+{
+"id": "pack04",
+"topic": "Health & body",
+"topic_cz": "Zdraví a tělo",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b04-symptom",
+"en": "symptom",
+"cz": "příznak",
+"ex": "What are your symptoms?",
+"level": "B1"
+},
+{
+"id": "b04-headache",
+"en": "headache",
+"cz": "bolest hlavy",
+"ex": "I've got a terrible headache.",
+"level": "A2"
+},
+{
+"id": "b04-sore-throat",
+"en": "sore throat",
+"cz": "bolest v krku",
+"ex": "I've got a sore throat and a cough.",
+"level": "B1"
+},
+{
+"id": "b04-temperature",
+"en": "temperature",
+"cz": "teplota, horečka",
+"ex": "She has a high temperature.",
+"level": "B1"
+},
+{
+"id": "b04-flu",
+"en": "flu",
+"cz": "chřipka",
+"ex": "Half the office is off with flu.",
+"level": "B1"
+},
+{
+"id": "b04-injury",
+"en": "injury",
+"cz": "zranění",
+"ex": "He had a knee injury.",
+"level": "B1"
+},
+{
+"id": "b04-injure",
+"en": "injure",
+"cz": "zranit",
+"ex": "She injured her back playing tennis.",
+"level": "B1"
+},
+{
+"id": "b04-sprain",
+"en": "sprain",
+"cz": "vymknout, podvrtnout",
+"ex": "I sprained my ankle on the stairs.",
+"level": "B2"
+},
+{
+"id": "b04-bruise",
+"en": "bruise",
+"cz": "modřina",
+"ex": "I've got a big bruise on my leg.",
+"level": "B2"
+},
+{
+"id": "b04-prescription",
+"en": "prescription",
+"cz": "recept (od lékaře)",
+"ex": "You need a prescription for these pills.",
+"level": "B1"
+},
+{
+"id": "b04-painkiller",
+"en": "painkiller",
+"cz": "lék proti bolesti",
+"ex": "Take a painkiller and rest.",
+"level": "B1"
+},
+{
+"id": "b04-recover",
+"en": "recover",
+"cz": "uzdravit se, zotavit se",
+"ex": "It took him a month to recover.",
+"level": "B1"
+},
+{
+"id": "b04-get-over",
+"en": "get over",
+"cz": "překonat (nemoc)",
+"ex": "I'm still getting over a cold.",
+"level": "B2"
+},
+{
+"id": "b04-allergic-to",
+"en": "allergic to",
+"cz": "alergický na",
+"ex": "I'm allergic to cats.",
+"level": "B1"
+},
+{
+"id": "b04-appointment",
+"en": "appointment",
+"cz": "objednání (k lékaři)",
+"ex": "I've got a doctor's appointment at ten.",
+"level": "B1"
+},
+{
+"id": "b04-check-up",
+"en": "check-up",
+"cz": "preventivní prohlídka",
+"ex": "I go for a check-up once a year.",
+"level": "B2"
+},
+{
+"id": "b04-healthy-diet",
+"en": "healthy diet",
+"cz": "zdravá strava",
+"ex": "A healthy diet is full of vegetables.",
+"level": "B1"
+},
+{
+"id": "b04-work-out",
+"en": "work out",
+"cz": "cvičit (v posilovně)",
+"ex": "I work out three times a week.",
+"level": "B1"
+},
+{
+"id": "b04-keep-fit",
+"en": "keep fit",
+"cz": "udržovat se v kondici",
+"ex": "Swimming is a great way to keep fit.",
+"level": "B1"
+},
+{
+"id": "b04-put-on-weight",
+"en": "put on weight",
+"cz": "přibrat",
+"ex": "I put on weight over Christmas.",
+"level": "B1"
+},
+{
+"id": "b04-lose-weight",
+"en": "lose weight",
+"cz": "zhubnout",
+"ex": "He lost ten kilos.",
+"level": "B1"
+},
+{
+"id": "b04-stressed",
+"en": "stressed",
+"cz": "ve stresu",
+"ex": "I feel stressed before exams.",
+"level": "B1"
+},
+{
+"id": "b04-exhausted",
+"en": "exhausted",
+"cz": "vyčerpaný",
+"ex": "I was exhausted after the run.",
+"level": "B1"
+},
+{
+"id": "b04-dizzy",
+"en": "dizzy",
+"cz": "mít závrať",
+"ex": "I feel dizzy when I stand up.",
+"level": "B2"
+},
+{
+"id": "b04-sick-leave",
+"en": "sick leave",
+"cz": "nemocenská",
+"ex": "She's on sick leave this week.",
+"level": "B2"
+},
+{
+"id": "b04-surgery",
+"en": "surgery",
+"cz": "operace; ordinace (BrE)",
+"ex": "He had knee surgery last year.",
+"level": "B2"
+},
+{
+"id": "b04-treatment",
+"en": "treatment",
+"cz": "léčba",
+"ex": "The treatment was successful.",
+"level": "B1"
+},
+{
+"id": "b04-pharmacy",
+"en": "pharmacy",
+"cz": "lékárna",
+"ex": "Is there a pharmacy near here?",
+"level": "B1"
+},
+{
+"id": "b04-cough",
+"en": "cough",
+"cz": "kašel; kašlat",
+"ex": "That cough sounds bad.",
+"level": "B1"
+},
+{
+"id": "b04-sneeze",
+"en": "sneeze",
+"cz": "kýchat",
+"ex": "I can't stop sneezing.",
+"level": "B1"
+},
+{
+"id": "b04-heart-attack",
+"en": "heart attack",
+"cz": "infarkt",
+"ex": "He had a heart attack at 50.",
+"level": "B1"
+},
+{
+"id": "b04-blood-pressure",
+"en": "blood pressure",
+"cz": "krevní tlak",
+"ex": "The nurse checked my blood pressure.",
+"level": "B1"
+},
+{
+"id": "b04-side-effect",
+"en": "side effect",
+"cz": "vedlejší účinek",
+"ex": "Are there any side effects?",
+"level": "B2"
+},
+{
+"id": "b04-in-good-shape",
+"en": "in good shape",
+"cz": "v dobré kondici",
+"ex": "She's in good shape for her age.",
+"level": "B1"
+},
+{
+"id": "b04-mental-health",
+"en": "mental health",
+"cz": "duševní zdraví",
+"ex": "Sport is good for your mental health.",
+"level": "B2"
+},
+{
+"id": "b04-sleep-deprivation",
+"en": "sleep deprivation",
+"cz": "nedostatek spánku",
+"ex": "Sleep deprivation affects concentration.",
+"level": "C1"
+},
+{
+"id": "b04-wellbeing",
+"en": "wellbeing",
+"cz": "pohoda, blaho",
+"ex": "Companies care more about employee wellbeing.",
+"level": "B2"
+},
+{
+"id": "b04-cut-down-on",
+"en": "cut down on",
+"cz": "omezit (něco)",
+"ex": "I'm trying to cut down on sugar.",
+"level": "B2"
+},
+{
+"id": "b04-give-up",
+"en": "give up",
+"cz": "přestat (s něčím), vzdát",
+"ex": "He gave up smoking last year.",
+"level": "B1"
+},
+{
+"id": "b04-feel-under-the-weather",
+"en": "feel under the weather",
+"cz": "necítit se dobře",
+"ex": "I'm feeling a bit under the weather.",
+"level": "B2"
+}
+]
+}

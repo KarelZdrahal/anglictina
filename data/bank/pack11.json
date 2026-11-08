@@ -1,0 +1,288 @@
+{
+"id": "pack11",
+"topic": "Education & learning",
+"topic_cz": "Vzdělávání a učení",
+"level": "A2/B1/B2/C1",
+"words": [
+{
+"id": "b11-degree",
+"en": "degree",
+"cz": "vysokoškolský titul",
+"ex": "She has a degree in law.",
+"level": "B1"
+},
+{
+"id": "b11-graduate",
+"en": "graduate",
+"cz": "absolvovat; absolvent",
+"ex": "He graduated from Charles University.",
+"level": "B1"
+},
+{
+"id": "b11-subject",
+"en": "subject",
+"cz": "předmět",
+"ex": "Maths was my favourite subject.",
+"level": "A2"
+},
+{
+"id": "b11-term",
+"en": "term",
+"cz": "pololetí, trimestr",
+"ex": "The summer term starts in April.",
+"level": "B1"
+},
+{
+"id": "b11-timetable",
+"en": "timetable",
+"cz": "rozvrh",
+"ex": "Check the timetable for your lessons.",
+"level": "B1"
+},
+{
+"id": "b11-homework",
+"en": "homework",
+"cz": "domácí úkol",
+"ex": "Have you done your homework?",
+"level": "A2"
+},
+{
+"id": "b11-revise",
+"en": "revise",
+"cz": "opakovat si (na zkoušku)",
+"ex": "I'm revising for my exams.",
+"level": "B1"
+},
+{
+"id": "b11-pass-an-exam",
+"en": "pass an exam",
+"cz": "udělat zkoušku",
+"ex": "Did you pass the exam?",
+"level": "B1"
+},
+{
+"id": "b11-fail-an-exam",
+"en": "fail an exam",
+"cz": "neudělat zkoušku",
+"ex": "I failed my driving test.",
+"level": "B1"
+},
+{
+"id": "b11-take-an-exam",
+"en": "take an exam",
+"cz": "dělat (skládat) zkoušku",
+"ex": "I'm taking the exam in June.",
+"level": "B1"
+},
+{
+"id": "b11-mark",
+"en": "mark",
+"cz": "známka; opravit",
+"ex": "I got a good mark in English.",
+"level": "B1"
+},
+{
+"id": "b11-cheat",
+"en": "cheat",
+"cz": "podvádět",
+"ex": "He was caught cheating.",
+"level": "B1"
+},
+{
+"id": "b11-scholarship",
+"en": "scholarship",
+"cz": "stipendium",
+"ex": "She won a scholarship to Oxford.",
+"level": "B2"
+},
+{
+"id": "b11-tuition-fees",
+"en": "tuition fees",
+"cz": "školné",
+"ex": "Tuition fees are very high in the UK.",
+"level": "B2"
+},
+{
+"id": "b11-lecture",
+"en": "lecture",
+"cz": "přednáška",
+"ex": "The lecture starts at nine.",
+"level": "B1"
+},
+{
+"id": "b11-lecturer",
+"en": "lecturer",
+"cz": "přednášející",
+"ex": "Our lecturer is very funny.",
+"level": "B2"
+},
+{
+"id": "b11-course",
+"en": "course",
+"cz": "kurz",
+"ex": "I'm doing an online course.",
+"level": "B1"
+},
+{
+"id": "b11-assignment",
+"en": "assignment",
+"cz": "zadání, úkol",
+"ex": "The assignment is due on Monday.",
+"level": "B2"
+},
+{
+"id": "b11-essay",
+"en": "essay",
+"cz": "esej, slohová práce",
+"ex": "Write an essay of 250 words.",
+"level": "B1"
+},
+{
+"id": "b11-knowledge",
+"en": "knowledge",
+"cz": "znalosti",
+"ex": "Her knowledge of history is impressive.",
+"level": "B1"
+},
+{
+"id": "b11-learn-by-heart",
+"en": "learn by heart",
+"cz": "naučit se nazpaměť",
+"ex": "We had to learn the poem by heart.",
+"level": "B1"
+},
+{
+"id": "b11-memorise",
+"en": "memorise",
+"cz": "zapamatovat si",
+"ex": "I can't memorise all these words.",
+"level": "B2"
+},
+{
+"id": "b11-improve",
+"en": "improve",
+"cz": "zlepšit (se)",
+"ex": "My English has improved a lot.",
+"level": "B1"
+},
+{
+"id": "b11-make-progress",
+"en": "make progress",
+"cz": "dělat pokroky",
+"ex": "You're making great progress.",
+"level": "B1"
+},
+{
+"id": "b11-fluent",
+"en": "fluent",
+"cz": "plynulý",
+"ex": "She's fluent in three languages.",
+"level": "B1"
+},
+{
+"id": "b11-mistake",
+"en": "mistake",
+"cz": "chyba",
+"ex": "Don't be afraid of making mistakes.",
+"level": "A2"
+},
+{
+"id": "b11-take-notes",
+"en": "take notes",
+"cz": "dělat si poznámky",
+"ex": "Take notes during the lecture.",
+"level": "B1"
+},
+{
+"id": "b11-pay-attention",
+"en": "pay attention",
+"cz": "dávat pozor",
+"ex": "Please pay attention!",
+"level": "B1"
+},
+{
+"id": "b11-primary-school",
+"en": "primary school",
+"cz": "základní škola (1. stupeň)",
+"ex": "My son is at primary school.",
+"level": "A2"
+},
+{
+"id": "b11-secondary-school",
+"en": "secondary school",
+"cz": "střední škola, 2. stupeň",
+"ex": "She teaches at a secondary school.",
+"level": "B1"
+},
+{
+"id": "b11-state-school",
+"en": "state school",
+"cz": "státní škola",
+"ex": "I went to a state school.",
+"level": "B2"
+},
+{
+"id": "b11-private-school",
+"en": "private school",
+"cz": "soukromá škola",
+"ex": "Private schools are expensive.",
+"level": "B1"
+},
+{
+"id": "b11-lifelong-learning",
+"en": "lifelong learning",
+"cz": "celoživotní vzdělávání",
+"ex": "Lifelong learning keeps your brain active.",
+"level": "C1"
+},
+{
+"id": "b11-skip-a-class",
+"en": "skip a class",
+"cz": "vynechat hodinu",
+"ex": "He often skips classes.",
+"level": "B2"
+},
+{
+"id": "b11-drop-out",
+"en": "drop out",
+"cz": "nedokončit (školu)",
+"ex": "She dropped out of university.",
+"level": "B2"
+},
+{
+"id": "b11-gap-year",
+"en": "gap year",
+"cz": "rok volna před studiem",
+"ex": "I took a gap year and travelled.",
+"level": "B2"
+},
+{
+"id": "b11-self-study",
+"en": "self-study",
+"cz": "samostudium",
+"ex": "Self-study requires discipline.",
+"level": "B2"
+},
+{
+"id": "b11-concentrate",
+"en": "concentrate",
+"cz": "soustředit se",
+"ex": "I can't concentrate with this noise.",
+"level": "B1"
+},
+{
+"id": "b11-curriculum",
+"en": "curriculum",
+"cz": "osnovy, učební plán",
+"ex": "Coding is now part of the curriculum.",
+"level": "C1"
+},
+{
+"id": "b11-well-educated",
+"en": "well-educated",
+"cz": "vzdělaný",
+"ex": "Her parents are well-educated.",
+"level": "B2"
+}
+]
+}

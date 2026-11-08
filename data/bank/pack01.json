@@ -1,0 +1,288 @@
+{
+"id": "pack01",
+"topic": "Work & career",
+"topic_cz": "Práce a kariéra",
+"level": "B1/B2",
+"words": [
+{
+"id": "b01-apply-for-a-job",
+"en": "apply for a job",
+"cz": "ucházet se o místo",
+"ex": "She applied for a job at a bank.",
+"level": "B1"
+},
+{
+"id": "b01-colleague",
+"en": "colleague",
+"cz": "kolega, kolegyně",
+"ex": "My colleagues are very helpful.",
+"level": "B1"
+},
+{
+"id": "b01-deadline",
+"en": "deadline",
+"cz": "termín, uzávěrka",
+"ex": "We have to meet the deadline on Friday.",
+"level": "B1"
+},
+{
+"id": "b01-salary",
+"en": "salary",
+"cz": "plat",
+"ex": "He earns a good salary.",
+"level": "B1"
+},
+{
+"id": "b01-promotion",
+"en": "promotion",
+"cz": "povýšení",
+"ex": "She got a promotion last month.",
+"level": "B1"
+},
+{
+"id": "b01-resign",
+"en": "resign",
+"cz": "dát výpověď, odstoupit",
+"ex": "He resigned because he was unhappy.",
+"level": "B1"
+},
+{
+"id": "b01-be-fired",
+"en": "be fired",
+"cz": "dostat padáka, být propuštěn",
+"ex": "He was fired for being late every day.",
+"level": "B1"
+},
+{
+"id": "b01-part-time",
+"en": "part-time",
+"cz": "na částečný úvazek",
+"ex": "I work part-time in a café.",
+"level": "B1"
+},
+{
+"id": "b01-full-time",
+"en": "full-time",
+"cz": "na plný úvazek",
+"ex": "She has a full-time job in Prague.",
+"level": "B1"
+},
+{
+"id": "b01-employer",
+"en": "employer",
+"cz": "zaměstnavatel",
+"ex": "My employer pays for my English lessons.",
+"level": "B1"
+},
+{
+"id": "b01-employee",
+"en": "employee",
+"cz": "zaměstnanec",
+"ex": "The company has 200 employees.",
+"level": "B1"
+},
+{
+"id": "b01-experience",
+"en": "experience",
+"cz": "zkušenost, praxe",
+"ex": "Do you have any experience in sales?",
+"level": "B1"
+},
+{
+"id": "b01-skill",
+"en": "skill",
+"cz": "dovednost",
+"ex": "Communication is an important skill.",
+"level": "B1"
+},
+{
+"id": "b01-qualification",
+"en": "qualification",
+"cz": "kvalifikace",
+"ex": "What qualifications do you need for this job?",
+"level": "B1"
+},
+{
+"id": "b01-interview",
+"en": "interview",
+"cz": "pohovor",
+"ex": "I have a job interview tomorrow.",
+"level": "B1"
+},
+{
+"id": "b01-cv",
+"en": "CV",
+"cz": "životopis",
+"ex": "Send us your CV and a cover letter.",
+"level": "B1"
+},
+{
+"id": "b01-workload",
+"en": "workload",
+"cz": "pracovní vytížení",
+"ex": "My workload has doubled this year.",
+"level": "B2"
+},
+{
+"id": "b01-overtime",
+"en": "overtime",
+"cz": "přesčas",
+"ex": "I worked ten hours of overtime last week.",
+"level": "B1"
+},
+{
+"id": "b01-commute",
+"en": "commute",
+"cz": "dojíždět (do práce)",
+"ex": "I commute to work by train.",
+"level": "B1"
+},
+{
+"id": "b01-work-from-home",
+"en": "work from home",
+"cz": "pracovat z domova",
+"ex": "I work from home on Fridays.",
+"level": "B1"
+},
+{
+"id": "b01-meeting",
+"en": "meeting",
+"cz": "porada, schůzka",
+"ex": "The meeting has been postponed.",
+"level": "B1"
+},
+{
+"id": "b01-run-a-business",
+"en": "run a business",
+"cz": "vést firmu",
+"ex": "My uncle runs a small business.",
+"level": "B1"
+},
+{
+"id": "b01-be-in-charge-of",
+"en": "be in charge of",
+"cz": "mít na starosti",
+"ex": "Who is in charge of marketing?",
+"level": "B2"
+},
+{
+"id": "b01-responsibility",
+"en": "responsibility",
+"cz": "odpovědnost",
+"ex": "It's your responsibility to check the data.",
+"level": "B1"
+},
+{
+"id": "b01-career-ladder",
+"en": "career ladder",
+"cz": "kariérní žebříček",
+"ex": "She climbed the career ladder quickly.",
+"level": "B2"
+},
+{
+"id": "b01-job-satisfaction",
+"en": "job satisfaction",
+"cz": "spokojenost v práci",
+"ex": "Job satisfaction is more important than money.",
+"level": "B2"
+},
+{
+"id": "b01-retire",
+"en": "retire",
+"cz": "odejít do důchodu",
+"ex": "My father retired at 65.",
+"level": "B1"
+},
+{
+"id": "b01-unemployed",
+"en": "unemployed",
+"cz": "nezaměstnaný",
+"ex": "He has been unemployed for six months.",
+"level": "B1"
+},
+{
+"id": "b01-contract",
+"en": "contract",
+"cz": "smlouva",
+"ex": "I signed a one-year contract.",
+"level": "B1"
+},
+{
+"id": "b01-negotiate",
+"en": "negotiate",
+"cz": "vyjednávat",
+"ex": "We need to negotiate a better price.",
+"level": "B2"
+},
+{
+"id": "b01-staff",
+"en": "staff",
+"cz": "zaměstnanci, personál",
+"ex": "The staff are very friendly.",
+"level": "B1"
+},
+{
+"id": "b01-team-leader",
+"en": "team leader",
+"cz": "vedoucí týmu",
+"ex": "Our team leader organises everything.",
+"level": "B1"
+},
+{
+"id": "b01-shift",
+"en": "shift",
+"cz": "směna",
+"ex": "Nurses often work night shifts.",
+"level": "B1"
+},
+{
+"id": "b01-raise-n",
+"en": "raise (n.)",
+"cz": "zvýšení platu",
+"ex": "I asked my boss for a raise.",
+"level": "B2"
+},
+{
+"id": "b01-perk",
+"en": "perk",
+"cz": "výhoda, benefit",
+"ex": "Free lunch is one of the perks of the job.",
+"level": "B2"
+},
+{
+"id": "b01-self-employed",
+"en": "self-employed",
+"cz": "OSVČ, pracující na sebe",
+"ex": "She's self-employed and works from home.",
+"level": "B2"
+},
+{
+"id": "b01-make-a-living",
+"en": "make a living",
+"cz": "vydělávat si na živobytí",
+"ex": "It's hard to make a living as an artist.",
+"level": "B2"
+},
+{
+"id": "b01-take-time-off",
+"en": "take time off",
+"cz": "vzít si volno",
+"ex": "I'm taking some time off next week.",
+"level": "B1"
+},
+{
+"id": "b01-burnout",
+"en": "burnout",
+"cz": "vyhoření",
+"ex": "Too much stress can lead to burnout.",
+"level": "B2"
+},
+{
+"id": "b01-work-life-balance",
+"en": "work-life balance",
+"cz": "rovnováha mezi prací a osobním životem",
+"ex": "A four-day week improves work-life balance.",
+"level": "B2"
+}
+]
+}

@@ -1,0 +1,695 @@
+{
+ "id": "L01",
+ "week": 1,
+ "date": "2026-11-09",
+ "level": "B1",
+ "title_en": "People & personalities",
+ "title_cz": "Lidé a povahy",
+ "grammar_focus": "Present simple vs present continuous; state verbs",
+ "grammar_html": "<p>• <b>zvyky, opakované děje</b><br><i>I usually <b>get up</b> at six.</i><br><b>děj probíhající právě teď</b><br><i>Shh, the baby <b>is sleeping</b>.</i></p><p>• <b>fakta, obecné pravdy</b><br><i>Water <b>boils</b> at 100 °C.</i><br><b>dočasná situace „v těchto dnech“</b><br><i>I<b>'m working</b> from home this week.</i></p><p>• <b>trvalé stavy</b><br><i>She <b>lives</b> in Brno.</i><br><b>měnící se a vyvíjející se situace</b><br><i>Prices <b>are going</b> up.</i></p><p>• <b>signální slova:</b> always, usually, often, every day, never<br><b>signální slova:</b> now, at the moment, today, this week, currently, Look! Listen!</p><p><b>Stavová slovesa</b> (state verbs) se v průběhovém čase obvykle <b>nepoužívají</b>: <i>know, understand, believe, think (= mít názor), like, love, hate, prefer, want, need, mean, seem, belong, own, remember</i>.<br>✗ <i>I'm knowing him.</i> → ✓ <i>I <b>know</b> him.</i></p><p><b>Slovesa se dvěma významy:</b> <i>I <b>think</b> it's a good idea</i> (názor) × <i>I<b>'m thinking</b> about my holiday</i> (přemýšlím); <i>She <b>has</b> two cats</i> (vlastní) × <i>She<b>'s having</b> lunch</i> (jí); <i>He <b>is</b> rude</i> (povaha) × <i>He<b>'s being</b> rude</i> (právě teď se tak chová).</p><p><b>always + průběhový čas</b> = něco nás opakovaně rozčiluje: <i>He<b>'s always leaving</b> his socks on the floor!</i></p>",
+ "audio": "lessons/L01.mp3",
+ "pdf": "lessons/L01.pdf",
+ "vocab": [
+  {
+   "id": "L01-outgoing",
+   "en": "outgoing",
+   "cz": "společenský, otevřený",
+   "ipa": "ˌaʊtˈɡəʊɪŋ",
+   "ex": "She's very outgoing and makes friends easily."
+  },
+  {
+   "id": "L01-shy",
+   "en": "shy",
+   "cz": "stydlivý, plachý",
+   "ipa": "ʃaɪ",
+   "ex": "He was too shy to speak to her."
+  },
+  {
+   "id": "L01-reliable",
+   "en": "reliable",
+   "cz": "spolehlivý",
+   "ipa": "rɪˈlaɪəbl",
+   "ex": "Tom is reliable – he never forgets a promise."
+  },
+  {
+   "id": "L01-easy-going",
+   "en": "easy-going",
+   "cz": "pohodový, nekonfliktní",
+   "ipa": "ˌiːziˈɡəʊɪŋ",
+   "ex": "My dad is easy-going; nothing makes him angry."
+  },
+  {
+   "id": "L01-hard-working",
+   "en": "hard-working",
+   "cz": "pracovitý",
+   "ipa": "ˌhɑːdˈwɜːkɪŋ",
+   "ex": "She's hard-working and often stays late."
+  },
+  {
+   "id": "L01-lazy",
+   "en": "lazy",
+   "cz": "líný",
+   "ipa": "ˈleɪzi",
+   "ex": "I feel lazy on Sunday mornings."
+  },
+  {
+   "id": "L01-generous",
+   "en": "generous",
+   "cz": "štědrý",
+   "ipa": "ˈdʒenərəs",
+   "ex": "It was very generous of you to pay for dinner."
+  },
+  {
+   "id": "L01-mean",
+   "en": "mean",
+   "cz": "lakomý; zlý, nepříjemný",
+   "ipa": "miːn",
+   "ex": "Don't be mean – share your chocolate!"
+  },
+  {
+   "id": "L01-honest",
+   "en": "honest",
+   "cz": "upřímný, poctivý",
+   "ipa": "ˈɒnɪst",
+   "ex": "To be honest, I didn't like the film."
+  },
+  {
+   "id": "L01-ambitious",
+   "en": "ambitious",
+   "cz": "ctižádostivý, ambiciózní",
+   "ipa": "æmˈbɪʃəs",
+   "ex": "He's ambitious and wants to run his own company."
+  },
+  {
+   "id": "L01-patient",
+   "en": "patient",
+   "cz": "trpělivý",
+   "ipa": "ˈpeɪʃnt",
+   "ex": "You need to be patient with small children."
+  },
+  {
+   "id": "L01-confident",
+   "en": "confident",
+   "cz": "sebevědomý, sebejistý",
+   "ipa": "ˈkɒnfɪdənt",
+   "ex": "She felt confident before the interview."
+  },
+  {
+   "id": "L01-sensitive",
+   "en": "sensitive",
+   "cz": "citlivý, vnímavý",
+   "ipa": "ˈsensətɪv",
+   "ex": "He's sensitive to other people's feelings."
+  },
+  {
+   "id": "L01-stubborn",
+   "en": "stubborn",
+   "cz": "tvrdohlavý",
+   "ipa": "ˈstʌbən",
+   "ex": "My grandma is too stubborn to ask for help."
+  },
+  {
+   "id": "L01-bossy",
+   "en": "bossy",
+   "cz": "panovačný",
+   "ipa": "ˈbɒsi",
+   "ex": "Stop being so bossy – I can decide myself!"
+  },
+  {
+   "id": "L01-cheerful",
+   "en": "cheerful",
+   "cz": "veselý, radostný",
+   "ipa": "ˈtʃɪəfl",
+   "ex": "She's always cheerful, even on Mondays."
+  },
+  {
+   "id": "L01-moody",
+   "en": "moody",
+   "cz": "náladový",
+   "ipa": "ˈmuːdi",
+   "ex": "Teenagers can be quite moody."
+  },
+  {
+   "id": "L01-thoughtful",
+   "en": "thoughtful",
+   "cz": "ohleduplný, pozorný",
+   "ipa": "ˈθɔːtfl",
+   "ex": "How thoughtful of you to bring flowers!"
+  },
+  {
+   "id": "L01-selfish",
+   "en": "selfish",
+   "cz": "sobecký",
+   "ipa": "ˈselfɪʃ",
+   "ex": "It's selfish to think only about yourself."
+  },
+  {
+   "id": "L01-talkative",
+   "en": "talkative",
+   "cz": "upovídaný",
+   "ipa": "ˈtɔːkətɪv",
+   "ex": "My neighbour is very talkative."
+  },
+  {
+   "id": "L01-sociable",
+   "en": "sociable",
+   "cz": "družný, rád ve společnosti",
+   "ipa": "ˈsəʊʃəbl",
+   "ex": "I'm not very sociable – I prefer small groups."
+  },
+  {
+   "id": "L01-organised",
+   "en": "organised",
+   "cz": "pořádný, organizovaný",
+   "ipa": "ˈɔːɡənaɪzd",
+   "ex": "She's very organised and plans everything."
+  },
+  {
+   "id": "L01-calm",
+   "en": "calm",
+   "cz": "klidný",
+   "ipa": "kɑːm",
+   "ex": "Stay calm – everything will be fine."
+  },
+  {
+   "id": "L01-curious",
+   "en": "curious",
+   "cz": "zvědavý",
+   "ipa": "ˈkjʊəriəs",
+   "ex": "Children are naturally curious."
+  },
+  {
+   "id": "L01-loyal",
+   "en": "loyal",
+   "cz": "věrný, loajální",
+   "ipa": "ˈlɔɪəl",
+   "ex": "A loyal friend stays with you in difficult times."
+  },
+  {
+   "id": "L01-down-to-earth",
+   "en": "down-to-earth",
+   "cz": "stojící nohama na zemi, bezprostřední",
+   "ipa": "ˌdaʊn tu ˈɜːθ",
+   "ex": "Despite being famous, she's very down-to-earth.",
+   "ext": true
+  },
+  {
+   "id": "L01-open-minded",
+   "en": "open-minded",
+   "cz": "otevřený novým názorům",
+   "ipa": "ˌəʊpən ˈmaɪndɪd",
+   "ex": "Be open-minded and try something new.",
+   "ext": true
+  },
+  {
+   "id": "L01-narrow-minded",
+   "en": "narrow-minded",
+   "cz": "omezený, úzkoprsý",
+   "ipa": "ˌnærəʊ ˈmaɪndɪd",
+   "ex": "It's narrow-minded to judge people by their clothes.",
+   "ext": true
+  },
+  {
+   "id": "L01-absent-minded",
+   "en": "absent-minded",
+   "cz": "roztržitý",
+   "ipa": "ˌæbsənt ˈmaɪndɪd",
+   "ex": "He's so absent-minded – he lost his glasses again.",
+   "ext": true
+  },
+  {
+   "id": "L01-quick-tempered",
+   "en": "quick-tempered",
+   "cz": "prchlivý, vznětlivý",
+   "ipa": "ˌkwɪk ˈtempəd",
+   "ex": "Our boss is quick-tempered, so be careful.",
+   "ext": true
+  },
+  {
+   "id": "L01-laid-back",
+   "en": "laid-back",
+   "cz": "uvolněný, v pohodě",
+   "ipa": "ˌleɪd ˈbæk",
+   "ex": "The atmosphere in the office is very laid-back.",
+   "ext": true
+  },
+  {
+   "id": "L01-big-headed",
+   "en": "big-headed",
+   "cz": "namyšlený",
+   "ipa": "ˌbɪɡ ˈhedɪd",
+   "ex": "Winning the prize made him a bit big-headed.",
+   "ext": true
+  },
+  {
+   "id": "L01-two-faced",
+   "en": "two-faced",
+   "cz": "falešný, pokrytecký",
+   "ipa": "ˌtuː ˈfeɪst",
+   "ex": "I don't trust her – she's two-faced.",
+   "ext": true
+  },
+  {
+   "id": "L01-a-people-person",
+   "en": "a people person",
+   "cz": "člověk, který má rád lidi a umí s nimi",
+   "ipa": "ə ˈpiːpl ˌpɜːsn",
+   "ex": "I'm a people person, so I love working in sales.",
+   "ext": true
+  },
+  {
+   "id": "L01-a-good-listener",
+   "en": "a good listener",
+   "cz": "dobrý posluchač",
+   "ipa": "ə ˌɡʊd ˈlɪsənə",
+   "ex": "My sister is a good listener.",
+   "ext": true
+  },
+  {
+   "id": "L01-get-on-well-with-sb",
+   "en": "get on well with sb",
+   "cz": "dobře s někým vycházet",
+   "ipa": "ɡet ɒn ˈwel wɪð",
+   "ex": "I get on well with my colleagues.",
+   "ext": true
+  },
+  {
+   "id": "L01-take-after-sb",
+   "en": "take after sb",
+   "cz": "být po někom, podobat se",
+   "ipa": "ˈteɪk ˈɑːftə",
+   "ex": "I take after my mother – we're both stubborn.",
+   "ext": true
+  }
+ ],
+ "exercises": [
+  {
+   "id": "L01-e001",
+   "type": "choose",
+   "q": "She always does what she promises. → (bossy / reliable / stubborn / thoughtful)",
+   "a": "reliable"
+  },
+  {
+   "id": "L01-e002",
+   "type": "choose",
+   "q": "He never gives money to anyone. → (absent-minded / mean / reliable / talkative)",
+   "a": "mean"
+  },
+  {
+   "id": "L01-e003",
+   "type": "choose",
+   "q": "She tells everyone what to do. → (bossy / cheerful / reliable / talkative)",
+   "a": "bossy"
+  },
+  {
+   "id": "L01-e004",
+   "type": "choose",
+   "q": "He changes his mind about nothing – ever. → (absent-minded / cheerful / stubborn / talkative)",
+   "a": "stubborn"
+  },
+  {
+   "id": "L01-e005",
+   "type": "choose",
+   "q": "She's happy and smiling most of the time. → (cheerful / mean / stubborn / thoughtful)",
+   "a": "cheerful"
+  },
+  {
+   "id": "L01-e006",
+   "type": "choose",
+   "q": "He talks a lot, even to strangers on the bus. → (bossy / mean / talkative / thoughtful)",
+   "a": "talkative"
+  },
+  {
+   "id": "L01-e007",
+   "type": "choose",
+   "q": "She always remembers your birthday and asks how you are. → (absent-minded / cheerful / reliable / thoughtful)",
+   "a": "thoughtful"
+  },
+  {
+   "id": "L01-e008",
+   "type": "choose",
+   "q": "He forgets where he put his phone every day. → (absent-minded / bossy / mean / stubborn)",
+   "a": "absent-minded"
+  },
+  {
+   "id": "L01-e009",
+   "type": "choose",
+   "q": "I (work / 'm working) from home this week because they're repairing our office.",
+   "a": "'m working"
+  },
+  {
+   "id": "L01-e010",
+   "type": "choose",
+   "q": "My brother (doesn't like / isn't liking) big parties.",
+   "a": "doesn't like"
+  },
+  {
+   "id": "L01-e011",
+   "type": "choose",
+   "q": "Look! It (snows / 's snowing)!",
+   "a": "'s snowing"
+  },
+  {
+   "id": "L01-e012",
+   "type": "choose",
+   "q": "Water (boils / is boiling) at 100 °C.",
+   "a": "boils"
+  },
+  {
+   "id": "L01-e013",
+   "type": "choose",
+   "q": "What (do you think / are you thinking) about the new manager?",
+   "a": "do you think"
+  },
+  {
+   "id": "L01-e014",
+   "type": "choose",
+   "q": "Please be quiet, I (think / 'm thinking)!",
+   "a": "'m thinking"
+  },
+  {
+   "id": "L01-e015",
+   "type": "choose",
+   "q": "She (has / is having) two older sisters.",
+   "a": "has"
+  },
+  {
+   "id": "L01-e016",
+   "type": "choose",
+   "q": "We (have / are having) dinner at the moment – can I call you back?",
+   "a": "are having"
+  },
+  {
+   "id": "L01-e017",
+   "type": "choose",
+   "q": "This soup (tastes / is tasting) delicious.",
+   "a": "tastes"
+  },
+  {
+   "id": "L01-e018",
+   "type": "choose",
+   "q": "He's usually very polite, but today he (is / is being) really rude.",
+   "a": "is being"
+  },
+  {
+   "id": "L01-e019",
+   "type": "gap",
+   "q": "Petra ______ (live) in Brno, but this month she ______ (stay) with her parents in Prague.",
+   "a": "lives / is staying"
+  },
+  {
+   "id": "L01-e020",
+   "type": "gap",
+   "q": "______ you ______ (understand) what I mean?",
+   "a": "Do you understand"
+  },
+  {
+   "id": "L01-e021",
+   "type": "gap",
+   "q": "I ______ (not believe) him. He always ______ (exaggerate).",
+   "a": "don't believe / exaggerates"
+  },
+  {
+   "id": "L01-e022",
+   "type": "gap",
+   "q": "Why ______ you ______ (smile)? What's so funny?",
+   "a": "are you smiling"
+  },
+  {
+   "id": "L01-e023",
+   "type": "gap",
+   "q": "More and more people ______ (work) from home these days.",
+   "a": "are working"
+  },
+  {
+   "id": "L01-e024",
+   "type": "gap",
+   "q": "This car ______ (belong) to my uncle.",
+   "a": "belongs"
+  },
+  {
+   "id": "L01-e025",
+   "type": "gap",
+   "q": "My sister ______ (always borrow) my clothes without asking! It's so annoying.",
+   "a": "is always borrowing"
+  },
+  {
+   "id": "L01-e026",
+   "type": "gap",
+   "q": "How often ______ your parents ______ (visit) you?",
+   "a": "do … visit"
+  },
+  {
+   "id": "L01-e027",
+   "type": "transform",
+   "q": "reliable",
+   "a": "unreliable"
+  },
+  {
+   "id": "L01-e028",
+   "type": "transform",
+   "q": "patient",
+   "a": "impatient"
+  },
+  {
+   "id": "L01-e029",
+   "type": "transform",
+   "q": "honest",
+   "a": "dishonest"
+  },
+  {
+   "id": "L01-e030",
+   "type": "transform",
+   "q": "organised",
+   "a": "disorganised"
+  },
+  {
+   "id": "L01-e031",
+   "type": "transform",
+   "q": "mature",
+   "a": "immature"
+  },
+  {
+   "id": "L01-e032",
+   "type": "transform",
+   "q": "friendly",
+   "a": "unfriendly"
+  },
+  {
+   "id": "L01-e033",
+   "type": "transform",
+   "q": "polite",
+   "a": "impolite"
+  },
+  {
+   "id": "L01-e034",
+   "type": "transform",
+   "q": "responsible",
+   "a": "irresponsible"
+  },
+  {
+   "id": "L01-e035",
+   "type": "transform",
+   "q": "loyal",
+   "a": "disloyal"
+  },
+  {
+   "id": "L01-e036",
+   "type": "transform",
+   "q": "sensitive",
+   "a": "insensitive"
+  },
+  {
+   "id": "L01-e037",
+   "type": "gap",
+   "q": "He's 35 but he still behaves like a teenager. He's so ______.",
+   "a": "immature"
+  },
+  {
+   "id": "L01-e038",
+   "type": "gap",
+   "q": "Don't ask Mark to help you move – he's ______ and probably won't come.",
+   "a": "unreliable"
+  },
+  {
+   "id": "L01-e039",
+   "type": "gap",
+   "q": "She never knows where her documents are. She's very ______.",
+   "a": "disorganised"
+  },
+  {
+   "id": "L01-e040",
+   "type": "gap",
+   "q": "Leaving a small child alone at home is ______.",
+   "a": "irresponsible"
+  },
+  {
+   "id": "L01-e041",
+   "type": "error",
+   "q": "I'm not knowing the answer to this question.",
+   "a": "I don't know the answer to this question."
+  },
+  {
+   "id": "L01-e042",
+   "type": "error",
+   "q": "She is wanting a new phone for her birthday.",
+   "a": "She wants a new phone for her birthday."
+  },
+  {
+   "id": "L01-e043",
+   "type": "error",
+   "q": "How often are you going to the gym?",
+   "a": "How often do you go to the gym?"
+  },
+  {
+   "id": "L01-e044",
+   "type": "error",
+   "q": "My uncle work in a bank in Ostrava.",
+   "a": "My uncle works in a bank in Ostrava."
+  },
+  {
+   "id": "L01-e045",
+   "type": "error",
+   "q": "Listen! Somebody sings in the garden.",
+   "a": "Listen! Somebody is singing in the garden."
+  },
+  {
+   "id": "L01-e046",
+   "type": "error",
+   "q": "My parents are owning a small cottage by a lake.",
+   "a": "My parents own a small cottage by a lake."
+  },
+  {
+   "id": "L01-e047",
+   "type": "error",
+   "q": "I am usually drinking coffee in the morning.",
+   "a": "I usually drink coffee in the morning."
+  },
+  {
+   "id": "L01-e048",
+   "type": "error",
+   "q": "This bag is belonging to my sister.",
+   "a": "This bag belongs to my sister."
+  },
+  {
+   "id": "L01-e049",
+   "type": "choose",
+   "q": "I (don't understand / 'm not understanding) this word.",
+   "a": "don't understand"
+  },
+  {
+   "id": "L01-e050",
+   "type": "choose",
+   "q": "Hurry up! Everybody (waits / is waiting) for you.",
+   "a": "is waiting"
+  },
+  {
+   "id": "L01-e051",
+   "type": "choose",
+   "q": "My grandparents (live / are living) in a small village near Olomouc.",
+   "a": "live"
+  },
+  {
+   "id": "L01-e052",
+   "type": "choose",
+   "q": "The climate (changes / is changing) faster than scientists expected.",
+   "a": "is changing"
+  },
+  {
+   "id": "L01-e053",
+   "type": "choose",
+   "q": "(Do you remember / Are you remembering) her name?",
+   "a": "Do you remember"
+  },
+  {
+   "id": "L01-e054",
+   "type": "choose",
+   "q": "I (see / 'm seeing) the dentist this afternoon.",
+   "a": "'m seeing"
+  },
+  {
+   "id": "L01-e055",
+   "type": "choose",
+   "q": "What (does this word mean / is this word meaning)?",
+   "a": "does this word mean"
+  },
+  {
+   "id": "L01-e056",
+   "type": "choose",
+   "q": "She (always complains / 's always complaining) about her job – it drives me crazy!",
+   "a": "'s always complaining"
+  },
+  {
+   "id": "L01-e057",
+   "type": "choose",
+   "q": "I (prefer / 'm preferring) tea to coffee.",
+   "a": "prefer"
+  },
+  {
+   "id": "L01-e058",
+   "type": "choose",
+   "q": "Why (do you wear / are you wearing) a coat? It's warm today.",
+   "a": "are you wearing"
+  },
+  {
+   "id": "L01-e059",
+   "type": "gap",
+   "q": "My cousin ______ (study) medicine this year, but she ______ (not enjoy) it much.",
+   "a": "is studying / isn't enjoying"
+  },
+  {
+   "id": "L01-e060",
+   "type": "gap",
+   "q": "______ he usually ______ (drive) to work?",
+   "a": "Does … drive"
+  },
+  {
+   "id": "L01-e061",
+   "type": "gap",
+   "q": "I ______ (need) a break. I ______ (work) on this report all day today.",
+   "a": "need / 'm working"
+  },
+  {
+   "id": "L01-e062",
+   "type": "gap",
+   "q": "Our team ______ (get) better every week.",
+   "a": "is getting"
+  },
+  {
+   "id": "L01-e063",
+   "type": "gap",
+   "q": "Who ______ this umbrella ______ (belong) to?",
+   "a": "does … belong"
+  },
+  {
+   "id": "L01-e064",
+   "type": "order",
+   "q": "often / she / late / for / is / meetings",
+   "a": "She is often late for meetings."
+  },
+  {
+   "id": "L01-e065",
+   "type": "order",
+   "q": "moment / at / are / what / reading / the / you",
+   "a": "What are you reading at the moment?"
+  },
+  {
+   "id": "L01-e066",
+   "type": "order",
+   "q": "never / my / gets / boss / angry",
+   "a": "My boss never gets angry."
+  },
+  {
+   "id": "L01-e067",
+   "type": "order",
+   "q": "take / do / after / you / father / your",
+   "a": "Do you take after your father?"
+  },
+  {
+   "id": "L01-e068",
+   "type": "order",
+   "q": "well / gets / colleagues / on / her / with / she",
+   "a": "She gets on well with her colleagues."
+  }
+ ]
+}

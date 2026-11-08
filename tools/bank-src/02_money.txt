@@ -1,0 +1,41 @@
+#Money & finance|Peníze a finance
+afford|dovolit si (finančně)|We can't afford a new car.|B1
+save up|šetřit (na něco)|I'm saving up for a holiday.|B1
+borrow|půjčit si|Can I borrow ten euros?|B1
+lend|půjčit (někomu)|Could you lend me your bike?|B1
+owe|dlužit|I owe you a coffee.|B1
+debt|dluh|They are trying to pay off their debts.|B1
+loan|půjčka, úvěr|We took out a loan to buy the flat.|B1
+mortgage|hypotéka|Our mortgage lasts thirty years.|B2
+interest rate|úroková sazba|Interest rates went up again.|B2
+budget|rozpočet|We need to stick to our budget.|B1
+expenses|výdaje|Living expenses in the city are high.|B1
+income|příjem|Their monthly income is quite low.|B1
+cash|hotovost|Do you pay in cash or by card?|B1
+withdraw money|vybrat peníze|I need to withdraw some money from the ATM.|B1
+bank account|bankovní účet|I opened a new bank account.|B1
+transfer|převod; převést|I'll transfer the money tomorrow.|B1
+receipt|účtenka|Keep the receipt in case you want to return it.|B1
+refund|vrácení peněz|I asked for a refund.|B1
+bargain|výhodná koupě|This jacket was a real bargain.|B1
+discount|sleva|Students get a 20% discount.|B1
+expensive|drahý|London is an expensive city.|A2
+overpriced|předražený|The drinks at the festival were overpriced.|B2
+cheap|levný|The food there is cheap and good.|A2
+waste money on|vyhazovat peníze za|Don't waste money on things you don't need.|B1
+invest|investovat|He invested his savings in property.|B2
+savings|úspory|They spent all their savings on the house.|B1
+pension|důchod (peníze)|Will our pension be enough?|B2
+tax|daň|You have to pay tax on your income.|B1
+bill|účet (k zaplacení)|Have you paid the electricity bill?|B1
+pay off|splatit|It took ten years to pay off the loan.|B2
+be broke|být bez peněz|I'm broke until payday.|B2
+well-off|zámožný|Her family is quite well-off.|B2
+cost of living|životní náklady|The cost of living keeps rising.|B2
+currency|měna|What's the local currency in Croatia?|B1
+exchange rate|směnný kurz|The exchange rate is good at the moment.|B2
+coin|mince|I've got some coins for the parking machine.|A2
+wallet|peněženka|I've lost my wallet!|A2
+charge|účtovat (si)|They charged us 50 euros for delivery.|B1
+fee|poplatek|There's no fee for using this card abroad.|B2
+make ends meet|vyjít s penězi|Many families struggle to make ends meet.|C1
