@@ -5,8 +5,8 @@
  "lessons": [
   {
    "week": 1,
-   "date": "2026-11-08",
-   "status": "schváleno Karlem 2026-11-08 (vzor pro další lekce)",
+   "date": "2026-11-12",
+   "status": "schváleno; vydáno předem 8. 11. 2026, studuje se od čtvrtka 12. 11. 2026",
    "topic": "People & personalities",
    "grammar": "Present simple vs present continuous; state verbs",
    "vocab_core": [
@@ -55,5 +55,7 @@
  ],
  "note": "Po vygenerování každé lekce sem přidej záznam: week, date, topic, grammar, vocab_core (seznam), vocab_extension (seznam), notes_for_next (co navázat, co zopakovat).",
  "last_generated_week": 1,
- "generation_day": "čtvrtek"
+ "generation_day": "čtvrtek",
+ "next_generation_date": "2026-11-19",
+ "schedule_note": "12. 11. 2026 se nic negeneruje. Lekce N vzniká ve čtvrtek 12. 11. 2026 + (N-1) týdnů, tj. L2 = 19. 11. 2026."
 }

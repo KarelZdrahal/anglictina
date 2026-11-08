@@ -1,7 +1,7 @@
 {
  "title": "Roční kurz angličtiny B1 → B1+",
- "start": "2026-11-08",
- "weekday": "čtvrtek (lekce 1: neděle 8. 11. 2026)",
+ "start": "2026-11-12",
+ "weekday": "čtvrtek (lekce se generuje a studuje ve čtvrtek; lekce 1 vydána předem 8. 11. 2026)",
  "level_in": "B1",
  "level_out": "B1+",
  "learners": 2,
@@ -27,7 +27,7 @@
   {
    "week": 1,
    "quarter": 1,
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "type": "lesson",
    "topic_en": "People & personalities",
    "topic_cz": "Lidé a povahy",
@@ -39,7 +39,7 @@
   {
    "week": 2,
    "quarter": 1,
-   "date": "2026-11-12",
+   "date": "2026-11-19",
    "type": "lesson",
    "topic_en": "Work & daily routines",
    "topic_cz": "Práce a denní režim",
@@ -51,7 +51,7 @@
   {
    "week": 3,
    "quarter": 1,
-   "date": "2026-11-19",
+   "date": "2026-11-26",
    "type": "lesson",
    "topic_en": "Travel experiences",
    "topic_cz": "Zážitky z cestování",
@@ -63,7 +63,7 @@
   {
    "week": 4,
    "quarter": 1,
-   "date": "2026-11-26",
+   "date": "2026-12-03",
    "type": "lesson",
    "topic_en": "Life stories",
    "topic_cz": "Životní příběhy",
@@ -75,7 +75,7 @@
   {
    "week": 5,
    "quarter": 1,
-   "date": "2026-12-03",
+   "date": "2026-12-10",
    "type": "lesson",
    "topic_en": "Then and now",
    "topic_cz": "Dřív a dnes",
@@ -87,7 +87,7 @@
   {
    "week": 6,
    "quarter": 1,
-   "date": "2026-12-10",
+   "date": "2026-12-17",
    "type": "review",
    "topic_en": "Review 1",
    "topic_cz": "Opakování 1",
@@ -99,7 +99,7 @@
   {
    "week": 7,
    "quarter": 1,
-   "date": "2026-12-17",
+   "date": "2026-12-24",
    "type": "lesson",
    "topic_en": "Celebrations & traditions",
    "topic_cz": "Svátky a tradice",
@@ -111,7 +111,7 @@
   {
    "week": 8,
    "quarter": 1,
-   "date": "2026-12-24",
+   "date": "2026-12-31",
    "type": "lesson",
    "topic_en": "Resolutions & goals",
    "topic_cz": "Předsevzetí a cíle",
@@ -123,7 +123,7 @@
   {
    "week": 9,
    "quarter": 1,
-   "date": "2026-12-31",
+   "date": "2027-01-07",
    "type": "lesson",
    "topic_en": "Food & eating out",
    "topic_cz": "Jídlo a restaurace",
@@ -135,7 +135,7 @@
   {
    "week": 10,
    "quarter": 1,
-   "date": "2027-01-07",
+   "date": "2027-01-14",
    "type": "lesson",
    "topic_en": "Home & neighbourhood",
    "topic_cz": "Bydlení a okolí",
@@ -147,7 +147,7 @@
   {
    "week": 11,
    "quarter": 1,
-   "date": "2027-01-14",
+   "date": "2027-01-21",
    "type": "lesson",
    "topic_en": "Health & fitness",
    "topic_cz": "Zdraví a kondice",
@@ -159,7 +159,7 @@
   {
    "week": 12,
    "quarter": 1,
-   "date": "2027-01-21",
+   "date": "2027-01-28",
    "type": "review",
    "topic_en": "Review 2",
    "topic_cz": "Opakování 2",
@@ -171,7 +171,7 @@
   {
    "week": 13,
    "quarter": 1,
-   "date": "2027-01-28",
+   "date": "2027-02-04",
    "type": "test",
    "topic_en": "Quarter test 1",
    "topic_cz": "Čtvrtletní test 1",
@@ -183,7 +183,7 @@
   {
    "week": 14,
    "quarter": 2,
-   "date": "2027-02-04",
+   "date": "2027-02-11",
    "type": "lesson",
    "topic_en": "Money & shopping",
    "topic_cz": "Peníze a nakupování",
@@ -195,7 +195,7 @@
   {
    "week": 15,
    "quarter": 2,
-   "date": "2027-02-11",
+   "date": "2027-02-18",
    "type": "lesson",
    "topic_en": "Crime & mysteries",
    "topic_cz": "Zločin a záhady",
@@ -207,7 +207,7 @@
   {
    "week": 16,
    "quarter": 2,
-   "date": "2027-02-18",
+   "date": "2027-02-25",
    "type": "lesson",
    "topic_en": "Technology in our lives",
    "topic_cz": "Technologie v životě",
@@ -219,7 +219,7 @@
   {
    "week": 17,
    "quarter": 2,
-   "date": "2027-02-25",
+   "date": "2027-03-04",
    "type": "lesson",
    "topic_en": "Dreams & hypotheses",
    "topic_cz": "Sny a hypotézy",
@@ -231,7 +231,7 @@
   {
    "week": 18,
    "quarter": 2,
-   "date": "2027-03-04",
+   "date": "2027-03-11",
    "type": "lesson",
    "topic_en": "Nature & environment",
    "topic_cz": "Příroda a životní prostředí",
@@ -243,7 +243,7 @@
   {
    "week": 19,
    "quarter": 2,
-   "date": "2027-03-11",
+   "date": "2027-03-18",
    "type": "review",
    "topic_en": "Review 3",
    "topic_cz": "Opakování 3",
@@ -255,7 +255,7 @@
   {
    "week": 20,
    "quarter": 2,
-   "date": "2027-03-18",
+   "date": "2027-03-25",
    "type": "lesson",
    "topic_en": "Relationships",
    "topic_cz": "Vztahy",
@@ -267,7 +267,7 @@
   {
    "week": 21,
    "quarter": 2,
-   "date": "2027-03-25",
+   "date": "2027-04-01",
    "type": "lesson",
    "topic_en": "Free time & hobbies",
    "topic_cz": "Volný čas a koníčky",
@@ -279,7 +279,7 @@
   {
    "week": 22,
    "quarter": 2,
-   "date": "2027-04-01",
+   "date": "2027-04-08",
    "type": "lesson",
    "topic_en": "Media & news",
    "topic_cz": "Média a zprávy",
@@ -291,7 +291,7 @@
   {
    "week": 23,
    "quarter": 2,
-   "date": "2027-04-08",
+   "date": "2027-04-15",
    "type": "lesson",
    "topic_en": "Interviews & questions",
    "topic_cz": "Pohovory a otázky",
@@ -303,7 +303,7 @@
   {
    "week": 24,
    "quarter": 2,
-   "date": "2027-04-15",
+   "date": "2027-04-22",
    "type": "lesson",
    "topic_en": "Getting around the city",
    "topic_cz": "Pohyb po městě",
@@ -315,7 +315,7 @@
   {
    "week": 25,
    "quarter": 2,
-   "date": "2027-04-22",
+   "date": "2027-04-29",
    "type": "review",
    "topic_en": "Review 4",
    "topic_cz": "Opakování 4",
@@ -327,7 +327,7 @@
   {
    "week": 26,
    "quarter": 2,
-   "date": "2027-04-29",
+   "date": "2027-05-06",
    "type": "test",
    "topic_en": "Mid-year test",
    "topic_cz": "Pololetní test",
@@ -339,7 +339,7 @@
   {
    "week": 27,
    "quarter": 3,
-   "date": "2027-05-06",
+   "date": "2027-05-13",
    "type": "lesson",
    "topic_en": "Regrets & mistakes",
    "topic_cz": "Lítost a chyby",
@@ -351,7 +351,7 @@
   {
    "week": 28,
    "quarter": 3,
-   "date": "2027-05-13",
+   "date": "2027-05-20",
    "type": "lesson",
    "topic_en": "Wishes",
    "topic_cz": "Přání",
@@ -363,7 +363,7 @@
   {
    "week": 29,
    "quarter": 3,
-   "date": "2027-05-20",
+   "date": "2027-05-27",
    "type": "lesson",
    "topic_en": "Getting things done",
    "topic_cz": "Služby a zařizování",
@@ -375,7 +375,7 @@
   {
    "week": 30,
    "quarter": 3,
-   "date": "2027-05-27",
+   "date": "2027-06-03",
    "type": "lesson",
    "topic_en": "The future world",
    "topic_cz": "Svět budoucnosti",
@@ -387,7 +387,7 @@
   {
    "week": 31,
    "quarter": 3,
-   "date": "2027-06-03",
+   "date": "2027-06-10",
    "type": "lesson",
    "topic_en": "Mysteries & deductions",
    "topic_cz": "Záhady a dedukce",
@@ -399,7 +399,7 @@
   {
    "week": 32,
    "quarter": 3,
-   "date": "2027-06-10",
+   "date": "2027-06-17",
    "type": "review",
    "topic_en": "Review 5",
    "topic_cz": "Opakování 5",
@@ -411,7 +411,7 @@
   {
    "week": 33,
    "quarter": 3,
-   "date": "2027-06-17",
+   "date": "2027-06-24",
    "type": "lesson",
    "topic_en": "Culture & the arts",
    "topic_cz": "Kultura a umění",
@@ -423,7 +423,7 @@
   {
    "week": 34,
    "quarter": 3,
-   "date": "2027-06-24",
+   "date": "2027-07-01",
    "type": "lesson",
    "topic_en": "Education & learning",
    "topic_cz": "Vzdělávání a učení",
@@ -435,7 +435,7 @@
   {
    "week": 35,
    "quarter": 3,
-   "date": "2027-07-01",
+   "date": "2027-07-08",
    "type": "lesson",
    "topic_en": "Summer holidays",
    "topic_cz": "Letní dovolená",
@@ -447,7 +447,7 @@
   {
    "week": 36,
    "quarter": 3,
-   "date": "2027-07-08",
+   "date": "2027-07-15",
    "type": "lesson",
    "topic_en": "Sport & competition",
    "topic_cz": "Sport a soutěžení",
@@ -459,7 +459,7 @@
   {
    "week": 37,
    "quarter": 3,
-   "date": "2027-07-15",
+   "date": "2027-07-22",
    "type": "lesson",
    "topic_en": "Workplace & careers",
    "topic_cz": "Práce a kariéra",
@@ -471,7 +471,7 @@
   {
    "week": 38,
    "quarter": 3,
-   "date": "2027-07-22",
+   "date": "2027-07-29",
    "type": "review",
    "topic_en": "Review 6",
    "topic_cz": "Opakování 6",
@@ -483,7 +483,7 @@
   {
    "week": 39,
    "quarter": 3,
-   "date": "2027-07-29",
+   "date": "2027-08-05",
    "type": "test",
    "topic_en": "Quarter test 3",
    "topic_cz": "Čtvrtletní test 3",
@@ -495,7 +495,7 @@
   {
    "week": 40,
    "quarter": 4,
-   "date": "2027-08-05",
+   "date": "2027-08-12",
    "type": "lesson",
    "topic_en": "Living abroad",
    "topic_cz": "Život v cizině",
@@ -507,7 +507,7 @@
   {
    "week": 41,
    "quarter": 4,
-   "date": "2027-08-12",
+   "date": "2027-08-19",
    "type": "lesson",
    "topic_en": "Persuasion & advertising",
    "topic_cz": "Přesvědčování a reklama",
@@ -519,7 +519,7 @@
   {
    "week": 42,
    "quarter": 4,
-   "date": "2027-08-19",
+   "date": "2027-08-26",
    "type": "lesson",
    "topic_en": "Science & health news",
    "topic_cz": "Věda a zdraví ve zprávách",
@@ -531,7 +531,7 @@
   {
    "week": 43,
    "quarter": 4,
-   "date": "2027-08-26",
+   "date": "2027-09-02",
    "type": "lesson",
    "topic_en": "Consumer society",
    "topic_cz": "Konzumní společnost",
@@ -543,7 +543,7 @@
   {
    "week": 44,
    "quarter": 4,
-   "date": "2027-09-02",
+   "date": "2027-09-09",
    "type": "lesson",
    "topic_en": "Social issues",
    "topic_cz": "Společenská témata",
@@ -555,7 +555,7 @@
   {
    "week": 45,
    "quarter": 4,
-   "date": "2027-09-09",
+   "date": "2027-09-16",
    "type": "review",
    "topic_en": "Review 7",
    "topic_cz": "Opakování 7",
@@ -567,7 +567,7 @@
   {
    "week": 46,
    "quarter": 4,
-   "date": "2027-09-16",
+   "date": "2027-09-23",
    "type": "lesson",
    "topic_en": "Food culture & sustainability",
    "topic_cz": "Jídlo a udržitelnost",
@@ -579,7 +579,7 @@
   {
    "week": 47,
    "quarter": 4,
-   "date": "2027-09-23",
+   "date": "2027-09-30",
    "type": "lesson",
    "topic_en": "Storytelling",
    "topic_cz": "Umění vyprávět",
@@ -591,7 +591,7 @@
   {
    "week": 48,
    "quarter": 4,
-   "date": "2027-09-30",
+   "date": "2027-10-07",
    "type": "lesson",
    "topic_en": "Humour & entertainment",
    "topic_cz": "Humor a zábava",
@@ -603,7 +603,7 @@
   {
    "week": 49,
    "quarter": 4,
-   "date": "2027-10-07",
+   "date": "2027-10-14",
    "type": "lesson",
    "topic_en": "Making decisions",
    "topic_cz": "Rozhodování",
@@ -615,7 +615,7 @@
   {
    "week": 50,
    "quarter": 4,
-   "date": "2027-10-14",
+   "date": "2027-10-21",
    "type": "lesson",
    "topic_en": "Looking back, looking ahead",
    "topic_cz": "Ohlédnutí a výhled",
@@ -627,7 +627,7 @@
   {
    "week": 51,
    "quarter": 4,
-   "date": "2027-10-21",
+   "date": "2027-10-28",
    "type": "review",
    "topic_en": "Review 8",
    "topic_cz": "Opakování 8",
@@ -639,7 +639,7 @@
   {
    "week": 52,
    "quarter": 4,
-   "date": "2027-10-28",
+   "date": "2027-11-04",
    "type": "test",
    "topic_en": "Final test",
    "topic_cz": "Závěrečný test",

@@ -1,10 +1,10 @@
 {
- "version": 3,
+ "version": 4,
  "lessons": [
   {
    "file": "lessons/L01.json",
-   "v": 2,
-   "h": "d3aa21ef2a9e",
+   "v": 3,
+   "h": "524f2caad226",
    "id": "L01",
    "week": 1,
    "title": "People & personalities"
