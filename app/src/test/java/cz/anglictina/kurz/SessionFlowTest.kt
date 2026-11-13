@@ -34,7 +34,7 @@ class Player(private val rule: ComposeTestRule, private val rnd: Random) {
         return rule.onAllNodes(m, useUnmergedTree = true).fetchSemanticsNodes().firstOrNull()?.config?.getOrNull(SemanticsProperties.TestTag)
     }
     fun has(text: String) = rule.onAllNodesWithText(text, substring = true).fetchSemanticsNodes().isNotEmpty()
-    fun click(text: String) = rule.onAllNodesWithText(text, substring = true)[0].performClick()
+    fun click(text: String) { rule.onAllNodesWithText(text, substring = true)[0].performClick(); rule.mainClock.advanceTimeBy(50) }
     private fun dump() = runCatching { rule.onRoot(useUnmergedTree = true).printToString() }.getOrDefault("?")
 
     /** Vrací seznam zobrazených položek. */
@@ -61,7 +61,7 @@ class Player(private val rule: ComposeTestRule, private val rnd: Random) {
                 }
                 rule.onAllNodesWithTag("tile").fetchSemanticsNodes().isNotEmpty() -> {
                     while (rule.onAllNodesWithTag("tile").fetchSemanticsNodes().isNotEmpty()) {
-                        rule.onAllNodesWithTag("tile")[0].performClick(); rule.waitForIdle()
+                        rule.onAllNodesWithTag("tile")[0].performClick(); rule.mainClock.advanceTimeBy(100); rule.waitForIdle()
                     }
                     click("Zkontrolovat")
                 }
@@ -108,6 +108,7 @@ class AppFlowTest {
     @Test fun fullApp() {
         val ctx = RuntimeEnvironment.getApplication()
         ctx.getSharedPreferences("settings", Context.MODE_PRIVATE).edit().putString("name", "Test").commit()
+        androidx.work.testing.WorkManagerTestInitHelper.initializeTestWorkManager(ctx)
         rule.mainClock.autoAdvance = false
         ActivityScenario.launch(MainActivity::class.java).use {
             val p = Player(rule, Random(5))
