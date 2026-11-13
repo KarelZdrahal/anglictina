@@ -93,6 +93,21 @@ class SessionFlowTest {
         assertTrue("relace prošla jen ${seen.size} položek", seen.size >= 15)
     }
 
+    /** Karlův případ: denní dávka nových slov už vyčerpaná (i ze starší verze) a známé je jen jedno slovo. */
+    @Test fun bankWithExhaustedAllowanceDoesNotLoop() {
+        val ctx = RuntimeEnvironment.getApplication()
+        val repo = Repository(ctx).also { it.load() }
+        val today = cz.anglictina.kurz.data.Progress.today()
+        repo.progress.bankNewByDay[today] = 15
+        repo.progress.card("w:b15-pay-by-card").apply { lastSeen = System.currentTimeMillis() - 3_600_000; reps = 0; wrong = 1; due = System.currentTimeMillis() - 1000 }
+        rule.mainClock.autoAdvance = false
+        rule.setContent { SessionScreen(repo, Speech(ctx), SessionKind.BANK, 15, false, onDone = {}, onMore = { _, _, _ -> }) }
+        val seen = Player(rule, Random(2)).play()
+        println("VYČERPANÁ DÁVKA: ${seen.size} položek: ${seen.take(20)}")
+        assertTrue("relace má jen ${seen.size} položek: $seen", seen.size >= 15)
+        assertTrue("pay by card dokola: $seen", seen.count { it.endsWith("w:b15-pay-by-card") } <= 3)
+    }
+
     @Test fun bankSessionAdvances() = run(SessionKind.BANK, Random(1))
     @Test fun bankSessionAdvances2() = run(SessionKind.BANK, Random(7))
     @Test fun lessonSessionAdvances() = run(SessionKind.LESSONS, Random(3))
