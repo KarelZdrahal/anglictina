@@ -1,0 +1,43 @@
+#Conditionals & time clauses|Podmínkové a časové věty
+choose ## If you heat ice, it ___ (melts/will melt). ## melts
+choose ## If it rains tomorrow, we ___ (will stay/would stay) at home. ## will stay
+choose ## If I ___ (had/have) more money, I would travel round the world. ## had
+choose ## I'll call you as soon as I ___ (get/will get) home. ## get
+choose ## If I ___ (were/am) you, I'd accept the job offer. ## were
+choose ## We won't go out ___ (unless/if) the weather improves. ## unless
+choose ## What would you do if you ___ (won/win) the lottery? ## won
+choose ## When she ___ (finishes/will finish) university, she wants to work abroad. ## finishes
+choose ## If you don't hurry, you ___ (will miss/would miss) the bus. ## will miss
+choose ## I ___ (would buy/will buy) a bigger flat if they weren't so expensive. ## would buy
+choose ## Take an umbrella ___ (in case/if not) it rains. ## in case
+choose ## If he ___ (doesn't/won't) phone soon, I'll start to worry. ## doesn't
+gap ## If you _____ (press) this button, the machine starts. ## press
+gap ## If I _____ (be) taller, I would play basketball. ## were | was
+gap ## I _____ (tell) you if I hear any news. ## will tell | 'll tell
+gap ## If we _____ (not leave) now, we'll be late. ## don't leave | do not leave
+gap ## She would be happier if she _____ (not work) so much. ## didn't work | did not work
+error ## If I will see him, I will tell him. ## If I see him, I will tell him. | If I see him, I'll tell him.
+error ## If I would have time, I would help you. ## If I had time, I would help you. | If I had time, I'd help you.
+error ## I'll wait here until you will come back. ## I'll wait here until you come back. | I will wait here until you come back.
+error ## Unless you don't study, you'll fail. ## Unless you study, you'll fail. | Unless you study, you will fail. | If you don't study, you'll fail.
+order ## if / do / would / what / you / lost / your / job / you ## What would you do if you lost your job?
+order ## soon / as / call / I'll / you / as / arrive / I ## I'll call you as soon as I arrive.
+order ## unless / you / ask / won't / help / he ## He won't help unless you ask.
+tr ## Kdybych měl čas, šel bych s tebou. ## If I had time, I would go with you. | If I had time, I'd go with you. | If I had time, I would come with you. | If I had time, I'd come with you.
+tr ## Jestli zítra bude hezky, pojedeme k moři. ## If the weather is nice tomorrow, we'll go to the seaside. | If it's nice tomorrow, we'll go to the seaside. | If the weather is nice tomorrow, we will go to the sea. | If it is nice tomorrow, we will go to the seaside. | If the weather is good tomorrow, we'll go to the seaside.
+tr ## Zavolám ti, až přijedu. ## I'll call you when I arrive. | I will call you when I arrive. | I'll call you when I get there. | I'll phone you when I arrive.
+tr ## Na tvém místě bych to nedělal. ## If I were you, I wouldn't do that. | If I were you, I wouldn't do it. | If I were you, I would not do that. | I wouldn't do that if I were you.
+tr ## Nepůjdu tam, pokud nepůjdeš taky. ## I won't go there unless you go too. | I won't go unless you go too. | I won't go there if you don't go too. | I will not go there unless you go too.
+tr ## Když voda dosáhne 100 stupňů, vaří se. ## When water reaches 100 degrees, it boils. | If water reaches 100 degrees, it boils. | If you heat water to 100 degrees, it boils.
+@text
+Many people dream about winning the lottery, but research shows that a big win doesn't always make people happier. If someone suddenly becomes rich, their friends and family often start asking for money, and relationships can become difficult. Some winners give up their jobs and then feel bored and lonely. Experts say that if you won a large amount, the best thing would be to wait a few months before making any big decisions. They also recommend talking to a financial adviser before you spend anything.
+@q ## According to the text, what often happens to winners' relationships? ## They can become difficult. / They get much better. / Nothing changes. ## They can become difficult.
+@q ## Why do some winners feel bored? ## They stop working. / They travel too much. / They have no money. ## They stop working.
+@q ## What do experts recommend? ## waiting before big decisions / spending quickly / keeping the job a secret ## waiting before big decisions
+@end
+@text
+Our hotel offers free bicycles to all guests. If you would like to borrow one, please ask at reception. Bicycles must be returned by 8 p.m. If you return a bicycle late, we will charge a fee of 10 euros. Helmets are available in all sizes. Unless you are an experienced cyclist, we recommend the flat route along the river rather than the mountain path. In case of a problem with your bicycle, please call the number on the key ring.
+@q ## What happens if you return the bicycle after 8 p.m.? ## You pay 10 euros. / You can't borrow another one. / Nothing. ## You pay 10 euros.
+@q ## Which route is recommended for most guests? ## the river route / the mountain path / the city centre ## the river route
+@q ## What should you do if the bicycle breaks? ## call the number on the key ring / leave it on the road / repair it yourself ## call the number on the key ring
+@end

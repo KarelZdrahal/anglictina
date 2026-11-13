@@ -1,0 +1,44 @@
+#Present & past tenses|Přítomné a minulé časy
+choose ## I usually ___ (walk/am walking) to work, but today I'm taking the bus. ## walk
+choose ## Look! It ___ (snows/is snowing) again. ## is snowing
+choose ## This soup ___ (tastes/is tasting) a bit salty. ## tastes
+choose ## I ___ (have known/know) Petra since we were at school. ## have known
+choose ## We ___ (went/have gone) to Croatia last summer. ## went
+choose ## Have you ever ___ (been/went) to Scotland? ## been
+choose ## I ___ (was cooking/cooked) dinner when the phone rang. ## was cooking
+choose ## She ___ (didn't use to/didn't used to) like coffee. ## didn't use to
+choose ## I've ___ (already/yet) finished my homework. ## already
+choose ## Has the parcel arrived ___ (yet/already)? ## yet
+choose ## While we ___ (were walking/walked) in the park, it started to rain. ## were walking
+choose ## He ___ (has worked/works) here for ten years and he still likes it. ## has worked
+gap ## My brother _____ (live) in Brno at the moment, but he's moving soon. ## is living | 's living
+gap ## I _____ (not see) Tom since Christmas. ## haven't seen | have not seen
+gap ## When I was a child, we _____ (use to) spend every summer at my grandparents'. ## used to
+gap ## Where _____ you _____ (go) on holiday last year? ## did go
+gap ## She _____ (just / leave), so you can still catch her at the bus stop. ## has just left | 's just left
+gap ## What _____ you _____ (do) at 8 o'clock last night? ## were doing
+error ## I am knowing the answer. ## I know the answer.
+error ## I have seen this film yesterday. ## I saw this film yesterday.
+error ## Did you went to the party? ## Did you go to the party?
+error ## She is working here since 2020. ## She has worked here since 2020. | She has been working here since 2020.
+order ## have / never / I / sushi / eaten ## I have never eaten sushi.
+order ## was / when / it / raining / I / up / woke ## It was raining when I woke up.
+order ## did / use / where / live / you / to ## Where did you use to live?
+tr ## Bydlím v Praze deset let. ## I have lived in Prague for ten years. | I've lived in Prague for ten years. | I have been living in Prague for ten years. | I've been living in Prague for ten years.
+tr ## Už jsi někdy byl v Londýně? ## Have you ever been to London?
+tr ## Když jsem přišel domů, děti spaly. ## When I came home, the children were sleeping. | When I got home, the children were sleeping. | When I came home, the children were asleep. | When I got home, the children were asleep.
+tr ## Dřív jsem hrál na kytaru. ## I used to play the guitar. | I used to play guitar.
+tr ## Zrovna teď pracuju na důležitém projektu. ## I'm working on an important project right now. | I am working on an important project right now. | I'm working on an important project at the moment. | I am working on an important project at the moment.
+tr ## Ještě jsem neviděl jeho nový film. ## I haven't seen his new film yet. | I have not seen his new film yet. | I haven't seen his new movie yet. | I have not seen his new movie yet.
+@text
+Martin has worked as a nurse in a large hospital for six years. He didn't plan to become a nurse: at university he studied economics, but he hated sitting in an office all day. One evening, while he was visiting his grandmother in hospital, he talked to a nurse who was looking after her. She told him how much she enjoyed her job. A year later, Martin started a nursing course. Today he usually works night shifts, which he finds tiring, but he says he has never regretted his decision.
+@q ## What did Martin study at university? ## economics / medicine / nursing ## economics
+@q ## What gave him the idea to change his career? ## a conversation with a nurse / a film about hospitals / his teacher's advice ## a conversation with a nurse
+@q ## How does Martin feel about his decision now? ## He doesn't regret it. / He wants to go back to an office. / He isn't sure. ## He doesn't regret it.
+@end
+@text
+When I was a teenager, my family used to spend every August in a small cottage in the mountains. There was no internet and the TV only had two channels, so we spent most of the day outside. My sister and I would go swimming in the lake or pick mushrooms in the forest. In the evenings, my dad would light a fire and tell us stories. The cottage was sold years ago, but I still think about those summers whenever I smell wood smoke.
+@q ## What did the family NOT have at the cottage? ## internet / a lake nearby / a TV ## internet
+@q ## What did the dad do in the evenings? ## told stories by the fire / watched TV / went fishing ## told stories by the fire
+@q ## What reminds the writer of those summers today? ## the smell of wood smoke / photos / mushrooms ## the smell of wood smoke
+@end

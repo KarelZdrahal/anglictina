@@ -1,0 +1,260 @@
+{
+"id": "pr02",
+"topic": "Future & modal verbs",
+"topic_cz": "Budoucnost a modální slovesa",
+"level": "B1",
+"exercises": [
+{
+"id": "pr02-001",
+"type": "choose",
+"q": "Don't worry, I ___ (will help/am helping) you with the boxes.",
+"a": "will help"
+},
+{
+"id": "pr02-002",
+"type": "choose",
+"q": "Look at those dark clouds. It ___ (is going to/will) rain.",
+"a": "is going to"
+},
+{
+"id": "pr02-003",
+"type": "choose",
+"q": "We ___ (are meeting/will meet) Jana at 7 tonight – it's all arranged.",
+"a": "are meeting"
+},
+{
+"id": "pr02-004",
+"type": "choose",
+"q": "The train ___ (leaves/is leaving) at 6.45 tomorrow morning, according to the timetable.",
+"a": "leaves"
+},
+{
+"id": "pr02-005",
+"type": "choose",
+"q": "I'm not sure, but I ___ (might/must) go to the gym later.",
+"a": "might"
+},
+{
+"id": "pr02-006",
+"type": "choose",
+"q": "You ___ (mustn't/don't have to) smoke in the hospital. It's forbidden.",
+"a": "mustn't"
+},
+{
+"id": "pr02-007",
+"type": "choose",
+"q": "It's Saturday, so you ___ (don't have to/mustn't) get up early.",
+"a": "don't have to"
+},
+{
+"id": "pr02-008",
+"type": "choose",
+"q": "You look tired. You ___ (should/must to) go to bed earlier.",
+"a": "should"
+},
+{
+"id": "pr02-009",
+"type": "choose",
+"q": "When I was five, I ___ (could/can) already read.",
+"a": "could"
+},
+{
+"id": "pr02-010",
+"type": "choose",
+"q": "She ___ (has to/have to) wear a uniform at work.",
+"a": "has to"
+},
+{
+"id": "pr02-011",
+"type": "choose",
+"q": "___ (Could/Must) you open the window, please?",
+"a": "Could"
+},
+{
+"id": "pr02-012",
+"type": "choose",
+"q": "I think robots ___ (will do/are doing) most of the housework in the future.",
+"a": "will do"
+},
+{
+"id": "pr02-013",
+"type": "gap",
+"q": "I've decided: I _____ (learn) to drive next year.",
+"a": "am going to learn | 'm going to learn"
+},
+{
+"id": "pr02-014",
+"type": "gap",
+"q": "_____ you _____ (do) anything this weekend? – Yes, I'm visiting my parents.",
+"a": "are doing"
+},
+{
+"id": "pr02-015",
+"type": "gap",
+"q": "Last week I _____ (have to) work late every day.",
+"a": "had to"
+},
+{
+"id": "pr02-016",
+"type": "gap",
+"q": "You _____ (not need) to bring anything – we've got plenty of food.",
+"a": "don't need | do not need | needn't | need not"
+},
+{
+"id": "pr02-017",
+"type": "gap",
+"q": "I'm hungry. – OK, I _____ (make) you a sandwich.",
+"a": "will make | 'll make"
+},
+{
+"id": "pr02-018",
+"type": "error",
+"q": "I will to call you tomorrow.",
+"a": "I will call you tomorrow."
+},
+{
+"id": "pr02-019",
+"type": "error",
+"q": "You must to wear a helmet.",
+"a": "You must wear a helmet."
+},
+{
+"id": "pr02-020",
+"type": "error",
+"q": "He can swims very well.",
+"a": "He can swim very well."
+},
+{
+"id": "pr02-021",
+"type": "error",
+"q": "Maybe I go to the cinema tonight.",
+"a": "Maybe I will go to the cinema tonight. | I might go to the cinema tonight. | Maybe I'll go to the cinema tonight."
+},
+{
+"id": "pr02-022",
+"type": "order",
+"q": "going / are / what / to / you / do",
+"a": "What are you going to do?"
+},
+{
+"id": "pr02-023",
+"type": "order",
+"q": "have / don't / to / you / come",
+"a": "You don't have to come."
+},
+{
+"id": "pr02-024",
+"type": "order",
+"q": "might / late / be / I / tonight",
+"a": "I might be late tonight."
+},
+{
+"id": "pr02-025",
+"type": "translate",
+"q": "Zítra odpoledne se setkávám s šéfem.",
+"a": "I'm meeting my boss tomorrow afternoon. | I am meeting my boss tomorrow afternoon. | I'm meeting the boss tomorrow afternoon. | I am meeting the boss tomorrow afternoon."
+},
+{
+"id": "pr02-026",
+"type": "translate",
+"q": "Možná zítra prší.",
+"a": "It might rain tomorrow. | It may rain tomorrow. | Maybe it will rain tomorrow."
+},
+{
+"id": "pr02-027",
+"type": "translate",
+"q": "Nemusíš mi pomáhat, zvládnu to sám.",
+"a": "You don't have to help me, I can do it myself. | You don't have to help me, I can manage on my own. | You don't need to help me, I can do it myself. | You don't have to help me. I can do it myself."
+},
+{
+"id": "pr02-028",
+"type": "translate",
+"q": "Měl bys víc spát.",
+"a": "You should sleep more. | You should get more sleep. | You ought to sleep more."
+},
+{
+"id": "pr02-029",
+"type": "translate",
+"q": "Uměl jsi plavat, když ti bylo šest?",
+"a": "Could you swim when you were six? | Were you able to swim when you were six?"
+},
+{
+"id": "pr02-030",
+"type": "translate",
+"q": "Tady nesmíš parkovat.",
+"a": "You mustn't park here. | You must not park here. | You can't park here. | You cannot park here."
+},
+{
+"id": "pr02-031",
+"type": "read",
+"q": "Who will pack the computers?",
+"a": "a professional company",
+"options": [
+"a professional company",
+"the staff",
+"the IT department"
+],
+"text": "Next month our company is moving to a new office on the other side of the city. The move is going to happen over one weekend, so nobody will have to work in a half-empty building. Staff don't have to pack their own computers – a professional company will do that – but everyone must clear their desks by Friday afternoon. The new office has a canteen and a gym, so many of us might start exercising at lunchtime. The only problem is parking: there are only forty spaces, so most people will have to come by public transport."
+},
+{
+"id": "pr02-032",
+"type": "read",
+"q": "What must everyone do by Friday?",
+"a": "clear their desks",
+"options": [
+"clear their desks",
+"pack their computers",
+"buy a parking ticket"
+],
+"text": "Next month our company is moving to a new office on the other side of the city. The move is going to happen over one weekend, so nobody will have to work in a half-empty building. Staff don't have to pack their own computers – a professional company will do that – but everyone must clear their desks by Friday afternoon. The new office has a canteen and a gym, so many of us might start exercising at lunchtime. The only problem is parking: there are only forty spaces, so most people will have to come by public transport."
+},
+{
+"id": "pr02-033",
+"type": "read",
+"q": "Why will most people use public transport?",
+"a": "There aren't enough parking spaces.",
+"options": [
+"There aren't enough parking spaces.",
+"It's cheaper.",
+"The office is in the centre."
+],
+"text": "Next month our company is moving to a new office on the other side of the city. The move is going to happen over one weekend, so nobody will have to work in a half-empty building. Staff don't have to pack their own computers – a professional company will do that – but everyone must clear their desks by Friday afternoon. The new office has a canteen and a gym, so many of us might start exercising at lunchtime. The only problem is parking: there are only forty spaces, so most people will have to come by public transport."
+},
+{
+"id": "pr02-034",
+"type": "read",
+"q": "When will Eva arrive at the party?",
+"a": "by five",
+"options": [
+"by five",
+"at three",
+"in the morning"
+],
+"text": "Dear Jana, thanks for your message. Yes, I'd love to come to your birthday party on Saturday! I'm working until three, but I can be at your place by five. Should I bring anything? I could make my famous chocolate cake, or I might just bring a bottle of wine – let me know what you prefer. By the way, I'm going to take the train, so I won't have to worry about driving home. See you soon! Eva"
+},
+{
+"id": "pr02-035",
+"type": "read",
+"q": "How is Eva going to travel?",
+"a": "by train",
+"options": [
+"by train",
+"by car",
+"by bus"
+],
+"text": "Dear Jana, thanks for your message. Yes, I'd love to come to your birthday party on Saturday! I'm working until three, but I can be at your place by five. Should I bring anything? I could make my famous chocolate cake, or I might just bring a bottle of wine – let me know what you prefer. By the way, I'm going to take the train, so I won't have to worry about driving home. See you soon! Eva"
+},
+{
+"id": "pr02-036",
+"type": "read",
+"q": "What is Eva NOT sure about?",
+"a": "what to bring",
+"options": [
+"what to bring",
+"whether she can come",
+"where Jana lives"
+],
+"text": "Dear Jana, thanks for your message. Yes, I'd love to come to your birthday party on Saturday! I'm working until three, but I can be at your place by five. Should I bring anything? I could make my famous chocolate cake, or I might just bring a bottle of wine – let me know what you prefer. By the way, I'm going to take the train, so I won't have to worry about driving home. See you soon! Eva"
+}
+]
+}

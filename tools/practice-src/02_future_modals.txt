@@ -1,0 +1,43 @@
+#Future & modal verbs|Budoucnost a modální slovesa
+choose ## Don't worry, I ___ (will help/am helping) you with the boxes. ## will help
+choose ## Look at those dark clouds. It ___ (is going to/will) rain. ## is going to
+choose ## We ___ (are meeting/will meet) Jana at 7 tonight – it's all arranged. ## are meeting
+choose ## The train ___ (leaves/is leaving) at 6.45 tomorrow morning, according to the timetable. ## leaves
+choose ## I'm not sure, but I ___ (might/must) go to the gym later. ## might
+choose ## You ___ (mustn't/don't have to) smoke in the hospital. It's forbidden. ## mustn't
+choose ## It's Saturday, so you ___ (don't have to/mustn't) get up early. ## don't have to
+choose ## You look tired. You ___ (should/must to) go to bed earlier. ## should
+choose ## When I was five, I ___ (could/can) already read. ## could
+choose ## She ___ (has to/have to) wear a uniform at work. ## has to
+choose ## ___ (Could/Must) you open the window, please? ## Could
+choose ## I think robots ___ (will do/are doing) most of the housework in the future. ## will do
+gap ## I've decided: I _____ (learn) to drive next year. ## am going to learn | 'm going to learn
+gap ## _____ you _____ (do) anything this weekend? – Yes, I'm visiting my parents. ## are doing
+gap ## Last week I _____ (have to) work late every day. ## had to
+gap ## You _____ (not need) to bring anything – we've got plenty of food. ## don't need | do not need | needn't | need not
+gap ## I'm hungry. – OK, I _____ (make) you a sandwich. ## will make | 'll make
+error ## I will to call you tomorrow. ## I will call you tomorrow.
+error ## You must to wear a helmet. ## You must wear a helmet.
+error ## He can swims very well. ## He can swim very well.
+error ## Maybe I go to the cinema tonight. ## Maybe I will go to the cinema tonight. | I might go to the cinema tonight. | Maybe I'll go to the cinema tonight.
+order ## going / are / what / to / you / do ## What are you going to do?
+order ## have / don't / to / you / come ## You don't have to come.
+order ## might / late / be / I / tonight ## I might be late tonight.
+tr ## Zítra odpoledne se setkávám s šéfem. ## I'm meeting my boss tomorrow afternoon. | I am meeting my boss tomorrow afternoon. | I'm meeting the boss tomorrow afternoon. | I am meeting the boss tomorrow afternoon.
+tr ## Možná zítra prší. ## It might rain tomorrow. | It may rain tomorrow. | Maybe it will rain tomorrow.
+tr ## Nemusíš mi pomáhat, zvládnu to sám. ## You don't have to help me, I can do it myself. | You don't have to help me, I can manage on my own. | You don't need to help me, I can do it myself. | You don't have to help me. I can do it myself.
+tr ## Měl bys víc spát. ## You should sleep more. | You should get more sleep. | You ought to sleep more.
+tr ## Uměl jsi plavat, když ti bylo šest? ## Could you swim when you were six? | Were you able to swim when you were six?
+tr ## Tady nesmíš parkovat. ## You mustn't park here. | You must not park here. | You can't park here. | You cannot park here.
+@text
+Next month our company is moving to a new office on the other side of the city. The move is going to happen over one weekend, so nobody will have to work in a half-empty building. Staff don't have to pack their own computers – a professional company will do that – but everyone must clear their desks by Friday afternoon. The new office has a canteen and a gym, so many of us might start exercising at lunchtime. The only problem is parking: there are only forty spaces, so most people will have to come by public transport.
+@q ## Who will pack the computers? ## a professional company / the staff / the IT department ## a professional company
+@q ## What must everyone do by Friday? ## clear their desks / pack their computers / buy a parking ticket ## clear their desks
+@q ## Why will most people use public transport? ## There aren't enough parking spaces. / It's cheaper. / The office is in the centre. ## There aren't enough parking spaces.
+@end
+@text
+Dear Jana, thanks for your message. Yes, I'd love to come to your birthday party on Saturday! I'm working until three, but I can be at your place by five. Should I bring anything? I could make my famous chocolate cake, or I might just bring a bottle of wine – let me know what you prefer. By the way, I'm going to take the train, so I won't have to worry about driving home. See you soon! Eva
+@q ## When will Eva arrive at the party? ## by five / at three / in the morning ## by five
+@q ## How is Eva going to travel? ## by train / by car / by bus ## by train
+@q ## What is Eva NOT sure about? ## what to bring / whether she can come / where Jana lives ## what to bring
+@end

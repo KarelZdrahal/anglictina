@@ -1,0 +1,45 @@
+#Quantifiers, articles & comparison|Množství, členy a srovnávání
+choose ## There isn't ___ (much/many) milk left. ## much
+choose ## How ___ (many/much) people came to the meeting? ## many
+choose ## I've got ___ (a few/a little) friends in London. ## a few
+choose ## Can I have ___ (some/any) water, please? ## some
+choose ## There aren't ___ (any/some) tickets left. ## any
+choose ## She gave me some good ___ (advice/advices). ## advice
+choose ## My new flat is ___ (bigger/more big) than the old one. ## bigger
+choose ## This is the ___ (most interesting/interestingest) book I've ever read. ## most interesting
+choose ## Today is ___ (much/very) warmer than yesterday. ## much
+choose ## He isn't ___ (as/so) tall as his brother. ## as
+choose ## I play ___ (the/–) piano, but my sister plays tennis. ## the
+choose ## ___ (The/–) life is too short to worry about small things. ## –
+choose ## She's ___ (an/a) honest person. ## an
+choose ## It's the ___ (worst/baddest) weather we've had all year. ## worst
+gap ## This exercise is _____ (easy) than the last one. ## easier
+gap ## Who is the _____ (good) player in your team? ## best
+gap ## We don't have _____ time, so let's hurry. ## much
+gap ## There are only _____ eggs left – we need to buy more. ## a few
+gap ## My grandmother is the _____ (old) person in our family. ## oldest
+error ## I need an information about the trains. ## I need some information about the trains. | I need information about the trains.
+error ## She is more taller than me. ## She is taller than me. | She is taller than I am.
+error ## There are too much cars in the city centre. ## There are too many cars in the city centre.
+error ## He is the most good student in the class. ## He is the best student in the class.
+order ## than / is / train / the / faster / bus / the ## The train is faster than the bus.
+order ## as / as / not / expensive / is / it / I / thought ## It is not as expensive as I thought.
+order ## there / much / isn't / traffic / today ## There isn't much traffic today.
+tr ## Nemáme moc peněz. ## We don't have much money. | We haven't got much money. | We do not have much money.
+tr ## Je to nejlepší restaurace ve městě. ## It's the best restaurant in town. | It is the best restaurant in town. | It's the best restaurant in the city. | It is the best restaurant in the city.
+tr ## Můj bratr je o dva roky starší než já. ## My brother is two years older than me. | My brother is two years older than I am.
+tr ## Praha není tak velká jako Londýn. ## Prague isn't as big as London. | Prague is not as big as London. | Prague isn't as large as London.
+tr ## Můžeš mi dát pár rad? ## Can you give me some advice? | Could you give me some advice? | Can you give me a few tips? | Could you give me a few tips?
+tr ## V lednici je trochu sýra. ## There is a little cheese in the fridge. | There's a little cheese in the fridge. | There is some cheese in the fridge. | There's some cheese in the fridge.
+@text
+Choosing between living in the city and in the country isn't easy. City flats are usually smaller and more expensive than country houses, but you don't need a car, because there are plenty of buses and trams. In the country, there is much less traffic and the air is cleaner, but there are fewer shops and services. For families with young children, the country is often the most attractive option, while young people usually prefer the city because there is more to do in the evenings.
+@q ## Why don't city people need a car, according to the text? ## There is a lot of public transport. / Parking is free. / Cars are too expensive. ## There is a lot of public transport.
+@q ## What is a disadvantage of living in the country? ## fewer shops and services / dirty air / too much traffic ## fewer shops and services
+@q ## Who usually prefers the city? ## young people / families with young children / old people ## young people
+@end
+@text
+We tested three popular coffee machines. The Barista Pro is the most expensive, but it makes the best espresso and is the quietest of the three. The CoffeeMate is much cheaper and almost as good, although it is a little noisier. The QuickCup is the cheapest and the smallest, so it's ideal for a small kitchen, but its coffee isn't as strong as the others. Our choice? If money isn't a problem, buy the Barista Pro; otherwise, the CoffeeMate is the best value.
+@q ## Which machine is the quietest? ## Barista Pro / CoffeeMate / QuickCup ## Barista Pro
+@q ## What is the problem with the QuickCup? ## Its coffee isn't strong enough. / It is too big. / It is too expensive. ## Its coffee isn't strong enough.
+@q ## Which machine offers the best value? ## CoffeeMate / Barista Pro / QuickCup ## CoffeeMate
+@end

@@ -18,12 +18,13 @@ data class Word(
 /** Gramatické / lexikální cvičení z lekce. */
 data class Exercise(
     val id: String,
-    val type: String,          // choose | gap | order | error | transform
+    val type: String,          // choose | gap | order | error | transform | translate | read
     val prompt: String,
     val answer: String,
     val options: List<String> = emptyList(),
     val hint: String = "",
     val lesson: String = "",
+    val text: String = "",     // výchozí text u typu read
 )
 
 data class Lesson(
@@ -37,6 +38,14 @@ data class Lesson(
     val audio: String,
     val pdf: String,
     val words: List<Word>,
+    val exercises: List<Exercise>,
+)
+
+/** Další procvičování na úrovni B1 (nad rámec lekcí). */
+data class PracticePack(
+    val id: String,
+    val topic: String,
+    val topicCz: String,
     val exercises: List<Exercise>,
 )
 
@@ -78,6 +87,20 @@ fun parseLesson(o: JSONObject): Lesson {
                 id = it.getString("id"), type = it.getString("type"), prompt = it.getString("q"),
                 answer = it.getString("a"), options = it.optJSONArray("options").strings(),
                 hint = it.optString("hint"), lesson = id
+            )
+        },
+    )
+}
+
+fun parsePractice(o: JSONObject): PracticePack {
+    val id = o.getString("id")
+    return PracticePack(
+        id = id, topic = o.optString("topic"), topicCz = o.optString("topic_cz"),
+        exercises = o.optJSONArray("exercises").objects().map {
+            Exercise(
+                id = it.getString("id"), type = it.getString("type"), prompt = it.getString("q"),
+                answer = it.getString("a"), options = it.optJSONArray("options").strings(),
+                hint = it.optString("hint"), lesson = id, text = it.optString("text")
             )
         },
     )

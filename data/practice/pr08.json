@@ -1,0 +1,278 @@
+{
+"id": "pr08",
+"topic": "Everyday vocabulary B1",
+"topic_cz": "Běžná slovní zásoba B1",
+"level": "B1",
+"exercises": [
+{
+"id": "pr08-001",
+"type": "choose",
+"q": "I need to ___ (make/do) a phone call.",
+"a": "make"
+},
+{
+"id": "pr08-002",
+"type": "choose",
+"q": "Can you ___ (do/make) me a favour?",
+"a": "do"
+},
+{
+"id": "pr08-003",
+"type": "choose",
+"q": "She ___ (made/did) a lot of mistakes in the test.",
+"a": "made"
+},
+{
+"id": "pr08-004",
+"type": "choose",
+"q": "I always ___ (do/make) my homework after dinner.",
+"a": "do"
+},
+{
+"id": "pr08-005",
+"type": "choose",
+"q": "We ___ (made/did) a decision to move.",
+"a": "made"
+},
+{
+"id": "pr08-006",
+"type": "choose",
+"q": "Could you ___ (lend/borrow) me your pen?",
+"a": "lend"
+},
+{
+"id": "pr08-007",
+"type": "choose",
+"q": "Can I ___ (borrow/lend) your car tomorrow?",
+"a": "borrow"
+},
+{
+"id": "pr08-008",
+"type": "choose",
+"q": "Please ___ (remind/remember) me to buy bread.",
+"a": "remind"
+},
+{
+"id": "pr08-009",
+"type": "choose",
+"q": "I ___ (missed/lost) the bus, so I was late.",
+"a": "missed"
+},
+{
+"id": "pr08-010",
+"type": "choose",
+"q": "The film was really ___ (boring/bored).",
+"a": "boring"
+},
+{
+"id": "pr08-011",
+"type": "choose",
+"q": "I was ___ (surprised/surprising) to see him there.",
+"a": "surprised"
+},
+{
+"id": "pr08-012",
+"type": "choose",
+"q": "He ___ (said/told) a funny joke.",
+"a": "told"
+},
+{
+"id": "pr08-013",
+"type": "choose",
+"q": "Let's ___ (take/have) a break.",
+"a": "take"
+},
+{
+"id": "pr08-014",
+"type": "choose",
+"q": "I ___ (spent/passed) the whole weekend at home.",
+"a": "spent"
+},
+{
+"id": "pr08-015",
+"type": "choose",
+"q": "She ___ (won/earned) first prize in the competition.",
+"a": "won"
+},
+{
+"id": "pr08-016",
+"type": "choose",
+"q": "How much do you ___ (earn/win) a month?",
+"a": "earn"
+},
+{
+"id": "pr08-017",
+"type": "gap",
+"q": "My salary is quite low, so I can't _____ to go on holiday this year.",
+"a": "afford"
+},
+{
+"id": "pr08-018",
+"type": "gap",
+"q": "I'm going to _____ a shower and then we can go.",
+"a": "have | take"
+},
+{
+"id": "pr08-019",
+"type": "gap",
+"q": "Don't forget to _____ the bill before you leave the hotel.",
+"a": "pay"
+},
+{
+"id": "pr08-020",
+"type": "gap",
+"q": "I'm sorry, I didn't _____ to hurt you.",
+"a": "mean"
+},
+{
+"id": "pr08-021",
+"type": "error",
+"q": "I'm very boring today – there's nothing to do.",
+"a": "I'm very bored today – there's nothing to do. | I'm very bored today."
+},
+{
+"id": "pr08-022",
+"type": "error",
+"q": "Can you borrow me some money?",
+"a": "Can you lend me some money?"
+},
+{
+"id": "pr08-023",
+"type": "error",
+"q": "I must make my homework now.",
+"a": "I must do my homework now."
+},
+{
+"id": "pr08-024",
+"type": "error",
+"q": "She said me a secret.",
+"a": "She told me a secret."
+},
+{
+"id": "pr08-025",
+"type": "order",
+"q": "a / mistake / made / terrible / I",
+"a": "I made a terrible mistake."
+},
+{
+"id": "pr08-026",
+"type": "order",
+"q": "me / call / remind / to / mum / my",
+"a": "Remind me to call my mum."
+},
+{
+"id": "pr08-027",
+"type": "order",
+"q": "lot / spend / of / I / a / time / online",
+"a": "I spend a lot of time online."
+},
+{
+"id": "pr08-028",
+"type": "translate",
+"q": "Udělal jsem chybu.",
+"a": "I made a mistake. | I've made a mistake. | I have made a mistake."
+},
+{
+"id": "pr08-029",
+"type": "translate",
+"q": "Můžeš mi půjčit deštník?",
+"a": "Can you lend me an umbrella? | Can you lend me your umbrella? | Could you lend me an umbrella? | Could you lend me your umbrella? | Can I borrow your umbrella?"
+},
+{
+"id": "pr08-030",
+"type": "translate",
+"q": "Ujel mi vlak.",
+"a": "I missed the train. | I've missed the train. | I have missed the train."
+},
+{
+"id": "pr08-031",
+"type": "translate",
+"q": "Ten film byl nudný a já se nudil.",
+"a": "The film was boring and I was bored. | The movie was boring and I was bored."
+},
+{
+"id": "pr08-032",
+"type": "translate",
+"q": "Kolik vyděláváš?",
+"a": "How much do you earn? | How much money do you make? | How much do you make?"
+},
+{
+"id": "pr08-033",
+"type": "translate",
+"q": "Připomeň mi, ať koupím mléko.",
+"a": "Remind me to buy milk. | Remind me to buy some milk. | Please remind me to buy milk."
+},
+{
+"id": "pr08-034",
+"type": "read",
+"q": "What problem did Lucie have?",
+"a": "She rarely had a day off.",
+"options": [
+"She rarely had a day off.",
+"Her salary was too low.",
+"She didn't like her boss."
+],
+"text": "Lucie works in a busy restaurant. She earns a good salary, but she often does overtime and rarely has a day off. Last month she made a big decision: she asked her boss if she could work four days a week instead of five. She knew that she would earn less, but she wanted to spend more time with her family. To her surprise, her boss agreed. Now Lucie is less tired and she has time to do the things she enjoys, like gardening and baking."
+},
+{
+"id": "pr08-035",
+"type": "read",
+"q": "What did she ask her boss for?",
+"a": "a four-day week",
+"options": [
+"a four-day week",
+"more money",
+"a new job"
+],
+"text": "Lucie works in a busy restaurant. She earns a good salary, but she often does overtime and rarely has a day off. Last month she made a big decision: she asked her boss if she could work four days a week instead of five. She knew that she would earn less, but she wanted to spend more time with her family. To her surprise, her boss agreed. Now Lucie is less tired and she has time to do the things she enjoys, like gardening and baking."
+},
+{
+"id": "pr08-036",
+"type": "read",
+"q": "How does Lucie feel now?",
+"a": "less tired",
+"options": [
+"less tired",
+"bored",
+"worried about money"
+],
+"text": "Lucie works in a busy restaurant. She earns a good salary, but she often does overtime and rarely has a day off. Last month she made a big decision: she asked her boss if she could work four days a week instead of five. She knew that she would earn less, but she wanted to spend more time with her family. To her surprise, her boss agreed. Now Lucie is less tired and she has time to do the things she enjoys, like gardening and baking."
+},
+{
+"id": "pr08-037",
+"type": "read",
+"q": "Where was the backpack found?",
+"a": "on a tram",
+"options": [
+"on a tram",
+"at the library",
+"at the station"
+],
+"text": "Lost and found: Yesterday afternoon someone left a black backpack on the number 22 tram. Inside there is a laptop, a blue umbrella and a library book. If the backpack is yours, please come to the lost property office at the main station. You will need to describe the contents and show some ID. The office is open from 8 a.m. to 6 p.m. on weekdays. Items which are not collected within three months will be given to charity."
+},
+{
+"id": "pr08-038",
+"type": "read",
+"q": "What must the owner do to get the backpack back?",
+"a": "describe the contents and show ID",
+"options": [
+"describe the contents and show ID",
+"pay a fee",
+"call the police"
+],
+"text": "Lost and found: Yesterday afternoon someone left a black backpack on the number 22 tram. Inside there is a laptop, a blue umbrella and a library book. If the backpack is yours, please come to the lost property office at the main station. You will need to describe the contents and show some ID. The office is open from 8 a.m. to 6 p.m. on weekdays. Items which are not collected within three months will be given to charity."
+},
+{
+"id": "pr08-039",
+"type": "read",
+"q": "What happens to items nobody collects?",
+"a": "They are given to charity.",
+"options": [
+"They are given to charity.",
+"They are sold.",
+"They are thrown away."
+],
+"text": "Lost and found: Yesterday afternoon someone left a black backpack on the number 22 tram. Inside there is a laptop, a blue umbrella and a library book. If the backpack is yours, please come to the lost property office at the main station. You will need to describe the contents and show some ID. The office is open from 8 a.m. to 6 p.m. on weekdays. Items which are not collected within three months will be given to charity."
+}
+]
+}

@@ -32,7 +32,8 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
         if (lessons.isEmpty()) return emptyList()
         val latest = lessons.last()
         val words = lessons.flatMap { it.words }
-        val drills = lessons.flatMap { it.exercises }
+        val practice = repo.practice.flatMap { it.exercises }
+        val drills = lessons.flatMap { it.exercises } + practice
         val out = mutableListOf<Item>()
         val used = HashSet<String>()
         fun addWord(w: Word) { if (used.add("w:" + w.id)) out += quizFor(w, words) }
@@ -48,9 +49,12 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
         var introduced = 0
         val newWords = (latest.words + lessons.dropLast(1).reversed().flatMap { it.words }).filter { isNew("w:" + it.id) }
         val newDrills = (latest.exercises + lessons.dropLast(1).reversed().flatMap { it.exercises }).filter { isNew("x:" + it.id) }
+        // další látka B1 nad rámec lekcí: střídat typy (gramatika, slovíčka, čtení, překlad)
+        val newPractice = practice.filter { isNew("x:" + it.id) }.shuffled(rnd).groupBy { it.type }.values
+            .map { it.iterator() }.let { its -> buildList { while (its.any { it.hasNext() }) its.forEach { i -> if (i.hasNext()) add(i.next()) } } }
         val pending = ArrayDeque<Item>()
-        val nw = newWords.iterator(); val nd = newDrills.iterator()
-        while (out.size < target && introduced < newBudget && (nw.hasNext() || nd.hasNext())) {
+        val nw = newWords.iterator(); val nd = newDrills.iterator(); val np = newPractice.iterator()
+        while (out.size < target && introduced < newBudget && (nw.hasNext() || nd.hasNext() || np.hasNext())) {
             repeat(2) {
                 if (nw.hasNext() && introduced < newBudget) {
                     val w = nw.next()
@@ -61,6 +65,7 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
                 }
             }
             if (nd.hasNext()) addDrill(nd.next())
+            if (np.hasNext()) { addDrill(np.next()); if (!nw.hasNext() && !nd.hasNext()) introduced++ }
             if (pending.size > 2) out += pending.removeFirst()
         }
         out += pending
@@ -164,7 +169,7 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
     }
 
     fun drillFor(e: Exercise): Item.Drill = when (e.type) {
-        "choose" -> Item.Drill(e, e.options.ifEmpty { parseOptions(e.prompt) }.shuffled(rnd))
+        "choose", "read" -> Item.Drill(e, e.options.ifEmpty { parseOptions(e.prompt) }.shuffled(rnd))
         "order" -> Item.Drill(e, tiles = e.prompt.split("/").map { it.trim() }.filter { it.isNotEmpty() }.shuffled(rnd))
         else -> Item.Drill(e)
     }

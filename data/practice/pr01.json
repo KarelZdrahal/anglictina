@@ -1,0 +1,266 @@
+{
+"id": "pr01",
+"topic": "Present & past tenses",
+"topic_cz": "Přítomné a minulé časy",
+"level": "B1",
+"exercises": [
+{
+"id": "pr01-001",
+"type": "choose",
+"q": "I usually ___ (walk/am walking) to work, but today I'm taking the bus.",
+"a": "walk"
+},
+{
+"id": "pr01-002",
+"type": "choose",
+"q": "Look! It ___ (snows/is snowing) again.",
+"a": "is snowing"
+},
+{
+"id": "pr01-003",
+"type": "choose",
+"q": "This soup ___ (tastes/is tasting) a bit salty.",
+"a": "tastes"
+},
+{
+"id": "pr01-004",
+"type": "choose",
+"q": "I ___ (have known/know) Petra since we were at school.",
+"a": "have known"
+},
+{
+"id": "pr01-005",
+"type": "choose",
+"q": "We ___ (went/have gone) to Croatia last summer.",
+"a": "went"
+},
+{
+"id": "pr01-006",
+"type": "choose",
+"q": "Have you ever ___ (been/went) to Scotland?",
+"a": "been"
+},
+{
+"id": "pr01-007",
+"type": "choose",
+"q": "I ___ (was cooking/cooked) dinner when the phone rang.",
+"a": "was cooking"
+},
+{
+"id": "pr01-008",
+"type": "choose",
+"q": "She ___ (didn't use to/didn't used to) like coffee.",
+"a": "didn't use to"
+},
+{
+"id": "pr01-009",
+"type": "choose",
+"q": "I've ___ (already/yet) finished my homework.",
+"a": "already"
+},
+{
+"id": "pr01-010",
+"type": "choose",
+"q": "Has the parcel arrived ___ (yet/already)?",
+"a": "yet"
+},
+{
+"id": "pr01-011",
+"type": "choose",
+"q": "While we ___ (were walking/walked) in the park, it started to rain.",
+"a": "were walking"
+},
+{
+"id": "pr01-012",
+"type": "choose",
+"q": "He ___ (has worked/works) here for ten years and he still likes it.",
+"a": "has worked"
+},
+{
+"id": "pr01-013",
+"type": "gap",
+"q": "My brother _____ (live) in Brno at the moment, but he's moving soon.",
+"a": "is living | 's living"
+},
+{
+"id": "pr01-014",
+"type": "gap",
+"q": "I _____ (not see) Tom since Christmas.",
+"a": "haven't seen | have not seen"
+},
+{
+"id": "pr01-015",
+"type": "gap",
+"q": "When I was a child, we _____ (use to) spend every summer at my grandparents'.",
+"a": "used to"
+},
+{
+"id": "pr01-016",
+"type": "gap",
+"q": "Where _____ you _____ (go) on holiday last year?",
+"a": "did go"
+},
+{
+"id": "pr01-017",
+"type": "gap",
+"q": "She _____ (just / leave), so you can still catch her at the bus stop.",
+"a": "has just left | 's just left"
+},
+{
+"id": "pr01-018",
+"type": "gap",
+"q": "What _____ you _____ (do) at 8 o'clock last night?",
+"a": "were doing"
+},
+{
+"id": "pr01-019",
+"type": "error",
+"q": "I am knowing the answer.",
+"a": "I know the answer."
+},
+{
+"id": "pr01-020",
+"type": "error",
+"q": "I have seen this film yesterday.",
+"a": "I saw this film yesterday."
+},
+{
+"id": "pr01-021",
+"type": "error",
+"q": "Did you went to the party?",
+"a": "Did you go to the party?"
+},
+{
+"id": "pr01-022",
+"type": "error",
+"q": "She is working here since 2020.",
+"a": "She has worked here since 2020. | She has been working here since 2020."
+},
+{
+"id": "pr01-023",
+"type": "order",
+"q": "have / never / I / sushi / eaten",
+"a": "I have never eaten sushi."
+},
+{
+"id": "pr01-024",
+"type": "order",
+"q": "was / when / it / raining / I / up / woke",
+"a": "It was raining when I woke up."
+},
+{
+"id": "pr01-025",
+"type": "order",
+"q": "did / use / where / live / you / to",
+"a": "Where did you use to live?"
+},
+{
+"id": "pr01-026",
+"type": "translate",
+"q": "Bydlím v Praze deset let.",
+"a": "I have lived in Prague for ten years. | I've lived in Prague for ten years. | I have been living in Prague for ten years. | I've been living in Prague for ten years."
+},
+{
+"id": "pr01-027",
+"type": "translate",
+"q": "Už jsi někdy byl v Londýně?",
+"a": "Have you ever been to London?"
+},
+{
+"id": "pr01-028",
+"type": "translate",
+"q": "Když jsem přišel domů, děti spaly.",
+"a": "When I came home, the children were sleeping. | When I got home, the children were sleeping. | When I came home, the children were asleep. | When I got home, the children were asleep."
+},
+{
+"id": "pr01-029",
+"type": "translate",
+"q": "Dřív jsem hrál na kytaru.",
+"a": "I used to play the guitar. | I used to play guitar."
+},
+{
+"id": "pr01-030",
+"type": "translate",
+"q": "Zrovna teď pracuju na důležitém projektu.",
+"a": "I'm working on an important project right now. | I am working on an important project right now. | I'm working on an important project at the moment. | I am working on an important project at the moment."
+},
+{
+"id": "pr01-031",
+"type": "translate",
+"q": "Ještě jsem neviděl jeho nový film.",
+"a": "I haven't seen his new film yet. | I have not seen his new film yet. | I haven't seen his new movie yet. | I have not seen his new movie yet."
+},
+{
+"id": "pr01-032",
+"type": "read",
+"q": "What did Martin study at university?",
+"a": "economics",
+"options": [
+"economics",
+"medicine",
+"nursing"
+],
+"text": "Martin has worked as a nurse in a large hospital for six years. He didn't plan to become a nurse: at university he studied economics, but he hated sitting in an office all day. One evening, while he was visiting his grandmother in hospital, he talked to a nurse who was looking after her. She told him how much she enjoyed her job. A year later, Martin started a nursing course. Today he usually works night shifts, which he finds tiring, but he says he has never regretted his decision."
+},
+{
+"id": "pr01-033",
+"type": "read",
+"q": "What gave him the idea to change his career?",
+"a": "a conversation with a nurse",
+"options": [
+"a conversation with a nurse",
+"a film about hospitals",
+"his teacher's advice"
+],
+"text": "Martin has worked as a nurse in a large hospital for six years. He didn't plan to become a nurse: at university he studied economics, but he hated sitting in an office all day. One evening, while he was visiting his grandmother in hospital, he talked to a nurse who was looking after her. She told him how much she enjoyed her job. A year later, Martin started a nursing course. Today he usually works night shifts, which he finds tiring, but he says he has never regretted his decision."
+},
+{
+"id": "pr01-034",
+"type": "read",
+"q": "How does Martin feel about his decision now?",
+"a": "He doesn't regret it.",
+"options": [
+"He doesn't regret it.",
+"He wants to go back to an office.",
+"He isn't sure."
+],
+"text": "Martin has worked as a nurse in a large hospital for six years. He didn't plan to become a nurse: at university he studied economics, but he hated sitting in an office all day. One evening, while he was visiting his grandmother in hospital, he talked to a nurse who was looking after her. She told him how much she enjoyed her job. A year later, Martin started a nursing course. Today he usually works night shifts, which he finds tiring, but he says he has never regretted his decision."
+},
+{
+"id": "pr01-035",
+"type": "read",
+"q": "What did the family NOT have at the cottage?",
+"a": "internet",
+"options": [
+"internet",
+"a lake nearby",
+"a TV"
+],
+"text": "When I was a teenager, my family used to spend every August in a small cottage in the mountains. There was no internet and the TV only had two channels, so we spent most of the day outside. My sister and I would go swimming in the lake or pick mushrooms in the forest. In the evenings, my dad would light a fire and tell us stories. The cottage was sold years ago, but I still think about those summers whenever I smell wood smoke."
+},
+{
+"id": "pr01-036",
+"type": "read",
+"q": "What did the dad do in the evenings?",
+"a": "told stories by the fire",
+"options": [
+"told stories by the fire",
+"watched TV",
+"went fishing"
+],
+"text": "When I was a teenager, my family used to spend every August in a small cottage in the mountains. There was no internet and the TV only had two channels, so we spent most of the day outside. My sister and I would go swimming in the lake or pick mushrooms in the forest. In the evenings, my dad would light a fire and tell us stories. The cottage was sold years ago, but I still think about those summers whenever I smell wood smoke."
+},
+{
+"id": "pr01-037",
+"type": "read",
+"q": "What reminds the writer of those summers today?",
+"a": "the smell of wood smoke",
+"options": [
+"the smell of wood smoke",
+"photos",
+"mushrooms"
+],
+"text": "When I was a teenager, my family used to spend every August in a small cottage in the mountains. There was no internet and the TV only had two channels, so we spent most of the day outside. My sister and I would go swimming in the lake or pick mushrooms in the forest. In the evenings, my dad would light a fire and tell us stories. The cottage was sold years ago, but I still think about those summers whenever I smell wood smoke."
+}
+]
+}

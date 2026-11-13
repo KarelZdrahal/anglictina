@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
@@ -211,7 +212,7 @@ private fun Options(options: List<String>, answer: String, phase: Phase, chosen:
             }
             OutlinedButton(
                 onClick = { if (phase == Phase.ASK) onChoose(o) },
-                modifier = Modifier.fillMaxWidth().height(56.dp),
+                modifier = Modifier.fillMaxWidth().heightIn(min = 56.dp),
                 border = BorderStroke(if (color != null) 2.dp else 1.dp, color ?: MaterialTheme.colorScheme.outline),
                 colors = ButtonDefaults.outlinedButtonColors(containerColor = color?.copy(alpha = 0.12f) ?: Color.Transparent)
             ) { Text(o, fontSize = 17.sp, textAlign = TextAlign.Center) }
@@ -328,8 +329,16 @@ private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given:
     var chosen by remember(it) { mutableStateOf("") }
     var overridden by remember(it) { mutableStateOf(false) }
     when (e.type) {
+        "read" -> {
+            Text("Přečti si text", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
+            Surface(color = MaterialTheme.colorScheme.surfaceVariant, shape = MaterialTheme.shapes.medium, modifier = Modifier.fillMaxWidth()) {
+                Text(e.text, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.padding(12.dp))
+            }
+            Text(e.prompt, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+            Options(it.options, e.answer, phase, chosen) { o -> chosen = o; onGrade(if (o.equals(e.answer, true)) 2 else 0) }
+        }
         "choose" -> {
-            Prompt("Vyber správný tvar", SessionBuilder.promptWithBlank(e.prompt))
+            Prompt("Vyber správnou možnost", SessionBuilder.promptWithBlank(e.prompt))
             Options(it.options, e.answer, phase, chosen) { o -> chosen = o; onGrade(if (o.equals(e.answer, true)) 2 else 0) }
         }
         "order" -> {
@@ -350,9 +359,10 @@ private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given:
             if (phase == Phase.FEEDBACK) Verdict(lastCorrect, e.answer)
         }
         else -> {
-            val label = when (e.type) { "gap" -> "Doplň správný tvar slovesa"; "error" -> "Oprav chybu ve větě"; "transform" -> "Utvoř opak slova"; else -> "Odpověz" }
+            val label = when (e.type) { "gap" -> "Doplň správný tvar slovesa"; "error" -> "Oprav chybu ve větě"; "transform" -> "Utvoř opak slova"; "translate" -> "Přelož do angličtiny"; else -> "Odpověz" }
             Prompt(label, e.prompt)
             if (e.type == "gap") Text("Když je mezer víc, napiš odpovědi za sebou (např. „lives is staying“).", style = MaterialTheme.typography.bodySmall)
+            if (e.type == "translate") Text("Uznávají se běžné varianty. Když to napíšeš jinak a správně, potvrď to tlačítkem pod odpovědí.", style = MaterialTheme.typography.bodySmall)
             AnswerField(given, setGiven, phase) { onGrade(if (SessionBuilder.matches(given, e.answer)) 2 else 0) }
             if (phase == Phase.ASK) Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 Button(onClick = { onGrade(if (SessionBuilder.matches(given, e.answer)) 2 else 0) }, enabled = given.isNotBlank()) { Text("Zkontrolovat") }

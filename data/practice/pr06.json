@@ -1,0 +1,272 @@
+{
+"id": "pr06",
+"topic": "Verb patterns, reported speech & questions",
+"topic_cz": "Slovesné vazby, nepřímá řeč a otázky",
+"level": "B1",
+"exercises": [
+{
+"id": "pr06-001",
+"type": "choose",
+"q": "I enjoy ___ (cooking/to cook) for my friends.",
+"a": "cooking"
+},
+{
+"id": "pr06-002",
+"type": "choose",
+"q": "We decided ___ (to stay/staying) at home.",
+"a": "to stay"
+},
+{
+"id": "pr06-003",
+"type": "choose",
+"q": "She's good at ___ (drawing/draw).",
+"a": "drawing"
+},
+{
+"id": "pr06-004",
+"type": "choose",
+"q": "I'm looking forward to ___ (seeing/see) you.",
+"a": "seeing"
+},
+{
+"id": "pr06-005",
+"type": "choose",
+"q": "He promised ___ (to call/calling) me.",
+"a": "to call"
+},
+{
+"id": "pr06-006",
+"type": "choose",
+"q": "Would you mind ___ (closing/to close) the door?",
+"a": "closing"
+},
+{
+"id": "pr06-007",
+"type": "choose",
+"q": "She said that she ___ (was/is) tired, so she went to bed.",
+"a": "was"
+},
+{
+"id": "pr06-008",
+"type": "choose",
+"q": "He told ___ (me/to me) that he had a new job.",
+"a": "me"
+},
+{
+"id": "pr06-009",
+"type": "choose",
+"q": "They asked me where I ___ (lived/did I live).",
+"a": "lived"
+},
+{
+"id": "pr06-010",
+"type": "choose",
+"q": "Can you tell me where the station ___ (is/is it)?",
+"a": "is"
+},
+{
+"id": "pr06-011",
+"type": "choose",
+"q": "She ___ (said/told) she would be late.",
+"a": "said"
+},
+{
+"id": "pr06-012",
+"type": "choose",
+"q": "I'd like ___ (to book/booking) a table for two.",
+"a": "to book"
+},
+{
+"id": "pr06-013",
+"type": "choose",
+"q": "He avoided ___ (answering/to answer) the question.",
+"a": "answering"
+},
+{
+"id": "pr06-014",
+"type": "choose",
+"q": "Do you know what time the shop ___ (opens/does it open)?",
+"a": "opens"
+},
+{
+"id": "pr06-015",
+"type": "gap",
+"q": "I can't afford _____ (buy) a new car.",
+"a": "to buy"
+},
+{
+"id": "pr06-016",
+"type": "gap",
+"q": "They suggested _____ (go) to the cinema.",
+"a": "going"
+},
+{
+"id": "pr06-017",
+"type": "gap",
+"q": "\"I'm hungry,\" she said. → She said she _____ hungry.",
+"a": "was"
+},
+{
+"id": "pr06-018",
+"type": "gap",
+"q": "\"We'll help you,\" they said. → They said they _____ help me.",
+"a": "would"
+},
+{
+"id": "pr06-019",
+"type": "gap",
+"q": "\"Where do you work?\" he asked. → He asked me where I _____.",
+"a": "worked"
+},
+{
+"id": "pr06-020",
+"type": "error",
+"q": "I want that you help me.",
+"a": "I want you to help me."
+},
+{
+"id": "pr06-021",
+"type": "error",
+"q": "She suggested to go for a walk.",
+"a": "She suggested going for a walk."
+},
+{
+"id": "pr06-022",
+"type": "error",
+"q": "He said me that he was busy.",
+"a": "He told me that he was busy. | He said that he was busy. | He told me he was busy."
+},
+{
+"id": "pr06-023",
+"type": "error",
+"q": "Could you tell me where is the bank?",
+"a": "Could you tell me where the bank is?"
+},
+{
+"id": "pr06-024",
+"type": "order",
+"q": "you / know / do / what / is / it / time",
+"a": "Do you know what time it is?"
+},
+{
+"id": "pr06-025",
+"type": "order",
+"q": "me / asked / she / I / if / was / OK",
+"a": "She asked me if I was OK."
+},
+{
+"id": "pr06-026",
+"type": "order",
+"q": "forward / looking / I'm / to / holiday / my",
+"a": "I'm looking forward to my holiday."
+},
+{
+"id": "pr06-027",
+"type": "translate",
+"q": "Řekla mi, že má hlad.",
+"a": "She told me she was hungry. | She told me that she was hungry. | She said she was hungry. | She said that she was hungry."
+},
+{
+"id": "pr06-028",
+"type": "translate",
+"q": "Nevíte, kde je nádraží?",
+"a": "Do you know where the station is? | Do you know where the railway station is? | Do you know where the train station is?"
+},
+{
+"id": "pr06-029",
+"type": "translate",
+"q": "Rád vařím.",
+"a": "I like cooking. | I enjoy cooking. | I like to cook. | I love cooking."
+},
+{
+"id": "pr06-030",
+"type": "translate",
+"q": "Těším se na víkend.",
+"a": "I'm looking forward to the weekend. | I am looking forward to the weekend."
+},
+{
+"id": "pr06-031",
+"type": "translate",
+"q": "Zeptal se mě, odkud jsem.",
+"a": "He asked me where I was from. | He asked me where I came from."
+},
+{
+"id": "pr06-032",
+"type": "translate",
+"q": "Rozhodli jsme se zůstat doma.",
+"a": "We decided to stay at home. | We decided to stay home."
+},
+{
+"id": "pr06-033",
+"type": "read",
+"q": "Where had the writer worked before?",
+"a": "in a hotel",
+"options": [
+"in a hotel",
+"in a travel agency",
+"in a school"
+],
+"text": "Last week I went for a job interview at a travel agency. The manager asked me why I wanted to work there and what experience I had. I told her that I had worked in a hotel for two years and that I enjoyed meeting people from different countries. Then she asked if I could speak any foreign languages. I said I spoke English and a bit of German. At the end, she promised to let me know by Friday. On Thursday she called and said that they had decided to offer me the job!"
+},
+{
+"id": "pr06-034",
+"type": "read",
+"q": "Which languages does the writer speak?",
+"a": "English and some German",
+"options": [
+"English and some German",
+"only English",
+"English and French"
+],
+"text": "Last week I went for a job interview at a travel agency. The manager asked me why I wanted to work there and what experience I had. I told her that I had worked in a hotel for two years and that I enjoyed meeting people from different countries. Then she asked if I could speak any foreign languages. I said I spoke English and a bit of German. At the end, she promised to let me know by Friday. On Thursday she called and said that they had decided to offer me the job!"
+},
+{
+"id": "pr06-035",
+"type": "read",
+"q": "When did the manager call?",
+"a": "on Thursday",
+"options": [
+"on Thursday",
+"on Friday",
+"the next week"
+],
+"text": "Last week I went for a job interview at a travel agency. The manager asked me why I wanted to work there and what experience I had. I told her that I had worked in a hotel for two years and that I enjoyed meeting people from different countries. Then she asked if I could speak any foreign languages. I said I spoke English and a bit of German. At the end, she promised to let me know by Friday. On Thursday she called and said that they had decided to offer me the job!"
+},
+{
+"id": "pr06-036",
+"type": "read",
+"q": "What do most teenagers enjoy?",
+"a": "chatting with friends online",
+"options": [
+"chatting with friends online",
+"doing sport",
+"cooking"
+],
+"text": "A recent survey asked teenagers how they spend their free time. Most of them said they enjoyed chatting with friends online, but many admitted that they spent too much time on their phones. About half said they would like to do more sport, and a third said they wanted to learn a new skill, such as cooking or playing an instrument. When asked what stops them, most answered that they didn't have enough time because of homework."
+},
+{
+"id": "pr06-037",
+"type": "read",
+"q": "What would about half of them like to do?",
+"a": "more sport",
+"options": [
+"more sport",
+"less homework",
+"learn an instrument"
+],
+"text": "A recent survey asked teenagers how they spend their free time. Most of them said they enjoyed chatting with friends online, but many admitted that they spent too much time on their phones. About half said they would like to do more sport, and a third said they wanted to learn a new skill, such as cooking or playing an instrument. When asked what stops them, most answered that they didn't have enough time because of homework."
+},
+{
+"id": "pr06-038",
+"type": "read",
+"q": "Why don't they do these things?",
+"a": "They don't have enough time.",
+"options": [
+"They don't have enough time.",
+"Their parents don't allow it.",
+"It's too expensive."
+],
+"text": "A recent survey asked teenagers how they spend their free time. Most of them said they enjoyed chatting with friends online, but many admitted that they spent too much time on their phones. About half said they would like to do more sport, and a third said they wanted to learn a new skill, such as cooking or playing an instrument. When asked what stops them, most answered that they didn't have enough time because of homework."
+}
+]
+}

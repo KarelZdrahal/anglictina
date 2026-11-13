@@ -1,0 +1,272 @@
+{
+"id": "pr05",
+"topic": "Quantifiers, articles & comparison",
+"topic_cz": "Množství, členy a srovnávání",
+"level": "B1",
+"exercises": [
+{
+"id": "pr05-001",
+"type": "choose",
+"q": "There isn't ___ (much/many) milk left.",
+"a": "much"
+},
+{
+"id": "pr05-002",
+"type": "choose",
+"q": "How ___ (many/much) people came to the meeting?",
+"a": "many"
+},
+{
+"id": "pr05-003",
+"type": "choose",
+"q": "I've got ___ (a few/a little) friends in London.",
+"a": "a few"
+},
+{
+"id": "pr05-004",
+"type": "choose",
+"q": "Can I have ___ (some/any) water, please?",
+"a": "some"
+},
+{
+"id": "pr05-005",
+"type": "choose",
+"q": "There aren't ___ (any/some) tickets left.",
+"a": "any"
+},
+{
+"id": "pr05-006",
+"type": "choose",
+"q": "She gave me some good ___ (advice/advices).",
+"a": "advice"
+},
+{
+"id": "pr05-007",
+"type": "choose",
+"q": "My new flat is ___ (bigger/more big) than the old one.",
+"a": "bigger"
+},
+{
+"id": "pr05-008",
+"type": "choose",
+"q": "This is the ___ (most interesting/interestingest) book I've ever read.",
+"a": "most interesting"
+},
+{
+"id": "pr05-009",
+"type": "choose",
+"q": "Today is ___ (much/very) warmer than yesterday.",
+"a": "much"
+},
+{
+"id": "pr05-010",
+"type": "choose",
+"q": "He isn't ___ (as/so) tall as his brother.",
+"a": "as"
+},
+{
+"id": "pr05-011",
+"type": "choose",
+"q": "I play ___ (the/–) piano, but my sister plays tennis.",
+"a": "the"
+},
+{
+"id": "pr05-012",
+"type": "choose",
+"q": "___ (The/–) life is too short to worry about small things.",
+"a": "–"
+},
+{
+"id": "pr05-013",
+"type": "choose",
+"q": "She's ___ (an/a) honest person.",
+"a": "an"
+},
+{
+"id": "pr05-014",
+"type": "choose",
+"q": "It's the ___ (worst/baddest) weather we've had all year.",
+"a": "worst"
+},
+{
+"id": "pr05-015",
+"type": "gap",
+"q": "This exercise is _____ (easy) than the last one.",
+"a": "easier"
+},
+{
+"id": "pr05-016",
+"type": "gap",
+"q": "Who is the _____ (good) player in your team?",
+"a": "best"
+},
+{
+"id": "pr05-017",
+"type": "gap",
+"q": "We don't have _____ time, so let's hurry.",
+"a": "much"
+},
+{
+"id": "pr05-018",
+"type": "gap",
+"q": "There are only _____ eggs left – we need to buy more.",
+"a": "a few"
+},
+{
+"id": "pr05-019",
+"type": "gap",
+"q": "My grandmother is the _____ (old) person in our family.",
+"a": "oldest"
+},
+{
+"id": "pr05-020",
+"type": "error",
+"q": "I need an information about the trains.",
+"a": "I need some information about the trains. | I need information about the trains."
+},
+{
+"id": "pr05-021",
+"type": "error",
+"q": "She is more taller than me.",
+"a": "She is taller than me. | She is taller than I am."
+},
+{
+"id": "pr05-022",
+"type": "error",
+"q": "There are too much cars in the city centre.",
+"a": "There are too many cars in the city centre."
+},
+{
+"id": "pr05-023",
+"type": "error",
+"q": "He is the most good student in the class.",
+"a": "He is the best student in the class."
+},
+{
+"id": "pr05-024",
+"type": "order",
+"q": "than / is / train / the / faster / bus / the",
+"a": "The train is faster than the bus."
+},
+{
+"id": "pr05-025",
+"type": "order",
+"q": "as / as / not / expensive / is / it / I / thought",
+"a": "It is not as expensive as I thought."
+},
+{
+"id": "pr05-026",
+"type": "order",
+"q": "there / much / isn't / traffic / today",
+"a": "There isn't much traffic today."
+},
+{
+"id": "pr05-027",
+"type": "translate",
+"q": "Nemáme moc peněz.",
+"a": "We don't have much money. | We haven't got much money. | We do not have much money."
+},
+{
+"id": "pr05-028",
+"type": "translate",
+"q": "Je to nejlepší restaurace ve městě.",
+"a": "It's the best restaurant in town. | It is the best restaurant in town. | It's the best restaurant in the city. | It is the best restaurant in the city."
+},
+{
+"id": "pr05-029",
+"type": "translate",
+"q": "Můj bratr je o dva roky starší než já.",
+"a": "My brother is two years older than me. | My brother is two years older than I am."
+},
+{
+"id": "pr05-030",
+"type": "translate",
+"q": "Praha není tak velká jako Londýn.",
+"a": "Prague isn't as big as London. | Prague is not as big as London. | Prague isn't as large as London."
+},
+{
+"id": "pr05-031",
+"type": "translate",
+"q": "Můžeš mi dát pár rad?",
+"a": "Can you give me some advice? | Could you give me some advice? | Can you give me a few tips? | Could you give me a few tips?"
+},
+{
+"id": "pr05-032",
+"type": "translate",
+"q": "V lednici je trochu sýra.",
+"a": "There is a little cheese in the fridge. | There's a little cheese in the fridge. | There is some cheese in the fridge. | There's some cheese in the fridge."
+},
+{
+"id": "pr05-033",
+"type": "read",
+"q": "Why don't city people need a car, according to the text?",
+"a": "There is a lot of public transport.",
+"options": [
+"There is a lot of public transport.",
+"Parking is free.",
+"Cars are too expensive."
+],
+"text": "Choosing between living in the city and in the country isn't easy. City flats are usually smaller and more expensive than country houses, but you don't need a car, because there are plenty of buses and trams. In the country, there is much less traffic and the air is cleaner, but there are fewer shops and services. For families with young children, the country is often the most attractive option, while young people usually prefer the city because there is more to do in the evenings."
+},
+{
+"id": "pr05-034",
+"type": "read",
+"q": "What is a disadvantage of living in the country?",
+"a": "fewer shops and services",
+"options": [
+"fewer shops and services",
+"dirty air",
+"too much traffic"
+],
+"text": "Choosing between living in the city and in the country isn't easy. City flats are usually smaller and more expensive than country houses, but you don't need a car, because there are plenty of buses and trams. In the country, there is much less traffic and the air is cleaner, but there are fewer shops and services. For families with young children, the country is often the most attractive option, while young people usually prefer the city because there is more to do in the evenings."
+},
+{
+"id": "pr05-035",
+"type": "read",
+"q": "Who usually prefers the city?",
+"a": "young people",
+"options": [
+"young people",
+"families with young children",
+"old people"
+],
+"text": "Choosing between living in the city and in the country isn't easy. City flats are usually smaller and more expensive than country houses, but you don't need a car, because there are plenty of buses and trams. In the country, there is much less traffic and the air is cleaner, but there are fewer shops and services. For families with young children, the country is often the most attractive option, while young people usually prefer the city because there is more to do in the evenings."
+},
+{
+"id": "pr05-036",
+"type": "read",
+"q": "Which machine is the quietest?",
+"a": "Barista Pro",
+"options": [
+"Barista Pro",
+"CoffeeMate",
+"QuickCup"
+],
+"text": "We tested three popular coffee machines. The Barista Pro is the most expensive, but it makes the best espresso and is the quietest of the three. The CoffeeMate is much cheaper and almost as good, although it is a little noisier. The QuickCup is the cheapest and the smallest, so it's ideal for a small kitchen, but its coffee isn't as strong as the others. Our choice? If money isn't a problem, buy the Barista Pro; otherwise, the CoffeeMate is the best value."
+},
+{
+"id": "pr05-037",
+"type": "read",
+"q": "What is the problem with the QuickCup?",
+"a": "Its coffee isn't strong enough.",
+"options": [
+"Its coffee isn't strong enough.",
+"It is too big.",
+"It is too expensive."
+],
+"text": "We tested three popular coffee machines. The Barista Pro is the most expensive, but it makes the best espresso and is the quietest of the three. The CoffeeMate is much cheaper and almost as good, although it is a little noisier. The QuickCup is the cheapest and the smallest, so it's ideal for a small kitchen, but its coffee isn't as strong as the others. Our choice? If money isn't a problem, buy the Barista Pro; otherwise, the CoffeeMate is the best value."
+},
+{
+"id": "pr05-038",
+"type": "read",
+"q": "Which machine offers the best value?",
+"a": "CoffeeMate",
+"options": [
+"CoffeeMate",
+"Barista Pro",
+"QuickCup"
+],
+"text": "We tested three popular coffee machines. The Barista Pro is the most expensive, but it makes the best espresso and is the quietest of the three. The CoffeeMate is much cheaper and almost as good, although it is a little noisier. The QuickCup is the cheapest and the smallest, so it's ideal for a small kitchen, but its coffee isn't as strong as the others. Our choice? If money isn't a problem, buy the Barista Pro; otherwise, the CoffeeMate is the best value."
+}
+]
+}

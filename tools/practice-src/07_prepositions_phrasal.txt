@@ -1,0 +1,45 @@
+#Prepositions, phrasal verbs & linkers|Předložky, frázová slovesa a spojky
+choose ## I'll see you ___ (on/in) Monday. ## on
+choose ## She was born ___ (in/on) 1995. ## in
+choose ## We arrived ___ (at/to) the airport too early. ## at
+choose ## I'm interested ___ (in/on) history. ## in
+choose ## It depends ___ (on/of) the weather. ## on
+choose ## Can you look ___ (after/for) my cat while I'm away? ## after
+choose ## I'm looking ___ (for/after) my glasses. Have you seen them? ## for
+choose ## Please turn ___ (off/out) the lights when you leave. ## off
+choose ## We've run ___ (out of/away from) milk. ## out of
+choose ## I gave ___ (up/in) smoking two years ago. ## up
+choose ## ___ (Although/Despite) it was raining, we went for a walk. ## Although
+choose ## I stayed at home ___ (because of/because) the storm. ## because of
+choose ## She's very clever. ___ (However/Although), she's quite lazy. ## However
+choose ## I get ___ (on/up) well with my colleagues. ## on
+gap ## Can you pick me _____ from the station at six? ## up
+gap ## I'm afraid _____ spiders. ## of
+gap ## She's very good _____ maths. ## at
+gap ## We had to put _____ the meeting until next week. ## off
+gap ## _____ the bad weather, the plane landed on time. ## Despite | In spite of
+error ## I'm married with a doctor. ## I'm married to a doctor. | I am married to a doctor.
+error ## We discussed about the problem. ## We discussed the problem.
+error ## Despite it was cold, we swam in the lake. ## Although it was cold, we swam in the lake. | Despite the cold, we swam in the lake.
+error ## I'm waiting you for an hour. ## I've been waiting for you for an hour. | I have been waiting for you for an hour.
+order ## up / early / got / I / morning / this ## I got up early this morning.
+order ## after / looks / grandmother / her / she ## She looks after her grandmother.
+order ## of / because / rain / the / cancelled / was / match / the ## The match was cancelled because of the rain.
+tr ## Uvidíme se v pátek v sedm. ## See you on Friday at seven. | I'll see you on Friday at seven. | See you at seven on Friday. | I'll see you at seven on Friday.
+tr ## Došel nám benzín. ## We've run out of petrol. | We ran out of petrol. | We have run out of petrol. | We've run out of gas. | We ran out of gas.
+tr ## Přestal jsem jíst maso. ## I've given up meat. | I gave up meat. | I stopped eating meat. | I've stopped eating meat. | I gave up eating meat.
+tr ## Přestože byl unavený, pracoval dál. ## Although he was tired, he kept working. | Although he was tired, he went on working. | Although he was tired, he continued working. | Despite being tired, he kept working.
+tr ## Zajímám se o umění. ## I'm interested in art. | I am interested in art.
+tr ## Můžeš se postarat o děti? ## Can you look after the children? | Could you look after the children? | Can you look after the kids? | Can you take care of the children?
+@text
+Last Saturday we set off early for a trip to the mountains. Unfortunately, our car broke down on the motorway, so we had to call for help. While we were waiting, it started to rain. Despite this, we didn't give up. A mechanic arrived after an hour and fixed the problem quickly. We finally got to the hotel in the evening, tired but happy. The next day the weather cleared up and we spent the whole day hiking. In the end, it turned out to be a great weekend.
+@q ## What happened on the motorway? ## The car broke down. / They had an accident. / They got lost. ## The car broke down.
+@q ## How long did they wait for the mechanic? ## about an hour / all day / ten minutes ## about an hour
+@q ## What was the weather like the next day? ## It cleared up. / It rained all day. / It snowed. ## It cleared up.
+@end
+@text
+Many people find it hard to get up early. However, scientists say that some of us are simply "night owls". Although night owls often feel tired in the morning, they are usually more creative in the evening. On the other hand, "early birds" tend to be more productive before lunch. Because of this, some companies now let employees choose their working hours. This means that night owls can start later, while early birds can finish work in the afternoon.
+@q ## When are night owls usually more creative? ## in the evening / in the morning / before lunch ## in the evening
+@q ## What have some companies done? ## let employees choose their hours / closed in the morning / stopped working in the evening ## let employees choose their hours
+@q ## Who can finish work in the afternoon? ## early birds / night owls / managers ## early birds
+@end

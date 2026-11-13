@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -170,6 +170,72 @@
    "id": "pack20",
    "topic": "Idioms & expressions",
    "count": 50
+  }
+ ],
+ "practice": [
+  {
+   "file": "practice/pr01.json",
+   "v": 1,
+   "h": "315de0ffe198",
+   "id": "pr01",
+   "topic": "Present & past tenses",
+   "count": 37
+  },
+  {
+   "file": "practice/pr02.json",
+   "v": 1,
+   "h": "1f40c7e603de",
+   "id": "pr02",
+   "topic": "Future & modal verbs",
+   "count": 36
+  },
+  {
+   "file": "practice/pr03.json",
+   "v": 1,
+   "h": "0430538dbe7b",
+   "id": "pr03",
+   "topic": "Conditionals & time clauses",
+   "count": 36
+  },
+  {
+   "file": "practice/pr04.json",
+   "v": 1,
+   "h": "0fa33963f877",
+   "id": "pr04",
+   "topic": "Passive & relative clauses",
+   "count": 36
+  },
+  {
+   "file": "practice/pr05.json",
+   "v": 1,
+   "h": "843a726acce2",
+   "id": "pr05",
+   "topic": "Quantifiers, articles & comparison",
+   "count": 38
+  },
+  {
+   "file": "practice/pr06.json",
+   "v": 1,
+   "h": "4d5298b426f6",
+   "id": "pr06",
+   "topic": "Verb patterns, reported speech & questions",
+   "count": 38
+  },
+  {
+   "file": "practice/pr07.json",
+   "v": 1,
+   "h": "2ec50b8992bc",
+   "id": "pr07",
+   "topic": "Prepositions, phrasal verbs & linkers",
+   "count": 38
+  },
+  {
+   "file": "practice/pr08.json",
+   "v": 1,
+   "h": "5bde5e94585a",
+   "id": "pr08",
+   "topic": "Everyday vocabulary B1",
+   "count": 39
   }
  ]
 }

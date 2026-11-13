@@ -87,6 +87,7 @@ class Repository(private val ctx: Context) {
     val progress = Progress(File(ctx.filesDir, "progress.json"))
     var lessons: List<Lesson> = emptyList(); private set
     var packs: List<BankPack> = emptyList(); private set
+    var practice: List<PracticePack> = emptyList(); private set
 
     private val dataDir = File(ctx.filesDir, "data").apply { mkdirs() }
 
@@ -112,8 +113,16 @@ class Repository(private val ctx: Context) {
                 readData(e.getString("file"))?.let { t -> runCatching { ps += parsePack(JSONObject(t)) } }
             }
         }
+        val pr = mutableListOf<PracticePack>()
+        idx.optJSONArray("practice")?.let { a ->
+            for (i in 0 until a.length()) {
+                val e = a.getJSONObject(i)
+                readData(e.getString("file"))?.let { t -> runCatching { pr += parsePractice(JSONObject(t)) } }
+            }
+        }
         lessons = ls.sortedBy { it.week }
         packs = ps
+        practice = pr
     }
 
     fun absoluteUrl(rel: String): String = if (rel.startsWith("http")) rel else settings.dataUrl.trimEnd('/') + "/" + rel
@@ -135,11 +144,11 @@ class Repository(private val ctx: Context) {
             val remote = JSONObject(String(fetch(base + "index.json")))
             val localIdx = readData("index.json")?.let { JSONObject(it) }
             val localVersions = HashMap<String, Int>()
-            for (key in listOf("lessons", "bank")) localIdx?.optJSONArray(key)?.let { a ->
+            for (key in listOf("lessons", "bank", "practice")) localIdx?.optJSONArray(key)?.let { a ->
                 for (i in 0 until a.length()) a.getJSONObject(i).let { localVersions[it.getString("file")] = it.optInt("v", 1) }
             }
             var n = 0
-            for (key in listOf("lessons", "bank")) remote.optJSONArray(key)?.let { a ->
+            for (key in listOf("lessons", "bank", "practice")) remote.optJSONArray(key)?.let { a ->
                 for (i in 0 until a.length()) {
                     val e = a.getJSONObject(i)
                     val file = e.getString("file")

@@ -1,0 +1,272 @@
+{
+"id": "pr07",
+"topic": "Prepositions, phrasal verbs & linkers",
+"topic_cz": "Předložky, frázová slovesa a spojky",
+"level": "B1",
+"exercises": [
+{
+"id": "pr07-001",
+"type": "choose",
+"q": "I'll see you ___ (on/in) Monday.",
+"a": "on"
+},
+{
+"id": "pr07-002",
+"type": "choose",
+"q": "She was born ___ (in/on) 1995.",
+"a": "in"
+},
+{
+"id": "pr07-003",
+"type": "choose",
+"q": "We arrived ___ (at/to) the airport too early.",
+"a": "at"
+},
+{
+"id": "pr07-004",
+"type": "choose",
+"q": "I'm interested ___ (in/on) history.",
+"a": "in"
+},
+{
+"id": "pr07-005",
+"type": "choose",
+"q": "It depends ___ (on/of) the weather.",
+"a": "on"
+},
+{
+"id": "pr07-006",
+"type": "choose",
+"q": "Can you look ___ (after/for) my cat while I'm away?",
+"a": "after"
+},
+{
+"id": "pr07-007",
+"type": "choose",
+"q": "I'm looking ___ (for/after) my glasses. Have you seen them?",
+"a": "for"
+},
+{
+"id": "pr07-008",
+"type": "choose",
+"q": "Please turn ___ (off/out) the lights when you leave.",
+"a": "off"
+},
+{
+"id": "pr07-009",
+"type": "choose",
+"q": "We've run ___ (out of/away from) milk.",
+"a": "out of"
+},
+{
+"id": "pr07-010",
+"type": "choose",
+"q": "I gave ___ (up/in) smoking two years ago.",
+"a": "up"
+},
+{
+"id": "pr07-011",
+"type": "choose",
+"q": "___ (Although/Despite) it was raining, we went for a walk.",
+"a": "Although"
+},
+{
+"id": "pr07-012",
+"type": "choose",
+"q": "I stayed at home ___ (because of/because) the storm.",
+"a": "because of"
+},
+{
+"id": "pr07-013",
+"type": "choose",
+"q": "She's very clever. ___ (However/Although), she's quite lazy.",
+"a": "However"
+},
+{
+"id": "pr07-014",
+"type": "choose",
+"q": "I get ___ (on/up) well with my colleagues.",
+"a": "on"
+},
+{
+"id": "pr07-015",
+"type": "gap",
+"q": "Can you pick me _____ from the station at six?",
+"a": "up"
+},
+{
+"id": "pr07-016",
+"type": "gap",
+"q": "I'm afraid _____ spiders.",
+"a": "of"
+},
+{
+"id": "pr07-017",
+"type": "gap",
+"q": "She's very good _____ maths.",
+"a": "at"
+},
+{
+"id": "pr07-018",
+"type": "gap",
+"q": "We had to put _____ the meeting until next week.",
+"a": "off"
+},
+{
+"id": "pr07-019",
+"type": "gap",
+"q": "_____ the bad weather, the plane landed on time.",
+"a": "Despite | In spite of"
+},
+{
+"id": "pr07-020",
+"type": "error",
+"q": "I'm married with a doctor.",
+"a": "I'm married to a doctor. | I am married to a doctor."
+},
+{
+"id": "pr07-021",
+"type": "error",
+"q": "We discussed about the problem.",
+"a": "We discussed the problem."
+},
+{
+"id": "pr07-022",
+"type": "error",
+"q": "Despite it was cold, we swam in the lake.",
+"a": "Although it was cold, we swam in the lake. | Despite the cold, we swam in the lake."
+},
+{
+"id": "pr07-023",
+"type": "error",
+"q": "I'm waiting you for an hour.",
+"a": "I've been waiting for you for an hour. | I have been waiting for you for an hour."
+},
+{
+"id": "pr07-024",
+"type": "order",
+"q": "up / early / got / I / morning / this",
+"a": "I got up early this morning."
+},
+{
+"id": "pr07-025",
+"type": "order",
+"q": "after / looks / grandmother / her / she",
+"a": "She looks after her grandmother."
+},
+{
+"id": "pr07-026",
+"type": "order",
+"q": "of / because / rain / the / cancelled / was / match / the",
+"a": "The match was cancelled because of the rain."
+},
+{
+"id": "pr07-027",
+"type": "translate",
+"q": "Uvidíme se v pátek v sedm.",
+"a": "See you on Friday at seven. | I'll see you on Friday at seven. | See you at seven on Friday. | I'll see you at seven on Friday."
+},
+{
+"id": "pr07-028",
+"type": "translate",
+"q": "Došel nám benzín.",
+"a": "We've run out of petrol. | We ran out of petrol. | We have run out of petrol. | We've run out of gas. | We ran out of gas."
+},
+{
+"id": "pr07-029",
+"type": "translate",
+"q": "Přestal jsem jíst maso.",
+"a": "I've given up meat. | I gave up meat. | I stopped eating meat. | I've stopped eating meat. | I gave up eating meat."
+},
+{
+"id": "pr07-030",
+"type": "translate",
+"q": "Přestože byl unavený, pracoval dál.",
+"a": "Although he was tired, he kept working. | Although he was tired, he went on working. | Although he was tired, he continued working. | Despite being tired, he kept working."
+},
+{
+"id": "pr07-031",
+"type": "translate",
+"q": "Zajímám se o umění.",
+"a": "I'm interested in art. | I am interested in art."
+},
+{
+"id": "pr07-032",
+"type": "translate",
+"q": "Můžeš se postarat o děti?",
+"a": "Can you look after the children? | Could you look after the children? | Can you look after the kids? | Can you take care of the children?"
+},
+{
+"id": "pr07-033",
+"type": "read",
+"q": "What happened on the motorway?",
+"a": "The car broke down.",
+"options": [
+"The car broke down.",
+"They had an accident.",
+"They got lost."
+],
+"text": "Last Saturday we set off early for a trip to the mountains. Unfortunately, our car broke down on the motorway, so we had to call for help. While we were waiting, it started to rain. Despite this, we didn't give up. A mechanic arrived after an hour and fixed the problem quickly. We finally got to the hotel in the evening, tired but happy. The next day the weather cleared up and we spent the whole day hiking. In the end, it turned out to be a great weekend."
+},
+{
+"id": "pr07-034",
+"type": "read",
+"q": "How long did they wait for the mechanic?",
+"a": "about an hour",
+"options": [
+"about an hour",
+"all day",
+"ten minutes"
+],
+"text": "Last Saturday we set off early for a trip to the mountains. Unfortunately, our car broke down on the motorway, so we had to call for help. While we were waiting, it started to rain. Despite this, we didn't give up. A mechanic arrived after an hour and fixed the problem quickly. We finally got to the hotel in the evening, tired but happy. The next day the weather cleared up and we spent the whole day hiking. In the end, it turned out to be a great weekend."
+},
+{
+"id": "pr07-035",
+"type": "read",
+"q": "What was the weather like the next day?",
+"a": "It cleared up.",
+"options": [
+"It cleared up.",
+"It rained all day.",
+"It snowed."
+],
+"text": "Last Saturday we set off early for a trip to the mountains. Unfortunately, our car broke down on the motorway, so we had to call for help. While we were waiting, it started to rain. Despite this, we didn't give up. A mechanic arrived after an hour and fixed the problem quickly. We finally got to the hotel in the evening, tired but happy. The next day the weather cleared up and we spent the whole day hiking. In the end, it turned out to be a great weekend."
+},
+{
+"id": "pr07-036",
+"type": "read",
+"q": "When are night owls usually more creative?",
+"a": "in the evening",
+"options": [
+"in the evening",
+"in the morning",
+"before lunch"
+],
+"text": "Many people find it hard to get up early. However, scientists say that some of us are simply \"night owls\". Although night owls often feel tired in the morning, they are usually more creative in the evening. On the other hand, \"early birds\" tend to be more productive before lunch. Because of this, some companies now let employees choose their working hours. This means that night owls can start later, while early birds can finish work in the afternoon."
+},
+{
+"id": "pr07-037",
+"type": "read",
+"q": "What have some companies done?",
+"a": "let employees choose their hours",
+"options": [
+"let employees choose their hours",
+"closed in the morning",
+"stopped working in the evening"
+],
+"text": "Many people find it hard to get up early. However, scientists say that some of us are simply \"night owls\". Although night owls often feel tired in the morning, they are usually more creative in the evening. On the other hand, \"early birds\" tend to be more productive before lunch. Because of this, some companies now let employees choose their working hours. This means that night owls can start later, while early birds can finish work in the afternoon."
+},
+{
+"id": "pr07-038",
+"type": "read",
+"q": "Who can finish work in the afternoon?",
+"a": "early birds",
+"options": [
+"early birds",
+"night owls",
+"managers"
+],
+"text": "Many people find it hard to get up early. However, scientists say that some of us are simply \"night owls\". Although night owls often feel tired in the morning, they are usually more creative in the evening. On the other hand, \"early birds\" tend to be more productive before lunch. Because of this, some companies now let employees choose their working hours. This means that night owls can start later, while early birds can finish work in the afternoon."
+}
+]
+}

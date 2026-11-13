@@ -1,0 +1,260 @@
+{
+"id": "pr03",
+"topic": "Conditionals & time clauses",
+"topic_cz": "Podmínkové a časové věty",
+"level": "B1",
+"exercises": [
+{
+"id": "pr03-001",
+"type": "choose",
+"q": "If you heat ice, it ___ (melts/will melt).",
+"a": "melts"
+},
+{
+"id": "pr03-002",
+"type": "choose",
+"q": "If it rains tomorrow, we ___ (will stay/would stay) at home.",
+"a": "will stay"
+},
+{
+"id": "pr03-003",
+"type": "choose",
+"q": "If I ___ (had/have) more money, I would travel round the world.",
+"a": "had"
+},
+{
+"id": "pr03-004",
+"type": "choose",
+"q": "I'll call you as soon as I ___ (get/will get) home.",
+"a": "get"
+},
+{
+"id": "pr03-005",
+"type": "choose",
+"q": "If I ___ (were/am) you, I'd accept the job offer.",
+"a": "were"
+},
+{
+"id": "pr03-006",
+"type": "choose",
+"q": "We won't go out ___ (unless/if) the weather improves.",
+"a": "unless"
+},
+{
+"id": "pr03-007",
+"type": "choose",
+"q": "What would you do if you ___ (won/win) the lottery?",
+"a": "won"
+},
+{
+"id": "pr03-008",
+"type": "choose",
+"q": "When she ___ (finishes/will finish) university, she wants to work abroad.",
+"a": "finishes"
+},
+{
+"id": "pr03-009",
+"type": "choose",
+"q": "If you don't hurry, you ___ (will miss/would miss) the bus.",
+"a": "will miss"
+},
+{
+"id": "pr03-010",
+"type": "choose",
+"q": "I ___ (would buy/will buy) a bigger flat if they weren't so expensive.",
+"a": "would buy"
+},
+{
+"id": "pr03-011",
+"type": "choose",
+"q": "Take an umbrella ___ (in case/if not) it rains.",
+"a": "in case"
+},
+{
+"id": "pr03-012",
+"type": "choose",
+"q": "If he ___ (doesn't/won't) phone soon, I'll start to worry.",
+"a": "doesn't"
+},
+{
+"id": "pr03-013",
+"type": "gap",
+"q": "If you _____ (press) this button, the machine starts.",
+"a": "press"
+},
+{
+"id": "pr03-014",
+"type": "gap",
+"q": "If I _____ (be) taller, I would play basketball.",
+"a": "were | was"
+},
+{
+"id": "pr03-015",
+"type": "gap",
+"q": "I _____ (tell) you if I hear any news.",
+"a": "will tell | 'll tell"
+},
+{
+"id": "pr03-016",
+"type": "gap",
+"q": "If we _____ (not leave) now, we'll be late.",
+"a": "don't leave | do not leave"
+},
+{
+"id": "pr03-017",
+"type": "gap",
+"q": "She would be happier if she _____ (not work) so much.",
+"a": "didn't work | did not work"
+},
+{
+"id": "pr03-018",
+"type": "error",
+"q": "If I will see him, I will tell him.",
+"a": "If I see him, I will tell him. | If I see him, I'll tell him."
+},
+{
+"id": "pr03-019",
+"type": "error",
+"q": "If I would have time, I would help you.",
+"a": "If I had time, I would help you. | If I had time, I'd help you."
+},
+{
+"id": "pr03-020",
+"type": "error",
+"q": "I'll wait here until you will come back.",
+"a": "I'll wait here until you come back. | I will wait here until you come back."
+},
+{
+"id": "pr03-021",
+"type": "error",
+"q": "Unless you don't study, you'll fail.",
+"a": "Unless you study, you'll fail. | Unless you study, you will fail. | If you don't study, you'll fail."
+},
+{
+"id": "pr03-022",
+"type": "order",
+"q": "if / do / would / what / you / lost / your / job / you",
+"a": "What would you do if you lost your job?"
+},
+{
+"id": "pr03-023",
+"type": "order",
+"q": "soon / as / call / I'll / you / as / arrive / I",
+"a": "I'll call you as soon as I arrive."
+},
+{
+"id": "pr03-024",
+"type": "order",
+"q": "unless / you / ask / won't / help / he",
+"a": "He won't help unless you ask."
+},
+{
+"id": "pr03-025",
+"type": "translate",
+"q": "Kdybych měl čas, šel bych s tebou.",
+"a": "If I had time, I would go with you. | If I had time, I'd go with you. | If I had time, I would come with you. | If I had time, I'd come with you."
+},
+{
+"id": "pr03-026",
+"type": "translate",
+"q": "Jestli zítra bude hezky, pojedeme k moři.",
+"a": "If the weather is nice tomorrow, we'll go to the seaside. | If it's nice tomorrow, we'll go to the seaside. | If the weather is nice tomorrow, we will go to the sea. | If it is nice tomorrow, we will go to the seaside. | If the weather is good tomorrow, we'll go to the seaside."
+},
+{
+"id": "pr03-027",
+"type": "translate",
+"q": "Zavolám ti, až přijedu.",
+"a": "I'll call you when I arrive. | I will call you when I arrive. | I'll call you when I get there. | I'll phone you when I arrive."
+},
+{
+"id": "pr03-028",
+"type": "translate",
+"q": "Na tvém místě bych to nedělal.",
+"a": "If I were you, I wouldn't do that. | If I were you, I wouldn't do it. | If I were you, I would not do that. | I wouldn't do that if I were you."
+},
+{
+"id": "pr03-029",
+"type": "translate",
+"q": "Nepůjdu tam, pokud nepůjdeš taky.",
+"a": "I won't go there unless you go too. | I won't go unless you go too. | I won't go there if you don't go too. | I will not go there unless you go too."
+},
+{
+"id": "pr03-030",
+"type": "translate",
+"q": "Když voda dosáhne 100 stupňů, vaří se.",
+"a": "When water reaches 100 degrees, it boils. | If water reaches 100 degrees, it boils. | If you heat water to 100 degrees, it boils."
+},
+{
+"id": "pr03-031",
+"type": "read",
+"q": "According to the text, what often happens to winners' relationships?",
+"a": "They can become difficult.",
+"options": [
+"They can become difficult.",
+"They get much better.",
+"Nothing changes."
+],
+"text": "Many people dream about winning the lottery, but research shows that a big win doesn't always make people happier. If someone suddenly becomes rich, their friends and family often start asking for money, and relationships can become difficult. Some winners give up their jobs and then feel bored and lonely. Experts say that if you won a large amount, the best thing would be to wait a few months before making any big decisions. They also recommend talking to a financial adviser before you spend anything."
+},
+{
+"id": "pr03-032",
+"type": "read",
+"q": "Why do some winners feel bored?",
+"a": "They stop working.",
+"options": [
+"They stop working.",
+"They travel too much.",
+"They have no money."
+],
+"text": "Many people dream about winning the lottery, but research shows that a big win doesn't always make people happier. If someone suddenly becomes rich, their friends and family often start asking for money, and relationships can become difficult. Some winners give up their jobs and then feel bored and lonely. Experts say that if you won a large amount, the best thing would be to wait a few months before making any big decisions. They also recommend talking to a financial adviser before you spend anything."
+},
+{
+"id": "pr03-033",
+"type": "read",
+"q": "What do experts recommend?",
+"a": "waiting before big decisions",
+"options": [
+"waiting before big decisions",
+"spending quickly",
+"keeping the job a secret"
+],
+"text": "Many people dream about winning the lottery, but research shows that a big win doesn't always make people happier. If someone suddenly becomes rich, their friends and family often start asking for money, and relationships can become difficult. Some winners give up their jobs and then feel bored and lonely. Experts say that if you won a large amount, the best thing would be to wait a few months before making any big decisions. They also recommend talking to a financial adviser before you spend anything."
+},
+{
+"id": "pr03-034",
+"type": "read",
+"q": "What happens if you return the bicycle after 8 p.m.?",
+"a": "You pay 10 euros.",
+"options": [
+"You pay 10 euros.",
+"You can't borrow another one.",
+"Nothing."
+],
+"text": "Our hotel offers free bicycles to all guests. If you would like to borrow one, please ask at reception. Bicycles must be returned by 8 p.m. If you return a bicycle late, we will charge a fee of 10 euros. Helmets are available in all sizes. Unless you are an experienced cyclist, we recommend the flat route along the river rather than the mountain path. In case of a problem with your bicycle, please call the number on the key ring."
+},
+{
+"id": "pr03-035",
+"type": "read",
+"q": "Which route is recommended for most guests?",
+"a": "the river route",
+"options": [
+"the river route",
+"the mountain path",
+"the city centre"
+],
+"text": "Our hotel offers free bicycles to all guests. If you would like to borrow one, please ask at reception. Bicycles must be returned by 8 p.m. If you return a bicycle late, we will charge a fee of 10 euros. Helmets are available in all sizes. Unless you are an experienced cyclist, we recommend the flat route along the river rather than the mountain path. In case of a problem with your bicycle, please call the number on the key ring."
+},
+{
+"id": "pr03-036",
+"type": "read",
+"q": "What should you do if the bicycle breaks?",
+"a": "call the number on the key ring",
+"options": [
+"call the number on the key ring",
+"leave it on the road",
+"repair it yourself"
+],
+"text": "Our hotel offers free bicycles to all guests. If you would like to borrow one, please ask at reception. Bicycles must be returned by 8 p.m. If you return a bicycle late, we will charge a fee of 10 euros. Helmets are available in all sizes. Unless you are an experienced cyclist, we recommend the flat route along the river rather than the mountain path. In case of a problem with your bicycle, please call the number on the key ring."
+}
+]
+}

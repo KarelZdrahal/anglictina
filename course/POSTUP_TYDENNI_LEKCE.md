@@ -26,6 +26,10 @@ Každý čtvrtek ráno se vytvoří další lekce (datum v sylabu = čtvrtek, kd
 4. Zkopíruj `Lekce_XX_*.pdf` → `data/lessons/LXX.pdf`, `Lekce_XX_poslech.mp3` → `data/lessons/LXX.mp3`.
 5. Přidej nové téma do zásoby slov: `tools/bank-src/NN_tema.txt` (50 položek, `en|cz|příklad|úroveň`; úroveň B1+ / B2 / C1,
    přibližně 20 % B1+, 50 % B2, 30 % C1; žádná základní B1 slova), bez duplicit s existujícími balíčky; pak `python3 tools/build_bank.py`.
+5b. Rozšiř procvičování B1 v aplikaci: nový soubor `tools/practice-src/NN_tema.txt` (≈35 položek na úrovni B1,
+   navázat na `review_b1` této lekce a na látku minulých lekcí, ale ne doslova stejné věty): mix typů choose, gap, error,
+   order, tr (překlad z češtiny, více variant oddělených „ | “) a 2 krátké texty s 3 otázkami (@text … @q … @end);
+   formát viz hlavička `tools/build_practice.py`; pak `python3 tools/build_practice.py`.
 6. `python3 tools/export_app.py lessons-src/lesson_XX.json` (aktualizuje `data/index.json`).
 7. Aktualizuj `course/stav_kurzu.json` (záznam lekce, `next_week`, `notes_for_next`).
 8. Commit + push do `main`. Aplikace si nový obsah stáhne sama.

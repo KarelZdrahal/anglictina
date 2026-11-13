@@ -59,8 +59,8 @@ def export(src):
 def rebuild_index():
     idx_path = os.path.join(DATA, 'index.json')
     old = json.load(open(idx_path)) if os.path.exists(idx_path) else {}
-    oldv = {e['file']: e.get('v', 1) for k in ('lessons', 'bank') for e in old.get(k, [])}
-    oldh = {e['file']: e.get('h') for k in ('lessons', 'bank') for e in old.get(k, [])}
+    oldv = {e['file']: e.get('v', 1) for k in ('lessons', 'bank', 'practice') for e in old.get(k, [])}
+    oldh = {e['file']: e.get('h') for k in ('lessons', 'bank', 'practice') for e in old.get(k, [])}
     import hashlib
     def entry(rel, **kw):
         h = hashlib.sha1(open(os.path.join(DATA, rel), 'rb').read()).hexdigest()[:12]
@@ -78,8 +78,16 @@ def rebuild_index():
             if f.endswith('.json'):
                 j = json.load(open(os.path.join(bd, f)))
                 bank.append(entry(f'bank/{f}', id=j['id'], topic=j['topic'], count=len(j['words'])))
-    json.dump(dict(version=old.get('version', 0) + 1, lessons=lessons, bank=bank), open(idx_path, 'w'), ensure_ascii=False, indent=1)
-    print(f"index: {len(lessons)} lekcí, {len(bank)} témat zásoby, {sum(b['count'] for b in bank)} slov")
+    practice = []
+    pd = os.path.join(DATA, 'practice')
+    if os.path.isdir(pd):
+        for f in sorted(os.listdir(pd)):
+            if f.endswith('.json'):
+                j = json.load(open(os.path.join(pd, f)))
+                practice.append(entry(f'practice/{f}', id=j['id'], topic=j['topic'], count=len(j['exercises'])))
+    json.dump(dict(version=old.get('version', 0) + 1, lessons=lessons, bank=bank, practice=practice), open(idx_path, 'w'), ensure_ascii=False, indent=1)
+    print(f"index: {len(lessons)} lekcí, {len(bank)} témat zásoby, {sum(b['count'] for b in bank)} slov, "
+          f"{len(practice)} sad procvičování B1, {sum(p['count'] for p in practice)} cvičení")
 
 if __name__ == '__main__':
     for s in sys.argv[1:]:

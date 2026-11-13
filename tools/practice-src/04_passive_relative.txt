@@ -1,0 +1,43 @@
+#Passive & relative clauses|Trpný rod a vztažné věty
+choose ## English ___ (is spoken/speaks) all over the world. ## is spoken
+choose ## The bridge ___ (was built/built) in the 14th century. ## was built
+choose ## My bike ___ (was stolen/stole) last night. ## was stolen
+choose ## The results ___ (will be announced/will announce) next week. ## will be announced
+choose ## The woman ___ (who/which) lives next door is a doctor. ## who
+choose ## This is the book ___ (that/who) I told you about. ## that
+choose ## That's the restaurant ___ (where/which) we had our first date. ## where
+choose ## He's the man ___ (whose/who's) car was stolen. ## whose
+choose ## The film, ___ (which/that) was made in 1999, is still popular. ## which
+choose ## Our house ___ (is being painted/is painting) at the moment. ## is being painted
+choose ## These cars ___ (are made/make) in the Czech Republic. ## are made
+choose ## I've lost the keys ___ (which/where) you gave me. ## which
+gap ## The Eiffel Tower _____ (visit) by millions of people every year. ## is visited
+gap ## The letter _____ (send) yesterday. ## was sent
+gap ## The new hospital _____ (open) next year. ## will be opened | is going to be opened
+gap ## The girl _____ brother is in my class is very friendly. ## whose
+gap ## Do you know a shop _____ I can buy cheap shoes? ## where
+error ## The museum was build in 1890. ## The museum was built in 1890.
+error ## The man which helped me was very kind. ## The man who helped me was very kind. | The man that helped me was very kind.
+error ## My car is repairing at the garage. ## My car is being repaired at the garage.
+error ## This is the town where I was born there. ## This is the town where I was born.
+order ## was / by / painted / the / picture / Picasso ## The picture was painted by Picasso.
+order ## who / the / teacher / us / taught / left / has ## The teacher who taught us has left.
+order ## are / here / not / allowed / dogs ## Dogs are not allowed here.
+tr ## Tenhle dům byl postaven před sto lety. ## This house was built a hundred years ago. | This house was built 100 years ago. | This house was built one hundred years ago.
+tr ## Ten muž, který bydlí naproti, je kuchař. ## The man who lives opposite is a cook. | The man who lives opposite is a chef. | The man that lives opposite is a chef. | The man who lives across the street is a chef.
+tr ## Moje auto se právě opravuje. ## My car is being repaired right now. | My car is being repaired at the moment. | My car is being repaired now.
+tr ## Tohle je kavárna, kde jsme se poprvé potkali. ## This is the café where we first met. | This is the cafe where we first met. | This is the café where we met for the first time.
+tr ## Ten dopis bude doručen zítra. ## The letter will be delivered tomorrow.
+tr ## Kamarádka, jejíž otec je pilot, hodně cestuje. ## My friend whose father is a pilot travels a lot. | A friend whose father is a pilot travels a lot. | My friend, whose father is a pilot, travels a lot.
+@text
+The Charles Bridge in Prague, which connects the Old Town with the Lesser Town, was built in the 14th century. It was started in 1357 during the reign of Charles IV, who gave the bridge its later name. For centuries it was the only way across the river. The statues which line the bridge were added much later, mostly around 1700. Today the original statues are kept in a museum and the ones that visitors see are copies. The bridge is crossed by thousands of tourists every day, which is why many locals avoid it.
+@q ## When was the bridge started? ## in 1357 / around 1700 / in the 19th century ## in 1357
+@q ## Where are the original statues today? ## in a museum / on the bridge / in a church ## in a museum
+@q ## Why do many locals avoid the bridge? ## It is too crowded. / It is dangerous. / It is closed at night. ## It is too crowded.
+@end
+@text
+Hi everyone! Our apartment block is being renovated this summer. The windows will be replaced in June and the lifts will be repaired in July. While the work is being done, the main entrance will be closed and residents who live on floors 1–4 should use the side door. Parcels that are delivered during this period will be left at the caretaker's office. If you have any questions, please contact Mr Novák, whose number is on the notice board.
+@q ## What will happen in June? ## The windows will be replaced. / The lifts will be repaired. / The entrance will be painted. ## The windows will be replaced.
+@q ## Where will parcels be left? ## at the caretaker's office / at the side door / at the post office ## at the caretaker's office
+@q ## How can residents contact Mr Novák? ## His number is on the notice board. / They can email him. / He lives on the 1st floor. ## His number is on the notice board.
+@end

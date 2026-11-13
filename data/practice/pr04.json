@@ -1,0 +1,260 @@
+{
+"id": "pr04",
+"topic": "Passive & relative clauses",
+"topic_cz": "Trpný rod a vztažné věty",
+"level": "B1",
+"exercises": [
+{
+"id": "pr04-001",
+"type": "choose",
+"q": "English ___ (is spoken/speaks) all over the world.",
+"a": "is spoken"
+},
+{
+"id": "pr04-002",
+"type": "choose",
+"q": "The bridge ___ (was built/built) in the 14th century.",
+"a": "was built"
+},
+{
+"id": "pr04-003",
+"type": "choose",
+"q": "My bike ___ (was stolen/stole) last night.",
+"a": "was stolen"
+},
+{
+"id": "pr04-004",
+"type": "choose",
+"q": "The results ___ (will be announced/will announce) next week.",
+"a": "will be announced"
+},
+{
+"id": "pr04-005",
+"type": "choose",
+"q": "The woman ___ (who/which) lives next door is a doctor.",
+"a": "who"
+},
+{
+"id": "pr04-006",
+"type": "choose",
+"q": "This is the book ___ (that/who) I told you about.",
+"a": "that"
+},
+{
+"id": "pr04-007",
+"type": "choose",
+"q": "That's the restaurant ___ (where/which) we had our first date.",
+"a": "where"
+},
+{
+"id": "pr04-008",
+"type": "choose",
+"q": "He's the man ___ (whose/who's) car was stolen.",
+"a": "whose"
+},
+{
+"id": "pr04-009",
+"type": "choose",
+"q": "The film, ___ (which/that) was made in 1999, is still popular.",
+"a": "which"
+},
+{
+"id": "pr04-010",
+"type": "choose",
+"q": "Our house ___ (is being painted/is painting) at the moment.",
+"a": "is being painted"
+},
+{
+"id": "pr04-011",
+"type": "choose",
+"q": "These cars ___ (are made/make) in the Czech Republic.",
+"a": "are made"
+},
+{
+"id": "pr04-012",
+"type": "choose",
+"q": "I've lost the keys ___ (which/where) you gave me.",
+"a": "which"
+},
+{
+"id": "pr04-013",
+"type": "gap",
+"q": "The Eiffel Tower _____ (visit) by millions of people every year.",
+"a": "is visited"
+},
+{
+"id": "pr04-014",
+"type": "gap",
+"q": "The letter _____ (send) yesterday.",
+"a": "was sent"
+},
+{
+"id": "pr04-015",
+"type": "gap",
+"q": "The new hospital _____ (open) next year.",
+"a": "will be opened | is going to be opened"
+},
+{
+"id": "pr04-016",
+"type": "gap",
+"q": "The girl _____ brother is in my class is very friendly.",
+"a": "whose"
+},
+{
+"id": "pr04-017",
+"type": "gap",
+"q": "Do you know a shop _____ I can buy cheap shoes?",
+"a": "where"
+},
+{
+"id": "pr04-018",
+"type": "error",
+"q": "The museum was build in 1890.",
+"a": "The museum was built in 1890."
+},
+{
+"id": "pr04-019",
+"type": "error",
+"q": "The man which helped me was very kind.",
+"a": "The man who helped me was very kind. | The man that helped me was very kind."
+},
+{
+"id": "pr04-020",
+"type": "error",
+"q": "My car is repairing at the garage.",
+"a": "My car is being repaired at the garage."
+},
+{
+"id": "pr04-021",
+"type": "error",
+"q": "This is the town where I was born there.",
+"a": "This is the town where I was born."
+},
+{
+"id": "pr04-022",
+"type": "order",
+"q": "was / by / painted / the / picture / Picasso",
+"a": "The picture was painted by Picasso."
+},
+{
+"id": "pr04-023",
+"type": "order",
+"q": "who / the / teacher / us / taught / left / has",
+"a": "The teacher who taught us has left."
+},
+{
+"id": "pr04-024",
+"type": "order",
+"q": "are / here / not / allowed / dogs",
+"a": "Dogs are not allowed here."
+},
+{
+"id": "pr04-025",
+"type": "translate",
+"q": "Tenhle dům byl postaven před sto lety.",
+"a": "This house was built a hundred years ago. | This house was built 100 years ago. | This house was built one hundred years ago."
+},
+{
+"id": "pr04-026",
+"type": "translate",
+"q": "Ten muž, který bydlí naproti, je kuchař.",
+"a": "The man who lives opposite is a cook. | The man who lives opposite is a chef. | The man that lives opposite is a chef. | The man who lives across the street is a chef."
+},
+{
+"id": "pr04-027",
+"type": "translate",
+"q": "Moje auto se právě opravuje.",
+"a": "My car is being repaired right now. | My car is being repaired at the moment. | My car is being repaired now."
+},
+{
+"id": "pr04-028",
+"type": "translate",
+"q": "Tohle je kavárna, kde jsme se poprvé potkali.",
+"a": "This is the café where we first met. | This is the cafe where we first met. | This is the café where we met for the first time."
+},
+{
+"id": "pr04-029",
+"type": "translate",
+"q": "Ten dopis bude doručen zítra.",
+"a": "The letter will be delivered tomorrow."
+},
+{
+"id": "pr04-030",
+"type": "translate",
+"q": "Kamarádka, jejíž otec je pilot, hodně cestuje.",
+"a": "My friend whose father is a pilot travels a lot. | A friend whose father is a pilot travels a lot. | My friend, whose father is a pilot, travels a lot."
+},
+{
+"id": "pr04-031",
+"type": "read",
+"q": "When was the bridge started?",
+"a": "in 1357",
+"options": [
+"in 1357",
+"around 1700",
+"in the 19th century"
+],
+"text": "The Charles Bridge in Prague, which connects the Old Town with the Lesser Town, was built in the 14th century. It was started in 1357 during the reign of Charles IV, who gave the bridge its later name. For centuries it was the only way across the river. The statues which line the bridge were added much later, mostly around 1700. Today the original statues are kept in a museum and the ones that visitors see are copies. The bridge is crossed by thousands of tourists every day, which is why many locals avoid it."
+},
+{
+"id": "pr04-032",
+"type": "read",
+"q": "Where are the original statues today?",
+"a": "in a museum",
+"options": [
+"in a museum",
+"on the bridge",
+"in a church"
+],
+"text": "The Charles Bridge in Prague, which connects the Old Town with the Lesser Town, was built in the 14th century. It was started in 1357 during the reign of Charles IV, who gave the bridge its later name. For centuries it was the only way across the river. The statues which line the bridge were added much later, mostly around 1700. Today the original statues are kept in a museum and the ones that visitors see are copies. The bridge is crossed by thousands of tourists every day, which is why many locals avoid it."
+},
+{
+"id": "pr04-033",
+"type": "read",
+"q": "Why do many locals avoid the bridge?",
+"a": "It is too crowded.",
+"options": [
+"It is too crowded.",
+"It is dangerous.",
+"It is closed at night."
+],
+"text": "The Charles Bridge in Prague, which connects the Old Town with the Lesser Town, was built in the 14th century. It was started in 1357 during the reign of Charles IV, who gave the bridge its later name. For centuries it was the only way across the river. The statues which line the bridge were added much later, mostly around 1700. Today the original statues are kept in a museum and the ones that visitors see are copies. The bridge is crossed by thousands of tourists every day, which is why many locals avoid it."
+},
+{
+"id": "pr04-034",
+"type": "read",
+"q": "What will happen in June?",
+"a": "The windows will be replaced.",
+"options": [
+"The windows will be replaced.",
+"The lifts will be repaired.",
+"The entrance will be painted."
+],
+"text": "Hi everyone! Our apartment block is being renovated this summer. The windows will be replaced in June and the lifts will be repaired in July. While the work is being done, the main entrance will be closed and residents who live on floors 1–4 should use the side door. Parcels that are delivered during this period will be left at the caretaker's office. If you have any questions, please contact Mr Novák, whose number is on the notice board."
+},
+{
+"id": "pr04-035",
+"type": "read",
+"q": "Where will parcels be left?",
+"a": "at the caretaker's office",
+"options": [
+"at the caretaker's office",
+"at the side door",
+"at the post office"
+],
+"text": "Hi everyone! Our apartment block is being renovated this summer. The windows will be replaced in June and the lifts will be repaired in July. While the work is being done, the main entrance will be closed and residents who live on floors 1–4 should use the side door. Parcels that are delivered during this period will be left at the caretaker's office. If you have any questions, please contact Mr Novák, whose number is on the notice board."
+},
+{
+"id": "pr04-036",
+"type": "read",
+"q": "How can residents contact Mr Novák?",
+"a": "His number is on the notice board.",
+"options": [
+"His number is on the notice board.",
+"They can email him.",
+"He lives on the 1st floor."
+],
+"text": "Hi everyone! Our apartment block is being renovated this summer. The windows will be replaced in June and the lifts will be repaired in July. While the work is being done, the main entrance will be closed and residents who live on floors 1–4 should use the side door. Parcels that are delivered during this period will be left at the caretaker's office. If you have any questions, please contact Mr Novák, whose number is on the notice board."
+}
+]
+}
