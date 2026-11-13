@@ -45,7 +45,7 @@ class Player(private val rule: ComposeTestRule, private val rnd: Random) {
         for (step in 0 until maxSteps) {
             rule.mainClock.advanceTimeBy(300)
             rule.waitForIdle()
-            if (has("Skvělá práce") || has("Nic k procvičení")) break
+            if (has("Skvělá práce") || has("Nic k procvičení")) { if (seen.isEmpty()) println("KONEC HNED (krok $step):\n${dump()}"); break }
             val tag = currentTag() ?: error("na obrazovce není položka (krok $step)\n${dump()}")
             if (tag == last) sameInRow++ else { sameInRow = 0; seen += tag }
             last = tag
@@ -116,7 +116,7 @@ class AppFlowTest {
             p.click("Učit se")
             val a = p.play(); println("APP bank: ${a.size} položek: ${a.take(30)}")
             assertTrue("bank: jen ${a.size}", a.size >= 15)
-            p.click("Ještě 5 minut")
+            p.click("Ještě 5 minut"); rule.mainClock.advanceTimeBy(1000); rule.waitForIdle()
             val b = p.play(); println("APP bank +5: ${b.size} položek: ${b.take(30)}")
             assertTrue("bank +5: jen ${b.size}", b.size >= 10)
             p.click("Hotovo"); rule.mainClock.advanceTimeBy(1000); rule.waitForIdle()
