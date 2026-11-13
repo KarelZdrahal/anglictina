@@ -45,6 +45,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.ImeAction
@@ -148,7 +149,7 @@ fun SessionScreen(
                 return@Column
             }
             val item = queue[idx]
-            Column(Modifier.weight(1f).verticalScroll(rememberScrollState()), verticalArrangement = Arrangement.spacedBy(14.dp)) {
+            Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).testTag("item|$idx|${item.cardId}"), verticalArrangement = Arrangement.spacedBy(14.dp)) {
                 when (item) {
                     is Item.Vocab -> VocabItem(item, phase, lastCorrect, given, { given = it }, speech, repo.settings.speakAuto,
                         onIntroDone = { introduced++; next() }, onGrade = { grade(item, it) })
@@ -212,7 +213,7 @@ private fun Options(options: List<String>, answer: String, phase: Phase, chosen:
             }
             OutlinedButton(
                 onClick = { if (phase == Phase.ASK) onChoose(o) },
-                modifier = Modifier.fillMaxWidth().heightIn(min = 56.dp),
+                modifier = Modifier.fillMaxWidth().heightIn(min = 56.dp).testTag("option"),
                 border = BorderStroke(if (color != null) 2.dp else 1.dp, color ?: MaterialTheme.colorScheme.outline),
                 colors = ButtonDefaults.outlinedButtonColors(containerColor = color?.copy(alpha = 0.12f) ?: Color.Transparent)
             ) { Text(o, fontSize = 17.sp, textAlign = TextAlign.Center) }
@@ -348,7 +349,7 @@ private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given:
                 it.tiles.forEachIndexed { i, t ->
                     val used = i in picked
                     OutlinedButton(onClick = { if (phase == Phase.ASK) { if (used) picked.remove(i) else picked.add(i) } },
-                        enabled = phase == Phase.ASK,
+                        enabled = phase == Phase.ASK, modifier = Modifier.testTag(if (used) "tile-used" else "tile"),
                         colors = ButtonDefaults.outlinedButtonColors(containerColor = if (used) MaterialTheme.colorScheme.primaryContainer else Color.Transparent)) { Text(t) }
                 }
             }
