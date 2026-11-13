@@ -1,41 +1,51 @@
 #Sport & fitness|Sport a kondice
-compete|soutěžit|Over 200 athletes will compete.|B1
-competition|soutěž|She won a cooking competition.|B1
-championship|mistrovství|The World Championship starts next week.|B1
-tournament|turnaj|We're playing in a tennis tournament.|B1
-team|tým|Which team do you support?|A2
-coach|trenér|Our coach is very strict.|B1
-referee|rozhodčí|The referee gave him a red card.|B1
-score|skóre; skórovat|What's the score?|B1
-draw|remíza; remizovat|The match ended in a draw.|B1
-beat|porazit|We beat them 3–1.|B1
-win|vyhrát|Who won the race?|A2
-lose|prohrát|We lost the final.|A2
-opponent|soupeř|Her opponent was much younger.|B2
-fan|fanoušek|The fans were singing.|B1
-stadium|stadion|The stadium holds 50,000 people.|B1
-pitch|hřiště (fotbalové)|The players are on the pitch.|B2
-court|kurt|The tennis courts are behind the school.|B1
-track|dráha|They run on the track every morning.|B1
-train|trénovat|She trains five days a week.|B1
-warm up|rozcvičit se|Always warm up before running.|B1
-stretch|protahovat se|Stretch after exercise.|B1
-sweat|potit se; pot|I was sweating after the run.|B1
-work out|cvičit|I work out at the gym.|B1
-gym|posilovna|I go to the gym after work.|A2
-marathon|maraton|He ran his first marathon.|B1
-record|rekord|She broke the world record.|B1
-medal|medaile|He won a gold medal.|B1
-amateur|amatér(ský)|He plays for an amateur club.|B2
-professional|profesionální|She's a professional footballer.|B1
-injury time|nastavený čas|They scored in injury time.|B2
-spectator|divák|Thousands of spectators watched the race.|B2
-take up|začít (s koníčkem)|I've taken up yoga.|B1
-give up|vzdát, přestat|Don't give up now!|B1
-challenge|výzva|Running a marathon is a real challenge.|B1
-fit|v kondici|You look very fit.|B1
-stamina|výdrž|Swimming builds stamina.|C1
-equipment|vybavení|Skiing equipment is expensive.|B1
-extreme sports|extrémní sporty|He loves extreme sports like base jumping.|B2
-cheer|fandit, povzbuzovat|The crowd cheered loudly.|B1
-team spirit|týmový duch|Our team spirit is amazing.|B2
+work out|cvičit|I work out four times a week.|B2
+warm up|rozcvičit se|Always warm up first.|B2
+cool down|vydýchat se, zklidnit po cvičení|Stretch to cool down.|B2
+build up stamina|budovat výdrž|Running builds up stamina.|C1
+pull a hamstring|natáhnout si hamstring|He pulled a hamstring in the final.|C1
+be out of shape|být bez kondice|I'm really out of shape.|B2
+get back into shape|dostat se zpátky do formy|I want to get back into shape.|B2
+personal best|osobní rekord|She set a new personal best.|C1
+break a record|překonat rekord|He broke the world record.|B2
+qualify for|kvalifikovat se na|They qualified for the World Cup.|B2
+knockout stage|vyřazovací fáze|We reached the knockout stage.|C1
+underdog|outsider, ten s menšími šancemi|The underdogs won the cup.|C1
+favourite|favorit|They're the favourites to win.|B2
+level the score|vyrovnat skóre|They levelled the score in the last minute.|C1
+equaliser|vyrovnávací gól|He scored the equaliser.|C1
+a nail-biting finish|napínavý závěr|It was a nail-biting finish.|C1
+a landslide victory|drtivé vítězství|They won by a landslide.|C1
+narrowly miss|těsně minout|She narrowly missed a medal.|C1
+be knocked out|být vyřazen|We were knocked out in the semi-finals.|B2
+home advantage|výhoda domácího prostředí|They have home advantage.|C1
+sportsmanship|sportovní chování, fair play|He showed great sportsmanship.|C1
+doping|doping|He was banned for doping.|C1
+performance-enhancing drugs|podpůrné látky|Performance-enhancing drugs are banned.|C1
+sedentary|sedavý|Most office jobs are sedentary.|C1
+take up|začít s (koníčkem)|I've taken up climbing.|B2
+give it your all|dát do toho všechno|Give it your all in the final!|C1
+go the distance|vydržet do konce|Nobody thought he'd go the distance.|C1
+be in the running|mít šanci (vyhrát)|She's still in the running for gold.|C1
+neck and neck|těsně vedle sebe, nastejno|The two runners were neck and neck.|C1
+a level playing field|rovné podmínky|We want a level playing field.|C1
+move the goalposts|měnit pravidla během hry|They keep moving the goalposts.|C1
+on the ball|bystrý, ve střehu|She's really on the ball.|C1
+throw in the towel|hodit flintu do žita|Don't throw in the towel yet.|C1
+a whole new ball game|úplně jiná situace|Managing people is a whole new ball game.|C1
+spectator sport|sport pro diváky|Golf isn't a great spectator sport.|C1
+endurance|vytrvalost|Marathons test your endurance.|C1
+flexibility|ohebnost|Yoga improves flexibility.|B2
+hydrated|hydratovaný|Stay hydrated during the race.|B2
+cheer on|povzbuzovat|Fans cheered on the team.|B2
+retire from|ukončit kariéru v|She retired from tennis at 30.|B2
+take part in|zúčastnit se|I took part in a half-marathon.|B1+
+win a match|vyhrát zápas|We won the match 2–1.|B1+
+lose a game|prohrát hru|We lost the game in the last minute.|B1+
+a draw|remíza|The game ended in a draw.|B1+
+a coach|trenér|Our coach is very strict.|B1+
+train hard|tvrdě trénovat|She trains hard every day.|B1+
+a team-mate|spoluhráč|My team-mates are great.|B1+
+score a goal|dát gól|He scored two goals.|B1+
+go jogging|jít si zaběhat|I go jogging before work.|B1+
+a fan|fanoušek|I'm a big fan of tennis.|B1+

@@ -2,272 +2,125 @@
 "id": "pack06",
 "topic": "Home & housing",
 "topic_cz": "Bydlení a domov",
-"level": "A2/B1/B2",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b06-rent",
-"en": "rent",
-"cz": "nájem; pronajmout si",
-"ex": "The rent is due on the first of the month.",
-"level": "B1"
-},
-{
-"id": "b06-landlord",
-"en": "landlord",
-"cz": "pronajímatel",
-"ex": "Our landlord is very nice.",
-"level": "B1"
-},
-{
-"id": "b06-tenant",
-"en": "tenant",
-"cz": "nájemník",
-"ex": "The tenants complained about the heating.",
+"id": "b06-do-up",
+"en": "do up",
+"cz": "zrenovovat, opravit",
+"ex": "They're doing up an old cottage.",
 "level": "B2"
-},
-{
-"id": "b06-flatmate",
-"en": "flatmate",
-"cz": "spolubydlící",
-"ex": "I share a flat with two flatmates.",
-"level": "B1"
-},
-{
-"id": "b06-move-house",
-"en": "move house",
-"cz": "stěhovat se",
-"ex": "We're moving house next month.",
-"level": "B1"
-},
-{
-"id": "b06-neighbourhood",
-"en": "neighbourhood",
-"cz": "čtvrť, okolí",
-"ex": "It's a quiet neighbourhood.",
-"level": "B1"
-},
-{
-"id": "b06-suburbs",
-"en": "suburbs",
-"cz": "předměstí",
-"ex": "They live in the suburbs.",
-"level": "B1"
-},
-{
-"id": "b06-detached-house",
-"en": "detached house",
-"cz": "samostatně stojící dům",
-"ex": "They bought a detached house with a garden.",
-"level": "B2"
-},
-{
-"id": "b06-semi-detached-house",
-"en": "semi-detached house",
-"cz": "dvojdům",
-"ex": "We live in a semi-detached house.",
-"level": "B2"
-},
-{
-"id": "b06-terraced-house",
-"en": "terraced house",
-"cz": "řadový dům",
-"ex": "Terraced houses are typical in England.",
-"level": "B2"
-},
-{
-"id": "b06-block-of-flats",
-"en": "block of flats",
-"cz": "panelák, činžovní dům",
-"ex": "I grew up in a block of flats.",
-"level": "B1"
-},
-{
-"id": "b06-spacious",
-"en": "spacious",
-"cz": "prostorný",
-"ex": "The living room is very spacious.",
-"level": "B2"
-},
-{
-"id": "b06-cosy",
-"en": "cosy",
-"cz": "útulný",
-"ex": "What a cosy little flat!",
-"level": "B1"
 },
 {
 "id": "b06-cramped",
 "en": "cramped",
 "cz": "stísněný",
-"ex": "The kitchen is a bit cramped.",
+"ex": "The flat is a bit cramped.",
 "level": "B2"
 },
 {
-"id": "b06-furnished",
-"en": "furnished",
-"cz": "zařízený (nábytkem)",
-"ex": "The flat is fully furnished.",
-"level": "B1"
-},
-{
-"id": "b06-utility-bills",
-"en": "utility bills",
-"cz": "účty za energie",
-"ex": "Utility bills are included in the rent.",
+"id": "b06-spacious",
+"en": "spacious",
+"cz": "prostorný",
+"ex": "It's a spacious three-bedroom flat.",
 "level": "B2"
 },
 {
-"id": "b06-heating",
-"en": "heating",
-"cz": "topení",
-"ex": "The heating doesn't work.",
-"level": "B1"
+"id": "b06-poky",
+"en": "poky",
+"cz": "těsný, malý (místnost)",
+"ex": "My first room was a poky little box.",
+"level": "C1"
 },
 {
-"id": "b06-leak",
-"en": "leak",
-"cz": "únik, protékat",
-"ex": "There's a leak in the bathroom.",
+"id": "b06-draughty",
+"en": "draughty",
+"cz": "kde táhne",
+"ex": "Old houses can be draughty.",
+"level": "C1"
+},
+{
+"id": "b06-damp",
+"en": "damp",
+"cz": "vlhký, plesnivý",
+"ex": "The basement is damp.",
 "level": "B2"
 },
 {
-"id": "b06-repair",
-"en": "repair",
-"cz": "opravit; oprava",
-"ex": "The landlord should repair the boiler.",
-"level": "B1"
-},
-{
-"id": "b06-decorate",
-"en": "decorate",
-"cz": "vymalovat, vyzdobit",
-"ex": "We're decorating the bedroom.",
-"level": "B1"
-},
-{
-"id": "b06-do-up",
-"en": "do up",
-"cz": "zrekonstruovat",
-"ex": "They're doing up an old farmhouse.",
+"id": "b06-run-down",
+"en": "run-down",
+"cz": "zchátralý",
+"ex": "They bought a run-down farmhouse.",
 "level": "B2"
 },
 {
-"id": "b06-housework",
-"en": "housework",
-"cz": "domácí práce",
-"ex": "I hate doing housework.",
-"level": "B1"
-},
-{
-"id": "b06-do-the-washing-up",
-"en": "do the washing-up",
-"cz": "umýt nádobí",
-"ex": "It's your turn to do the washing-up.",
-"level": "B1"
-},
-{
-"id": "b06-hoover",
-"en": "hoover",
-"cz": "vysávat",
-"ex": "I hoover the flat every Saturday.",
-"level": "B1"
-},
-{
-"id": "b06-tidy-up",
-"en": "tidy up",
-"cz": "uklidit",
-"ex": "Please tidy up your room.",
-"level": "B1"
-},
-{
-"id": "b06-mess",
-"en": "mess",
-"cz": "nepořádek",
-"ex": "What a mess!",
-"level": "B1"
-},
-{
-"id": "b06-cupboard",
-"en": "cupboard",
-"cz": "skříňka",
-"ex": "The cups are in the cupboard.",
-"level": "A2"
-},
-{
-"id": "b06-drawer",
-"en": "drawer",
-"cz": "zásuvka",
-"ex": "The keys are in the top drawer.",
-"level": "B1"
-},
-{
-"id": "b06-shelf",
-"en": "shelf",
-"cz": "police",
-"ex": "Put the books on the shelf.",
-"level": "B1"
-},
-{
-"id": "b06-balcony",
-"en": "balcony",
-"cz": "balkon",
-"ex": "We have breakfast on the balcony.",
-"level": "A2"
-},
-{
-"id": "b06-attic",
-"en": "attic",
-"cz": "půda, podkroví",
-"ex": "We keep old things in the attic.",
-"level": "B1"
-},
-{
-"id": "b06-basement",
-"en": "basement",
-"cz": "suterén, sklep",
-"ex": "The washing machine is in the basement.",
-"level": "B1"
-},
-{
-"id": "b06-doorbell",
-"en": "doorbell",
-"cz": "zvonek",
-"ex": "The doorbell rang.",
-"level": "B1"
-},
-{
-"id": "b06-view",
-"en": "view",
-"cz": "výhled",
-"ex": "The flat has a great view of the river.",
-"level": "B1"
-},
-{
-"id": "b06-noisy",
-"en": "noisy",
-"cz": "hlučný",
-"ex": "The street is very noisy at night.",
-"level": "B1"
-},
-{
-"id": "b06-property",
-"en": "property",
-"cz": "nemovitost",
-"ex": "Property prices are rising.",
+"id": "b06-well-maintained",
+"en": "well-maintained",
+"cz": "dobře udržovaný",
+"ex": "The garden is well-maintained.",
 "level": "B2"
 },
 {
-"id": "b06-estate-agent",
-"en": "estate agent",
-"cz": "realitní makléř",
-"ex": "The estate agent showed us three flats.",
+"id": "b06-up-and-coming",
+"en": "up-and-coming",
+"cz": "rozvíjející se (čtvrť)",
+"ex": "It's an up-and-coming area.",
+"level": "C1"
+},
+{
+"id": "b06-gentrification",
+"en": "gentrification",
+"cz": "gentrifikace",
+"ex": "Gentrification has pushed rents up.",
+"level": "C1"
+},
+{
+"id": "b06-commuter-belt",
+"en": "commuter belt",
+"cz": "satelitní městečka kolem velkého města",
+"ex": "They live in the commuter belt.",
+"level": "C1"
+},
+{
+"id": "b06-landlord",
+"en": "landlord",
+"cz": "pronajímatel",
+"ex": "My landlord refuses to fix the heating.",
 "level": "B2"
 },
 {
-"id": "b06-deposit",
-"en": "deposit",
-"cz": "kauce; záloha",
-"ex": "We paid a two-month deposit.",
+"id": "b06-tenancy-agreement",
+"en": "tenancy agreement",
+"cz": "nájemní smlouva",
+"ex": "Read the tenancy agreement carefully.",
+"level": "C1"
+},
+{
+"id": "b06-evict",
+"en": "evict",
+"cz": "vystěhovat (soudně)",
+"ex": "They were evicted for not paying rent.",
+"level": "C1"
+},
+{
+"id": "b06-get-on-the-property-ladder",
+"en": "get on the property ladder",
+"cz": "pořídit si první nemovitost",
+"ex": "It's hard for young people to get on the property ladder.",
+"level": "C1"
+},
+{
+"id": "b06-move-in",
+"en": "move in",
+"cz": "nastěhovat se",
+"ex": "We moved in last week.",
+"level": "B2"
+},
+{
+"id": "b06-move-out",
+"en": "move out",
+"cz": "odstěhovat se",
+"ex": "When are you moving out?",
 "level": "B2"
 },
 {
@@ -278,11 +131,228 @@
 "level": "B2"
 },
 {
-"id": "b06-homesick",
-"en": "homesick",
-"cz": "stýskající se po domově",
-"ex": "I was homesick during my first month abroad.",
-"level": "B1"
+"id": "b06-downsize",
+"en": "downsize",
+"cz": "přestěhovat se do menšího",
+"ex": "After the kids left, they downsized.",
+"level": "C1"
+},
+{
+"id": "b06-house-warming-party",
+"en": "house-warming party",
+"cz": "kolaudační večírek",
+"ex": "We're having a house-warming party.",
+"level": "B2"
+},
+{
+"id": "b06-put-up-shelves",
+"en": "put up shelves",
+"cz": "pověsit police",
+"ex": "I need to put up some shelves.",
+"level": "B2"
+},
+{
+"id": "b06-diy",
+"en": "DIY",
+"cz": "kutilství, udělej si sám",
+"ex": "He loves DIY.",
+"level": "B2"
+},
+{
+"id": "b06-clutter",
+"en": "clutter",
+"cz": "nepořádek, harampádí",
+"ex": "I need to get rid of the clutter.",
+"level": "C1"
+},
+{
+"id": "b06-declutter",
+"en": "declutter",
+"cz": "zbavit se zbytečností",
+"ex": "I spent the weekend decluttering.",
+"level": "C1"
+},
+{
+"id": "b06-tidy-up",
+"en": "tidy up",
+"cz": "uklidit",
+"ex": "Tidy up before the guests arrive.",
+"level": "B2"
+},
+{
+"id": "b06-do-the-chores",
+"en": "do the chores",
+"cz": "dělat domácí práce",
+"ex": "We take turns doing the chores.",
+"level": "B2"
+},
+{
+"id": "b06-leaky-tap",
+"en": "leaky tap",
+"cz": "kapající kohoutek",
+"ex": "We've got a leaky tap in the kitchen.",
+"level": "C1"
+},
+{
+"id": "b06-blocked-drain",
+"en": "blocked drain",
+"cz": "ucpaný odpad",
+"ex": "The plumber fixed the blocked drain.",
+"level": "C1"
+},
+{
+"id": "b06-fuse",
+"en": "fuse",
+"cz": "pojistka",
+"ex": "A fuse has blown.",
+"level": "C1"
+},
+{
+"id": "b06-boiler",
+"en": "boiler",
+"cz": "kotel",
+"ex": "The boiler broke down.",
+"level": "B2"
+},
+{
+"id": "b06-utility-bills",
+"en": "utility bills",
+"cz": "účty za energie",
+"ex": "Utility bills have gone up.",
+"level": "B2"
+},
+{
+"id": "b06-open-plan",
+"en": "open-plan",
+"cz": "otevřený (prostor bez příček)",
+"ex": "We have an open-plan kitchen.",
+"level": "C1"
+},
+{
+"id": "b06-en-suite",
+"en": "en suite",
+"cz": "s vlastní koupelnou",
+"ex": "The bedroom has an en suite bathroom.",
+"level": "C1"
+},
+{
+"id": "b06-loft-conversion",
+"en": "loft conversion",
+"cz": "vestavba do podkroví",
+"ex": "We're planning a loft conversion.",
+"level": "C1"
+},
+{
+"id": "b06-feel-at-home",
+"en": "feel at home",
+"cz": "cítit se jako doma",
+"ex": "Make yourself at home.",
+"level": "B2"
+},
+{
+"id": "b06-homely",
+"en": "homely",
+"cz": "útulný, domácký",
+"ex": "The hotel has a homely atmosphere.",
+"level": "C1"
+},
+{
+"id": "b06-nosy-neighbour",
+"en": "nosy neighbour",
+"cz": "zvědavý soused",
+"ex": "Our nosy neighbour watches everything.",
+"level": "B2"
+},
+{
+"id": "b06-noise-complaint",
+"en": "noise complaint",
+"cz": "stížnost na hluk",
+"ex": "We got a noise complaint.",
+"level": "B2"
+},
+{
+"id": "b06-house-sit",
+"en": "house-sit",
+"cz": "hlídat dům (v nepřítomnosti majitele)",
+"ex": "I'm house-sitting for my aunt.",
+"level": "C1"
+},
+{
+"id": "b06-mortgage-repayments",
+"en": "mortgage repayments",
+"cz": "splátky hypotéky",
+"ex": "Our mortgage repayments are high.",
+"level": "C1"
+},
+{
+"id": "b06-rent-a-flat",
+"en": "rent a flat",
+"cz": "pronajmout si byt",
+"ex": "We rent a flat in the centre.",
+"level": "B1+"
+},
+{
+"id": "b06-share-a-flat",
+"en": "share a flat",
+"cz": "bydlet ve sdíleném bytě",
+"ex": "I share a flat with two students.",
+"level": "B1+"
+},
+{
+"id": "b06-flatmate",
+"en": "flatmate",
+"cz": "spolubydlící",
+"ex": "My flatmate is very tidy.",
+"level": "B1+"
+},
+{
+"id": "b06-neighbourhood",
+"en": "neighbourhood",
+"cz": "čtvrť, okolí",
+"ex": "It's a quiet neighbourhood.",
+"level": "B1+"
+},
+{
+"id": "b06-furnished",
+"en": "furnished",
+"cz": "zařízený",
+"ex": "The flat is fully furnished.",
+"level": "B1+"
+},
+{
+"id": "b06-do-the-housework",
+"en": "do the housework",
+"cz": "uklízet, dělat domácí práce",
+"ex": "I do the housework on Saturdays.",
+"level": "B1+"
+},
+{
+"id": "b06-the-suburbs",
+"en": "the suburbs",
+"cz": "předměstí",
+"ex": "They moved to the suburbs.",
+"level": "B1+"
+},
+{
+"id": "b06-a-view-of",
+"en": "a view of",
+"cz": "výhled na",
+"ex": "We have a view of the river.",
+"level": "B1+"
+},
+{
+"id": "b06-the-heating",
+"en": "the heating",
+"cz": "topení",
+"ex": "The heating isn't working.",
+"level": "B1+"
+},
+{
+"id": "b06-redecorate",
+"en": "redecorate",
+"cz": "vymalovat, předělat",
+"ex": "We're redecorating the kitchen.",
+"level": "B1+"
 }
 ]
 }

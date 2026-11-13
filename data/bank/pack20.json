@@ -1,288 +1,358 @@
 {
 "id": "pack20",
-"topic": "Idioms & useful expressions",
-"topic_cz": "Idiomy a užitečné výrazy",
-"level": "B1/B2/C1",
+"topic": "Idioms & expressions",
+"topic_cz": "Idiomy a ustálená spojení",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b20-a-piece-of-cake",
-"en": "a piece of cake",
-"cz": "hračka, brnkačka",
-"ex": "The test was a piece of cake.",
-"level": "B2"
+"id": "b20-the-elephant-in-the-room",
+"en": "the elephant in the room",
+"cz": "nepříjemné téma, o kterém se mlčí",
+"ex": "Let's talk about the elephant in the room.",
+"level": "C1"
 },
 {
-"id": "b20-break-the-ice",
-"en": "break the ice",
-"cz": "prolomit ledy",
-"ex": "A joke can help break the ice.",
-"level": "B2"
+"id": "b20-a-blessing-in-disguise",
+"en": "a blessing in disguise",
+"cz": "štěstí v neštěstí",
+"ex": "Losing that job was a blessing in disguise.",
+"level": "C1"
+},
+{
+"id": "b20-beat-around-the-bush",
+"en": "beat around the bush",
+"cz": "chodit kolem horké kaše",
+"ex": "Stop beating around the bush.",
+"level": "C1"
+},
+{
+"id": "b20-bite-off-more-than-you-can-chew",
+"en": "bite off more than you can chew",
+"cz": "vzít si víc, než zvládne",
+"ex": "I've bitten off more than I can chew.",
+"level": "C1"
+},
+{
+"id": "b20-call-the-shots",
+"en": "call the shots",
+"cz": "rozhodovat, velet",
+"ex": "She calls the shots in this office.",
+"level": "C1"
+},
+{
+"id": "b20-cut-to-the-chase",
+"en": "cut to the chase",
+"cz": "přejít k věci",
+"ex": "Let's cut to the chase.",
+"level": "C1"
+},
+{
+"id": "b20-get-cold-feet",
+"en": "get cold feet",
+"cz": "dostat strach (couvnout)",
+"ex": "He got cold feet before the wedding.",
+"level": "C1"
+},
+{
+"id": "b20-go-back-to-square-one",
+"en": "go back to square one",
+"cz": "začít znovu od nuly",
+"ex": "The plan failed – back to square one.",
+"level": "C1"
 },
 {
 "id": "b20-hit-the-nail-on-the-head",
 "en": "hit the nail on the head",
-"cz": "trefit hřebíček na hlavičku",
+"cz": "trefit se",
 "ex": "You've hit the nail on the head.",
 "level": "C1"
 },
 {
-"id": "b20-cost-an-arm-and-a-leg",
-"en": "cost an arm and a leg",
-"cz": "stát majlant",
-"ex": "The new phone cost an arm and a leg.",
+"id": "b20-in-the-same-boat",
+"en": "in the same boat",
+"cz": "na tom stejně",
+"ex": "We're all in the same boat.",
 "level": "B2"
+},
+{
+"id": "b20-jump-on-the-bandwagon",
+"en": "jump on the bandwagon",
+"cz": "svézt se s davem",
+"ex": "Everyone's jumping on the bandwagon.",
+"level": "C1"
+},
+{
+"id": "b20-keep-sb-posted",
+"en": "keep sb posted",
+"cz": "průběžně informovat",
+"ex": "Keep me posted.",
+"level": "B2"
+},
+{
+"id": "b20-let-the-cat-out-of-the-bag",
+"en": "let the cat out of the bag",
+"cz": "vyzradit tajemství",
+"ex": "Who let the cat out of the bag?",
+"level": "C1"
+},
+{
+"id": "b20-miss-the-boat",
+"en": "miss the boat",
+"cz": "propásnout příležitost",
+"ex": "We missed the boat on that deal.",
+"level": "C1"
+},
+{
+"id": "b20-on-the-fence",
+"en": "on the fence",
+"cz": "nerozhodnutý",
+"ex": "I'm still on the fence.",
+"level": "C1"
 },
 {
 "id": "b20-once-in-a-blue-moon",
 "en": "once in a blue moon",
 "cz": "jednou za uherský rok",
-"ex": "I go to the cinema once in a blue moon.",
+"ex": "I eat meat once in a blue moon.",
 "level": "B2"
 },
 {
-"id": "b20-under-the-weather",
-"en": "under the weather",
-"cz": "necítit se dobře",
-"ex": "I'm feeling under the weather today.",
-"level": "B2"
+"id": "b20-play-it-by-ear",
+"en": "play it by ear",
+"cz": "improvizovat",
+"ex": "Let's play it by ear.",
+"level": "C1"
 },
 {
-"id": "b20-on-the-same-page",
-"en": "on the same page",
-"cz": "myslet si totéž, mít shodu",
-"ex": "Let's make sure we're on the same page.",
-"level": "B2"
+"id": "b20-pull-sb-s-leg",
+"en": "pull sb's leg",
+"cz": "dělat si z někoho legraci",
+"ex": "Are you pulling my leg?",
+"level": "C1"
+},
+{
+"id": "b20-rock-the-boat",
+"en": "rock the boat",
+"cz": "dělat problémy, čeřit vodu",
+"ex": "Don't rock the boat.",
+"level": "C1"
+},
+{
+"id": "b20-sit-on-the-fence",
+"en": "sit on the fence",
+"cz": "nezaujmout stanovisko",
+"ex": "You can't sit on the fence forever.",
+"level": "C1"
 },
 {
 "id": "b20-the-last-straw",
 "en": "the last straw",
 "cz": "poslední kapka",
-"ex": "His rude email was the last straw.",
+"ex": "That was the last straw.",
+"level": "B2"
+},
+{
+"id": "b20-the-tip-of-the-iceberg",
+"en": "the tip of the iceberg",
+"cz": "špička ledovce",
+"ex": "This is just the tip of the iceberg.",
 "level": "C1"
 },
 {
-"id": "b20-in-hot-water",
-"en": "in hot water",
-"cz": "v průšvihu",
-"ex": "He's in hot water with his boss.",
+"id": "b20-throw-sb-in-at-the-deep-end",
+"en": "throw sb in at the deep end",
+"cz": "hodit někoho do vody (bez přípravy)",
+"ex": "They threw me in at the deep end.",
 "level": "C1"
 },
 {
-"id": "b20-keep-an-eye-on",
-"en": "keep an eye on",
-"cz": "dohlížet na",
-"ex": "Can you keep an eye on my bag?",
-"level": "B2"
-},
-{
-"id": "b20-get-the-hang-of",
-"en": "get the hang of",
-"cz": "dostat se do toho, pochopit",
-"ex": "You'll soon get the hang of it.",
-"level": "B2"
-},
-{
-"id": "b20-make-up-your-mind",
-"en": "make up your mind",
-"cz": "rozhodnout se",
-"ex": "Make up your mind!",
-"level": "B2"
-},
-{
-"id": "b20-it-s-up-to-you",
-"en": "it's up to you",
-"cz": "je to na tobě",
-"ex": "We can go out or stay in – it's up to you.",
-"level": "B1"
-},
-{
-"id": "b20-no-wonder",
-"en": "no wonder",
-"cz": "není divu",
-"ex": "No wonder you're tired.",
-"level": "B2"
-},
-{
-"id": "b20-take-it-easy",
-"en": "take it easy",
-"cz": "nedělat si starosti, odpočívat",
-"ex": "Take it easy this weekend.",
-"level": "B1"
-},
-{
-"id": "b20-by-the-way",
-"en": "by the way",
-"cz": "mimochodem",
-"ex": "By the way, I saw your brother yesterday.",
-"level": "B1"
-},
-{
-"id": "b20-as-far-as-i-know",
-"en": "as far as I know",
-"cz": "pokud vím",
-"ex": "As far as I know, the shop is closed.",
-"level": "B2"
-},
-{
-"id": "b20-to-be-honest",
-"en": "to be honest",
-"cz": "upřímně řečeno",
-"ex": "To be honest, I didn't like it.",
-"level": "B1"
-},
-{
-"id": "b20-it-depends",
-"en": "it depends",
-"cz": "záleží na tom",
-"ex": "\"Will you come?\" \"It depends.\"",
-"level": "B1"
-},
-{
-"id": "b20-never-mind",
-"en": "never mind",
-"cz": "to nevadí",
-"ex": "Never mind, it's not important.",
-"level": "B1"
-},
-{
-"id": "b20-fair-enough",
-"en": "fair enough",
-"cz": "dobře, to beru",
-"ex": "\"I'm too tired.\" \"Fair enough.\"",
-"level": "B2"
-},
-{
-"id": "b20-i-m-afraid",
-"en": "I'm afraid…",
-"cz": "bohužel…",
-"ex": "I'm afraid we're closed.",
-"level": "B1"
-},
-{
-"id": "b20-what-s-the-point",
-"en": "what's the point?",
-"cz": "jaký to má smysl?",
-"ex": "What's the point of arguing?",
-"level": "B2"
-},
-{
-"id": "b20-better-late-than-never",
-"en": "better late than never",
-"cz": "lepší pozdě než nikdy",
-"ex": "You finally came – better late than never!",
-"level": "B1"
-},
-{
-"id": "b20-sleep-on-it",
-"en": "sleep on it",
-"cz": "vyspat se na to",
-"ex": "Don't decide now – sleep on it.",
-"level": "B2"
-},
-{
-"id": "b20-call-it-a-day",
-"en": "call it a day",
-"cz": "skončit (pro dnešek)",
-"ex": "Let's call it a day.",
-"level": "B2"
-},
-{
-"id": "b20-go-the-extra-mile",
-"en": "go the extra mile",
-"cz": "udělat něco navíc",
-"ex": "She always goes the extra mile for her clients.",
+"id": "b20-under-the-radar",
+"en": "under the radar",
+"cz": "nenápadně, mimo pozornost",
+"ex": "The deal went under the radar.",
 "level": "C1"
 },
 {
-"id": "b20-the-best-of-both-worlds",
-"en": "the best of both worlds",
-"cz": "výhody obojího",
-"ex": "Working from home gives me the best of both worlds.",
+"id": "b20-a-long-shot",
+"en": "a long shot",
+"cz": "malá šance",
+"ex": "It's a long shot, but try it.",
 "level": "C1"
 },
 {
-"id": "b20-in-a-nutshell",
-"en": "in a nutshell",
-"cz": "v kostce",
-"ex": "In a nutshell, we need more money.",
+"id": "b20-a-far-cry-from",
+"en": "a far cry from",
+"cz": "hodně daleko od, něco úplně jiného",
+"ex": "This flat is a far cry from our old house.",
 "level": "C1"
+},
+{
+"id": "b20-by-the-skin-of-your-teeth",
+"en": "by the skin of your teeth",
+"cz": "o vlásek",
+"ex": "We caught the train by the skin of our teeth.",
+"level": "C1"
+},
+{
+"id": "b20-cross-that-bridge-when-we-come-to-it",
+"en": "cross that bridge when we come to it",
+"cz": "řešit to, až to přijde",
+"ex": "We'll cross that bridge when we come to it.",
+"level": "C1"
+},
+{
+"id": "b20-get-the-ball-rolling",
+"en": "get the ball rolling",
+"cz": "rozjet to",
+"ex": "Let's get the ball rolling.",
+"level": "C1"
+},
+{
+"id": "b20-have-second-thoughts",
+"en": "have second thoughts",
+"cz": "mít pochybnosti, rozmýšlet si to",
+"ex": "I'm having second thoughts.",
+"level": "B2"
+},
+{
+"id": "b20-it-s-not-rocket-science",
+"en": "it's not rocket science",
+"cz": "to není žádná věda",
+"ex": "Come on, it's not rocket science.",
+"level": "C1"
+},
+{
+"id": "b20-keep-your-fingers-crossed",
+"en": "keep your fingers crossed",
+"cz": "držet palce",
+"ex": "Keep your fingers crossed for me.",
+"level": "B2"
 },
 {
 "id": "b20-learn-the-ropes",
 "en": "learn the ropes",
 "cz": "zaučit se",
-"ex": "It takes time to learn the ropes.",
+"ex": "It took me a month to learn the ropes.",
 "level": "C1"
 },
 {
-"id": "b20-over-the-moon",
-"en": "over the moon",
-"cz": "v sedmém nebi",
-"ex": "She was over the moon about the news.",
-"level": "B2"
-},
-{
-"id": "b20-spill-the-beans",
-"en": "spill the beans",
-"cz": "vyklopit to, prozradit",
-"ex": "Come on, spill the beans!",
+"id": "b20-make-a-mountain-out-of-a-molehill",
+"en": "make a mountain out of a molehill",
+"cz": "dělat z komára velblouda",
+"ex": "Don't make a mountain out of a molehill.",
 "level": "C1"
 },
 {
-"id": "b20-under-pressure",
-"en": "under pressure",
-"cz": "pod tlakem",
-"ex": "I work well under pressure.",
-"level": "B1"
-},
-{
-"id": "b20-up-to-date",
-"en": "up to date",
-"cz": "aktuální",
-"ex": "Keep your software up to date.",
+"id": "b20-on-the-tip-of-my-tongue",
+"en": "on the tip of my tongue",
+"cz": "mít to na jazyku",
+"ex": "His name is on the tip of my tongue.",
 "level": "B2"
 },
 {
-"id": "b20-out-of-the-blue",
-"en": "out of the blue",
-"cz": "z ničeho nic",
-"ex": "She called me out of the blue.",
+"id": "b20-read-between-the-lines",
+"en": "read between the lines",
+"cz": "číst mezi řádky",
+"ex": "You have to read between the lines.",
 "level": "C1"
 },
 {
-"id": "b20-a-big-deal",
-"en": "a big deal",
-"cz": "velká věc",
-"ex": "It's not a big deal.",
-"level": "B2"
+"id": "b20-speak-your-mind",
+"en": "speak your mind",
+"cz": "říct na rovinu, co si myslím",
+"ex": "She always speaks her mind.",
+"level": "C1"
+},
+{
+"id": "b20-take-sth-with-a-pinch-of-salt",
+"en": "take sth with a pinch of salt",
+"cz": "brát s rezervou",
+"ex": "Take his advice with a pinch of salt.",
+"level": "C1"
+},
+{
+"id": "b20-the-ball-is-in-your-court",
+"en": "the ball is in your court",
+"cz": "teď je řada na tobě",
+"ex": "I've done my part – the ball is in your court.",
+"level": "C1"
+},
+{
+"id": "b20-up-in-the-air",
+"en": "up in the air",
+"cz": "nejisté",
+"ex": "Our plans are still up in the air.",
+"level": "C1"
+},
+{
+"id": "b20-it-s-up-to-you",
+"en": "it's up to you",
+"cz": "je to na tobě",
+"ex": "It's up to you where we go.",
+"level": "B1+"
+},
+{
+"id": "b20-never-mind",
+"en": "never mind",
+"cz": "to nevadí",
+"ex": "Never mind, it doesn't matter.",
+"level": "B1+"
+},
+{
+"id": "b20-take-it-easy",
+"en": "take it easy",
+"cz": "nedělej si starosti, odpočiň si",
+"ex": "Take it easy this weekend.",
+"level": "B1+"
+},
+{
+"id": "b20-by-the-way",
+"en": "by the way",
+"cz": "mimochodem",
+"ex": "By the way, I saw Tom yesterday.",
+"level": "B1+"
+},
+{
+"id": "b20-to-be-honest",
+"en": "to be honest",
+"cz": "upřímně řečeno",
+"ex": "To be honest, I'm tired.",
+"level": "B1+"
 },
 {
 "id": "b20-change-your-mind",
 "en": "change your mind",
 "cz": "změnit názor",
 "ex": "I've changed my mind.",
-"level": "B1"
+"level": "B1+"
 },
 {
-"id": "b20-have-a-go",
-"en": "have a go",
-"cz": "zkusit to",
-"ex": "Have a go – it's easy!",
-"level": "B2"
+"id": "b20-make-up-your-mind",
+"en": "make up your mind",
+"cz": "rozhodnout se",
+"ex": "Make up your mind!",
+"level": "B1+"
 },
 {
-"id": "b20-i-can-t-help-it",
-"en": "I can't help it",
-"cz": "nemůžu si pomoct",
-"ex": "I'm sorry, I can't help it.",
-"level": "B2"
+"id": "b20-in-a-hurry",
+"en": "in a hurry",
+"cz": "ve spěchu",
+"ex": "Sorry, I'm in a hurry.",
+"level": "B1+"
 },
 {
-"id": "b20-for-good",
-"en": "for good",
-"cz": "navždy",
-"ex": "She left the country for good.",
-"level": "C1"
+"id": "b20-on-purpose",
+"en": "on purpose",
+"cz": "úmyslně",
+"ex": "He did it on purpose.",
+"level": "B1+"
+},
+{
+"id": "b20-by-heart",
+"en": "by heart",
+"cz": "nazpaměť",
+"ex": "I know the song by heart.",
+"level": "B1+"
 }
 ]
 }

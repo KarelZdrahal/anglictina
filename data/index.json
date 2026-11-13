@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -13,163 +13,163 @@
  "bank": [
   {
    "file": "bank/pack01.json",
-   "v": 1,
-   "h": "668e9b70312f",
+   "v": 2,
+   "h": "747e62b33fe0",
    "id": "pack01",
    "topic": "Work & career",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack02.json",
-   "v": 1,
-   "h": "e50fdb272e5c",
+   "v": 2,
+   "h": "d947afa8b98e",
    "id": "pack02",
    "topic": "Money & finance",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack03.json",
-   "v": 1,
-   "h": "9a37b45c9195",
+   "v": 2,
+   "h": "d6200e10d140",
    "id": "pack03",
    "topic": "Travel & tourism",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack04.json",
-   "v": 1,
-   "h": "c3c5f4718590",
+   "v": 2,
+   "h": "672639de49a9",
    "id": "pack04",
    "topic": "Health & body",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack05.json",
-   "v": 1,
-   "h": "5d2655b43465",
+   "v": 2,
+   "h": "23e575174f52",
    "id": "pack05",
    "topic": "Food & cooking",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack06.json",
-   "v": 1,
-   "h": "b5b581998709",
+   "v": 2,
+   "h": "318e32dc7006",
    "id": "pack06",
    "topic": "Home & housing",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack07.json",
-   "v": 1,
-   "h": "0d137624d020",
+   "v": 2,
+   "h": "b412f6c5c7f5",
    "id": "pack07",
    "topic": "Nature & environment",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack08.json",
-   "v": 1,
-   "h": "67b881964ae1",
+   "v": 2,
+   "h": "903f716e337f",
    "id": "pack08",
    "topic": "Technology & internet",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack09.json",
-   "v": 1,
-   "h": "561052cb9ca8",
+   "v": 2,
+   "h": "f457ce8c06f9",
    "id": "pack09",
    "topic": "Media & news",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack10.json",
-   "v": 1,
-   "h": "b85efb812c4c",
+   "v": 2,
+   "h": "a3bba6e2bbaa",
    "id": "pack10",
    "topic": "Relationships & feelings",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack11.json",
-   "v": 1,
-   "h": "900d4f1a1530",
+   "v": 2,
+   "h": "8acd6b719290",
    "id": "pack11",
    "topic": "Education & learning",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack12.json",
-   "v": 1,
-   "h": "7965d002fed0",
+   "v": 2,
+   "h": "f20dd556e65d",
    "id": "pack12",
    "topic": "Crime & law",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack13.json",
-   "v": 1,
-   "h": "8dae91783836",
+   "v": 2,
+   "h": "c40c77b3aa5b",
    "id": "pack13",
    "topic": "Sport & fitness",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack14.json",
-   "v": 1,
-   "h": "ae6a27aaa5f4",
+   "v": 2,
+   "h": "c5a32f13ab2e",
    "id": "pack14",
    "topic": "Culture & the arts",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack15.json",
-   "v": 1,
-   "h": "d1e3a60d2b91",
+   "v": 2,
+   "h": "4cd3e5f4f599",
    "id": "pack15",
    "topic": "Shopping & consumerism",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack16.json",
-   "v": 1,
-   "h": "5ba93e190151",
+   "v": 2,
+   "h": "d109a9031f26",
    "id": "pack16",
    "topic": "City & transport",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack17.json",
-   "v": 1,
-   "h": "52fb4a2dc358",
+   "v": 2,
+   "h": "a41d6f923536",
    "id": "pack17",
    "topic": "Society & community",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack18.json",
-   "v": 1,
-   "h": "54f334b64a4f",
+   "v": 2,
+   "h": "4edb47895a3f",
    "id": "pack18",
    "topic": "Science & research",
-   "count": 40
+   "count": 50
   },
   {
    "file": "bank/pack19.json",
-   "v": 1,
-   "h": "ac2b754d0f6b",
+   "v": 2,
+   "h": "de750dc2c32f",
    "id": "pack19",
-   "topic": "Everyday phrasal verbs",
-   "count": 40
+   "topic": "Advanced phrasal verbs",
+   "count": 50
   },
   {
    "file": "bank/pack20.json",
-   "v": 1,
-   "h": "d8a61cf2fca0",
+   "v": 2,
+   "h": "78bd747eb55c",
    "id": "pack20",
-   "topic": "Idioms & useful expressions",
-   "count": 40
+   "topic": "Idioms & expressions",
+   "count": 50
   }
  ]
 }

@@ -1,41 +1,51 @@
-#Idioms & useful expressions|Idiomy a užitečné výrazy
-a piece of cake|hračka, brnkačka|The test was a piece of cake.|B2
-break the ice|prolomit ledy|A joke can help break the ice.|B2
-hit the nail on the head|trefit hřebíček na hlavičku|You've hit the nail on the head.|C1
-cost an arm and a leg|stát majlant|The new phone cost an arm and a leg.|B2
-once in a blue moon|jednou za uherský rok|I go to the cinema once in a blue moon.|B2
-under the weather|necítit se dobře|I'm feeling under the weather today.|B2
-on the same page|myslet si totéž, mít shodu|Let's make sure we're on the same page.|B2
-the last straw|poslední kapka|His rude email was the last straw.|C1
-in hot water|v průšvihu|He's in hot water with his boss.|C1
-keep an eye on|dohlížet na|Can you keep an eye on my bag?|B2
-get the hang of|dostat se do toho, pochopit|You'll soon get the hang of it.|B2
-make up your mind|rozhodnout se|Make up your mind!|B2
-it's up to you|je to na tobě|We can go out or stay in – it's up to you.|B1
-no wonder|není divu|No wonder you're tired.|B2
-take it easy|nedělat si starosti, odpočívat|Take it easy this weekend.|B1
-by the way|mimochodem|By the way, I saw your brother yesterday.|B1
-as far as I know|pokud vím|As far as I know, the shop is closed.|B2
-to be honest|upřímně řečeno|To be honest, I didn't like it.|B1
-it depends|záleží na tom|"Will you come?" "It depends."|B1
-never mind|to nevadí|Never mind, it's not important.|B1
-fair enough|dobře, to beru|"I'm too tired." "Fair enough."|B2
-I'm afraid…|bohužel…|I'm afraid we're closed.|B1
-what's the point?|jaký to má smysl?|What's the point of arguing?|B2
-better late than never|lepší pozdě než nikdy|You finally came – better late than never!|B1
-sleep on it|vyspat se na to|Don't decide now – sleep on it.|B2
-call it a day|skončit (pro dnešek)|Let's call it a day.|B2
-go the extra mile|udělat něco navíc|She always goes the extra mile for her clients.|C1
-the best of both worlds|výhody obojího|Working from home gives me the best of both worlds.|C1
-in a nutshell|v kostce|In a nutshell, we need more money.|C1
-learn the ropes|zaučit se|It takes time to learn the ropes.|C1
-over the moon|v sedmém nebi|She was over the moon about the news.|B2
-spill the beans|vyklopit to, prozradit|Come on, spill the beans!|C1
-under pressure|pod tlakem|I work well under pressure.|B1
-up to date|aktuální|Keep your software up to date.|B2
-out of the blue|z ničeho nic|She called me out of the blue.|C1
-a big deal|velká věc|It's not a big deal.|B2
-change your mind|změnit názor|I've changed my mind.|B1
-have a go|zkusit to|Have a go – it's easy!|B2
-I can't help it|nemůžu si pomoct|I'm sorry, I can't help it.|B2
-for good|navždy|She left the country for good.|C1
+#Idioms & expressions|Idiomy a ustálená spojení
+the elephant in the room|nepříjemné téma, o kterém se mlčí|Let's talk about the elephant in the room.|C1
+a blessing in disguise|štěstí v neštěstí|Losing that job was a blessing in disguise.|C1
+beat around the bush|chodit kolem horké kaše|Stop beating around the bush.|C1
+bite off more than you can chew|vzít si víc, než zvládne|I've bitten off more than I can chew.|C1
+call the shots|rozhodovat, velet|She calls the shots in this office.|C1
+cut to the chase|přejít k věci|Let's cut to the chase.|C1
+get cold feet|dostat strach (couvnout)|He got cold feet before the wedding.|C1
+go back to square one|začít znovu od nuly|The plan failed – back to square one.|C1
+hit the nail on the head|trefit se|You've hit the nail on the head.|C1
+in the same boat|na tom stejně|We're all in the same boat.|B2
+jump on the bandwagon|svézt se s davem|Everyone's jumping on the bandwagon.|C1
+keep sb posted|průběžně informovat|Keep me posted.|B2
+let the cat out of the bag|vyzradit tajemství|Who let the cat out of the bag?|C1
+miss the boat|propásnout příležitost|We missed the boat on that deal.|C1
+on the fence|nerozhodnutý|I'm still on the fence.|C1
+once in a blue moon|jednou za uherský rok|I eat meat once in a blue moon.|B2
+play it by ear|improvizovat|Let's play it by ear.|C1
+pull sb's leg|dělat si z někoho legraci|Are you pulling my leg?|C1
+rock the boat|dělat problémy, čeřit vodu|Don't rock the boat.|C1
+sit on the fence|nezaujmout stanovisko|You can't sit on the fence forever.|C1
+the last straw|poslední kapka|That was the last straw.|B2
+the tip of the iceberg|špička ledovce|This is just the tip of the iceberg.|C1
+throw sb in at the deep end|hodit někoho do vody (bez přípravy)|They threw me in at the deep end.|C1
+under the radar|nenápadně, mimo pozornost|The deal went under the radar.|C1
+a long shot|malá šance|It's a long shot, but try it.|C1
+a far cry from|hodně daleko od, něco úplně jiného|This flat is a far cry from our old house.|C1
+by the skin of your teeth|o vlásek|We caught the train by the skin of our teeth.|C1
+cross that bridge when we come to it|řešit to, až to přijde|We'll cross that bridge when we come to it.|C1
+get the ball rolling|rozjet to|Let's get the ball rolling.|C1
+have second thoughts|mít pochybnosti, rozmýšlet si to|I'm having second thoughts.|B2
+it's not rocket science|to není žádná věda|Come on, it's not rocket science.|C1
+keep your fingers crossed|držet palce|Keep your fingers crossed for me.|B2
+learn the ropes|zaučit se|It took me a month to learn the ropes.|C1
+make a mountain out of a molehill|dělat z komára velblouda|Don't make a mountain out of a molehill.|C1
+on the tip of my tongue|mít to na jazyku|His name is on the tip of my tongue.|B2
+read between the lines|číst mezi řádky|You have to read between the lines.|C1
+speak your mind|říct na rovinu, co si myslím|She always speaks her mind.|C1
+take sth with a pinch of salt|brát s rezervou|Take his advice with a pinch of salt.|C1
+the ball is in your court|teď je řada na tobě|I've done my part – the ball is in your court.|C1
+up in the air|nejisté|Our plans are still up in the air.|C1
+it's up to you|je to na tobě|It's up to you where we go.|B1+
+never mind|to nevadí|Never mind, it doesn't matter.|B1+
+take it easy|nedělej si starosti, odpočiň si|Take it easy this weekend.|B1+
+by the way|mimochodem|By the way, I saw Tom yesterday.|B1+
+to be honest|upřímně řečeno|To be honest, I'm tired.|B1+
+change your mind|změnit názor|I've changed my mind.|B1+
+make up your mind|rozhodnout se|Make up your mind!|B1+
+in a hurry|ve spěchu|Sorry, I'm in a hurry.|B1+
+on purpose|úmyslně|He did it on purpose.|B1+
+by heart|nazpaměť|I know the song by heart.|B1+

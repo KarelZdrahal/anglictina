@@ -1,41 +1,51 @@
 #Education & learning|Vzdělávání a učení
-degree|vysokoškolský titul|She has a degree in law.|B1
-graduate|absolvovat; absolvent|He graduated from Charles University.|B1
-subject|předmět|Maths was my favourite subject.|A2
-term|pololetí, trimestr|The summer term starts in April.|B1
-timetable|rozvrh|Check the timetable for your lessons.|B1
-homework|domácí úkol|Have you done your homework?|A2
-revise|opakovat si (na zkoušku)|I'm revising for my exams.|B1
-pass an exam|udělat zkoušku|Did you pass the exam?|B1
-fail an exam|neudělat zkoušku|I failed my driving test.|B1
-take an exam|dělat (skládat) zkoušku|I'm taking the exam in June.|B1
-mark|známka; opravit|I got a good mark in English.|B1
-cheat|podvádět|He was caught cheating.|B1
-scholarship|stipendium|She won a scholarship to Oxford.|B2
-tuition fees|školné|Tuition fees are very high in the UK.|B2
-lecture|přednáška|The lecture starts at nine.|B1
-lecturer|přednášející|Our lecturer is very funny.|B2
-course|kurz|I'm doing an online course.|B1
-assignment|zadání, úkol|The assignment is due on Monday.|B2
-essay|esej, slohová práce|Write an essay of 250 words.|B1
-knowledge|znalosti|Her knowledge of history is impressive.|B1
-learn by heart|naučit se nazpaměť|We had to learn the poem by heart.|B1
-memorise|zapamatovat si|I can't memorise all these words.|B2
-improve|zlepšit (se)|My English has improved a lot.|B1
-make progress|dělat pokroky|You're making great progress.|B1
-fluent|plynulý|She's fluent in three languages.|B1
-mistake|chyba|Don't be afraid of making mistakes.|A2
-take notes|dělat si poznámky|Take notes during the lecture.|B1
-pay attention|dávat pozor|Please pay attention!|B1
-primary school|základní škola (1. stupeň)|My son is at primary school.|A2
-secondary school|střední škola, 2. stupeň|She teaches at a secondary school.|B1
-state school|státní škola|I went to a state school.|B2
-private school|soukromá škola|Private schools are expensive.|B1
-lifelong learning|celoživotní vzdělávání|Lifelong learning keeps your brain active.|C1
-skip a class|vynechat hodinu|He often skips classes.|B2
-drop out|nedokončit (školu)|She dropped out of university.|B2
-gap year|rok volna před studiem|I took a gap year and travelled.|B2
-self-study|samostudium|Self-study requires discipline.|B2
-concentrate|soustředit se|I can't concentrate with this noise.|B1
-curriculum|osnovy, učební plán|Coding is now part of the curriculum.|C1
-well-educated|vzdělaný|Her parents are well-educated.|B2
+cram|šprtat, biflovat na poslední chvíli|I crammed all night for the exam.|C1
+swot up on|nadrtit se|I need to swot up on my history.|C1
+brush up on|oprášit (znalosti)|I'm brushing up on my French.|B2
+fall behind|zaostávat|He fell behind in maths.|B2
+catch up on|dohnat (zmeškané)|I need to catch up on my reading.|B2
+keep up with|držet krok|It's hard to keep up with the class.|B2
+learn by heart|naučit se nazpaměť|We learned the poem by heart.|B2
+rote learning|učení se nazpaměť (mechanické)|Rote learning isn't very effective.|C1
+pick up|pochytit (jazyk, dovednost)|I picked up some Italian on holiday.|B2
+a steep learning curve|rychlé a náročné učení|The new job has a steep learning curve.|C1
+get the hang of|dostat to do ruky|You'll soon get the hang of it.|B2
+grasp|pochopit|She quickly grasped the idea.|C1
+a quick learner|rychle se učící|He's a quick learner.|B2
+self-taught|samouk|She's a self-taught pianist.|C1
+tuition fees|školné|Tuition fees keep rising.|B2
+scholarship|stipendium|He got a scholarship to Harvard.|B2
+undergraduate|student bakalářského studia|She's an undergraduate at Oxford.|C1
+postgraduate|postgraduální|He's doing a postgraduate course.|C1
+dissertation|diplomová práce|I'm writing my dissertation.|C1
+plagiarism|plagiátorství|Plagiarism is taken very seriously.|C1
+mock exam|zkušební test|We had a mock exam today.|C1
+resit|opakovat (zkoušku)|I had to resit the exam.|C1
+scrape through|těsně projít|I scraped through my exams.|C1
+pass with flying colours|projít s vyznamenáním|She passed with flying colours.|C1
+drop out of|zanechat (studia)|He dropped out of university.|B2
+take a gap year|vzít si rok volna|She took a gap year in Asia.|B2
+distance learning|distanční vzdělávání|I'm doing a distance learning course.|C1
+lifelong learning|celoživotní vzdělávání|Lifelong learning keeps you sharp.|C1
+hands-on|praktický|We prefer a hands-on approach.|B2
+critical thinking|kritické myšlení|Schools should teach critical thinking.|C1
+broaden your horizons|rozšířit si obzory|Travel broadens your horizons.|C1
+a well-rounded education|všestranné vzdělání|They want a well-rounded education.|C1
+mixed-ability class|třída s různou úrovní žáků|Teaching mixed-ability classes is hard.|C1
+peer|vrstevník, spolužák|Students learn from their peers.|C1
+mentor|mentor|She has a mentor at work.|B2
+feedback|zpětná vazba|Thanks for your feedback.|B2
+make headway|dělat pokroky|I'm making headway with my thesis.|C1
+hit the books|pustit se do učení|Exams are coming – time to hit the books.|C1
+know sth inside out|znát něco dokonale|She knows the subject inside out.|C1
+a slow learner|ten, komu učení jde pomaleji|I'm a slow learner, but I get there.|B2
+revise for an exam|učit se na zkoušku|I'm revising for my exams.|B1+
+pass an exam|udělat zkoušku|She passed all her exams.|B1+
+fail an exam|neudělat zkoušku|He failed the driving test.|B1+
+take notes|dělat si poznámky|Take notes in the lecture.|B1+
+a degree|vysokoškolský titul|She has a degree in biology.|B1+
+graduate from|absolvovat|He graduated from Charles University.|B1+
+make progress|dělat pokroky|You're making good progress.|B1+
+make a mistake|udělat chybu|Everyone makes mistakes.|B1+
+fluent in|mluvící plynně|She's fluent in three languages.|B1+
+an online course|online kurz|I'm doing an online course.|B1+

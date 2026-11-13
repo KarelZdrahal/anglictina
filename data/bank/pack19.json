@@ -1,288 +1,358 @@
 {
 "id": "pack19",
-"topic": "Everyday phrasal verbs",
-"topic_cz": "Frázová slovesa pro každý den",
-"level": "A2/B1/B2/C1",
+"topic": "Advanced phrasal verbs",
+"topic_cz": "Frázová slovesa pro pokročilé",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b19-look-after",
-"en": "look after",
-"cz": "starat se o",
-"ex": "Can you look after my cat?",
-"level": "B1"
+"id": "b19-come-across",
+"en": "come across",
+"cz": "narazit na; působit",
+"ex": "He comes across as arrogant.",
+"level": "B2"
 },
 {
-"id": "b19-look-for",
-"en": "look for",
-"cz": "hledat",
-"ex": "I'm looking for my keys.",
-"level": "A2"
+"id": "b19-come-up-with",
+"en": "come up with",
+"cz": "vymyslet",
+"ex": "She came up with a brilliant plan.",
+"level": "B2"
 },
 {
-"id": "b19-look-forward-to",
-"en": "look forward to",
-"cz": "těšit se na",
-"ex": "I'm looking forward to the weekend.",
-"level": "B1"
+"id": "b19-come-down-to",
+"en": "come down to",
+"cz": "scvrknout se na",
+"ex": "It all comes down to money.",
+"level": "C1"
+},
+{
+"id": "b19-get-across",
+"en": "get across",
+"cz": "sdělit, vysvětlit",
+"ex": "He struggled to get his point across.",
+"level": "C1"
+},
+{
+"id": "b19-get-round-to",
+"en": "get round to",
+"cz": "dostat se k (něčemu)",
+"ex": "I never got round to calling her.",
+"level": "C1"
+},
+{
+"id": "b19-get-over",
+"en": "get over",
+"cz": "překonat, dostat se z",
+"ex": "It took him months to get over her.",
+"level": "B2"
+},
+{
+"id": "b19-put-off",
+"en": "put off",
+"cz": "odradit; odložit",
+"ex": "The smell put me off.",
+"level": "B2"
+},
+{
+"id": "b19-put-forward",
+"en": "put forward",
+"cz": "předložit (návrh)",
+"ex": "She put forward a new idea.",
+"level": "C1"
+},
+{
+"id": "b19-put-across",
+"en": "put across",
+"cz": "vyjádřit, přednést",
+"ex": "He put his ideas across clearly.",
+"level": "C1"
+},
+{
+"id": "b19-bring-about",
+"en": "bring about",
+"cz": "způsobit",
+"ex": "The internet brought about huge changes.",
+"level": "C1"
+},
+{
+"id": "b19-bring-up",
+"en": "bring up",
+"cz": "nadhodit (téma)",
+"ex": "Don't bring up politics at dinner.",
+"level": "B2"
+},
+{
+"id": "b19-carry-out",
+"en": "carry out",
+"cz": "provést",
+"ex": "We carried out a survey.",
+"level": "B2"
+},
+{
+"id": "b19-figure-out",
+"en": "figure out",
+"cz": "přijít na",
+"ex": "I can't figure out the answer.",
+"level": "B2"
+},
+{
+"id": "b19-work-out",
+"en": "work out",
+"cz": "vyřešit; vyjít",
+"ex": "Things worked out in the end.",
+"level": "B2"
+},
+{
+"id": "b19-turn-out",
+"en": "turn out",
+"cz": "ukázat se (jako)",
+"ex": "It turned out to be true.",
+"level": "B2"
+},
+{
+"id": "b19-turn-down",
+"en": "turn down",
+"cz": "odmítnout",
+"ex": "She turned down the offer.",
+"level": "B2"
+},
+{
+"id": "b19-fall-through",
+"en": "fall through",
+"cz": "zkrachovat (plán)",
+"ex": "Our holiday plans fell through.",
+"level": "C1"
+},
+{
+"id": "b19-fall-apart",
+"en": "fall apart",
+"cz": "rozpadnout se",
+"ex": "Their marriage fell apart.",
+"level": "B2"
+},
+{
+"id": "b19-back-out",
+"en": "back out",
+"cz": "vycouvat",
+"ex": "He backed out of the deal.",
+"level": "C1"
+},
+{
+"id": "b19-back-up",
+"en": "back up",
+"cz": "podpořit; zálohovat",
+"ex": "Can you back me up on this?",
+"level": "B2"
+},
+{
+"id": "b19-rule-out",
+"en": "rule out",
+"cz": "vyloučit",
+"ex": "We can't rule anything out.",
+"level": "C1"
+},
+{
+"id": "b19-sort-out",
+"en": "sort out",
+"cz": "vyřešit",
+"ex": "I'll sort it out tomorrow.",
+"level": "B2"
+},
+{
+"id": "b19-stand-out",
+"en": "stand out",
+"cz": "vyčnívat",
+"ex": "Her CV really stands out.",
+"level": "B2"
+},
+{
+"id": "b19-stand-for",
+"en": "stand for",
+"cz": "znamenat; tolerovat",
+"ex": "I won't stand for this!",
+"level": "C1"
+},
+{
+"id": "b19-make-up-for",
+"en": "make up for",
+"cz": "vynahradit",
+"ex": "I'll make up for being late.",
+"level": "C1"
+},
+{
+"id": "b19-make-out",
+"en": "make out",
+"cz": "rozeznat",
+"ex": "I couldn't make out what he said.",
+"level": "C1"
+},
+{
+"id": "b19-pull-off",
+"en": "pull off",
+"cz": "zvládnout (těžký úkol)",
+"ex": "They pulled off an amazing win.",
+"level": "C1"
+},
+{
+"id": "b19-run-into",
+"en": "run into",
+"cz": "narazit na (někoho)",
+"ex": "I ran into an old friend.",
+"level": "B2"
+},
+{
+"id": "b19-look-into",
+"en": "look into",
+"cz": "prošetřit",
+"ex": "We'll look into it.",
+"level": "B2"
+},
+{
+"id": "b19-look-up-to",
+"en": "look up to",
+"cz": "vzhlížet k",
+"ex": "I look up to my father.",
+"level": "B2"
+},
+{
+"id": "b19-look-down-on",
+"en": "look down on",
+"cz": "dívat se svrchu na",
+"ex": "Don't look down on people.",
+"level": "C1"
+},
+{
+"id": "b19-go-along-with",
+"en": "go along with",
+"cz": "souhlasit s, přistoupit na",
+"ex": "I'll go along with your plan.",
+"level": "C1"
+},
+{
+"id": "b19-go-through-with",
+"en": "go through with",
+"cz": "dotáhnout do konce",
+"ex": "She went through with the divorce.",
+"level": "C1"
+},
+{
+"id": "b19-live-up-to",
+"en": "live up to",
+"cz": "dostát",
+"ex": "The film lived up to the hype.",
+"level": "B2"
+},
+{
+"id": "b19-cut-back-on",
+"en": "cut back on",
+"cz": "omezit",
+"ex": "We're cutting back on spending.",
+"level": "B2"
+},
+{
+"id": "b19-drop-off",
+"en": "drop off",
+"cz": "usnout; vysadit",
+"ex": "I dropped off during the film.",
+"level": "C1"
+},
+{
+"id": "b19-take-after",
+"en": "take after",
+"cz": "být po někom",
+"ex": "She takes after her mum.",
+"level": "B2"
+},
+{
+"id": "b19-take-over",
+"en": "take over",
+"cz": "převzít",
+"ex": "A bigger firm took over the company.",
+"level": "B2"
+},
+{
+"id": "b19-wear-off",
+"en": "wear off",
+"cz": "vyprchat",
+"ex": "The painkillers wore off.",
+"level": "C1"
+},
+{
+"id": "b19-brush-aside",
+"en": "brush aside",
+"cz": "odbýt, smést ze stolu",
+"ex": "He brushed aside my concerns.",
+"level": "C1"
+},
+{
+"id": "b19-give-up",
+"en": "give up",
+"cz": "vzdát se, přestat",
+"ex": "Don't give up now.",
+"level": "B1+"
 },
 {
 "id": "b19-find-out",
 "en": "find out",
 "cz": "zjistit",
 "ex": "I found out the truth.",
-"level": "B1"
+"level": "B1+"
 },
 {
-"id": "b19-turn-up",
-"en": "turn up",
-"cz": "objevit se, dorazit; zesílit",
-"ex": "He turned up late as usual.",
-"level": "B2"
+"id": "b19-look-after",
+"en": "look after",
+"cz": "starat se o",
+"ex": "Can you look after my cat?",
+"level": "B1+"
 },
 {
-"id": "b19-turn-down",
-"en": "turn down",
-"cz": "odmítnout; ztlumit",
-"ex": "She turned down the job offer.",
-"level": "B2"
+"id": "b19-look-forward-to",
+"en": "look forward to",
+"cz": "těšit se na",
+"ex": "I'm looking forward to the weekend.",
+"level": "B1+"
 },
 {
-"id": "b19-put-off",
-"en": "put off",
-"cz": "odložit",
-"ex": "Don't put off your homework.",
-"level": "B2"
-},
-{
-"id": "b19-call-off",
-"en": "call off",
-"cz": "zrušit",
-"ex": "They called off the meeting.",
-"level": "B2"
-},
-{
-"id": "b19-carry-on",
-"en": "carry on",
-"cz": "pokračovat",
-"ex": "Carry on, I'm listening.",
-"level": "B1"
-},
-{
-"id": "b19-come-up-with",
-"en": "come up with",
-"cz": "přijít s (nápadem)",
-"ex": "She came up with a great idea.",
-"level": "B2"
+"id": "b19-pick-up",
+"en": "pick up",
+"cz": "vyzvednout",
+"ex": "I'll pick you up at six.",
+"level": "B1+"
 },
 {
 "id": "b19-run-out-of",
 "en": "run out of",
 "cz": "dojít (něco)",
 "ex": "We've run out of milk.",
-"level": "B1"
+"level": "B1+"
 },
 {
 "id": "b19-set-up",
 "en": "set up",
-"cz": "založit, zřídit",
+"cz": "založit",
 "ex": "He set up his own company.",
-"level": "B2"
+"level": "B1+"
 },
 {
-"id": "b19-sort-out",
-"en": "sort out",
-"cz": "vyřešit, dát do pořádku",
-"ex": "I need to sort out my papers.",
-"level": "B2"
+"id": "b19-turn-up",
+"en": "turn up",
+"cz": "objevit se, dorazit",
+"ex": "He turned up late.",
+"level": "B1+"
 },
 {
-"id": "b19-figure-out",
-"en": "figure out",
-"cz": "přijít na, pochopit",
-"ex": "I can't figure out how this works.",
-"level": "B2"
-},
-{
-"id": "b19-end-up",
-"en": "end up",
-"cz": "skončit (nakonec)",
-"ex": "We ended up staying at home.",
-"level": "B2"
-},
-{
-"id": "b19-get-along",
-"en": "get along",
-"cz": "vycházet (spolu)",
-"ex": "Do you get along with your boss?",
-"level": "B1"
-},
-{
-"id": "b19-hang-out",
-"en": "hang out",
-"cz": "trávit čas, poflakovat se",
-"ex": "We hang out at the park.",
-"level": "B1"
-},
-{
-"id": "b19-pick-up",
-"en": "pick up",
-"cz": "zvednout; naučit se (snadno)",
-"ex": "I picked up some Spanish on holiday.",
-"level": "B2"
-},
-{
-"id": "b19-point-out",
-"en": "point out",
-"cz": "upozornit (na)",
-"ex": "She pointed out my mistake.",
-"level": "B2"
-},
-{
-"id": "b19-show-up",
-"en": "show up",
-"cz": "objevit se, přijít",
-"ex": "Only five people showed up.",
-"level": "B2"
-},
-{
-"id": "b19-take-off",
-"en": "take off",
-"cz": "vzlétnout; sundat",
-"ex": "Take off your shoes, please.",
-"level": "B1"
-},
-{
-"id": "b19-work-out",
-"en": "work out",
-"cz": "vyřešit; cvičit; vyjít",
-"ex": "Everything worked out in the end.",
-"level": "B2"
+"id": "b19-carry-on",
+"en": "carry on",
+"cz": "pokračovat",
+"ex": "Carry on – I'm listening.",
+"level": "B1+"
 },
 {
 "id": "b19-fill-in",
 "en": "fill in",
 "cz": "vyplnit",
 "ex": "Please fill in this form.",
-"level": "B1"
-},
-{
-"id": "b19-go-on",
-"en": "go on",
-"cz": "pokračovat; dít se",
-"ex": "What's going on?",
-"level": "B1"
-},
-{
-"id": "b19-bring-up",
-"en": "bring up",
-"cz": "vychovat; nadhodit",
-"ex": "She was brought up by her grandparents.",
-"level": "B2"
-},
-{
-"id": "b19-catch-up",
-"en": "catch up",
-"cz": "dohnat; probrat novinky",
-"ex": "Let's meet and catch up.",
-"level": "B2"
-},
-{
-"id": "b19-deal-with",
-"en": "deal with",
-"cz": "vypořádat se s",
-"ex": "I'll deal with it tomorrow.",
-"level": "B2"
-},
-{
-"id": "b19-get-by",
-"en": "get by",
-"cz": "vyjít, protlouct se",
-"ex": "I get by with my basic German.",
-"level": "B2"
-},
-{
-"id": "b19-put-up-with",
-"en": "put up with",
-"cz": "snášet, tolerovat",
-"ex": "I can't put up with this noise.",
-"level": "C1"
-},
-{
-"id": "b19-look-into",
-"en": "look into",
-"cz": "prošetřit",
-"ex": "We'll look into the problem.",
-"level": "B2"
-},
-{
-"id": "b19-come-across",
-"en": "come across",
-"cz": "narazit na",
-"ex": "I came across an old photo.",
-"level": "B2"
-},
-{
-"id": "b19-go-through",
-"en": "go through",
-"cz": "projít (si); prožít",
-"ex": "She went through a difficult time.",
-"level": "B2"
-},
-{
-"id": "b19-keep-up-with",
-"en": "keep up with",
-"cz": "držet krok s",
-"ex": "It's hard to keep up with technology.",
-"level": "B2"
-},
-{
-"id": "b19-let-down",
-"en": "let down",
-"cz": "zklamat",
-"ex": "Don't let me down.",
-"level": "B2"
-},
-{
-"id": "b19-make-up",
-"en": "make up",
-"cz": "vymyslet (si)",
-"ex": "He made up an excuse.",
-"level": "B2"
-},
-{
-"id": "b19-throw-away",
-"en": "throw away",
-"cz": "vyhodit",
-"ex": "Don't throw away those boxes.",
-"level": "B1"
-},
-{
-"id": "b19-switch-on",
-"en": "switch on",
-"cz": "zapnout",
-"ex": "Switch on the light.",
-"level": "A2"
-},
-{
-"id": "b19-grow-up",
-"en": "grow up",
-"cz": "vyrůst",
-"ex": "I grew up in a small town.",
-"level": "B1"
-},
-{
-"id": "b19-calm-down",
-"en": "calm down",
-"cz": "uklidnit se",
-"ex": "Calm down, please.",
-"level": "B1"
-},
-{
-"id": "b19-break-down",
-"en": "break down",
-"cz": "porouchat se; zhroutit se",
-"ex": "My car broke down.",
-"level": "B1"
+"level": "B1+"
 }
 ]
 }

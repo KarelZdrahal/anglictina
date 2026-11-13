@@ -2,287 +2,357 @@
 "id": "pack10",
 "topic": "Relationships & feelings",
 "topic_cz": "Vztahy a pocity",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b10-get-on-well-with",
-"en": "get on well with",
-"cz": "dobře vycházet s",
-"ex": "I get on well with my sister.",
-"level": "B1"
+"id": "b10-hit-it-off",
+"en": "hit it off",
+"cz": "padnout si do oka",
+"ex": "We hit it off immediately.",
+"level": "B2"
+},
+{
+"id": "b10-see-eye-to-eye",
+"en": "see eye to eye",
+"cz": "shodnout se",
+"ex": "We don't always see eye to eye.",
+"level": "C1"
 },
 {
 "id": "b10-fall-out-with",
 "en": "fall out with",
 "cz": "pohádat se s",
-"ex": "He fell out with his best friend.",
+"ex": "She fell out with her sister.",
 "level": "B2"
+},
+{
+"id": "b10-patch-things-up",
+"en": "patch things up",
+"cz": "urovnat to",
+"ex": "They managed to patch things up.",
+"level": "C1"
+},
+{
+"id": "b10-drift-apart",
+"en": "drift apart",
+"cz": "odcizit se",
+"ex": "We drifted apart after school.",
+"level": "C1"
+},
+{
+"id": "b10-have-a-lot-in-common",
+"en": "have a lot in common",
+"cz": "mít mnoho společného",
+"ex": "We have a lot in common.",
+"level": "B2"
+},
+{
+"id": "b10-be-on-the-same-wavelength",
+"en": "be on the same wavelength",
+"cz": "naladit se na stejnou vlnu",
+"ex": "We're on the same wavelength.",
+"level": "C1"
+},
+{
+"id": "b10-get-on-sb-s-nerves",
+"en": "get on sb's nerves",
+"cz": "lézt někomu na nervy",
+"ex": "His jokes get on my nerves.",
+"level": "B2"
+},
+{
+"id": "b10-take-sb-for-granted",
+"en": "take sb for granted",
+"cz": "brát někoho jako samozřejmost",
+"ex": "He takes his wife for granted.",
+"level": "C1"
+},
+{
+"id": "b10-let-sb-down",
+"en": "let sb down",
+"cz": "zklamat někoho",
+"ex": "I won't let you down.",
+"level": "B2"
+},
+{
+"id": "b10-stand-by-sb",
+"en": "stand by sb",
+"cz": "stát při někom",
+"ex": "She stood by him through everything.",
+"level": "C1"
+},
+{
+"id": "b10-confide-in",
+"en": "confide in",
+"cz": "svěřit se",
+"ex": "I confide in my best friend.",
+"level": "C1"
+},
+{
+"id": "b10-bear-a-grudge",
+"en": "bear a grudge",
+"cz": "chovat zášť",
+"ex": "He still bears a grudge.",
+"level": "C1"
+},
+{
+"id": "b10-hold-a-grudge-against",
+"en": "hold a grudge against",
+"cz": "zanevřít na",
+"ex": "Don't hold a grudge against him.",
+"level": "C1"
 },
 {
 "id": "b10-make-up",
 "en": "make up",
 "cz": "usmířit se",
-"ex": "They argued but soon made up.",
+"ex": "They argued but made up quickly.",
 "level": "B2"
 },
 {
 "id": "b10-break-up",
 "en": "break up",
 "cz": "rozejít se",
-"ex": "They broke up after five years.",
-"level": "B1"
+"ex": "They broke up last year.",
+"level": "B2"
 },
 {
-"id": "b10-go-out-with",
-"en": "go out with",
-"cz": "chodit s (někým)",
-"ex": "How long have you been going out with him?",
-"level": "B1"
+"id": "b10-settle-down",
+"en": "settle down",
+"cz": "usadit se",
+"ex": "He wants to settle down and have kids.",
+"level": "B2"
 },
 {
-"id": "b10-get-engaged",
-"en": "get engaged",
-"cz": "zasnoubit se",
-"ex": "They got engaged in Paris.",
-"level": "B1"
-},
-{
-"id": "b10-get-married",
-"en": "get married",
+"id": "b10-tie-the-knot",
+"en": "tie the knot",
 "cz": "vzít se",
-"ex": "We got married in 2015.",
-"level": "A2"
-},
-{
-"id": "b10-divorced",
-"en": "divorced",
-"cz": "rozvedený",
-"ex": "My parents are divorced.",
-"level": "B1"
-},
-{
-"id": "b10-relative",
-"en": "relative",
-"cz": "příbuzný",
-"ex": "We visited our relatives at Christmas.",
-"level": "B1"
-},
-{
-"id": "b10-acquaintance",
-"en": "acquaintance",
-"cz": "známý",
-"ex": "He's not a friend, just an acquaintance.",
+"ex": "They tied the knot in June.",
 "level": "C1"
 },
 {
-"id": "b10-trust",
-"en": "trust",
-"cz": "důvěra; důvěřovat",
-"ex": "I trust her completely.",
-"level": "B1"
+"id": "b10-be-head-over-heels",
+"en": "be head over heels",
+"cz": "být bezhlavě zamilovaný",
+"ex": "She's head over heels in love.",
+"level": "C1"
 },
 {
-"id": "b10-rely-on",
-"en": "rely on",
-"cz": "spolehnout se na",
-"ex": "You can always rely on me.",
-"level": "B1"
+"id": "b10-be-over-the-moon",
+"en": "be over the moon",
+"cz": "být v sedmém nebi",
+"ex": "I'm over the moon about the news.",
+"level": "B2"
 },
 {
-"id": "b10-support",
-"en": "support",
-"cz": "podpora; podporovat",
-"ex": "My family supported me.",
-"level": "B1"
+"id": "b10-down-in-the-dumps",
+"en": "down in the dumps",
+"cz": "skleslý, bez nálady",
+"ex": "He's been down in the dumps lately.",
+"level": "C1"
+},
+{
+"id": "b10-on-edge",
+"en": "on edge",
+"cz": "nervózní, ve střehu",
+"ex": "I've been on edge all day.",
+"level": "C1"
+},
+{
+"id": "b10-overwhelmed",
+"en": "overwhelmed",
+"cz": "zahlcený, přemožený",
+"ex": "I feel overwhelmed by work.",
+"level": "B2"
+},
+{
+"id": "b10-devastated",
+"en": "devastated",
+"cz": "zdrcený",
+"ex": "She was devastated by the news.",
+"level": "B2"
+},
+{
+"id": "b10-resentful",
+"en": "resentful",
+"cz": "plný zášti, zahořklý",
+"ex": "He felt resentful about the decision.",
+"level": "C1"
+},
+{
+"id": "b10-envious",
+"en": "envious",
+"cz": "závistivý",
+"ex": "I'm envious of her success.",
+"level": "C1"
+},
+{
+"id": "b10-apprehensive",
+"en": "apprehensive",
+"cz": "obávající se",
+"ex": "I'm apprehensive about the interview.",
+"level": "C1"
+},
+{
+"id": "b10-elated",
+"en": "elated",
+"cz": "nadšený, euforický",
+"ex": "We were elated with the result.",
+"level": "C1"
+},
+{
+"id": "b10-content",
+"en": "content",
+"cz": "spokojený",
+"ex": "She seems content with her life.",
+"level": "C1"
+},
+{
+"id": "b10-heartbroken",
+"en": "heartbroken",
+"cz": "se zlomeným srdcem",
+"ex": "He was heartbroken when she left.",
+"level": "B2"
+},
+{
+"id": "b10-bottle-up-your-feelings",
+"en": "bottle up your feelings",
+"cz": "dusit v sobě pocity",
+"ex": "Don't bottle up your feelings.",
+"level": "C1"
+},
+{
+"id": "b10-lose-your-temper",
+"en": "lose your temper",
+"cz": "ztratit nervy",
+"ex": "I lost my temper with the kids.",
+"level": "B2"
+},
+{
+"id": "b10-keep-your-cool",
+"en": "keep your cool",
+"cz": "zachovat klid",
+"ex": "She kept her cool under pressure.",
+"level": "C1"
+},
+{
+"id": "b10-get-sth-off-your-chest",
+"en": "get sth off your chest",
+"cz": "ulevit si (svěřit se)",
+"ex": "I need to get this off my chest.",
+"level": "C1"
+},
+{
+"id": "b10-bond-with",
+"en": "bond with",
+"cz": "vytvořit si pouto s",
+"ex": "Fathers bond with babies through play.",
+"level": "C1"
+},
+{
+"id": "b10-a-shoulder-to-cry-on",
+"en": "a shoulder to cry on",
+"cz": "rameno, na kterém se lze vyplakat",
+"ex": "She's always a shoulder to cry on.",
+"level": "C1"
+},
+{
+"id": "b10-supportive",
+"en": "supportive",
+"cz": "oporou, podporující",
+"ex": "My family is very supportive.",
+"level": "B2"
+},
+{
+"id": "b10-clingy",
+"en": "clingy",
+"cz": "přehnaně závislý, přilnavý",
+"ex": "He's a bit clingy.",
+"level": "C1"
 },
 {
 "id": "b10-look-up-to",
 "en": "look up to",
 "cz": "vzhlížet k",
-"ex": "I always looked up to my older brother.",
+"ex": "I've always looked up to my aunt.",
 "level": "B2"
 },
 {
-"id": "b10-argue",
-"en": "argue",
-"cz": "hádat se",
-"ex": "They argue about money.",
-"level": "B1"
-},
-{
-"id": "b10-apologise",
-"en": "apologise",
-"cz": "omluvit se",
-"ex": "You should apologise to her.",
-"level": "B1"
-},
-{
-"id": "b10-forgive",
-"en": "forgive",
-"cz": "odpustit",
-"ex": "I can't forgive him.",
-"level": "B1"
-},
-{
-"id": "b10-jealous",
-"en": "jealous",
-"cz": "žárlivý",
-"ex": "He gets jealous easily.",
-"level": "B1"
-},
-{
-"id": "b10-embarrassed",
-"en": "embarrassed",
-"cz": "v rozpacích, trapně",
-"ex": "I was so embarrassed!",
-"level": "B1"
-},
-{
-"id": "b10-proud-of",
-"en": "proud of",
-"cz": "hrdý na",
-"ex": "I'm proud of you.",
-"level": "B1"
-},
-{
-"id": "b10-grateful",
-"en": "grateful",
-"cz": "vděčný",
-"ex": "I'm grateful for your help.",
+"id": "b10-put-up-with",
+"en": "put up with",
+"cz": "snášet, tolerovat",
+"ex": "I don't know how she puts up with him.",
 "level": "B2"
 },
 {
-"id": "b10-disappointed",
-"en": "disappointed",
-"cz": "zklamaný",
-"ex": "We were disappointed with the result.",
-"level": "B1"
-},
-{
-"id": "b10-upset",
-"en": "upset",
-"cz": "rozrušený, smutný",
-"ex": "She was upset about the news.",
-"level": "B1"
-},
-{
-"id": "b10-anxious",
-"en": "anxious",
-"cz": "úzkostný, nervózní",
-"ex": "I feel anxious before flying.",
-"level": "B2"
-},
-{
-"id": "b10-relieved",
-"en": "relieved",
-"cz": "ulehčený",
-"ex": "I was relieved when he called.",
-"level": "B1"
-},
-{
-"id": "b10-frustrated",
-"en": "frustrated",
-"cz": "frustrovaný",
-"ex": "I get frustrated when the internet is slow.",
-"level": "B2"
-},
-{
-"id": "b10-lonely",
-"en": "lonely",
-"cz": "osamělý",
-"ex": "She feels lonely since her husband died.",
-"level": "B1"
-},
-{
-"id": "b10-confused",
-"en": "confused",
-"cz": "zmatený",
-"ex": "I'm confused about the instructions.",
-"level": "B1"
-},
-{
-"id": "b10-thrilled",
-"en": "thrilled",
-"cz": "nadšený",
-"ex": "I'm thrilled with my new job.",
-"level": "B2"
-},
-{
-"id": "b10-furious",
-"en": "furious",
-"cz": "zuřivý",
-"ex": "He was furious with me.",
-"level": "B2"
-},
-{
-"id": "b10-annoyed",
-"en": "annoyed",
-"cz": "naštvaný, otrávený",
-"ex": "I was annoyed that he was late again.",
-"level": "B1"
-},
-{
-"id": "b10-have-a-crush-on",
-"en": "have a crush on",
-"cz": "být zakoukaný do",
-"ex": "She has a crush on her teacher.",
-"level": "B2"
+"id": "b10-get-on-well-with",
+"en": "get on well with",
+"cz": "dobře vycházet s",
+"ex": "I get on well with my boss.",
+"level": "B1+"
 },
 {
 "id": "b10-keep-in-touch",
 "en": "keep in touch",
 "cz": "zůstat v kontaktu",
-"ex": "Let's keep in touch!",
-"level": "B1"
+"ex": "Let's keep in touch.",
+"level": "B1+"
 },
 {
-"id": "b10-lose-touch",
-"en": "lose touch",
-"cz": "ztratit kontakt",
-"ex": "We lost touch after school.",
-"level": "B2"
+"id": "b10-make-friends",
+"en": "make friends",
+"cz": "skamarádit se",
+"ex": "It's easy to make friends here.",
+"level": "B1+"
 },
 {
-"id": "b10-close-friend",
-"en": "close friend",
-"cz": "blízký přítel",
-"ex": "She's one of my closest friends.",
-"level": "B1"
+"id": "b10-argue-about",
+"en": "argue about",
+"cz": "hádat se o",
+"ex": "They argue about money.",
+"level": "B1+"
 },
 {
-"id": "b10-get-to-know",
-"en": "get to know",
-"cz": "poznat (se)",
-"ex": "I'd like to get to know you better.",
-"level": "B1"
+"id": "b10-apologise-for",
+"en": "apologise for",
+"cz": "omluvit se za",
+"ex": "He apologised for being late.",
+"level": "B1+"
 },
 {
-"id": "b10-mood",
-"en": "mood",
-"cz": "nálada",
-"ex": "You're in a good mood today.",
-"level": "B1"
+"id": "b10-be-jealous-of",
+"en": "be jealous of",
+"cz": "žárlit na, závidět",
+"ex": "She's jealous of her sister.",
+"level": "B1+"
 },
 {
-"id": "b10-cheer-up",
-"en": "cheer up",
-"cz": "rozveselit (se)",
-"ex": "Cheer up! It's not that bad.",
-"level": "B1"
+"id": "b10-be-proud-of",
+"en": "be proud of",
+"cz": "být hrdý na",
+"ex": "I'm proud of you.",
+"level": "B1+"
+},
+{
+"id": "b10-be-embarrassed",
+"en": "be embarrassed",
+"cz": "stydět se, být v rozpacích",
+"ex": "I was so embarrassed.",
+"level": "B1+"
+},
+{
+"id": "b10-feel-lonely",
+"en": "feel lonely",
+"cz": "cítit se osaměle",
+"ex": "He feels lonely since he moved.",
+"level": "B1+"
 },
 {
 "id": "b10-calm-down",
 "en": "calm down",
 "cz": "uklidnit se",
-"ex": "Calm down and tell me what happened.",
-"level": "B1"
-},
-{
-"id": "b10-hurt-sb-s-feelings",
-"en": "hurt sb's feelings",
-"cz": "ranit něčí city",
-"ex": "I didn't want to hurt your feelings.",
-"level": "B2"
+"ex": "Calm down and listen.",
+"level": "B1+"
 }
 ]
 }

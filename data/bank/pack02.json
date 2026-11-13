@@ -2,287 +2,357 @@
 "id": "pack02",
 "topic": "Money & finance",
 "topic_cz": "Peníze a finance",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b02-afford",
-"en": "afford",
-"cz": "dovolit si (finančně)",
-"ex": "We can't afford a new car.",
-"level": "B1"
+"id": "b02-be-strapped-for-cash",
+"en": "be strapped for cash",
+"cz": "být na suchu",
+"ex": "I'm a bit strapped for cash this month.",
+"level": "C1"
 },
 {
-"id": "b02-save-up",
-"en": "save up",
-"cz": "šetřit (na něco)",
-"ex": "I'm saving up for a holiday.",
-"level": "B1"
-},
-{
-"id": "b02-borrow",
-"en": "borrow",
-"cz": "půjčit si",
-"ex": "Can I borrow ten euros?",
-"level": "B1"
-},
-{
-"id": "b02-lend",
-"en": "lend",
-"cz": "půjčit (někomu)",
-"ex": "Could you lend me your bike?",
-"level": "B1"
-},
-{
-"id": "b02-owe",
-"en": "owe",
-"cz": "dlužit",
-"ex": "I owe you a coffee.",
-"level": "B1"
-},
-{
-"id": "b02-debt",
-"en": "debt",
-"cz": "dluh",
-"ex": "They are trying to pay off their debts.",
-"level": "B1"
-},
-{
-"id": "b02-loan",
-"en": "loan",
-"cz": "půjčka, úvěr",
-"ex": "We took out a loan to buy the flat.",
-"level": "B1"
-},
-{
-"id": "b02-mortgage",
-"en": "mortgage",
-"cz": "hypotéka",
-"ex": "Our mortgage lasts thirty years.",
+"id": "b02-tighten-your-belt",
+"en": "tighten your belt",
+"cz": "utáhnout opasky",
+"ex": "We'll have to tighten our belts.",
 "level": "B2"
 },
 {
-"id": "b02-interest-rate",
-"en": "interest rate",
-"cz": "úroková sazba",
-"ex": "Interest rates went up again.",
+"id": "b02-splash-out-on",
+"en": "splash out on",
+"cz": "rozšoupnout se, utratit hodně za",
+"ex": "We splashed out on a new sofa.",
+"level": "C1"
+},
+{
+"id": "b02-live-beyond-your-means",
+"en": "live beyond your means",
+"cz": "žít nad poměry",
+"ex": "They've been living beyond their means for years.",
+"level": "C1"
+},
+{
+"id": "b02-make-ends-meet",
+"en": "make ends meet",
+"cz": "vyjít s penězi",
+"ex": "It's hard to make ends meet on one salary.",
 "level": "B2"
 },
 {
-"id": "b02-budget",
-"en": "budget",
-"cz": "rozpočet",
-"ex": "We need to stick to our budget.",
-"level": "B1"
+"id": "b02-run-up-a-debt",
+"en": "run up a debt",
+"cz": "nadělat dluhy",
+"ex": "He ran up huge debts on his credit card.",
+"level": "C1"
 },
 {
-"id": "b02-expenses",
-"en": "expenses",
-"cz": "výdaje",
-"ex": "Living expenses in the city are high.",
-"level": "B1"
-},
-{
-"id": "b02-income",
-"en": "income",
-"cz": "příjem",
-"ex": "Their monthly income is quite low.",
-"level": "B1"
-},
-{
-"id": "b02-cash",
-"en": "cash",
-"cz": "hotovost",
-"ex": "Do you pay in cash or by card?",
-"level": "B1"
-},
-{
-"id": "b02-withdraw-money",
-"en": "withdraw money",
-"cz": "vybrat peníze",
-"ex": "I need to withdraw some money from the ATM.",
-"level": "B1"
-},
-{
-"id": "b02-bank-account",
-"en": "bank account",
-"cz": "bankovní účet",
-"ex": "I opened a new bank account.",
-"level": "B1"
-},
-{
-"id": "b02-transfer",
-"en": "transfer",
-"cz": "převod; převést",
-"ex": "I'll transfer the money tomorrow.",
-"level": "B1"
-},
-{
-"id": "b02-receipt",
-"en": "receipt",
-"cz": "účtenka",
-"ex": "Keep the receipt in case you want to return it.",
-"level": "B1"
-},
-{
-"id": "b02-refund",
-"en": "refund",
-"cz": "vrácení peněz",
-"ex": "I asked for a refund.",
-"level": "B1"
-},
-{
-"id": "b02-bargain",
-"en": "bargain",
-"cz": "výhodná koupě",
-"ex": "This jacket was a real bargain.",
-"level": "B1"
-},
-{
-"id": "b02-discount",
-"en": "discount",
-"cz": "sleva",
-"ex": "Students get a 20% discount.",
-"level": "B1"
-},
-{
-"id": "b02-expensive",
-"en": "expensive",
-"cz": "drahý",
-"ex": "London is an expensive city.",
-"level": "A2"
-},
-{
-"id": "b02-overpriced",
-"en": "overpriced",
-"cz": "předražený",
-"ex": "The drinks at the festival were overpriced.",
+"id": "b02-be-in-the-red",
+"en": "be in the red",
+"cz": "být v mínusu",
+"ex": "My account is in the red again.",
 "level": "B2"
 },
 {
-"id": "b02-cheap",
-"en": "cheap",
-"cz": "levný",
-"ex": "The food there is cheap and good.",
-"level": "A2"
+"id": "b02-be-in-the-black",
+"en": "be in the black",
+"cz": "být v plusu",
+"ex": "The company is finally in the black.",
+"level": "C1"
+},
+{
+"id": "b02-overdraft",
+"en": "overdraft",
+"cz": "přečerpání účtu",
+"ex": "I have an overdraft of 500 euros.",
+"level": "B2"
+},
+{
+"id": "b02-down-payment",
+"en": "down payment",
+"cz": "záloha, akontace",
+"ex": "We made a down payment on the house.",
+"level": "B2"
+},
+{
+"id": "b02-instalment",
+"en": "instalment",
+"cz": "splátka",
+"ex": "You can pay in monthly instalments.",
+"level": "B2"
+},
+{
+"id": "b02-take-out-a-loan",
+"en": "take out a loan",
+"cz": "vzít si půjčku",
+"ex": "We took out a loan for the car.",
+"level": "B2"
+},
+{
+"id": "b02-pay-off-a-mortgage",
+"en": "pay off a mortgage",
+"cz": "splatit hypotéku",
+"ex": "They paid off their mortgage early.",
+"level": "B2"
+},
+{
+"id": "b02-interest-free",
+"en": "interest-free",
+"cz": "bezúročný",
+"ex": "It's an interest-free loan.",
+"level": "B2"
+},
+{
+"id": "b02-frugal",
+"en": "frugal",
+"cz": "šetrný, skromný",
+"ex": "My grandparents lead a frugal life.",
+"level": "C1"
+},
+{
+"id": "b02-thrifty",
+"en": "thrifty",
+"cz": "spořivý",
+"ex": "She's very thrifty and never wastes money.",
+"level": "C1"
+},
+{
+"id": "b02-extravagant",
+"en": "extravagant",
+"cz": "marnotratný, rozhazovačný",
+"ex": "That was an extravagant gift.",
+"level": "C1"
+},
+{
+"id": "b02-lucrative",
+"en": "lucrative",
+"cz": "výnosný, lukrativní",
+"ex": "It's a very lucrative business.",
+"level": "C1"
+},
+{
+"id": "b02-squander",
+"en": "squander",
+"cz": "promrhat",
+"ex": "He squandered his inheritance.",
+"level": "C1"
+},
+{
+"id": "b02-nest-egg",
+"en": "nest egg",
+"cz": "úspory (na horší časy)",
+"ex": "We've built up a nice nest egg.",
+"level": "C1"
+},
+{
+"id": "b02-windfall",
+"en": "windfall",
+"cz": "nečekaný zisk",
+"ex": "The tax refund was a nice windfall.",
+"level": "C1"
+},
+{
+"id": "b02-a-rainy-day",
+"en": "a rainy day",
+"cz": "horší časy",
+"ex": "Save some money for a rainy day.",
+"level": "B2"
+},
+{
+"id": "b02-cost-a-fortune",
+"en": "cost a fortune",
+"cz": "stát majlant",
+"ex": "The repairs cost a fortune.",
+"level": "B2"
+},
+{
+"id": "b02-foot-the-bill",
+"en": "foot the bill",
+"cz": "zaplatit účet",
+"ex": "Who's going to foot the bill?",
+"level": "C1"
+},
+{
+"id": "b02-chip-in",
+"en": "chip in",
+"cz": "složit se",
+"ex": "We all chipped in for her present.",
+"level": "B2"
+},
+{
+"id": "b02-go-dutch",
+"en": "go Dutch",
+"cz": "zaplatit každý za sebe",
+"ex": "Let's go Dutch tonight.",
+"level": "C1"
+},
+{
+"id": "b02-haggle",
+"en": "haggle",
+"cz": "smlouvat",
+"ex": "You can haggle at the market.",
+"level": "B2"
+},
+{
+"id": "b02-rip-sb-off",
+"en": "rip sb off",
+"cz": "okrást, natáhnout někoho",
+"ex": "The taxi driver ripped us off.",
+"level": "B2"
+},
+{
+"id": "b02-a-steal",
+"en": "a steal",
+"cz": "za babku, skvělá koupě",
+"ex": "At this price it's a steal.",
+"level": "B2"
+},
+{
+"id": "b02-budget-for",
+"en": "budget for",
+"cz": "počítat s (výdajem)",
+"ex": "We didn't budget for repairs.",
+"level": "B2"
+},
+{
+"id": "b02-inflation",
+"en": "inflation",
+"cz": "inflace",
+"ex": "Inflation is eating into our savings.",
+"level": "B2"
+},
+{
+"id": "b02-recession",
+"en": "recession",
+"cz": "recese",
+"ex": "The country is in recession.",
+"level": "B2"
+},
+{
+"id": "b02-shareholder",
+"en": "shareholder",
+"cz": "akcionář",
+"ex": "The shareholders approved the merger.",
+"level": "C1"
+},
+{
+"id": "b02-stock-market",
+"en": "stock market",
+"cz": "akciový trh",
+"ex": "The stock market crashed.",
+"level": "B2"
+},
+{
+"id": "b02-hard-earned-money",
+"en": "hard-earned money",
+"cz": "těžce vydělané peníze",
+"ex": "Don't waste your hard-earned money.",
+"level": "B2"
+},
+{
+"id": "b02-disposable-income",
+"en": "disposable income",
+"cz": "disponibilní příjem",
+"ex": "People have less disposable income now.",
+"level": "C1"
+},
+{
+"id": "b02-tax-return",
+"en": "tax return",
+"cz": "daňové přiznání",
+"ex": "I need to file my tax return.",
+"level": "B2"
+},
+{
+"id": "b02-financially-independent",
+"en": "financially independent",
+"cz": "finančně nezávislý",
+"ex": "She became financially independent at 25.",
+"level": "B2"
+},
+{
+"id": "b02-spending-spree",
+"en": "spending spree",
+"cz": "nákupní horečka",
+"ex": "She went on a spending spree in Milan.",
+"level": "C1"
+},
+{
+"id": "b02-money-is-tight",
+"en": "money is tight",
+"cz": "je málo peněz",
+"ex": "Money is tight at the moment.",
+"level": "B2"
+},
+{
+"id": "b02-save-up-for",
+"en": "save up for",
+"cz": "šetřit na",
+"ex": "We're saving up for a new car.",
+"level": "B1+"
 },
 {
 "id": "b02-waste-money-on",
 "en": "waste money on",
 "cz": "vyhazovat peníze za",
-"ex": "Don't waste money on things you don't need.",
-"level": "B1"
+"ex": "Don't waste money on junk food.",
+"level": "B1+"
 },
 {
-"id": "b02-invest",
-"en": "invest",
-"cz": "investovat",
-"ex": "He invested his savings in property.",
-"level": "B2"
+"id": "b02-can-t-afford",
+"en": "can't afford",
+"cz": "nemoci si dovolit",
+"ex": "We can't afford a holiday this year.",
+"level": "B1+"
 },
 {
-"id": "b02-savings",
-"en": "savings",
-"cz": "úspory",
-"ex": "They spent all their savings on the house.",
-"level": "B1"
+"id": "b02-pay-back",
+"en": "pay back",
+"cz": "splatit, vrátit (peníze)",
+"ex": "I'll pay you back on Friday.",
+"level": "B1+"
 },
 {
-"id": "b02-pension",
-"en": "pension",
-"cz": "důchod (peníze)",
-"ex": "Will our pension be enough?",
-"level": "B2"
+"id": "b02-lend-sb-money",
+"en": "lend sb money",
+"cz": "půjčit někomu peníze",
+"ex": "Could you lend me some money?",
+"level": "B1+"
 },
 {
-"id": "b02-tax",
-"en": "tax",
-"cz": "daň",
-"ex": "You have to pay tax on your income.",
-"level": "B1"
+"id": "b02-withdraw-cash",
+"en": "withdraw cash",
+"cz": "vybrat hotovost",
+"ex": "I need to withdraw some cash.",
+"level": "B1+"
 },
 {
-"id": "b02-bill",
-"en": "bill",
-"cz": "účet (k zaplacení)",
-"ex": "Have you paid the electricity bill?",
-"level": "B1"
+"id": "b02-be-worth-it",
+"en": "be worth it",
+"cz": "stát za to",
+"ex": "It was expensive, but it was worth it.",
+"level": "B1+"
 },
 {
-"id": "b02-pay-off",
-"en": "pay off",
-"cz": "splatit",
-"ex": "It took ten years to pay off the loan.",
-"level": "B2"
-},
-{
-"id": "b02-be-broke",
-"en": "be broke",
-"cz": "být bez peněz",
-"ex": "I'm broke until payday.",
-"level": "B2"
-},
-{
-"id": "b02-well-off",
-"en": "well-off",
-"cz": "zámožný",
-"ex": "Her family is quite well-off.",
-"level": "B2"
+"id": "b02-live-on",
+"en": "live on",
+"cz": "vyžít z",
+"ex": "They live on one salary.",
+"level": "B1+"
 },
 {
 "id": "b02-cost-of-living",
 "en": "cost of living",
 "cz": "životní náklady",
 "ex": "The cost of living keeps rising.",
-"level": "B2"
+"level": "B1+"
 },
 {
-"id": "b02-currency",
-"en": "currency",
-"cz": "měna",
-"ex": "What's the local currency in Croatia?",
-"level": "B1"
-},
-{
-"id": "b02-exchange-rate",
-"en": "exchange rate",
-"cz": "směnný kurz",
-"ex": "The exchange rate is good at the moment.",
-"level": "B2"
-},
-{
-"id": "b02-coin",
-"en": "coin",
-"cz": "mince",
-"ex": "I've got some coins for the parking machine.",
-"level": "A2"
-},
-{
-"id": "b02-wallet",
-"en": "wallet",
-"cz": "peněženka",
-"ex": "I've lost my wallet!",
-"level": "A2"
-},
-{
-"id": "b02-charge",
-"en": "charge",
-"cz": "účtovat (si)",
-"ex": "They charged us 50 euros for delivery.",
-"level": "B1"
-},
-{
-"id": "b02-fee",
-"en": "fee",
-"cz": "poplatek",
-"ex": "There's no fee for using this card abroad.",
-"level": "B2"
-},
-{
-"id": "b02-make-ends-meet",
-"en": "make ends meet",
-"cz": "vyjít s penězi",
-"ex": "Many families struggle to make ends meet.",
-"level": "C1"
+"id": "b02-pocket-money",
+"en": "pocket money",
+"cz": "kapesné",
+"ex": "How much pocket money do your kids get?",
+"level": "B1+"
 }
 ]
 }

@@ -1,41 +1,51 @@
 #Society & community|Společnost a komunita
-community|komunita, obec|It's a friendly community.|B1
-volunteer|dobrovolník; dobrovolně pomáhat|She volunteers at an animal shelter.|B1
-charity|charita, dobročinná organizace|We gave money to charity.|B1
-donate|darovat|I donate blood twice a year.|B2
-homeless|bez domova|The number of homeless people is rising.|B1
-poverty|chudoba|Millions of people live in poverty.|B2
-unemployment|nezaměstnanost|Unemployment is low in our region.|B2
-equality|rovnost|We believe in gender equality.|B2
-discrimination|diskriminace|Discrimination at work is illegal.|B2
-election|volby|The election is in October.|B1
-vote|volit; hlas|Did you vote in the election?|B1
-government|vláda|The government announced new taxes.|B1
-law|zákon|There's a new law about smoking.|B1
-citizen|občan|Every citizen has the right to vote.|B2
-rights|práva|Human rights must be protected.|B1
-protest|protest; protestovat|Thousands protested in the streets.|B2
-issue|problém, otázka|Housing is a big issue for young people.|B2
-generation|generace|My generation grew up with the internet.|B1
-elderly|starší, senioři|We help elderly people with shopping.|B2
-retirement|důchod (období)|He enjoys his retirement.|B2
-population|populace, obyvatelstvo|The population is ageing.|B1
-immigrant|přistěhovalec|Many immigrants work in healthcare.|B2
-diversity|rozmanitost|London is famous for its diversity.|C1
-welfare|sociální péče|The welfare system needs reform.|C1
+grassroots|zdola, občanský (iniciativa)|It's a grassroots movement.|C1
+raise awareness|zvyšovat povědomí|The campaign raises awareness of mental health.|B2
+make a difference|něco změnit k lepšímu|Volunteers make a real difference.|B2
+give back to the community|oplatit něco komunitě|He wants to give back to the community.|C1
+underprivileged|znevýhodněný|They help underprivileged children.|C1
+marginalised|marginalizovaný, na okraji|Marginalised groups need a voice.|C1
+the gender pay gap|rozdíl v odměňování mužů a žen|We must close the gender pay gap.|C1
+equal opportunities|rovné příležitosti|We're an equal opportunities employer.|C1
+prejudice|předsudek|We must fight prejudice.|B2
+stereotype|stereotyp|That's just a stereotype.|B2
 tolerance|tolerance|We need more tolerance.|B2
-public opinion|veřejné mínění|Public opinion has changed.|B2
-make a difference|něco změnit, mít vliv|Even small actions make a difference.|B2
-raise money|vybírat peníze|We're raising money for the hospital.|B2
-neighbour|soused|Our neighbours are very kind.|A2
-social life|společenský život|I don't have much of a social life.|B1
-peer pressure|tlak vrstevníků|Teenagers often suffer from peer pressure.|C1
-role model|vzor|Parents should be role models.|B2
-behaviour|chování|His behaviour was unacceptable.|B1
-responsibility|odpovědnost|We all have a responsibility to help.|B1
-fair|spravedlivý|That's not fair!|B1
-unfair|nespravedlivý|The decision was unfair.|B1
-support|podporovat|We support local businesses.|B1
-lifestyle|životní styl|They have a healthy lifestyle.|B1
-standard of living|životní úroveň|The standard of living has improved.|B2
-take part in|zúčastnit se|I took part in a charity run.|B1
+an ageing population|stárnoucí populace|Europe has an ageing population.|C1
+the welfare state|sociální stát|The welfare state is under pressure.|C1
+benefits|sociální dávky|He's on benefits.|C1
+the poverty line|hranice chudoby|Millions live below the poverty line.|C1
+homelessness|bezdomovectví|Homelessness is rising.|B2
+affordable housing|dostupné bydlení|There's a shortage of affordable housing.|C1
+social mobility|sociální mobilita|Education improves social mobility.|C1
+peer pressure|tlak vrstevníků|Teens give in to peer pressure.|C1
+role model|vzor|Athletes should be role models.|B2
+civic duty|občanská povinnost|Voting is a civic duty.|C1
+turnout|volební účast|Turnout was low.|C1
+grass-roots campaign|kampaň zdola|They ran a grass-roots campaign.|C1
+take to the streets|vyjít do ulic|Thousands took to the streets.|C1
+a petition|petice|Sign our petition!|B2
+lobby|lobovat|They lobbied the government for change.|C1
+controversial|kontroverzní|It's a controversial law.|B2
+divisive|rozdělující (společnost)|Immigration is a divisive issue.|C1
+polarised|polarizovaný|Society has become polarised.|C1
+the generation gap|generační propast|There's a big generation gap.|B2
+social cohesion|soudržnost společnosti|Sport builds social cohesion.|C1
+integration|integrace|Language is key to integration.|C1
+diverse|rozmanitý|It's a diverse neighbourhood.|B2
+inclusive|inkluzivní, otevřený všem|We want an inclusive society.|C1
+volunteer|dobrovolně pomáhat|She volunteers at a food bank.|B2
+food bank|potravinová banka|More families use food banks.|C1
+fundraiser|sbírková akce|We held a fundraiser for the school.|C1
+make ends meet|vyjít s penězi|Many families struggle to make ends meet.|B2
+the haves and have-nots|bohatí a chudí|The gap between the haves and have-nots is growing.|C1
+community spirit|sousedská soudržnost|There's a great community spirit here.|C1
+a volunteer|dobrovolník|She's a volunteer at a hospital.|B1+
+a charity|charita|We gave money to charity.|B1+
+the elderly|senioři|We help the elderly with shopping.|B1+
+homeless|bez domova|The number of homeless people is rising.|B1+
+unemployment|nezaměstnanost|Unemployment is low here.|B1+
+an election|volby|The election is next month.|B1+
+vote for|volit (koho)|Who did you vote for?|B1+
+a neighbour|soused|Our neighbours are very friendly.|B1+
+equal rights|rovná práva|Everyone should have equal rights.|B1+
+a protest|protest|There was a big protest in the square.|B1+

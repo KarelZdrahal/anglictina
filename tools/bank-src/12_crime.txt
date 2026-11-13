@@ -1,41 +1,51 @@
 #Crime & law|Zločin a právo
-crime|zločin, kriminalita|Crime is falling in the city.|B1
-criminal|zločinec|The criminal escaped.|B1
-steal|ukrást|Someone stole my bike.|B1
-rob|okrást, vyloupit|They robbed a bank.|B1
-burglar|zloděj (vloupání)|A burglar broke into our house.|B2
-burglary|vloupání|There have been several burglaries in the area.|B2
-pickpocket|kapsář|Watch out for pickpockets on the metro.|B2
-shoplifting|krádež v obchodě|He was arrested for shoplifting.|B2
-vandalism|vandalismus|Vandalism costs the city millions.|B2
-fraud|podvod|Credit card fraud is increasing.|B2
-murder|vražda|He was accused of murder.|B1
-witness|svědek|The police are looking for witnesses.|B1
-suspect|podezřelý|The suspect was arrested last night.|B1
-arrest|zatknout|The police arrested two men.|B1
-charge with|obvinit z|He was charged with theft.|C1
+commit a crime|spáchat trestný čin|Most crimes are committed by young men.|B2
+break into|vloupat se|Someone broke into our car.|B2
+mug|přepadnout (na ulici)|He was mugged on his way home.|B2
+shoplifting|krádež v obchodě|She was caught shoplifting.|B2
+burglary|vloupání|Burglary rates have fallen.|B2
+fraud|podvod|He was jailed for fraud.|B2
+identity theft|krádež identity|Identity theft is on the rise.|C1
+money laundering|praní špinavých peněz|He was charged with money laundering.|C1
+bribery|úplatkářství|The official was accused of bribery.|C1
+smuggle|pašovat|They tried to smuggle drugs.|C1
+be taken into custody|být vzat do vazby|The suspect was taken into custody.|C1
+be charged with|být obviněn z|He was charged with theft.|C1
+plead guilty|přiznat vinu|She pleaded guilty.|C1
+acquit|zprostit obžaloby|The jury acquitted him.|C1
+convict|odsoudit; odsouzený|He was convicted of murder.|C1
+sentence sb to|odsoudit k|She was sentenced to two years.|B2
+serve a sentence|odpykat si trest|He's serving a life sentence.|C1
+community service|veřejně prospěšné práce|He got 100 hours of community service.|C1
+be released on bail|být propuštěn na kauci|She was released on bail.|C1
+a suspended sentence|podmíněný trest|He received a suspended sentence.|C1
+eyewitness|očitý svědek|An eyewitness described the robber.|C1
+alibi|alibi|He had a solid alibi.|B2
 evidence|důkazy|There isn't enough evidence.|B2
-guilty|vinný|The jury found him guilty.|B1
-innocent|nevinný|She says she's innocent.|B1
-court|soud|The case went to court.|B1
-judge|soudce|The judge sentenced him to five years.|B1
-lawyer|právník, advokát|You should talk to a lawyer.|B1
-sentence|trest; odsoudit|He got a two-year sentence.|B2
-prison|vězení|He spent ten years in prison.|B1
-fine|pokuta; pokutovat|I got a parking fine.|B1
-break the law|porušit zákon|You're breaking the law.|B1
-illegal|nelegální|It's illegal to drive without a licence.|B1
-legal|legální, právní|Is it legal to camp here?|B1
-investigate|vyšetřovat|The police are investigating the crime.|B2
-detective|detektiv|The detective solved the case.|B1
-clue|stopa, vodítko|The police found an important clue.|B2
-victim|oběť|The victim was taken to hospital.|B1
-commit a crime|spáchat trestný čin|Most crimes are committed at night.|B2
-get away with|projít (beztrestně)|He got away with it.|B2
-security camera|bezpečnostní kamera|A security camera filmed the thief.|B1
-report a crime|nahlásit trestný čin|I reported the theft to the police.|B1
-scam|podvod, šmejdi|It's an online scam.|B2
-speeding|překročení rychlosti|I got a fine for speeding.|B2
-punishment|trest|The punishment was too harsh.|B2
-reward|odměna|They offered a reward for information.|B1
-mystery|záhada|The case remains a mystery.|B1
+DNA evidence|důkazy DNA|DNA evidence proved his innocence.|C1
+crack a case|rozlousknout případ|Detectives finally cracked the case.|C1
+get away with|projít (beztrestně)|He thought he'd get away with it.|B2
+turn yourself in|udat se|The suspect turned himself in.|C1
+on the run|na útěku|The prisoner is still on the run.|C1
+a deterrent|odstrašující prostředek|Prison is not always a deterrent.|C1
+law-abiding|dodržující zákony|Most people are law-abiding citizens.|C1
+petty crime|drobná kriminalita|Petty crime is common in tourist areas.|C1
+reoffend|znovu spáchat trestný čin|Many prisoners reoffend.|C1
+crack down on|zakročit proti|Police are cracking down on speeding.|C1
+loophole|kličky v zákoně|They exploited a legal loophole.|C1
+miscarriage of justice|justiční omyl|His conviction was a miscarriage of justice.|C1
+take the law into your own hands|vzít spravedlnost do vlastních rukou|Don't take the law into your own hands.|C1
+scam|podvod|It's a phone scam.|B2
+con artist|podvodník|A con artist tricked my grandma.|C1
+vandalise|poškodit (vandalsky)|Someone vandalised the bus stop.|B2
+fine|pokutovat|I was fined for speeding.|B2
+steal|ukrást|Someone stole my bike.|B1+
+a thief|zloděj|The thief was caught.|B1+
+a witness|svědek|Were there any witnesses?|B1+
+arrest|zatknout|The police arrested two men.|B1+
+a suspect|podezřelý|The suspect denies everything.|B1+
+guilty|vinný|The jury found him guilty.|B1+
+innocent|nevinný|She says she's innocent.|B1+
+break the law|porušit zákon|You're breaking the law.|B1+
+a fine|pokuta|I got a parking fine.|B1+
+report a crime|nahlásit trestný čin|Report the theft to the police.|B1+

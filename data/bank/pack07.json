@@ -2,71 +2,8 @@
 "id": "pack07",
 "topic": "Nature & environment",
 "topic_cz": "Příroda a životní prostředí",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
-{
-"id": "b07-environment",
-"en": "environment",
-"cz": "životní prostředí",
-"ex": "We must protect the environment.",
-"level": "B1"
-},
-{
-"id": "b07-pollution",
-"en": "pollution",
-"cz": "znečištění",
-"ex": "Air pollution is a big problem in cities.",
-"level": "B1"
-},
-{
-"id": "b07-climate-change",
-"en": "climate change",
-"cz": "klimatická změna",
-"ex": "Climate change affects everyone.",
-"level": "B1"
-},
-{
-"id": "b07-global-warming",
-"en": "global warming",
-"cz": "globální oteplování",
-"ex": "Global warming is melting the ice.",
-"level": "B1"
-},
-{
-"id": "b07-recycle",
-"en": "recycle",
-"cz": "recyklovat",
-"ex": "We recycle paper and plastic.",
-"level": "B1"
-},
-{
-"id": "b07-waste",
-"en": "waste",
-"cz": "odpad; plýtvat",
-"ex": "Don't waste water.",
-"level": "B1"
-},
-{
-"id": "b07-rubbish",
-"en": "rubbish",
-"cz": "odpadky",
-"ex": "Take the rubbish out, please.",
-"level": "B1"
-},
-{
-"id": "b07-renewable-energy",
-"en": "renewable energy",
-"cz": "obnovitelná energie",
-"ex": "Solar power is a renewable energy source.",
-"level": "B2"
-},
-{
-"id": "b07-fossil-fuels",
-"en": "fossil fuels",
-"cz": "fosilní paliva",
-"ex": "We need to stop burning fossil fuels.",
-"level": "B2"
-},
 {
 "id": "b07-carbon-footprint",
 "en": "carbon footprint",
@@ -75,214 +12,347 @@
 "level": "B2"
 },
 {
-"id": "b07-endangered-species",
-"en": "endangered species",
-"cz": "ohrožený druh",
-"ex": "Tigers are an endangered species.",
-"level": "B2"
-},
-{
-"id": "b07-extinct",
-"en": "extinct",
-"cz": "vyhynulý",
-"ex": "Dinosaurs are extinct.",
-"level": "B1"
-},
-{
-"id": "b07-wildlife",
-"en": "wildlife",
-"cz": "divoká zvířata a rostliny",
-"ex": "The park is full of wildlife.",
-"level": "B1"
-},
-{
-"id": "b07-habitat",
-"en": "habitat",
-"cz": "přirozené prostředí",
-"ex": "Forests are the habitat of many animals.",
-"level": "B2"
-},
-{
-"id": "b07-deforestation",
-"en": "deforestation",
-"cz": "odlesňování",
-"ex": "Deforestation destroys ecosystems.",
+"id": "b07-carbon-neutral",
+"en": "carbon-neutral",
+"cz": "uhlíkově neutrální",
+"ex": "The company aims to be carbon-neutral by 2030.",
 "level": "C1"
 },
 {
-"id": "b07-drought",
-"en": "drought",
-"cz": "sucho",
-"ex": "The drought lasted three months.",
+"id": "b07-renewable",
+"en": "renewable",
+"cz": "obnovitelný",
+"ex": "Wind is a renewable energy source.",
 "level": "B2"
 },
 {
-"id": "b07-flood",
-"en": "flood",
-"cz": "povodeň",
-"ex": "The flood damaged many houses.",
-"level": "B1"
-},
-{
-"id": "b07-storm",
-"en": "storm",
-"cz": "bouřka, bouře",
-"ex": "There was a big storm last night.",
-"level": "A2"
-},
-{
-"id": "b07-heatwave",
-"en": "heatwave",
-"cz": "vlna veder",
-"ex": "Europe had a terrible heatwave.",
-"level": "B2"
-},
-{
-"id": "b07-earthquake",
-"en": "earthquake",
-"cz": "zemětřesení",
-"ex": "The earthquake destroyed the town.",
-"level": "B1"
-},
-{
-"id": "b07-natural-disaster",
-"en": "natural disaster",
-"cz": "přírodní katastrofa",
-"ex": "Floods are the most common natural disaster.",
-"level": "B1"
-},
-{
-"id": "b07-sustainable",
-"en": "sustainable",
-"cz": "udržitelný",
-"ex": "We need a more sustainable lifestyle.",
-"level": "B2"
-},
-{
-"id": "b07-eco-friendly",
-"en": "eco-friendly",
-"cz": "šetrný k přírodě",
-"ex": "This is an eco-friendly product.",
-"level": "B2"
-},
-{
-"id": "b07-reduce",
-"en": "reduce",
-"cz": "snížit",
-"ex": "We must reduce our energy use.",
-"level": "B1"
-},
-{
-"id": "b07-reuse",
-"en": "reuse",
-"cz": "znovu použít",
-"ex": "Reuse your shopping bags.",
-"level": "B1"
-},
-{
-"id": "b07-single-use-plastic",
-"en": "single-use plastic",
-"cz": "jednorázový plast",
-"ex": "The EU has banned some single-use plastic.",
-"level": "B2"
-},
-{
-"id": "b07-countryside",
-"en": "countryside",
-"cz": "venkov, krajina",
-"ex": "I prefer the countryside to the city.",
-"level": "B1"
-},
-{
-"id": "b07-valley",
-"en": "valley",
-"cz": "údolí",
-"ex": "The village lies in a beautiful valley.",
-"level": "B1"
-},
-{
-"id": "b07-coast",
-"en": "coast",
-"cz": "pobřeží",
-"ex": "We drove along the coast.",
-"level": "B1"
-},
-{
-"id": "b07-stream",
-"en": "stream",
-"cz": "potok",
-"ex": "We walked along a stream.",
-"level": "B1"
-},
-{
-"id": "b07-cliff",
-"en": "cliff",
-"cz": "útes",
-"ex": "The house stands on a cliff above the sea.",
-"level": "B2"
-},
-{
-"id": "b07-pond",
-"en": "pond",
-"cz": "rybník",
-"ex": "There are ducks in the pond.",
-"level": "B1"
-},
-{
-"id": "b07-soil",
-"en": "soil",
-"cz": "půda, hlína",
-"ex": "The soil here is very good for wine.",
-"level": "B2"
-},
-{
-"id": "b07-protect",
-"en": "protect",
-"cz": "chránit",
-"ex": "This area is protected by law.",
-"level": "B1"
-},
-{
-"id": "b07-threaten",
-"en": "threaten",
-"cz": "ohrožovat",
-"ex": "Pollution threatens wildlife.",
+"id": "b07-fossil-fuels",
+"en": "fossil fuels",
+"cz": "fosilní paliva",
+"ex": "We must reduce our use of fossil fuels.",
 "level": "B2"
 },
 {
 "id": "b07-emissions",
 "en": "emissions",
 "cz": "emise",
-"ex": "Car emissions are bad for our health.",
+"ex": "Car emissions pollute the air.",
 "level": "B2"
 },
 {
-"id": "b07-organic",
-"en": "organic",
-"cz": "bio, ekologický",
-"ex": "I buy organic vegetables.",
-"level": "B1"
+"id": "b07-deforestation",
+"en": "deforestation",
+"cz": "odlesňování",
+"ex": "Deforestation threatens the rainforest.",
+"level": "C1"
 },
 {
-"id": "b07-greenhouse-gases",
-"en": "greenhouse gases",
-"cz": "skleníkové plyny",
-"ex": "Cows produce a lot of greenhouse gases.",
+"id": "b07-biodiversity",
+"en": "biodiversity",
+"cz": "biodiverzita",
+"ex": "Pesticides reduce biodiversity.",
+"level": "C1"
+},
+{
+"id": "b07-endangered-species",
+"en": "endangered species",
+"cz": "ohrožený druh",
+"ex": "The snow leopard is an endangered species.",
 "level": "B2"
 },
 {
-"id": "b07-melt",
-"en": "melt",
-"cz": "tát",
-"ex": "The glaciers are melting.",
-"level": "B1"
+"id": "b07-on-the-brink-of-extinction",
+"en": "on the brink of extinction",
+"cz": "na pokraji vyhynutí",
+"ex": "Some species are on the brink of extinction.",
+"level": "C1"
 },
 {
-"id": "b07-scenery",
-"en": "scenery",
-"cz": "scenérie, krajina",
-"ex": "The scenery in Scotland is amazing.",
+"id": "b07-habitat-loss",
+"en": "habitat loss",
+"cz": "ztráta přirozeného prostředí",
+"ex": "Habitat loss is the biggest threat.",
+"level": "C1"
+},
+{
+"id": "b07-drought",
+"en": "drought",
+"cz": "sucho",
+"ex": "Farmers are suffering from the drought.",
 "level": "B2"
+},
+{
+"id": "b07-flash-flood",
+"en": "flash flood",
+"cz": "bleskové záplavy",
+"ex": "A flash flood hit the valley.",
+"level": "C1"
+},
+{
+"id": "b07-wildfire",
+"en": "wildfire",
+"cz": "lesní požár",
+"ex": "Wildfires destroyed thousands of hectares.",
+"level": "B2"
+},
+{
+"id": "b07-scorching",
+"en": "scorching",
+"cz": "rozpálený, úmorný",
+"ex": "It was a scorching day.",
+"level": "C1"
+},
+{
+"id": "b07-torrential-rain",
+"en": "torrential rain",
+"cz": "přívalový déšť",
+"ex": "Torrential rain caused floods.",
+"level": "C1"
+},
+{
+"id": "b07-landfill",
+"en": "landfill",
+"cz": "skládka",
+"ex": "Most plastic ends up in landfill.",
+"level": "C1"
+},
+{
+"id": "b07-compost",
+"en": "compost",
+"cz": "kompost; kompostovat",
+"ex": "We compost our food waste.",
+"level": "B2"
+},
+{
+"id": "b07-upcycle",
+"en": "upcycle",
+"cz": "přetvořit na něco hodnotnějšího",
+"ex": "She upcycles old furniture.",
+"level": "C1"
+},
+{
+"id": "b07-single-use",
+"en": "single-use",
+"cz": "jednorázový",
+"ex": "Ban single-use plastics!",
+"level": "B2"
+},
+{
+"id": "b07-sustainable",
+"en": "sustainable",
+"cz": "udržitelný",
+"ex": "We need sustainable farming.",
+"level": "B2"
+},
+{
+"id": "b07-eco-friendly",
+"en": "eco-friendly",
+"cz": "šetrný k přírodě",
+"ex": "Choose eco-friendly products.",
+"level": "B2"
+},
+{
+"id": "b07-greenwashing",
+"en": "greenwashing",
+"cz": "zelené mytí (falešná ekologičnost)",
+"ex": "That advert is pure greenwashing.",
+"level": "C1"
+},
+{
+"id": "b07-offset",
+"en": "offset",
+"cz": "kompenzovat",
+"ex": "You can offset your flight emissions.",
+"level": "C1"
+},
+{
+"id": "b07-melt-away",
+"en": "melt away",
+"cz": "roztát",
+"ex": "The glaciers are melting away.",
+"level": "B2"
+},
+{
+"id": "b07-rising-sea-levels",
+"en": "rising sea levels",
+"cz": "stoupající hladina moří",
+"ex": "Rising sea levels threaten coastal cities.",
+"level": "C1"
+},
+{
+"id": "b07-the-greenhouse-effect",
+"en": "the greenhouse effect",
+"cz": "skleníkový efekt",
+"ex": "CO2 increases the greenhouse effect.",
+"level": "B2"
+},
+{
+"id": "b07-conservation",
+"en": "conservation",
+"cz": "ochrana přírody",
+"ex": "She works in wildlife conservation.",
+"level": "C1"
+},
+{
+"id": "b07-nature-reserve",
+"en": "nature reserve",
+"cz": "přírodní rezervace",
+"ex": "The lake is a nature reserve.",
+"level": "B2"
+},
+{
+"id": "b07-lush",
+"en": "lush",
+"cz": "bujný, svěže zelený",
+"ex": "We walked through lush valleys.",
+"level": "C1"
+},
+{
+"id": "b07-barren",
+"en": "barren",
+"cz": "pustý, neúrodný",
+"ex": "The landscape is barren and rocky.",
+"level": "C1"
+},
+{
+"id": "b07-rugged",
+"en": "rugged",
+"cz": "drsný, členitý",
+"ex": "The coast is rugged and wild.",
+"level": "C1"
+},
+{
+"id": "b07-dense-forest",
+"en": "dense forest",
+"cz": "hustý les",
+"ex": "They got lost in the dense forest.",
+"level": "B2"
+},
+{
+"id": "b07-take-its-toll",
+"en": "take its toll",
+"cz": "vybrat si svou daň",
+"ex": "The drought has taken its toll on crops.",
+"level": "C1"
+},
+{
+"id": "b07-wipe-out",
+"en": "wipe out",
+"cz": "vyhubit",
+"ex": "The disease wiped out the population.",
+"level": "B2"
+},
+{
+"id": "b07-run-out-of",
+"en": "run out of",
+"cz": "dojít (zásoby)",
+"ex": "We're running out of clean water.",
+"level": "B2"
+},
+{
+"id": "b07-cut-down",
+"en": "cut down",
+"cz": "kácet",
+"ex": "They cut down the old trees.",
+"level": "B2"
+},
+{
+"id": "b07-throwaway-society",
+"en": "throwaway society",
+"cz": "společnost jednorázového zboží",
+"ex": "We live in a throwaway society.",
+"level": "C1"
+},
+{
+"id": "b07-climate-crisis",
+"en": "climate crisis",
+"cz": "klimatická krize",
+"ex": "The climate crisis is getting worse.",
+"level": "B2"
+},
+{
+"id": "b07-environmentally-conscious",
+"en": "environmentally conscious",
+"cz": "ekologicky uvědomělý",
+"ex": "Young people are more environmentally conscious.",
+"level": "C1"
+},
+{
+"id": "b07-leave-no-trace",
+"en": "leave no trace",
+"cz": "nezanechat stopy (v přírodě)",
+"ex": "When camping, leave no trace.",
+"level": "C1"
+},
+{
+"id": "b07-recycle",
+"en": "recycle",
+"cz": "recyklovat",
+"ex": "We recycle all our plastic.",
+"level": "B1+"
+},
+{
+"id": "b07-waste",
+"en": "waste",
+"cz": "odpad; plýtvat",
+"ex": "Don't waste water.",
+"level": "B1+"
+},
+{
+"id": "b07-pollution",
+"en": "pollution",
+"cz": "znečištění",
+"ex": "Air pollution is a big problem.",
+"level": "B1+"
+},
+{
+"id": "b07-protect-the-environment",
+"en": "protect the environment",
+"cz": "chránit životní prostředí",
+"ex": "We should all protect the environment.",
+"level": "B1+"
+},
+{
+"id": "b07-global-warming",
+"en": "global warming",
+"cz": "globální oteplování",
+"ex": "Global warming affects us all.",
+"level": "B1+"
+},
+{
+"id": "b07-a-heatwave",
+"en": "a heatwave",
+"cz": "vlna veder",
+"ex": "There was a heatwave in July.",
+"level": "B1+"
+},
+{
+"id": "b07-a-storm",
+"en": "a storm",
+"cz": "bouře",
+"ex": "The storm damaged our roof.",
+"level": "B1+"
+},
+{
+"id": "b07-the-countryside",
+"en": "the countryside",
+"cz": "venkov",
+"ex": "I love walking in the countryside.",
+"level": "B1+"
+},
+{
+"id": "b07-wildlife",
+"en": "wildlife",
+"cz": "volně žijící zvířata",
+"ex": "The park is full of wildlife.",
+"level": "B1+"
+},
+{
+"id": "b07-save-energy",
+"en": "save energy",
+"cz": "šetřit energii",
+"ex": "Turn off the lights to save energy.",
+"level": "B1+"
 }
 ]
 }

@@ -2,287 +2,357 @@
 "id": "pack01",
 "topic": "Work & career",
 "topic_cz": "Práce a kariéra",
-"level": "B1/B2",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b01-apply-for-a-job",
-"en": "apply for a job",
-"cz": "ucházet se o místo",
-"ex": "She applied for a job at a bank.",
-"level": "B1"
+"id": "b01-be-snowed-under",
+"en": "be snowed under",
+"cz": "být zavalený prací",
+"ex": "I'm snowed under with reports this week.",
+"level": "B2"
+},
+{
+"id": "b01-meet-a-deadline",
+"en": "meet a deadline",
+"cz": "stihnout termín",
+"ex": "We worked all night to meet the deadline.",
+"level": "B2"
+},
+{
+"id": "b01-take-on",
+"en": "take on",
+"cz": "vzít na sebe (práci, odpovědnost)",
+"ex": "She's taken on too many projects.",
+"level": "B2"
+},
+{
+"id": "b01-headhunt",
+"en": "headhunt",
+"cz": "přetáhnout (pracovníka)",
+"ex": "He was headhunted by a rival firm.",
+"level": "C1"
+},
+{
+"id": "b01-lay-off",
+"en": "lay off",
+"cz": "propustit (z ekonomických důvodů)",
+"ex": "The factory laid off 200 workers.",
+"level": "B2"
+},
+{
+"id": "b01-redundancy",
+"en": "redundancy",
+"cz": "propuštění pro nadbytečnost",
+"ex": "Hundreds of staff face redundancy.",
+"level": "C1"
+},
+{
+"id": "b01-probation-period",
+"en": "probation period",
+"cz": "zkušební doba",
+"ex": "My probation period lasts three months.",
+"level": "B2"
+},
+{
+"id": "b01-notice-period",
+"en": "notice period",
+"cz": "výpovědní lhůta",
+"ex": "I have a two-month notice period.",
+"level": "B2"
+},
+{
+"id": "b01-hand-in-your-notice",
+"en": "hand in your notice",
+"cz": "podat výpověď",
+"ex": "She handed in her notice on Monday.",
+"level": "B2"
+},
+{
+"id": "b01-delegate",
+"en": "delegate",
+"cz": "delegovat, svěřit úkol",
+"ex": "A good manager knows how to delegate.",
+"level": "B2"
+},
+{
+"id": "b01-prioritise",
+"en": "prioritise",
+"cz": "stanovit priority",
+"ex": "You need to prioritise your tasks.",
+"level": "B2"
+},
+{
+"id": "b01-multitask",
+"en": "multitask",
+"cz": "dělat více věcí najednou",
+"ex": "I'm not good at multitasking.",
+"level": "B2"
+},
+{
+"id": "b01-get-the-sack",
+"en": "get the sack",
+"cz": "dostat padáka",
+"ex": "He got the sack for stealing.",
+"level": "B2"
+},
+{
+"id": "b01-climb-the-career-ladder",
+"en": "climb the career ladder",
+"cz": "stoupat po kariérním žebříčku",
+"ex": "She's ambitious and wants to climb the career ladder.",
+"level": "B2"
+},
+{
+"id": "b01-a-dead-end-job",
+"en": "a dead-end job",
+"cz": "práce bez perspektivy",
+"ex": "I'm stuck in a dead-end job.",
+"level": "C1"
+},
+{
+"id": "b01-on-the-job-training",
+"en": "on the job training",
+"cz": "zaučení přímo v práci",
+"ex": "We offer on-the-job training.",
+"level": "C1"
+},
+{
+"id": "b01-be-up-to-your-eyes-in",
+"en": "be up to your eyes in",
+"cz": "mít něčeho nad hlavu",
+"ex": "I'm up to my eyes in paperwork.",
+"level": "C1"
+},
+{
+"id": "b01-call-in-sick",
+"en": "call in sick",
+"cz": "omluvit se z práce pro nemoc",
+"ex": "Two people called in sick today.",
+"level": "B2"
+},
+{
+"id": "b01-fringe-benefits",
+"en": "fringe benefits",
+"cz": "zaměstnanecké výhody",
+"ex": "The salary is low, but the fringe benefits are good.",
+"level": "C1"
+},
+{
+"id": "b01-entrepreneur",
+"en": "entrepreneur",
+"cz": "podnikatel",
+"ex": "She's a successful entrepreneur.",
+"level": "B2"
+},
+{
+"id": "b01-start-up",
+"en": "start-up",
+"cz": "začínající firma",
+"ex": "He works for a tech start-up.",
+"level": "B2"
+},
+{
+"id": "b01-turnover",
+"en": "turnover",
+"cz": "obrat; fluktuace zaměstnanců",
+"ex": "The company has a high staff turnover.",
+"level": "C1"
+},
+{
+"id": "b01-outsource",
+"en": "outsource",
+"cz": "zadat externí firmě",
+"ex": "They outsource their IT support.",
+"level": "C1"
+},
+{
+"id": "b01-streamline",
+"en": "streamline",
+"cz": "zefektivnit",
+"ex": "We need to streamline the process.",
+"level": "C1"
+},
+{
+"id": "b01-brainstorm",
+"en": "brainstorm",
+"cz": "společně vymýšlet nápady",
+"ex": "Let's brainstorm some ideas.",
+"level": "B2"
+},
+{
+"id": "b01-touch-base",
+"en": "touch base",
+"cz": "dát o sobě vědět, zkontaktovat se",
+"ex": "Let's touch base next week.",
+"level": "C1"
+},
+{
+"id": "b01-follow-up-on",
+"en": "follow up on",
+"cz": "navázat na, dotáhnout",
+"ex": "I'll follow up on your request tomorrow.",
+"level": "B2"
+},
+{
+"id": "b01-be-in-the-loop",
+"en": "be in the loop",
+"cz": "být v obraze",
+"ex": "Please keep me in the loop.",
+"level": "C1"
+},
+{
+"id": "b01-bring-forward",
+"en": "bring forward",
+"cz": "přesunout na dřívější termín",
+"ex": "The meeting has been brought forward to Monday.",
+"level": "B2"
+},
+{
+"id": "b01-put-back",
+"en": "put back",
+"cz": "odložit, posunout na později",
+"ex": "The launch was put back a month.",
+"level": "B2"
+},
+{
+"id": "b01-cut-corners",
+"en": "cut corners",
+"cz": "odbývat práci, šetřit na nesprávném místě",
+"ex": "Don't cut corners on safety.",
+"level": "C1"
+},
+{
+"id": "b01-pull-your-weight",
+"en": "pull your weight",
+"cz": "dělat svůj díl práce",
+"ex": "He doesn't pull his weight in the team.",
+"level": "C1"
+},
+{
+"id": "b01-hands-on-experience",
+"en": "hands-on experience",
+"cz": "praktická zkušenost",
+"ex": "The job requires hands-on experience.",
+"level": "B2"
+},
+{
+"id": "b01-transferable-skills",
+"en": "transferable skills",
+"cz": "přenositelné dovednosti",
+"ex": "Teaching gives you many transferable skills.",
+"level": "C1"
+},
+{
+"id": "b01-flexitime",
+"en": "flexitime",
+"cz": "pružná pracovní doba",
+"ex": "We work flexitime.",
+"level": "B2"
+},
+{
+"id": "b01-sabbatical",
+"en": "sabbatical",
+"cz": "tvůrčí volno",
+"ex": "She's on a six-month sabbatical.",
+"level": "C1"
+},
+{
+"id": "b01-work-your-way-up",
+"en": "work your way up",
+"cz": "vypracovat se",
+"ex": "He worked his way up from cleaner to manager.",
+"level": "B2"
+},
+{
+"id": "b01-burn-the-midnight-oil",
+"en": "burn the midnight oil",
+"cz": "pracovat dlouho do noci",
+"ex": "We burned the midnight oil to finish it.",
+"level": "C1"
+},
+{
+"id": "b01-step-down",
+"en": "step down",
+"cz": "odstoupit (z funkce)",
+"ex": "The CEO stepped down after the scandal.",
+"level": "B2"
+},
+{
+"id": "b01-appraisal",
+"en": "appraisal",
+"cz": "hodnocení pracovního výkonu",
+"ex": "I've got my annual appraisal next week.",
+"level": "C1"
+},
+{
+"id": "b01-job-hunting",
+"en": "job hunting",
+"cz": "hledání práce",
+"ex": "I spent the summer job hunting.",
+"level": "B1+"
+},
+{
+"id": "b01-apply-in-writing",
+"en": "apply in writing",
+"cz": "podat písemnou žádost",
+"ex": "Please apply in writing by Friday.",
+"level": "B1+"
+},
+{
+"id": "b01-work-shifts",
+"en": "work shifts",
+"cz": "pracovat na směny",
+"ex": "Nurses often work shifts.",
+"level": "B1+"
+},
+{
+"id": "b01-get-a-pay-rise",
+"en": "get a pay rise",
+"cz": "dostat přidáno",
+"ex": "She got a pay rise last month.",
+"level": "B1+"
 },
 {
 "id": "b01-colleague",
 "en": "colleague",
-"cz": "kolega, kolegyně",
-"ex": "My colleagues are very helpful.",
-"level": "B1"
-},
-{
-"id": "b01-deadline",
-"en": "deadline",
-"cz": "termín, uzávěrka",
-"ex": "We have to meet the deadline on Friday.",
-"level": "B1"
-},
-{
-"id": "b01-salary",
-"en": "salary",
-"cz": "plat",
-"ex": "He earns a good salary.",
-"level": "B1"
-},
-{
-"id": "b01-promotion",
-"en": "promotion",
-"cz": "povýšení",
-"ex": "She got a promotion last month.",
-"level": "B1"
-},
-{
-"id": "b01-resign",
-"en": "resign",
-"cz": "dát výpověď, odstoupit",
-"ex": "He resigned because he was unhappy.",
-"level": "B1"
-},
-{
-"id": "b01-be-fired",
-"en": "be fired",
-"cz": "dostat padáka, být propuštěn",
-"ex": "He was fired for being late every day.",
-"level": "B1"
-},
-{
-"id": "b01-part-time",
-"en": "part-time",
-"cz": "na částečný úvazek",
-"ex": "I work part-time in a café.",
-"level": "B1"
-},
-{
-"id": "b01-full-time",
-"en": "full-time",
-"cz": "na plný úvazek",
-"ex": "She has a full-time job in Prague.",
-"level": "B1"
-},
-{
-"id": "b01-employer",
-"en": "employer",
-"cz": "zaměstnavatel",
-"ex": "My employer pays for my English lessons.",
-"level": "B1"
-},
-{
-"id": "b01-employee",
-"en": "employee",
-"cz": "zaměstnanec",
-"ex": "The company has 200 employees.",
-"level": "B1"
-},
-{
-"id": "b01-experience",
-"en": "experience",
-"cz": "zkušenost, praxe",
-"ex": "Do you have any experience in sales?",
-"level": "B1"
-},
-{
-"id": "b01-skill",
-"en": "skill",
-"cz": "dovednost",
-"ex": "Communication is an important skill.",
-"level": "B1"
-},
-{
-"id": "b01-qualification",
-"en": "qualification",
-"cz": "kvalifikace",
-"ex": "What qualifications do you need for this job?",
-"level": "B1"
-},
-{
-"id": "b01-interview",
-"en": "interview",
-"cz": "pohovor",
-"ex": "I have a job interview tomorrow.",
-"level": "B1"
-},
-{
-"id": "b01-cv",
-"en": "CV",
-"cz": "životopis",
-"ex": "Send us your CV and a cover letter.",
-"level": "B1"
-},
-{
-"id": "b01-workload",
-"en": "workload",
-"cz": "pracovní vytížení",
-"ex": "My workload has doubled this year.",
-"level": "B2"
-},
-{
-"id": "b01-overtime",
-"en": "overtime",
-"cz": "přesčas",
-"ex": "I worked ten hours of overtime last week.",
-"level": "B1"
-},
-{
-"id": "b01-commute",
-"en": "commute",
-"cz": "dojíždět (do práce)",
-"ex": "I commute to work by train.",
-"level": "B1"
-},
-{
-"id": "b01-work-from-home",
-"en": "work from home",
-"cz": "pracovat z domova",
-"ex": "I work from home on Fridays.",
-"level": "B1"
-},
-{
-"id": "b01-meeting",
-"en": "meeting",
-"cz": "porada, schůzka",
-"ex": "The meeting has been postponed.",
-"level": "B1"
-},
-{
-"id": "b01-run-a-business",
-"en": "run a business",
-"cz": "vést firmu",
-"ex": "My uncle runs a small business.",
-"level": "B1"
+"cz": "kolega",
+"ex": "I get on well with my colleagues.",
+"level": "B1+"
 },
 {
 "id": "b01-be-in-charge-of",
 "en": "be in charge of",
 "cz": "mít na starosti",
-"ex": "Who is in charge of marketing?",
-"level": "B2"
+"ex": "Who's in charge of the project?",
+"level": "B1+"
 },
 {
-"id": "b01-responsibility",
-"en": "responsibility",
-"cz": "odpovědnost",
-"ex": "It's your responsibility to check the data.",
-"level": "B1"
+"id": "b01-run-a-meeting",
+"en": "run a meeting",
+"cz": "vést poradu",
+"ex": "Can you run the meeting today?",
+"level": "B1+"
 },
 {
-"id": "b01-career-ladder",
-"en": "career ladder",
-"cz": "kariérní žebříček",
-"ex": "She climbed the career ladder quickly.",
-"level": "B2"
+"id": "b01-workload",
+"en": "workload",
+"cz": "pracovní zátěž",
+"ex": "My workload has doubled.",
+"level": "B1+"
 },
 {
-"id": "b01-job-satisfaction",
-"en": "job satisfaction",
-"cz": "spokojenost v práci",
-"ex": "Job satisfaction is more important than money.",
-"level": "B2"
+"id": "b01-deal-with-customers",
+"en": "deal with customers",
+"cz": "jednat se zákazníky",
+"ex": "I deal with customers all day.",
+"level": "B1+"
 },
 {
-"id": "b01-retire",
-"en": "retire",
-"cz": "odejít do důchodu",
-"ex": "My father retired at 65.",
-"level": "B1"
-},
-{
-"id": "b01-unemployed",
-"en": "unemployed",
-"cz": "nezaměstnaný",
-"ex": "He has been unemployed for six months.",
-"level": "B1"
-},
-{
-"id": "b01-contract",
-"en": "contract",
-"cz": "smlouva",
-"ex": "I signed a one-year contract.",
-"level": "B1"
-},
-{
-"id": "b01-negotiate",
-"en": "negotiate",
-"cz": "vyjednávat",
-"ex": "We need to negotiate a better price.",
-"level": "B2"
-},
-{
-"id": "b01-staff",
-"en": "staff",
-"cz": "zaměstnanci, personál",
-"ex": "The staff are very friendly.",
-"level": "B1"
-},
-{
-"id": "b01-team-leader",
-"en": "team leader",
-"cz": "vedoucí týmu",
-"ex": "Our team leader organises everything.",
-"level": "B1"
-},
-{
-"id": "b01-shift",
-"en": "shift",
-"cz": "směna",
-"ex": "Nurses often work night shifts.",
-"level": "B1"
-},
-{
-"id": "b01-raise-n",
-"en": "raise (n.)",
-"cz": "zvýšení platu",
-"ex": "I asked my boss for a raise.",
-"level": "B2"
-},
-{
-"id": "b01-perk",
-"en": "perk",
-"cz": "výhoda, benefit",
-"ex": "Free lunch is one of the perks of the job.",
-"level": "B2"
-},
-{
-"id": "b01-self-employed",
-"en": "self-employed",
-"cz": "OSVČ, pracující na sebe",
-"ex": "She's self-employed and works from home.",
-"level": "B2"
-},
-{
-"id": "b01-make-a-living",
-"en": "make a living",
-"cz": "vydělávat si na živobytí",
-"ex": "It's hard to make a living as an artist.",
-"level": "B2"
-},
-{
-"id": "b01-take-time-off",
-"en": "take time off",
-"cz": "vzít si volno",
-"ex": "I'm taking some time off next week.",
-"level": "B1"
-},
-{
-"id": "b01-burnout",
-"en": "burnout",
-"cz": "vyhoření",
-"ex": "Too much stress can lead to burnout.",
-"level": "B2"
-},
-{
-"id": "b01-work-life-balance",
-"en": "work-life balance",
-"cz": "rovnováha mezi prací a osobním životem",
-"ex": "A four-day week improves work-life balance.",
-"level": "B2"
+"id": "b01-career-change",
+"en": "career change",
+"cz": "změna kariéry",
+"ex": "She's thinking about a career change.",
+"level": "B1+"
 }
 ]
 }

@@ -83,29 +83,31 @@ fun HomeScreen(
             LinearProgressIndicator(progress = { (todayMin / s.minutes.toFloat()).coerceIn(0f, 1f) }, modifier = Modifier.fillMaxWidth())
         }
 
-        Section("Denní opakování lekcí", container = MaterialTheme.colorScheme.primaryContainer) {
-            if (latest != null) Text("Aktuální lekce ${latest.week}: ${latest.titleEn} (${latest.titleCz})")
-            else Text("Zatím tu není žádná lekce. Zkus aktualizovat.")
-            Text("K opakování: $dueLessons · nových položek: $newLessons", style = MaterialTheme.typography.bodySmall)
+        Section("Rozšiřování slovní zásoby (B1+ až B2)", container = MaterialTheme.colorScheme.primaryContainer) {
             Text("Jak dlouho?", style = MaterialTheme.typography.labelLarge)
             FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 listOf(5, 10, 15, 20, 30).forEach { m ->
                     FilterChip(selected = minutes == m, onClick = { minutes = m }, label = { Text("$m min") })
                 }
             }
-            Button(onClick = { onStart(SessionKind.LESSONS, minutes) }, enabled = latest != null, modifier = Modifier.fillMaxWidth()) {
-                Text("Začít opakování ($minutes min)")
-            }
-        }
 
-        Section("Slovní zásoba bez omezení", container = MaterialTheme.colorScheme.secondaryContainer) {
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 Icon(Icons.Default.AllInclusive, null)
                 Text("K opakování: $dueBank · nových slov k dispozici: $newBank")
             }
             Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                Button(onClick = { onStart(SessionKind.BANK, minutes) }, enabled = repo.packs.isNotEmpty(), modifier = Modifier.weight(1f)) { Text("Učit se slova") }
+                Button(onClick = { onStart(SessionKind.BANK, minutes) }, enabled = repo.packs.isNotEmpty(), modifier = Modifier.weight(1f)) { Text("Učit se ($minutes min)") }
                 OutlinedButton(onClick = onBank, modifier = Modifier.weight(1f)) { Text("Témata a nastavení") }
+            }
+        }
+
+
+        Section("Opakování lekcí (B1)", container = MaterialTheme.colorScheme.secondaryContainer) {
+            if (latest != null) Text("Aktuální lekce ${latest.week}: ${latest.titleEn} (${latest.titleCz})")
+            else Text("Zatím tu není žádná lekce. Zkus aktualizovat.")
+            Text("K opakování: $dueLessons · nových položek: $newLessons", style = MaterialTheme.typography.bodySmall)
+            OutlinedButton(onClick = { onStart(SessionKind.LESSONS, minutes) }, enabled = latest != null, modifier = Modifier.fillMaxWidth()) {
+                Text("Začít opakování ($minutes min)")
             }
         }
 

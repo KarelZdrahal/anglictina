@@ -2,175 +2,77 @@
 "id": "pack17",
 "topic": "Society & community",
 "topic_cz": "Společnost a komunita",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b17-community",
-"en": "community",
-"cz": "komunita, obec",
-"ex": "It's a friendly community.",
-"level": "B1"
-},
-{
-"id": "b17-volunteer",
-"en": "volunteer",
-"cz": "dobrovolník; dobrovolně pomáhat",
-"ex": "She volunteers at an animal shelter.",
-"level": "B1"
-},
-{
-"id": "b17-charity",
-"en": "charity",
-"cz": "charita, dobročinná organizace",
-"ex": "We gave money to charity.",
-"level": "B1"
-},
-{
-"id": "b17-donate",
-"en": "donate",
-"cz": "darovat",
-"ex": "I donate blood twice a year.",
-"level": "B2"
-},
-{
-"id": "b17-homeless",
-"en": "homeless",
-"cz": "bez domova",
-"ex": "The number of homeless people is rising.",
-"level": "B1"
-},
-{
-"id": "b17-poverty",
-"en": "poverty",
-"cz": "chudoba",
-"ex": "Millions of people live in poverty.",
-"level": "B2"
-},
-{
-"id": "b17-unemployment",
-"en": "unemployment",
-"cz": "nezaměstnanost",
-"ex": "Unemployment is low in our region.",
-"level": "B2"
-},
-{
-"id": "b17-equality",
-"en": "equality",
-"cz": "rovnost",
-"ex": "We believe in gender equality.",
-"level": "B2"
-},
-{
-"id": "b17-discrimination",
-"en": "discrimination",
-"cz": "diskriminace",
-"ex": "Discrimination at work is illegal.",
-"level": "B2"
-},
-{
-"id": "b17-election",
-"en": "election",
-"cz": "volby",
-"ex": "The election is in October.",
-"level": "B1"
-},
-{
-"id": "b17-vote",
-"en": "vote",
-"cz": "volit; hlas",
-"ex": "Did you vote in the election?",
-"level": "B1"
-},
-{
-"id": "b17-government",
-"en": "government",
-"cz": "vláda",
-"ex": "The government announced new taxes.",
-"level": "B1"
-},
-{
-"id": "b17-law",
-"en": "law",
-"cz": "zákon",
-"ex": "There's a new law about smoking.",
-"level": "B1"
-},
-{
-"id": "b17-citizen",
-"en": "citizen",
-"cz": "občan",
-"ex": "Every citizen has the right to vote.",
-"level": "B2"
-},
-{
-"id": "b17-rights",
-"en": "rights",
-"cz": "práva",
-"ex": "Human rights must be protected.",
-"level": "B1"
-},
-{
-"id": "b17-protest",
-"en": "protest",
-"cz": "protest; protestovat",
-"ex": "Thousands protested in the streets.",
-"level": "B2"
-},
-{
-"id": "b17-issue",
-"en": "issue",
-"cz": "problém, otázka",
-"ex": "Housing is a big issue for young people.",
-"level": "B2"
-},
-{
-"id": "b17-generation",
-"en": "generation",
-"cz": "generace",
-"ex": "My generation grew up with the internet.",
-"level": "B1"
-},
-{
-"id": "b17-elderly",
-"en": "elderly",
-"cz": "starší, senioři",
-"ex": "We help elderly people with shopping.",
-"level": "B2"
-},
-{
-"id": "b17-retirement",
-"en": "retirement",
-"cz": "důchod (období)",
-"ex": "He enjoys his retirement.",
-"level": "B2"
-},
-{
-"id": "b17-population",
-"en": "population",
-"cz": "populace, obyvatelstvo",
-"ex": "The population is ageing.",
-"level": "B1"
-},
-{
-"id": "b17-immigrant",
-"en": "immigrant",
-"cz": "přistěhovalec",
-"ex": "Many immigrants work in healthcare.",
-"level": "B2"
-},
-{
-"id": "b17-diversity",
-"en": "diversity",
-"cz": "rozmanitost",
-"ex": "London is famous for its diversity.",
+"id": "b17-grassroots",
+"en": "grassroots",
+"cz": "zdola, občanský (iniciativa)",
+"ex": "It's a grassroots movement.",
 "level": "C1"
 },
 {
-"id": "b17-welfare",
-"en": "welfare",
-"cz": "sociální péče",
-"ex": "The welfare system needs reform.",
+"id": "b17-raise-awareness",
+"en": "raise awareness",
+"cz": "zvyšovat povědomí",
+"ex": "The campaign raises awareness of mental health.",
+"level": "B2"
+},
+{
+"id": "b17-make-a-difference",
+"en": "make a difference",
+"cz": "něco změnit k lepšímu",
+"ex": "Volunteers make a real difference.",
+"level": "B2"
+},
+{
+"id": "b17-give-back-to-the-community",
+"en": "give back to the community",
+"cz": "oplatit něco komunitě",
+"ex": "He wants to give back to the community.",
 "level": "C1"
+},
+{
+"id": "b17-underprivileged",
+"en": "underprivileged",
+"cz": "znevýhodněný",
+"ex": "They help underprivileged children.",
+"level": "C1"
+},
+{
+"id": "b17-marginalised",
+"en": "marginalised",
+"cz": "marginalizovaný, na okraji",
+"ex": "Marginalised groups need a voice.",
+"level": "C1"
+},
+{
+"id": "b17-the-gender-pay-gap",
+"en": "the gender pay gap",
+"cz": "rozdíl v odměňování mužů a žen",
+"ex": "We must close the gender pay gap.",
+"level": "C1"
+},
+{
+"id": "b17-equal-opportunities",
+"en": "equal opportunities",
+"cz": "rovné příležitosti",
+"ex": "We're an equal opportunities employer.",
+"level": "C1"
+},
+{
+"id": "b17-prejudice",
+"en": "prejudice",
+"cz": "předsudek",
+"ex": "We must fight prejudice.",
+"level": "B2"
+},
+{
+"id": "b17-stereotype",
+"en": "stereotype",
+"cz": "stereotyp",
+"ex": "That's just a stereotype.",
+"level": "B2"
 },
 {
 "id": "b17-tolerance",
@@ -180,109 +82,277 @@
 "level": "B2"
 },
 {
-"id": "b17-public-opinion",
-"en": "public opinion",
-"cz": "veřejné mínění",
-"ex": "Public opinion has changed.",
+"id": "b17-an-ageing-population",
+"en": "an ageing population",
+"cz": "stárnoucí populace",
+"ex": "Europe has an ageing population.",
+"level": "C1"
+},
+{
+"id": "b17-the-welfare-state",
+"en": "the welfare state",
+"cz": "sociální stát",
+"ex": "The welfare state is under pressure.",
+"level": "C1"
+},
+{
+"id": "b17-benefits",
+"en": "benefits",
+"cz": "sociální dávky",
+"ex": "He's on benefits.",
+"level": "C1"
+},
+{
+"id": "b17-the-poverty-line",
+"en": "the poverty line",
+"cz": "hranice chudoby",
+"ex": "Millions live below the poverty line.",
+"level": "C1"
+},
+{
+"id": "b17-homelessness",
+"en": "homelessness",
+"cz": "bezdomovectví",
+"ex": "Homelessness is rising.",
 "level": "B2"
 },
 {
-"id": "b17-make-a-difference",
-"en": "make a difference",
-"cz": "něco změnit, mít vliv",
-"ex": "Even small actions make a difference.",
-"level": "B2"
+"id": "b17-affordable-housing",
+"en": "affordable housing",
+"cz": "dostupné bydlení",
+"ex": "There's a shortage of affordable housing.",
+"level": "C1"
 },
 {
-"id": "b17-raise-money",
-"en": "raise money",
-"cz": "vybírat peníze",
-"ex": "We're raising money for the hospital.",
-"level": "B2"
-},
-{
-"id": "b17-neighbour",
-"en": "neighbour",
-"cz": "soused",
-"ex": "Our neighbours are very kind.",
-"level": "A2"
-},
-{
-"id": "b17-social-life",
-"en": "social life",
-"cz": "společenský život",
-"ex": "I don't have much of a social life.",
-"level": "B1"
+"id": "b17-social-mobility",
+"en": "social mobility",
+"cz": "sociální mobilita",
+"ex": "Education improves social mobility.",
+"level": "C1"
 },
 {
 "id": "b17-peer-pressure",
 "en": "peer pressure",
 "cz": "tlak vrstevníků",
-"ex": "Teenagers often suffer from peer pressure.",
+"ex": "Teens give in to peer pressure.",
 "level": "C1"
 },
 {
 "id": "b17-role-model",
 "en": "role model",
 "cz": "vzor",
-"ex": "Parents should be role models.",
+"ex": "Athletes should be role models.",
 "level": "B2"
 },
 {
-"id": "b17-behaviour",
-"en": "behaviour",
-"cz": "chování",
-"ex": "His behaviour was unacceptable.",
-"level": "B1"
+"id": "b17-civic-duty",
+"en": "civic duty",
+"cz": "občanská povinnost",
+"ex": "Voting is a civic duty.",
+"level": "C1"
 },
 {
-"id": "b17-responsibility",
-"en": "responsibility",
-"cz": "odpovědnost",
-"ex": "We all have a responsibility to help.",
-"level": "B1"
+"id": "b17-turnout",
+"en": "turnout",
+"cz": "volební účast",
+"ex": "Turnout was low.",
+"level": "C1"
 },
 {
-"id": "b17-fair",
-"en": "fair",
-"cz": "spravedlivý",
-"ex": "That's not fair!",
-"level": "B1"
+"id": "b17-grass-roots-campaign",
+"en": "grass-roots campaign",
+"cz": "kampaň zdola",
+"ex": "They ran a grass-roots campaign.",
+"level": "C1"
 },
 {
-"id": "b17-unfair",
-"en": "unfair",
-"cz": "nespravedlivý",
-"ex": "The decision was unfair.",
-"level": "B1"
+"id": "b17-take-to-the-streets",
+"en": "take to the streets",
+"cz": "vyjít do ulic",
+"ex": "Thousands took to the streets.",
+"level": "C1"
 },
 {
-"id": "b17-support",
-"en": "support",
-"cz": "podporovat",
-"ex": "We support local businesses.",
-"level": "B1"
-},
-{
-"id": "b17-lifestyle",
-"en": "lifestyle",
-"cz": "životní styl",
-"ex": "They have a healthy lifestyle.",
-"level": "B1"
-},
-{
-"id": "b17-standard-of-living",
-"en": "standard of living",
-"cz": "životní úroveň",
-"ex": "The standard of living has improved.",
+"id": "b17-a-petition",
+"en": "a petition",
+"cz": "petice",
+"ex": "Sign our petition!",
 "level": "B2"
 },
 {
-"id": "b17-take-part-in",
-"en": "take part in",
-"cz": "zúčastnit se",
-"ex": "I took part in a charity run.",
-"level": "B1"
+"id": "b17-lobby",
+"en": "lobby",
+"cz": "lobovat",
+"ex": "They lobbied the government for change.",
+"level": "C1"
+},
+{
+"id": "b17-controversial",
+"en": "controversial",
+"cz": "kontroverzní",
+"ex": "It's a controversial law.",
+"level": "B2"
+},
+{
+"id": "b17-divisive",
+"en": "divisive",
+"cz": "rozdělující (společnost)",
+"ex": "Immigration is a divisive issue.",
+"level": "C1"
+},
+{
+"id": "b17-polarised",
+"en": "polarised",
+"cz": "polarizovaný",
+"ex": "Society has become polarised.",
+"level": "C1"
+},
+{
+"id": "b17-the-generation-gap",
+"en": "the generation gap",
+"cz": "generační propast",
+"ex": "There's a big generation gap.",
+"level": "B2"
+},
+{
+"id": "b17-social-cohesion",
+"en": "social cohesion",
+"cz": "soudržnost společnosti",
+"ex": "Sport builds social cohesion.",
+"level": "C1"
+},
+{
+"id": "b17-integration",
+"en": "integration",
+"cz": "integrace",
+"ex": "Language is key to integration.",
+"level": "C1"
+},
+{
+"id": "b17-diverse",
+"en": "diverse",
+"cz": "rozmanitý",
+"ex": "It's a diverse neighbourhood.",
+"level": "B2"
+},
+{
+"id": "b17-inclusive",
+"en": "inclusive",
+"cz": "inkluzivní, otevřený všem",
+"ex": "We want an inclusive society.",
+"level": "C1"
+},
+{
+"id": "b17-volunteer",
+"en": "volunteer",
+"cz": "dobrovolně pomáhat",
+"ex": "She volunteers at a food bank.",
+"level": "B2"
+},
+{
+"id": "b17-food-bank",
+"en": "food bank",
+"cz": "potravinová banka",
+"ex": "More families use food banks.",
+"level": "C1"
+},
+{
+"id": "b17-fundraiser",
+"en": "fundraiser",
+"cz": "sbírková akce",
+"ex": "We held a fundraiser for the school.",
+"level": "C1"
+},
+{
+"id": "b17-make-ends-meet",
+"en": "make ends meet",
+"cz": "vyjít s penězi",
+"ex": "Many families struggle to make ends meet.",
+"level": "B2"
+},
+{
+"id": "b17-the-haves-and-have-nots",
+"en": "the haves and have-nots",
+"cz": "bohatí a chudí",
+"ex": "The gap between the haves and have-nots is growing.",
+"level": "C1"
+},
+{
+"id": "b17-community-spirit",
+"en": "community spirit",
+"cz": "sousedská soudržnost",
+"ex": "There's a great community spirit here.",
+"level": "C1"
+},
+{
+"id": "b17-a-volunteer",
+"en": "a volunteer",
+"cz": "dobrovolník",
+"ex": "She's a volunteer at a hospital.",
+"level": "B1+"
+},
+{
+"id": "b17-a-charity",
+"en": "a charity",
+"cz": "charita",
+"ex": "We gave money to charity.",
+"level": "B1+"
+},
+{
+"id": "b17-the-elderly",
+"en": "the elderly",
+"cz": "senioři",
+"ex": "We help the elderly with shopping.",
+"level": "B1+"
+},
+{
+"id": "b17-homeless",
+"en": "homeless",
+"cz": "bez domova",
+"ex": "The number of homeless people is rising.",
+"level": "B1+"
+},
+{
+"id": "b17-unemployment",
+"en": "unemployment",
+"cz": "nezaměstnanost",
+"ex": "Unemployment is low here.",
+"level": "B1+"
+},
+{
+"id": "b17-an-election",
+"en": "an election",
+"cz": "volby",
+"ex": "The election is next month.",
+"level": "B1+"
+},
+{
+"id": "b17-vote-for",
+"en": "vote for",
+"cz": "volit (koho)",
+"ex": "Who did you vote for?",
+"level": "B1+"
+},
+{
+"id": "b17-a-neighbour",
+"en": "a neighbour",
+"cz": "soused",
+"ex": "Our neighbours are very friendly.",
+"level": "B1+"
+},
+{
+"id": "b17-equal-rights",
+"en": "equal rights",
+"cz": "rovná práva",
+"ex": "Everyone should have equal rights.",
+"level": "B1+"
+},
+{
+"id": "b17-a-protest",
+"en": "a protest",
+"cz": "protest",
+"ex": "There was a big protest in the square.",
+"level": "B1+"
 }
 ]
 }

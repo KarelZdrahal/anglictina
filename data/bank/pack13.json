@@ -2,287 +2,357 @@
 "id": "pack13",
 "topic": "Sport & fitness",
 "topic_cz": "Sport a kondice",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b13-compete",
-"en": "compete",
-"cz": "soutěžit",
-"ex": "Over 200 athletes will compete.",
-"level": "B1"
-},
-{
-"id": "b13-competition",
-"en": "competition",
-"cz": "soutěž",
-"ex": "She won a cooking competition.",
-"level": "B1"
-},
-{
-"id": "b13-championship",
-"en": "championship",
-"cz": "mistrovství",
-"ex": "The World Championship starts next week.",
-"level": "B1"
-},
-{
-"id": "b13-tournament",
-"en": "tournament",
-"cz": "turnaj",
-"ex": "We're playing in a tennis tournament.",
-"level": "B1"
-},
-{
-"id": "b13-team",
-"en": "team",
-"cz": "tým",
-"ex": "Which team do you support?",
-"level": "A2"
-},
-{
-"id": "b13-coach",
-"en": "coach",
-"cz": "trenér",
-"ex": "Our coach is very strict.",
-"level": "B1"
-},
-{
-"id": "b13-referee",
-"en": "referee",
-"cz": "rozhodčí",
-"ex": "The referee gave him a red card.",
-"level": "B1"
-},
-{
-"id": "b13-score",
-"en": "score",
-"cz": "skóre; skórovat",
-"ex": "What's the score?",
-"level": "B1"
-},
-{
-"id": "b13-draw",
-"en": "draw",
-"cz": "remíza; remizovat",
-"ex": "The match ended in a draw.",
-"level": "B1"
-},
-{
-"id": "b13-beat",
-"en": "beat",
-"cz": "porazit",
-"ex": "We beat them 3–1.",
-"level": "B1"
-},
-{
-"id": "b13-win",
-"en": "win",
-"cz": "vyhrát",
-"ex": "Who won the race?",
-"level": "A2"
-},
-{
-"id": "b13-lose",
-"en": "lose",
-"cz": "prohrát",
-"ex": "We lost the final.",
-"level": "A2"
-},
-{
-"id": "b13-opponent",
-"en": "opponent",
-"cz": "soupeř",
-"ex": "Her opponent was much younger.",
+"id": "b13-work-out",
+"en": "work out",
+"cz": "cvičit",
+"ex": "I work out four times a week.",
 "level": "B2"
-},
-{
-"id": "b13-fan",
-"en": "fan",
-"cz": "fanoušek",
-"ex": "The fans were singing.",
-"level": "B1"
-},
-{
-"id": "b13-stadium",
-"en": "stadium",
-"cz": "stadion",
-"ex": "The stadium holds 50,000 people.",
-"level": "B1"
-},
-{
-"id": "b13-pitch",
-"en": "pitch",
-"cz": "hřiště (fotbalové)",
-"ex": "The players are on the pitch.",
-"level": "B2"
-},
-{
-"id": "b13-court",
-"en": "court",
-"cz": "kurt",
-"ex": "The tennis courts are behind the school.",
-"level": "B1"
-},
-{
-"id": "b13-track",
-"en": "track",
-"cz": "dráha",
-"ex": "They run on the track every morning.",
-"level": "B1"
-},
-{
-"id": "b13-train",
-"en": "train",
-"cz": "trénovat",
-"ex": "She trains five days a week.",
-"level": "B1"
 },
 {
 "id": "b13-warm-up",
 "en": "warm up",
 "cz": "rozcvičit se",
-"ex": "Always warm up before running.",
-"level": "B1"
-},
-{
-"id": "b13-stretch",
-"en": "stretch",
-"cz": "protahovat se",
-"ex": "Stretch after exercise.",
-"level": "B1"
-},
-{
-"id": "b13-sweat",
-"en": "sweat",
-"cz": "potit se; pot",
-"ex": "I was sweating after the run.",
-"level": "B1"
-},
-{
-"id": "b13-work-out",
-"en": "work out",
-"cz": "cvičit",
-"ex": "I work out at the gym.",
-"level": "B1"
-},
-{
-"id": "b13-gym",
-"en": "gym",
-"cz": "posilovna",
-"ex": "I go to the gym after work.",
-"level": "A2"
-},
-{
-"id": "b13-marathon",
-"en": "marathon",
-"cz": "maraton",
-"ex": "He ran his first marathon.",
-"level": "B1"
-},
-{
-"id": "b13-record",
-"en": "record",
-"cz": "rekord",
-"ex": "She broke the world record.",
-"level": "B1"
-},
-{
-"id": "b13-medal",
-"en": "medal",
-"cz": "medaile",
-"ex": "He won a gold medal.",
-"level": "B1"
-},
-{
-"id": "b13-amateur",
-"en": "amateur",
-"cz": "amatér(ský)",
-"ex": "He plays for an amateur club.",
+"ex": "Always warm up first.",
 "level": "B2"
 },
 {
-"id": "b13-professional",
-"en": "professional",
-"cz": "profesionální",
-"ex": "She's a professional footballer.",
-"level": "B1"
-},
-{
-"id": "b13-injury-time",
-"en": "injury time",
-"cz": "nastavený čas",
-"ex": "They scored in injury time.",
+"id": "b13-cool-down",
+"en": "cool down",
+"cz": "vydýchat se, zklidnit po cvičení",
+"ex": "Stretch to cool down.",
 "level": "B2"
 },
 {
-"id": "b13-spectator",
-"en": "spectator",
-"cz": "divák",
-"ex": "Thousands of spectators watched the race.",
+"id": "b13-build-up-stamina",
+"en": "build up stamina",
+"cz": "budovat výdrž",
+"ex": "Running builds up stamina.",
+"level": "C1"
+},
+{
+"id": "b13-pull-a-hamstring",
+"en": "pull a hamstring",
+"cz": "natáhnout si hamstring",
+"ex": "He pulled a hamstring in the final.",
+"level": "C1"
+},
+{
+"id": "b13-be-out-of-shape",
+"en": "be out of shape",
+"cz": "být bez kondice",
+"ex": "I'm really out of shape.",
 "level": "B2"
+},
+{
+"id": "b13-get-back-into-shape",
+"en": "get back into shape",
+"cz": "dostat se zpátky do formy",
+"ex": "I want to get back into shape.",
+"level": "B2"
+},
+{
+"id": "b13-personal-best",
+"en": "personal best",
+"cz": "osobní rekord",
+"ex": "She set a new personal best.",
+"level": "C1"
+},
+{
+"id": "b13-break-a-record",
+"en": "break a record",
+"cz": "překonat rekord",
+"ex": "He broke the world record.",
+"level": "B2"
+},
+{
+"id": "b13-qualify-for",
+"en": "qualify for",
+"cz": "kvalifikovat se na",
+"ex": "They qualified for the World Cup.",
+"level": "B2"
+},
+{
+"id": "b13-knockout-stage",
+"en": "knockout stage",
+"cz": "vyřazovací fáze",
+"ex": "We reached the knockout stage.",
+"level": "C1"
+},
+{
+"id": "b13-underdog",
+"en": "underdog",
+"cz": "outsider, ten s menšími šancemi",
+"ex": "The underdogs won the cup.",
+"level": "C1"
+},
+{
+"id": "b13-favourite",
+"en": "favourite",
+"cz": "favorit",
+"ex": "They're the favourites to win.",
+"level": "B2"
+},
+{
+"id": "b13-level-the-score",
+"en": "level the score",
+"cz": "vyrovnat skóre",
+"ex": "They levelled the score in the last minute.",
+"level": "C1"
+},
+{
+"id": "b13-equaliser",
+"en": "equaliser",
+"cz": "vyrovnávací gól",
+"ex": "He scored the equaliser.",
+"level": "C1"
+},
+{
+"id": "b13-a-nail-biting-finish",
+"en": "a nail-biting finish",
+"cz": "napínavý závěr",
+"ex": "It was a nail-biting finish.",
+"level": "C1"
+},
+{
+"id": "b13-a-landslide-victory",
+"en": "a landslide victory",
+"cz": "drtivé vítězství",
+"ex": "They won by a landslide.",
+"level": "C1"
+},
+{
+"id": "b13-narrowly-miss",
+"en": "narrowly miss",
+"cz": "těsně minout",
+"ex": "She narrowly missed a medal.",
+"level": "C1"
+},
+{
+"id": "b13-be-knocked-out",
+"en": "be knocked out",
+"cz": "být vyřazen",
+"ex": "We were knocked out in the semi-finals.",
+"level": "B2"
+},
+{
+"id": "b13-home-advantage",
+"en": "home advantage",
+"cz": "výhoda domácího prostředí",
+"ex": "They have home advantage.",
+"level": "C1"
+},
+{
+"id": "b13-sportsmanship",
+"en": "sportsmanship",
+"cz": "sportovní chování, fair play",
+"ex": "He showed great sportsmanship.",
+"level": "C1"
+},
+{
+"id": "b13-doping",
+"en": "doping",
+"cz": "doping",
+"ex": "He was banned for doping.",
+"level": "C1"
+},
+{
+"id": "b13-performance-enhancing-drugs",
+"en": "performance-enhancing drugs",
+"cz": "podpůrné látky",
+"ex": "Performance-enhancing drugs are banned.",
+"level": "C1"
+},
+{
+"id": "b13-sedentary",
+"en": "sedentary",
+"cz": "sedavý",
+"ex": "Most office jobs are sedentary.",
+"level": "C1"
 },
 {
 "id": "b13-take-up",
 "en": "take up",
-"cz": "začít (s koníčkem)",
-"ex": "I've taken up yoga.",
-"level": "B1"
+"cz": "začít s (koníčkem)",
+"ex": "I've taken up climbing.",
+"level": "B2"
 },
 {
-"id": "b13-give-up",
-"en": "give up",
-"cz": "vzdát, přestat",
-"ex": "Don't give up now!",
-"level": "B1"
-},
-{
-"id": "b13-challenge",
-"en": "challenge",
-"cz": "výzva",
-"ex": "Running a marathon is a real challenge.",
-"level": "B1"
-},
-{
-"id": "b13-fit",
-"en": "fit",
-"cz": "v kondici",
-"ex": "You look very fit.",
-"level": "B1"
-},
-{
-"id": "b13-stamina",
-"en": "stamina",
-"cz": "výdrž",
-"ex": "Swimming builds stamina.",
+"id": "b13-give-it-your-all",
+"en": "give it your all",
+"cz": "dát do toho všechno",
+"ex": "Give it your all in the final!",
 "level": "C1"
 },
 {
-"id": "b13-equipment",
-"en": "equipment",
-"cz": "vybavení",
-"ex": "Skiing equipment is expensive.",
-"level": "B1"
+"id": "b13-go-the-distance",
+"en": "go the distance",
+"cz": "vydržet do konce",
+"ex": "Nobody thought he'd go the distance.",
+"level": "C1"
 },
 {
-"id": "b13-extreme-sports",
-"en": "extreme sports",
-"cz": "extrémní sporty",
-"ex": "He loves extreme sports like base jumping.",
+"id": "b13-be-in-the-running",
+"en": "be in the running",
+"cz": "mít šanci (vyhrát)",
+"ex": "She's still in the running for gold.",
+"level": "C1"
+},
+{
+"id": "b13-neck-and-neck",
+"en": "neck and neck",
+"cz": "těsně vedle sebe, nastejno",
+"ex": "The two runners were neck and neck.",
+"level": "C1"
+},
+{
+"id": "b13-a-level-playing-field",
+"en": "a level playing field",
+"cz": "rovné podmínky",
+"ex": "We want a level playing field.",
+"level": "C1"
+},
+{
+"id": "b13-move-the-goalposts",
+"en": "move the goalposts",
+"cz": "měnit pravidla během hry",
+"ex": "They keep moving the goalposts.",
+"level": "C1"
+},
+{
+"id": "b13-on-the-ball",
+"en": "on the ball",
+"cz": "bystrý, ve střehu",
+"ex": "She's really on the ball.",
+"level": "C1"
+},
+{
+"id": "b13-throw-in-the-towel",
+"en": "throw in the towel",
+"cz": "hodit flintu do žita",
+"ex": "Don't throw in the towel yet.",
+"level": "C1"
+},
+{
+"id": "b13-a-whole-new-ball-game",
+"en": "a whole new ball game",
+"cz": "úplně jiná situace",
+"ex": "Managing people is a whole new ball game.",
+"level": "C1"
+},
+{
+"id": "b13-spectator-sport",
+"en": "spectator sport",
+"cz": "sport pro diváky",
+"ex": "Golf isn't a great spectator sport.",
+"level": "C1"
+},
+{
+"id": "b13-endurance",
+"en": "endurance",
+"cz": "vytrvalost",
+"ex": "Marathons test your endurance.",
+"level": "C1"
+},
+{
+"id": "b13-flexibility",
+"en": "flexibility",
+"cz": "ohebnost",
+"ex": "Yoga improves flexibility.",
 "level": "B2"
 },
 {
-"id": "b13-cheer",
-"en": "cheer",
-"cz": "fandit, povzbuzovat",
-"ex": "The crowd cheered loudly.",
-"level": "B1"
+"id": "b13-hydrated",
+"en": "hydrated",
+"cz": "hydratovaný",
+"ex": "Stay hydrated during the race.",
+"level": "B2"
 },
 {
-"id": "b13-team-spirit",
-"en": "team spirit",
-"cz": "týmový duch",
-"ex": "Our team spirit is amazing.",
+"id": "b13-cheer-on",
+"en": "cheer on",
+"cz": "povzbuzovat",
+"ex": "Fans cheered on the team.",
 "level": "B2"
+},
+{
+"id": "b13-retire-from",
+"en": "retire from",
+"cz": "ukončit kariéru v",
+"ex": "She retired from tennis at 30.",
+"level": "B2"
+},
+{
+"id": "b13-take-part-in",
+"en": "take part in",
+"cz": "zúčastnit se",
+"ex": "I took part in a half-marathon.",
+"level": "B1+"
+},
+{
+"id": "b13-win-a-match",
+"en": "win a match",
+"cz": "vyhrát zápas",
+"ex": "We won the match 2–1.",
+"level": "B1+"
+},
+{
+"id": "b13-lose-a-game",
+"en": "lose a game",
+"cz": "prohrát hru",
+"ex": "We lost the game in the last minute.",
+"level": "B1+"
+},
+{
+"id": "b13-a-draw",
+"en": "a draw",
+"cz": "remíza",
+"ex": "The game ended in a draw.",
+"level": "B1+"
+},
+{
+"id": "b13-a-coach",
+"en": "a coach",
+"cz": "trenér",
+"ex": "Our coach is very strict.",
+"level": "B1+"
+},
+{
+"id": "b13-train-hard",
+"en": "train hard",
+"cz": "tvrdě trénovat",
+"ex": "She trains hard every day.",
+"level": "B1+"
+},
+{
+"id": "b13-a-team-mate",
+"en": "a team-mate",
+"cz": "spoluhráč",
+"ex": "My team-mates are great.",
+"level": "B1+"
+},
+{
+"id": "b13-score-a-goal",
+"en": "score a goal",
+"cz": "dát gól",
+"ex": "He scored two goals.",
+"level": "B1+"
+},
+{
+"id": "b13-go-jogging",
+"en": "go jogging",
+"cz": "jít si zaběhat",
+"ex": "I go jogging before work.",
+"level": "B1+"
+},
+{
+"id": "b13-a-fan",
+"en": "a fan",
+"cz": "fanoušek",
+"ex": "I'm a big fan of tennis.",
+"level": "B1+"
 }
 ]
 }

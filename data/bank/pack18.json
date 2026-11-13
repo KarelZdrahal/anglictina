@@ -2,287 +2,357 @@
 "id": "pack18",
 "topic": "Science & research",
 "topic_cz": "Věda a výzkum",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b18-research",
-"en": "research",
-"cz": "výzkum; zkoumat",
-"ex": "Research shows that sleep improves memory.",
-"level": "B1"
+"id": "b18-breakthrough",
+"en": "breakthrough",
+"cz": "průlom",
+"ex": "It's a major medical breakthrough.",
+"level": "C1"
 },
 {
-"id": "b18-scientist",
-"en": "scientist",
+"id": "b18-groundbreaking",
+"en": "groundbreaking",
+"cz": "převratný",
+"ex": "Her research is groundbreaking.",
+"level": "C1"
+},
+{
+"id": "b18-carry-out-research",
+"en": "carry out research",
+"cz": "provádět výzkum",
+"ex": "They carried out research on sleep.",
+"level": "B2"
+},
+{
+"id": "b18-conduct-an-experiment",
+"en": "conduct an experiment",
+"cz": "provést pokus",
+"ex": "We conducted an experiment.",
+"level": "C1"
+},
+{
+"id": "b18-a-hypothesis",
+"en": "a hypothesis",
+"cz": "hypotéza",
+"ex": "The results support the hypothesis.",
+"level": "C1"
+},
+{
+"id": "b18-findings",
+"en": "findings",
+"cz": "zjištění",
+"ex": "The findings were published in Nature.",
+"level": "C1"
+},
+{
+"id": "b18-draw-a-conclusion",
+"en": "draw a conclusion",
+"cz": "vyvodit závěr",
+"ex": "It's too early to draw conclusions.",
+"level": "B2"
+},
+{
+"id": "b18-peer-reviewed",
+"en": "peer-reviewed",
+"cz": "recenzovaný (odborně)",
+"ex": "It's a peer-reviewed journal.",
+"level": "C1"
+},
+{
+"id": "b18-a-sample",
+"en": "a sample",
+"cz": "vzorek",
+"ex": "They tested a sample of 500 people.",
+"level": "B2"
+},
+{
+"id": "b18-a-control-group",
+"en": "a control group",
+"cz": "kontrolní skupina",
+"ex": "The control group got a placebo.",
+"level": "C1"
+},
+{
+"id": "b18-placebo",
+"en": "placebo",
+"cz": "placebo",
+"ex": "The placebo had a surprising effect.",
+"level": "C1"
+},
+{
+"id": "b18-clinical-trial",
+"en": "clinical trial",
+"cz": "klinická studie",
+"ex": "The drug is in clinical trials.",
+"level": "C1"
+},
+{
+"id": "b18-side-effect",
+"en": "side effect",
+"cz": "vedlejší účinek",
+"ex": "Are there any side effects?",
+"level": "B2"
+},
+{
+"id": "b18-evidence-based",
+"en": "evidence-based",
+"cz": "založený na důkazech",
+"ex": "We need evidence-based policy.",
+"level": "C1"
+},
+{
+"id": "b18-correlation",
+"en": "correlation",
+"cz": "korelace",
+"ex": "Correlation is not causation.",
+"level": "C1"
+},
+{
+"id": "b18-statistically-significant",
+"en": "statistically significant",
+"cz": "statisticky významný",
+"ex": "The difference was statistically significant.",
+"level": "C1"
+},
+{
+"id": "b18-data-set",
+"en": "data set",
+"cz": "soubor dat",
+"ex": "They analysed a huge data set.",
+"level": "C1"
+},
+{
+"id": "b18-cutting-edge-research",
+"en": "cutting-edge research",
+"cz": "špičkový výzkum",
+"ex": "The lab does cutting-edge research.",
+"level": "C1"
+},
+{
+"id": "b18-pioneer",
+"en": "pioneer",
+"cz": "průkopník",
+"ex": "She was a pioneer of genetics.",
+"level": "C1"
+},
+{
+"id": "b18-shed-light-on",
+"en": "shed light on",
+"cz": "vrhnout světlo na",
+"ex": "The study sheds light on memory.",
+"level": "C1"
+},
+{
+"id": "b18-in-its-infancy",
+"en": "in its infancy",
+"cz": "v plenkách",
+"ex": "The technology is still in its infancy.",
+"level": "C1"
+},
+{
+"id": "b18-funding",
+"en": "funding",
+"cz": "financování",
+"ex": "The project lost its funding.",
+"level": "B2"
+},
+{
+"id": "b18-a-grant",
+"en": "a grant",
+"cz": "grant",
+"ex": "They received a research grant.",
+"level": "C1"
+},
+{
+"id": "b18-replicate",
+"en": "replicate",
+"cz": "zopakovat (pokus)",
+"ex": "Other scientists couldn't replicate the results.",
+"level": "C1"
+},
+{
+"id": "b18-debunk",
+"en": "debunk",
+"cz": "vyvrátit (mýtus)",
+"ex": "Scientists debunked the myth.",
+"level": "C1"
+},
+{
+"id": "b18-gene-editing",
+"en": "gene editing",
+"cz": "genové editace",
+"ex": "Gene editing raises ethical questions.",
+"level": "C1"
+},
+{
+"id": "b18-genetically-modified",
+"en": "genetically modified",
+"cz": "geneticky modifikovaný",
+"ex": "Genetically modified crops",
+"level": "C1"
+},
+{
+"id": "b18-ethical-concerns",
+"en": "ethical concerns",
+"cz": "etické obavy",
+"ex": "There are ethical concerns about cloning.",
+"level": "C1"
+},
+{
+"id": "b18-space-exploration",
+"en": "space exploration",
+"cz": "výzkum vesmíru",
+"ex": "Space exploration is expensive.",
+"level": "B2"
+},
+{
+"id": "b18-launch",
+"en": "launch",
+"cz": "vypustit (raketu)",
+"ex": "They launched a new satellite.",
+"level": "B2"
+},
+{
+"id": "b18-orbit",
+"en": "orbit",
+"cz": "obíhat; oběžná dráha",
+"ex": "The station orbits the Earth.",
+"level": "C1"
+},
+{
+"id": "b18-renewable-resources",
+"en": "renewable resources",
+"cz": "obnovitelné zdroje",
+"ex": "We must use renewable resources.",
+"level": "C1"
+},
+{
+"id": "b18-trial-and-error",
+"en": "trial and error",
+"cz": "metoda pokus–omyl",
+"ex": "We learned by trial and error.",
+"level": "C1"
+},
+{
+"id": "b18-a-eureka-moment",
+"en": "a eureka moment",
+"cz": "okamžik prozření",
+"ex": "I had a eureka moment in the shower.",
+"level": "C1"
+},
+{
+"id": "b18-rule-out",
+"en": "rule out",
+"cz": "vyloučit",
+"ex": "We can't rule out a link.",
+"level": "C1"
+},
+{
+"id": "b18-come-up-with",
+"en": "come up with",
+"cz": "přijít s",
+"ex": "They came up with a new theory.",
+"level": "B2"
+},
+{
+"id": "b18-look-into",
+"en": "look into",
+"cz": "prošetřit",
+"ex": "Scientists are looking into the cause.",
+"level": "B2"
+},
+{
+"id": "b18-find-out",
+"en": "find out",
+"cz": "zjistit",
+"ex": "We need to find out why.",
+"level": "B2"
+},
+{
+"id": "b18-point-to",
+"en": "point to",
+"cz": "naznačovat, ukazovat na",
+"ex": "The data point to a clear trend.",
+"level": "C1"
+},
+{
+"id": "b18-pave-the-way-for",
+"en": "pave the way for",
+"cz": "připravit cestu pro",
+"ex": "The discovery paved the way for new drugs.",
+"level": "C1"
+},
+{
+"id": "b18-an-experiment",
+"en": "an experiment",
+"cz": "pokus",
+"ex": "We did an experiment in class.",
+"level": "B1+"
+},
+{
+"id": "b18-a-scientist",
+"en": "a scientist",
 "cz": "vědec",
-"ex": "Scientists have discovered a new planet.",
-"level": "B1"
-},
-{
-"id": "b18-experiment",
-"en": "experiment",
-"cz": "experiment, pokus",
-"ex": "They did an experiment in the lab.",
-"level": "B1"
-},
-{
-"id": "b18-laboratory",
-"en": "laboratory",
-"cz": "laboratoř",
-"ex": "She works in a laboratory.",
-"level": "B1"
+"ex": "Scientists have found a new planet.",
+"level": "B1+"
 },
 {
 "id": "b18-discover",
 "en": "discover",
 "cz": "objevit",
 "ex": "Who discovered penicillin?",
-"level": "B1"
-},
-{
-"id": "b18-discovery",
-"en": "discovery",
-"cz": "objev",
-"ex": "It was an important discovery.",
-"level": "B1"
+"level": "B1+"
 },
 {
 "id": "b18-invent",
 "en": "invent",
 "cz": "vynalézt",
-"ex": "Who invented the telephone?",
-"level": "B1"
+"ex": "Who invented the radio?",
+"level": "B1+"
 },
 {
-"id": "b18-invention",
-"en": "invention",
-"cz": "vynález",
-"ex": "The wheel was a great invention.",
-"level": "B1"
+"id": "b18-a-laboratory",
+"en": "a laboratory",
+"cz": "laboratoř",
+"ex": "She works in a laboratory.",
+"level": "B1+"
 },
 {
-"id": "b18-theory",
-"en": "theory",
-"cz": "teorie",
-"ex": "Darwin's theory of evolution",
-"level": "B1"
+"id": "b18-results",
+"en": "results",
+"cz": "výsledky",
+"ex": "The results were surprising.",
+"level": "B1+"
 },
 {
 "id": "b18-prove",
 "en": "prove",
 "cz": "dokázat",
 "ex": "Can you prove it?",
-"level": "B1"
+"level": "B1+"
 },
 {
-"id": "b18-evidence",
-"en": "evidence",
-"cz": "důkaz",
-"ex": "There's no evidence that it works.",
-"level": "B2"
+"id": "b18-a-theory",
+"en": "a theory",
+"cz": "teorie",
+"ex": "It's just a theory.",
+"level": "B1+"
 },
 {
-"id": "b18-result",
-"en": "result",
-"cz": "výsledek",
-"ex": "The results were surprising.",
-"level": "B1"
+"id": "b18-research",
+"en": "research",
+"cz": "výzkum",
+"ex": "More research is needed.",
+"level": "B1+"
 },
 {
-"id": "b18-data",
-"en": "data",
-"cz": "data",
-"ex": "We collected data from 500 people.",
-"level": "B1"
-},
-{
-"id": "b18-survey",
-"en": "survey",
-"cz": "průzkum (dotazník)",
-"ex": "A survey found that most people sleep too little.",
-"level": "B2"
-},
-{
-"id": "b18-analyse",
-"en": "analyse",
-"cz": "analyzovat",
-"ex": "Scientists analysed the samples.",
-"level": "B2"
-},
-{
-"id": "b18-conclusion",
-"en": "conclusion",
-"cz": "závěr",
-"ex": "What conclusion did they reach?",
-"level": "B2"
-},
-{
-"id": "b18-breakthrough",
-"en": "breakthrough",
-"cz": "průlom",
-"ex": "It was a breakthrough in cancer research.",
-"level": "C1"
-},
-{
-"id": "b18-space",
-"en": "space",
-"cz": "vesmír",
-"ex": "Would you like to travel to space?",
-"level": "B1"
-},
-{
-"id": "b18-planet",
-"en": "planet",
-"cz": "planeta",
-"ex": "Mars is the fourth planet from the sun.",
-"level": "A2"
-},
-{
-"id": "b18-astronaut",
-"en": "astronaut",
-"cz": "astronaut",
-"ex": "The astronauts returned safely.",
-"level": "B1"
-},
-{
-"id": "b18-gravity",
-"en": "gravity",
-"cz": "gravitace",
-"ex": "Gravity keeps us on the ground.",
-"level": "B2"
-},
-{
-"id": "b18-genetic",
-"en": "genetic",
-"cz": "genetický",
-"ex": "Some diseases are genetic.",
-"level": "B2"
-},
-{
-"id": "b18-vaccine",
-"en": "vaccine",
-"cz": "vakcína",
-"ex": "The vaccine was developed quickly.",
-"level": "B2"
-},
-{
-"id": "b18-cure",
-"en": "cure",
-"cz": "lék; vyléčit",
-"ex": "There's no cure for the common cold.",
-"level": "B2"
-},
-{
-"id": "b18-brain",
-"en": "brain",
-"cz": "mozek",
-"ex": "The human brain is amazing.",
-"level": "B1"
-},
-{
-"id": "b18-species",
-"en": "species",
-"cz": "druh",
-"ex": "Scientists found a new species of frog.",
-"level": "B2"
-},
-{
-"id": "b18-the-human-body",
-"en": "the human body",
-"cz": "lidské tělo",
-"ex": "The human body is 60% water.",
-"level": "B1"
-},
-{
-"id": "b18-microscope",
-"en": "microscope",
-"cz": "mikroskop",
-"ex": "Look at it under the microscope.",
-"level": "B1"
-},
-{
-"id": "b18-develop",
-"en": "develop",
-"cz": "vyvinout",
-"ex": "They're developing a new medicine.",
-"level": "B1"
-},
-{
-"id": "b18-test",
-"en": "test",
-"cz": "testovat; test",
-"ex": "The drug was tested on volunteers.",
-"level": "B1"
-},
-{
-"id": "b18-study",
-"en": "study",
-"cz": "studie",
-"ex": "A new study suggests that coffee is healthy.",
-"level": "B1"
-},
-{
-"id": "b18-expert",
-"en": "expert",
-"cz": "odborník",
-"ex": "Experts disagree on this.",
-"level": "B1"
-},
-{
-"id": "b18-robot",
-"en": "robot",
-"cz": "robot",
-"ex": "Robots do many jobs in factories.",
-"level": "A2"
-},
-{
-"id": "b18-solar-system",
-"en": "solar system",
-"cz": "sluneční soustava",
-"ex": "There are eight planets in our solar system.",
-"level": "B1"
-},
-{
-"id": "b18-chemical",
-"en": "chemical",
-"cz": "chemická látka; chemický",
-"ex": "Some chemicals are dangerous.",
-"level": "B2"
-},
-{
-"id": "b18-measure",
-"en": "measure",
-"cz": "měřit",
-"ex": "We measured the temperature every hour.",
-"level": "B1"
-},
-{
-"id": "b18-predict",
-"en": "predict",
-"cz": "předpovědět",
-"ex": "It's hard to predict the future.",
-"level": "B2"
-},
-{
-"id": "b18-artificial",
-"en": "artificial",
-"cz": "umělý",
-"ex": "The flowers are artificial.",
-"level": "B2"
-},
-{
-"id": "b18-progress",
-"en": "progress",
-"cz": "pokrok",
-"ex": "Science has made huge progress.",
-"level": "B1"
-},
-{
-"id": "b18-scientific",
-"en": "scientific",
-"cz": "vědecký",
-"ex": "There's no scientific proof.",
-"level": "B2"
+"id": "b18-a-survey",
+"en": "a survey",
+"cz": "průzkum",
+"ex": "A survey shows people sleep less.",
+"level": "B1+"
 }
 ]
 }

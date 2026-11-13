@@ -1,41 +1,51 @@
 #Work & career|Práce a kariéra
-apply for a job|ucházet se o místo|She applied for a job at a bank.|B1
-colleague|kolega, kolegyně|My colleagues are very helpful.|B1
-deadline|termín, uzávěrka|We have to meet the deadline on Friday.|B1
-salary|plat|He earns a good salary.|B1
-promotion|povýšení|She got a promotion last month.|B1
-resign|dát výpověď, odstoupit|He resigned because he was unhappy.|B1
-be fired|dostat padáka, být propuštěn|He was fired for being late every day.|B1
-part-time|na částečný úvazek|I work part-time in a café.|B1
-full-time|na plný úvazek|She has a full-time job in Prague.|B1
-employer|zaměstnavatel|My employer pays for my English lessons.|B1
-employee|zaměstnanec|The company has 200 employees.|B1
-experience|zkušenost, praxe|Do you have any experience in sales?|B1
-skill|dovednost|Communication is an important skill.|B1
-qualification|kvalifikace|What qualifications do you need for this job?|B1
-interview|pohovor|I have a job interview tomorrow.|B1
-CV|životopis|Send us your CV and a cover letter.|B1
-workload|pracovní vytížení|My workload has doubled this year.|B2
-overtime|přesčas|I worked ten hours of overtime last week.|B1
-commute|dojíždět (do práce)|I commute to work by train.|B1
-work from home|pracovat z domova|I work from home on Fridays.|B1
-meeting|porada, schůzka|The meeting has been postponed.|B1
-run a business|vést firmu|My uncle runs a small business.|B1
-be in charge of|mít na starosti|Who is in charge of marketing?|B2
-responsibility|odpovědnost|It's your responsibility to check the data.|B1
-career ladder|kariérní žebříček|She climbed the career ladder quickly.|B2
-job satisfaction|spokojenost v práci|Job satisfaction is more important than money.|B2
-retire|odejít do důchodu|My father retired at 65.|B1
-unemployed|nezaměstnaný|He has been unemployed for six months.|B1
-contract|smlouva|I signed a one-year contract.|B1
-negotiate|vyjednávat|We need to negotiate a better price.|B2
-staff|zaměstnanci, personál|The staff are very friendly.|B1
-team leader|vedoucí týmu|Our team leader organises everything.|B1
-shift|směna|Nurses often work night shifts.|B1
-raise (n.)|zvýšení platu|I asked my boss for a raise.|B2
-perk|výhoda, benefit|Free lunch is one of the perks of the job.|B2
-self-employed|OSVČ, pracující na sebe|She's self-employed and works from home.|B2
-make a living|vydělávat si na živobytí|It's hard to make a living as an artist.|B2
-take time off|vzít si volno|I'm taking some time off next week.|B1
-burnout|vyhoření|Too much stress can lead to burnout.|B2
-work-life balance|rovnováha mezi prací a osobním životem|A four-day week improves work-life balance.|B2
+be snowed under|být zavalený prací|I'm snowed under with reports this week.|B2
+meet a deadline|stihnout termín|We worked all night to meet the deadline.|B2
+take on|vzít na sebe (práci, odpovědnost)|She's taken on too many projects.|B2
+headhunt|přetáhnout (pracovníka)|He was headhunted by a rival firm.|C1
+lay off|propustit (z ekonomických důvodů)|The factory laid off 200 workers.|B2
+redundancy|propuštění pro nadbytečnost|Hundreds of staff face redundancy.|C1
+probation period|zkušební doba|My probation period lasts three months.|B2
+notice period|výpovědní lhůta|I have a two-month notice period.|B2
+hand in your notice|podat výpověď|She handed in her notice on Monday.|B2
+delegate|delegovat, svěřit úkol|A good manager knows how to delegate.|B2
+prioritise|stanovit priority|You need to prioritise your tasks.|B2
+multitask|dělat více věcí najednou|I'm not good at multitasking.|B2
+get the sack|dostat padáka|He got the sack for stealing.|B2
+climb the career ladder|stoupat po kariérním žebříčku|She's ambitious and wants to climb the career ladder.|B2
+a dead-end job|práce bez perspektivy|I'm stuck in a dead-end job.|C1
+on the job training|zaučení přímo v práci|We offer on-the-job training.|C1
+be up to your eyes in|mít něčeho nad hlavu|I'm up to my eyes in paperwork.|C1
+call in sick|omluvit se z práce pro nemoc|Two people called in sick today.|B2
+fringe benefits|zaměstnanecké výhody|The salary is low, but the fringe benefits are good.|C1
+entrepreneur|podnikatel|She's a successful entrepreneur.|B2
+start-up|začínající firma|He works for a tech start-up.|B2
+turnover|obrat; fluktuace zaměstnanců|The company has a high staff turnover.|C1
+outsource|zadat externí firmě|They outsource their IT support.|C1
+streamline|zefektivnit|We need to streamline the process.|C1
+brainstorm|společně vymýšlet nápady|Let's brainstorm some ideas.|B2
+touch base|dát o sobě vědět, zkontaktovat se|Let's touch base next week.|C1
+follow up on|navázat na, dotáhnout|I'll follow up on your request tomorrow.|B2
+be in the loop|být v obraze|Please keep me in the loop.|C1
+bring forward|přesunout na dřívější termín|The meeting has been brought forward to Monday.|B2
+put back|odložit, posunout na později|The launch was put back a month.|B2
+cut corners|odbývat práci, šetřit na nesprávném místě|Don't cut corners on safety.|C1
+pull your weight|dělat svůj díl práce|He doesn't pull his weight in the team.|C1
+hands-on experience|praktická zkušenost|The job requires hands-on experience.|B2
+transferable skills|přenositelné dovednosti|Teaching gives you many transferable skills.|C1
+flexitime|pružná pracovní doba|We work flexitime.|B2
+sabbatical|tvůrčí volno|She's on a six-month sabbatical.|C1
+work your way up|vypracovat se|He worked his way up from cleaner to manager.|B2
+burn the midnight oil|pracovat dlouho do noci|We burned the midnight oil to finish it.|C1
+step down|odstoupit (z funkce)|The CEO stepped down after the scandal.|B2
+appraisal|hodnocení pracovního výkonu|I've got my annual appraisal next week.|C1
+job hunting|hledání práce|I spent the summer job hunting.|B1+
+apply in writing|podat písemnou žádost|Please apply in writing by Friday.|B1+
+work shifts|pracovat na směny|Nurses often work shifts.|B1+
+get a pay rise|dostat přidáno|She got a pay rise last month.|B1+
+colleague|kolega|I get on well with my colleagues.|B1+
+be in charge of|mít na starosti|Who's in charge of the project?|B1+
+run a meeting|vést poradu|Can you run the meeting today?|B1+
+workload|pracovní zátěž|My workload has doubled.|B1+
+deal with customers|jednat se zákazníky|I deal with customers all day.|B1+
+career change|změna kariéry|She's thinking about a career change.|B1+

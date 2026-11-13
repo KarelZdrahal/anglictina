@@ -1,41 +1,51 @@
-#Everyday phrasal verbs|Frázová slovesa pro každý den
-look after|starat se o|Can you look after my cat?|B1
-look for|hledat|I'm looking for my keys.|A2
-look forward to|těšit se na|I'm looking forward to the weekend.|B1
-find out|zjistit|I found out the truth.|B1
-turn up|objevit se, dorazit; zesílit|He turned up late as usual.|B2
-turn down|odmítnout; ztlumit|She turned down the job offer.|B2
-put off|odložit|Don't put off your homework.|B2
-call off|zrušit|They called off the meeting.|B2
-carry on|pokračovat|Carry on, I'm listening.|B1
-come up with|přijít s (nápadem)|She came up with a great idea.|B2
-run out of|dojít (něco)|We've run out of milk.|B1
-set up|založit, zřídit|He set up his own company.|B2
-sort out|vyřešit, dát do pořádku|I need to sort out my papers.|B2
-figure out|přijít na, pochopit|I can't figure out how this works.|B2
-end up|skončit (nakonec)|We ended up staying at home.|B2
-get along|vycházet (spolu)|Do you get along with your boss?|B1
-hang out|trávit čas, poflakovat se|We hang out at the park.|B1
-pick up|zvednout; naučit se (snadno)|I picked up some Spanish on holiday.|B2
-point out|upozornit (na)|She pointed out my mistake.|B2
-show up|objevit se, přijít|Only five people showed up.|B2
-take off|vzlétnout; sundat|Take off your shoes, please.|B1
-work out|vyřešit; cvičit; vyjít|Everything worked out in the end.|B2
-fill in|vyplnit|Please fill in this form.|B1
-go on|pokračovat; dít se|What's going on?|B1
-bring up|vychovat; nadhodit|She was brought up by her grandparents.|B2
-catch up|dohnat; probrat novinky|Let's meet and catch up.|B2
-deal with|vypořádat se s|I'll deal with it tomorrow.|B2
-get by|vyjít, protlouct se|I get by with my basic German.|B2
-put up with|snášet, tolerovat|I can't put up with this noise.|C1
-look into|prošetřit|We'll look into the problem.|B2
-come across|narazit na|I came across an old photo.|B2
-go through|projít (si); prožít|She went through a difficult time.|B2
-keep up with|držet krok s|It's hard to keep up with technology.|B2
-let down|zklamat|Don't let me down.|B2
-make up|vymyslet (si)|He made up an excuse.|B2
-throw away|vyhodit|Don't throw away those boxes.|B1
-switch on|zapnout|Switch on the light.|A2
-grow up|vyrůst|I grew up in a small town.|B1
-calm down|uklidnit se|Calm down, please.|B1
-break down|porouchat se; zhroutit se|My car broke down.|B1
+#Advanced phrasal verbs|Frázová slovesa pro pokročilé
+come across|narazit na; působit|He comes across as arrogant.|B2
+come up with|vymyslet|She came up with a brilliant plan.|B2
+come down to|scvrknout se na|It all comes down to money.|C1
+get across|sdělit, vysvětlit|He struggled to get his point across.|C1
+get round to|dostat se k (něčemu)|I never got round to calling her.|C1
+get over|překonat, dostat se z|It took him months to get over her.|B2
+put off|odradit; odložit|The smell put me off.|B2
+put forward|předložit (návrh)|She put forward a new idea.|C1
+put across|vyjádřit, přednést|He put his ideas across clearly.|C1
+bring about|způsobit|The internet brought about huge changes.|C1
+bring up|nadhodit (téma)|Don't bring up politics at dinner.|B2
+carry out|provést|We carried out a survey.|B2
+figure out|přijít na|I can't figure out the answer.|B2
+work out|vyřešit; vyjít|Things worked out in the end.|B2
+turn out|ukázat se (jako)|It turned out to be true.|B2
+turn down|odmítnout|She turned down the offer.|B2
+fall through|zkrachovat (plán)|Our holiday plans fell through.|C1
+fall apart|rozpadnout se|Their marriage fell apart.|B2
+back out|vycouvat|He backed out of the deal.|C1
+back up|podpořit; zálohovat|Can you back me up on this?|B2
+rule out|vyloučit|We can't rule anything out.|C1
+sort out|vyřešit|I'll sort it out tomorrow.|B2
+stand out|vyčnívat|Her CV really stands out.|B2
+stand for|znamenat; tolerovat|I won't stand for this!|C1
+make up for|vynahradit|I'll make up for being late.|C1
+make out|rozeznat|I couldn't make out what he said.|C1
+pull off|zvládnout (těžký úkol)|They pulled off an amazing win.|C1
+run into|narazit na (někoho)|I ran into an old friend.|B2
+look into|prošetřit|We'll look into it.|B2
+look up to|vzhlížet k|I look up to my father.|B2
+look down on|dívat se svrchu na|Don't look down on people.|C1
+go along with|souhlasit s, přistoupit na|I'll go along with your plan.|C1
+go through with|dotáhnout do konce|She went through with the divorce.|C1
+live up to|dostát|The film lived up to the hype.|B2
+cut back on|omezit|We're cutting back on spending.|B2
+drop off|usnout; vysadit|I dropped off during the film.|C1
+take after|být po někom|She takes after her mum.|B2
+take over|převzít|A bigger firm took over the company.|B2
+wear off|vyprchat|The painkillers wore off.|C1
+brush aside|odbýt, smést ze stolu|He brushed aside my concerns.|C1
+give up|vzdát se, přestat|Don't give up now.|B1+
+find out|zjistit|I found out the truth.|B1+
+look after|starat se o|Can you look after my cat?|B1+
+look forward to|těšit se na|I'm looking forward to the weekend.|B1+
+pick up|vyzvednout|I'll pick you up at six.|B1+
+run out of|dojít (něco)|We've run out of milk.|B1+
+set up|založit|He set up his own company.|B1+
+turn up|objevit se, dorazit|He turned up late.|B1+
+carry on|pokračovat|Carry on – I'm listening.|B1+
+fill in|vyplnit|Please fill in this form.|B1+

@@ -2,167 +2,48 @@
 "id": "pack14",
 "topic": "Culture & the arts",
 "topic_cz": "Kultura a umění",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b14-exhibition",
-"en": "exhibition",
-"cz": "výstava",
-"ex": "There's a new exhibition at the gallery.",
-"level": "B1"
+"id": "b14-gripping",
+"en": "gripping",
+"cz": "napínavý, strhující",
+"ex": "It's a gripping thriller.",
+"level": "C1"
 },
 {
-"id": "b14-gallery",
-"en": "gallery",
-"cz": "galerie",
-"ex": "We visited the National Gallery.",
-"level": "B1"
-},
-{
-"id": "b14-painting",
-"en": "painting",
-"cz": "obraz, malba",
-"ex": "This painting is worth millions.",
-"level": "B1"
-},
-{
-"id": "b14-sculpture",
-"en": "sculpture",
-"cz": "socha",
-"ex": "The park has several modern sculptures.",
-"level": "B2"
-},
-{
-"id": "b14-artist",
-"en": "artist",
-"cz": "umělec",
-"ex": "She's a talented artist.",
-"level": "A2"
-},
-{
-"id": "b14-performance",
-"en": "performance",
-"cz": "představení, výkon",
-"ex": "The performance lasted three hours.",
-"level": "B1"
-},
-{
-"id": "b14-audience",
-"en": "audience",
-"cz": "publikum",
-"ex": "The audience loved the show.",
-"level": "B1"
-},
-{
-"id": "b14-stage",
-"en": "stage",
-"cz": "jeviště",
-"ex": "The actors came back on stage.",
-"level": "B1"
-},
-{
-"id": "b14-play",
-"en": "play",
-"cz": "divadelní hra",
-"ex": "We saw a play by Shakespeare.",
-"level": "A2"
-},
-{
-"id": "b14-musical",
-"en": "musical",
-"cz": "muzikál",
-"ex": "Have you seen the musical Cats?",
-"level": "B1"
-},
-{
-"id": "b14-plot",
-"en": "plot",
-"cz": "děj",
-"ex": "The plot was hard to follow.",
-"level": "B1"
-},
-{
-"id": "b14-character",
-"en": "character",
-"cz": "postava",
-"ex": "The main character is a young doctor.",
-"level": "B1"
-},
-{
-"id": "b14-director",
-"en": "director",
-"cz": "režisér",
-"ex": "Who is the director of this film?",
-"level": "B1"
-},
-{
-"id": "b14-cast",
-"en": "cast",
-"cz": "obsazení",
-"ex": "The film has a great cast.",
-"level": "B2"
-},
-{
-"id": "b14-soundtrack",
-"en": "soundtrack",
-"cz": "filmová hudba",
-"ex": "I love the soundtrack of this film.",
-"level": "B2"
-},
-{
-"id": "b14-subtitles",
-"en": "subtitles",
-"cz": "titulky",
-"ex": "I watch films with English subtitles.",
-"level": "B1"
-},
-{
-"id": "b14-novel",
-"en": "novel",
-"cz": "román",
-"ex": "Her latest novel is a bestseller.",
-"level": "B1"
-},
-{
-"id": "b14-author",
-"en": "author",
-"cz": "autor",
-"ex": "Who's the author of this book?",
-"level": "B1"
-},
-{
-"id": "b14-poem",
-"en": "poem",
-"cz": "báseň",
-"ex": "He wrote a poem for her.",
-"level": "B1"
-},
-{
-"id": "b14-bestseller",
-"en": "bestseller",
-"cz": "bestseller",
-"ex": "The book became a bestseller.",
-"level": "B2"
-},
-{
-"id": "b14-masterpiece",
-"en": "masterpiece",
-"cz": "mistrovské dílo",
-"ex": "The film is a masterpiece.",
-"level": "B2"
+"id": "b14-thought-provoking",
+"en": "thought-provoking",
+"cz": "podnětný, nutící k zamyšlení",
+"ex": "The film is thought-provoking.",
+"level": "C1"
 },
 {
 "id": "b14-moving",
 "en": "moving",
 "cz": "dojemný",
-"ex": "It was a very moving story.",
+"ex": "It's a deeply moving story.",
 "level": "B2"
 },
 {
-"id": "b14-gripping",
-"en": "gripping",
-"cz": "napínavý, strhující",
-"ex": "The book is absolutely gripping.",
+"id": "b14-overrated",
+"en": "overrated",
+"cz": "přeceňovaný",
+"ex": "I think the book is overrated.",
+"level": "C1"
+},
+{
+"id": "b14-underrated",
+"en": "underrated",
+"cz": "nedoceněný",
+"ex": "It's an underrated masterpiece.",
+"level": "C1"
+},
+{
+"id": "b14-far-fetched",
+"en": "far-fetched",
+"cz": "přitažený za vlasy",
+"ex": "The plot is a bit far-fetched.",
 "level": "C1"
 },
 {
@@ -173,116 +54,305 @@
 "level": "B2"
 },
 {
-"id": "b14-overrated",
-"en": "overrated",
-"cz": "přeceňovaný",
-"ex": "I think that film is overrated.",
+"id": "b14-a-page-turner",
+"en": "a page-turner",
+"cz": "kniha, od které se nedá odtrhnout",
+"ex": "Her new novel is a real page-turner.",
 "level": "C1"
+},
+{
+"id": "b14-can-t-put-it-down",
+"en": "can't put it down",
+"cz": "nemůžu se od toho odtrhnout",
+"ex": "I couldn't put the book down.",
+"level": "B2"
+},
+{
+"id": "b14-a-cliffhanger",
+"en": "a cliffhanger",
+"cz": "napínavý konec (dílu)",
+"ex": "The episode ended on a cliffhanger.",
+"level": "C1"
+},
+{
+"id": "b14-plot-twist",
+"en": "plot twist",
+"cz": "dějový zvrat",
+"ex": "There's a great plot twist.",
+"level": "C1"
+},
+{
+"id": "b14-spoiler",
+"en": "spoiler",
+"cz": "prozrazení děje",
+"ex": "No spoilers, please!",
+"level": "B2"
+},
+{
+"id": "b14-critically-acclaimed",
+"en": "critically acclaimed",
+"cz": "kritikou oceňovaný",
+"ex": "It's a critically acclaimed film.",
+"level": "C1"
+},
+{
+"id": "b14-box-office-hit",
+"en": "box-office hit",
+"cz": "kasovní trhák",
+"ex": "The film was a box-office hit.",
+"level": "C1"
+},
+{
+"id": "b14-a-flop",
+"en": "a flop",
+"cz": "propadák",
+"ex": "The musical was a flop.",
+"level": "C1"
+},
+{
+"id": "b14-rave-reviews",
+"en": "rave reviews",
+"cz": "nadšené recenze",
+"ex": "The play got rave reviews.",
+"level": "C1"
+},
+{
+"id": "b14-sold-out",
+"en": "sold-out",
+"cz": "vyprodaný",
+"ex": "The tour is sold out.",
+"level": "B2"
+},
+{
+"id": "b14-standing-ovation",
+"en": "standing ovation",
+"cz": "potlesk vestoje",
+"ex": "They got a standing ovation.",
+"level": "C1"
+},
+{
+"id": "b14-encore",
+"en": "encore",
+"cz": "přídavek",
+"ex": "The band played two encores.",
+"level": "C1"
+},
+{
+"id": "b14-in-the-limelight",
+"en": "in the limelight",
+"cz": "v centru pozornosti",
+"ex": "She enjoys being in the limelight.",
+"level": "C1"
+},
+{
+"id": "b14-up-and-coming-artist",
+"en": "up-and-coming artist",
+"cz": "nadějný umělec",
+"ex": "He's an up-and-coming artist.",
+"level": "C1"
+},
+{
+"id": "b14-masterpiece",
+"en": "masterpiece",
+"cz": "mistrovské dílo",
+"ex": "It's considered a masterpiece.",
+"level": "B2"
+},
+{
+"id": "b14-a-must-see",
+"en": "a must-see",
+"cz": "něco, co musíte vidět",
+"ex": "The exhibition is a must-see.",
+"level": "C1"
+},
+{
+"id": "b14-highbrow",
+"en": "highbrow",
+"cz": "intelektuální, náročný",
+"ex": "It's quite a highbrow programme.",
+"level": "C1"
+},
+{
+"id": "b14-lowbrow",
+"en": "lowbrow",
+"cz": "nenáročný, lidový",
+"ex": "I enjoy lowbrow comedy.",
+"level": "C1"
+},
+{
+"id": "b14-avant-garde",
+"en": "avant-garde",
+"cz": "avantgardní",
+"ex": "An avant-garde theatre group",
+"level": "C1"
+},
+{
+"id": "b14-portray",
+"en": "portray",
+"cz": "ztvárnit, vylíčit",
+"ex": "He portrays a lonely detective.",
+"level": "C1"
+},
+{
+"id": "b14-be-set-in",
+"en": "be set in",
+"cz": "odehrávat se v",
+"ex": "The story is set in Victorian London.",
+"level": "B2"
+},
+{
+"id": "b14-based-on-a-true-story",
+"en": "based on a true story",
+"cz": "podle skutečné události",
+"ex": "The film is based on a true story.",
+"level": "B2"
+},
+{
+"id": "b14-the-sequel",
+"en": "the sequel",
+"cz": "pokračování",
+"ex": "The sequel was disappointing.",
+"level": "B2"
+},
+{
+"id": "b14-adaptation",
+"en": "adaptation",
+"cz": "adaptace",
+"ex": "It's an adaptation of a novel.",
+"level": "C1"
+},
+{
+"id": "b14-cultural-heritage",
+"en": "cultural heritage",
+"cz": "kulturní dědictví",
+"ex": "We must protect our cultural heritage.",
+"level": "C1"
+},
+{
+"id": "b14-a-cult-classic",
+"en": "a cult classic",
+"cz": "kultovní dílo",
+"ex": "It's become a cult classic.",
+"level": "C1"
+},
+{
+"id": "b14-catchy",
+"en": "catchy",
+"cz": "chytlavý",
+"ex": "It's a really catchy song.",
+"level": "B2"
+},
+{
+"id": "b14-grow-on-you",
+"en": "grow on you",
+"cz": "postupně se zalíbit",
+"ex": "The album grows on you.",
+"level": "C1"
+},
+{
+"id": "b14-strike-a-chord",
+"en": "strike a chord",
+"cz": "zarezonovat",
+"ex": "Her words struck a chord with me.",
+"level": "C1"
+},
+{
+"id": "b14-take-centre-stage",
+"en": "take centre stage",
+"cz": "dostat se do popředí",
+"ex": "Climate took centre stage at the festival.",
+"level": "C1"
+},
+{
+"id": "b14-a-stage-fright",
+"en": "a stage fright",
+"cz": "tréma",
+"ex": "She suffers from stage fright.",
+"level": "C1"
+},
+{
+"id": "b14-behind-the-scenes",
+"en": "behind the scenes",
+"cz": "v zákulisí",
+"ex": "We got a tour behind the scenes.",
+"level": "B2"
+},
+{
+"id": "b14-bring-sth-to-life",
+"en": "bring sth to life",
+"cz": "oživit",
+"ex": "The actors brought the story to life.",
+"level": "C1"
+},
+{
+"id": "b14-an-exhibition",
+"en": "an exhibition",
+"cz": "výstava",
+"ex": "There's a new exhibition at the gallery.",
+"level": "B1+"
+},
+{
+"id": "b14-the-plot",
+"en": "the plot",
+"cz": "děj",
+"ex": "The plot is very complicated.",
+"level": "B1+"
+},
+{
+"id": "b14-the-main-character",
+"en": "the main character",
+"cz": "hlavní postava",
+"ex": "The main character is a doctor.",
+"level": "B1+"
+},
+{
+"id": "b14-a-novel",
+"en": "a novel",
+"cz": "román",
+"ex": "I'm reading a novel by Kundera.",
+"level": "B1+"
+},
+{
+"id": "b14-subtitles",
+"en": "subtitles",
+"cz": "titulky",
+"ex": "I watch films with subtitles.",
+"level": "B1+"
 },
 {
 "id": "b14-recommend",
 "en": "recommend",
 "cz": "doporučit",
-"ex": "I can recommend this book.",
-"level": "B1"
+"ex": "Can you recommend a good book?",
+"level": "B1+"
 },
 {
-"id": "b14-get-tickets",
-"en": "get tickets",
-"cz": "sehnat lístky",
-"ex": "We got tickets for the concert.",
-"level": "B1"
+"id": "b14-a-performance",
+"en": "a performance",
+"cz": "představení, výkon",
+"ex": "Her performance was excellent.",
+"level": "B1+"
 },
 {
-"id": "b14-sold-out",
-"en": "sold out",
-"cz": "vyprodaný",
-"ex": "The concert is sold out.",
-"level": "B1"
+"id": "b14-the-audience",
+"en": "the audience",
+"cz": "publikum",
+"ex": "The audience loved it.",
+"level": "B1+"
 },
 {
-"id": "b14-band",
-"en": "band",
-"cz": "kapela",
-"ex": "What's your favourite band?",
-"level": "A2"
+"id": "b14-book-tickets",
+"en": "book tickets",
+"cz": "zarezervovat lístky",
+"ex": "I booked tickets for the concert.",
+"level": "B1+"
 },
 {
-"id": "b14-lyrics",
-"en": "lyrics",
-"cz": "text písně",
-"ex": "I don't understand the lyrics.",
-"level": "B2"
-},
-{
-"id": "b14-album",
-"en": "album",
-"cz": "album",
-"ex": "Their new album comes out in May.",
-"level": "B1"
-},
-{
-"id": "b14-festival",
-"en": "festival",
-"cz": "festival",
-"ex": "We go to a music festival every summer.",
-"level": "B1"
-},
-{
-"id": "b14-heritage",
-"en": "heritage",
-"cz": "dědictví",
-"ex": "Prague is part of UNESCO World Heritage.",
-"level": "C1"
-},
-{
-"id": "b14-tradition",
-"en": "tradition",
-"cz": "tradice",
-"ex": "It's an old Czech tradition.",
-"level": "B1"
-},
-{
-"id": "b14-custom",
-"en": "custom",
-"cz": "zvyk",
-"ex": "Every country has different customs.",
-"level": "B1"
-},
-{
-"id": "b14-review",
-"en": "review",
-"cz": "recenze",
-"ex": "The play got terrible reviews.",
-"level": "B1"
-},
-{
-"id": "b14-critic",
-"en": "critic",
-"cz": "kritik",
-"ex": "The critics loved it.",
-"level": "B2"
-},
-{
-"id": "b14-premiere",
-"en": "premiere",
-"cz": "premiéra",
-"ex": "The premiere is next Friday.",
-"level": "B2"
-},
-{
-"id": "b14-applause",
-"en": "applause",
-"cz": "potlesk",
-"ex": "There was loud applause at the end.",
-"level": "B2"
-},
-{
-"id": "b14-entertaining",
-"en": "entertaining",
-"cz": "zábavný",
-"ex": "The show was very entertaining.",
-"level": "B1"
+"id": "b14-a-happy-ending",
+"en": "a happy ending",
+"cz": "šťastný konec",
+"ex": "I like films with a happy ending.",
+"level": "B1+"
 }
 ]
 }

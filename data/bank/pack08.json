@@ -2,280 +2,91 @@
 "id": "pack08",
 "topic": "Technology & internet",
 "topic_cz": "Technologie a internet",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b08-device",
-"en": "device",
-"cz": "zařízení",
-"ex": "You can use the app on any device.",
-"level": "B1"
+"id": "b08-cutting-edge",
+"en": "cutting-edge",
+"cz": "špičkový",
+"ex": "They use cutting-edge technology.",
+"level": "C1"
 },
 {
-"id": "b08-download",
-"en": "download",
-"cz": "stáhnout",
-"ex": "Download the app for free.",
-"level": "B1"
+"id": "b08-state-of-the-art",
+"en": "state-of-the-art",
+"cz": "nejmodernější",
+"ex": "The lab is state-of-the-art.",
+"level": "C1"
 },
 {
-"id": "b08-upload",
-"en": "upload",
-"cz": "nahrát (na internet)",
-"ex": "I uploaded the photos.",
-"level": "B1"
-},
-{
-"id": "b08-install",
-"en": "install",
-"cz": "nainstalovat",
-"ex": "I need to install an update.",
-"level": "B1"
-},
-{
-"id": "b08-update",
-"en": "update",
-"cz": "aktualizace; aktualizovat",
-"ex": "Update your software regularly.",
-"level": "B1"
-},
-{
-"id": "b08-log-in",
-"en": "log in",
-"cz": "přihlásit se",
-"ex": "Log in with your email.",
-"level": "B1"
-},
-{
-"id": "b08-password",
-"en": "password",
-"cz": "heslo",
-"ex": "Don't share your password.",
-"level": "A2"
-},
-{
-"id": "b08-account",
-"en": "account",
-"cz": "účet",
-"ex": "Create a free account.",
-"level": "B1"
-},
-{
-"id": "b08-settings",
-"en": "settings",
-"cz": "nastavení",
-"ex": "Change the language in settings.",
-"level": "B1"
-},
-{
-"id": "b08-screen",
-"en": "screen",
-"cz": "obrazovka",
-"ex": "My phone screen is broken.",
-"level": "A2"
-},
-{
-"id": "b08-charger",
-"en": "charger",
-"cz": "nabíječka",
-"ex": "Have you got a phone charger?",
-"level": "B1"
-},
-{
-"id": "b08-battery",
-"en": "battery",
-"cz": "baterie",
-"ex": "My battery is almost dead.",
-"level": "B1"
-},
-{
-"id": "b08-crash",
-"en": "crash",
-"cz": "spadnout (program)",
-"ex": "My computer keeps crashing.",
-"level": "B1"
-},
-{
-"id": "b08-backup",
-"en": "backup",
-"cz": "záloha",
-"ex": "Always make a backup of your files.",
-"level": "B2"
-},
-{
-"id": "b08-browser",
-"en": "browser",
-"cz": "prohlížeč",
-"ex": "Which browser do you use?",
-"level": "B1"
-},
-{
-"id": "b08-search-engine",
-"en": "search engine",
-"cz": "vyhledávač",
-"ex": "Google is the most popular search engine.",
-"level": "B1"
-},
-{
-"id": "b08-attachment",
-"en": "attachment",
-"cz": "příloha",
-"ex": "I've sent the file as an attachment.",
-"level": "B1"
-},
-{
-"id": "b08-wireless",
-"en": "wireless",
-"cz": "bezdrátový",
-"ex": "Wireless headphones are very practical.",
-"level": "B1"
-},
-{
-"id": "b08-artificial-intelligence",
-"en": "artificial intelligence",
-"cz": "umělá inteligence",
-"ex": "Artificial intelligence is changing many jobs.",
-"level": "B2"
+"id": "b08-obsolete",
+"en": "obsolete",
+"cz": "zastaralý",
+"ex": "Fax machines are obsolete.",
+"level": "C1"
 },
 {
 "id": "b08-user-friendly",
 "en": "user-friendly",
 "cz": "uživatelsky přívětivý",
-"ex": "The website is very user-friendly.",
-"level": "B2"
-},
-{
-"id": "b08-cutting-edge",
-"en": "cutting-edge",
-"cz": "špičkový, nejmodernější",
-"ex": "They use cutting-edge technology.",
-"level": "C1"
-},
-{
-"id": "b08-outdated",
-"en": "outdated",
-"cz": "zastaralý",
-"ex": "My laptop is completely outdated.",
-"level": "B2"
-},
-{
-"id": "b08-gadget",
-"en": "gadget",
-"cz": "technická vychytávka",
-"ex": "He loves new gadgets.",
-"level": "B1"
-},
-{
-"id": "b08-keyboard",
-"en": "keyboard",
-"cz": "klávesnice",
-"ex": "I spilled coffee on my keyboard.",
-"level": "A2"
-},
-{
-"id": "b08-hack",
-"en": "hack",
-"cz": "hacknout",
-"ex": "Someone hacked my email account.",
-"level": "B2"
-},
-{
-"id": "b08-privacy",
-"en": "privacy",
-"cz": "soukromí",
-"ex": "Social media can be a risk to your privacy.",
-"level": "B2"
-},
-{
-"id": "b08-data",
-"en": "data",
-"cz": "data, údaje",
-"ex": "The app collects personal data.",
-"level": "B1"
-},
-{
-"id": "b08-online",
-"en": "online",
-"cz": "online, na internetu",
-"ex": "I do most of my shopping online.",
-"level": "A2"
-},
-{
-"id": "b08-offline",
-"en": "offline",
-"cz": "offline, bez připojení",
-"ex": "This app works offline.",
-"level": "B1"
-},
-{
-"id": "b08-stream",
-"en": "stream",
-"cz": "streamovat",
-"ex": "We streamed the match on my laptop.",
-"level": "B2"
-},
-{
-"id": "b08-subscribe",
-"en": "subscribe",
-"cz": "předplatit si, odebírat",
-"ex": "Subscribe to our newsletter.",
-"level": "B2"
-},
-{
-"id": "b08-notification",
-"en": "notification",
-"cz": "oznámení",
-"ex": "Turn off notifications at night.",
-"level": "B2"
-},
-{
-"id": "b08-screen-time",
-"en": "screen time",
-"cz": "čas u obrazovky",
-"ex": "Children need limits on screen time.",
+"ex": "The app is very user-friendly.",
 "level": "B2"
 },
 {
 "id": "b08-tech-savvy",
 "en": "tech-savvy",
-"cz": "technicky zdatný",
-"ex": "My grandma is surprisingly tech-savvy.",
+"cz": "zdatný v technice",
+"ex": "My kids are more tech-savvy than me.",
 "level": "C1"
 },
 {
-"id": "b08-troubleshoot",
-"en": "troubleshoot",
-"cz": "řešit (technický) problém",
-"ex": "The IT team helped me troubleshoot the problem.",
+"id": "b08-glitch",
+"en": "glitch",
+"cz": "závada, chyba",
+"ex": "There was a glitch in the system.",
 "level": "C1"
 },
 {
-"id": "b08-plug-in",
-"en": "plug in",
-"cz": "zapojit",
-"ex": "Plug in the printer.",
-"level": "B1"
+"id": "b08-bug",
+"en": "bug",
+"cz": "chyba v programu",
+"ex": "The update fixes several bugs.",
+"level": "B2"
 },
 {
-"id": "b08-switch-off",
-"en": "switch off",
-"cz": "vypnout",
-"ex": "Switch off your phone during the film.",
-"level": "B1"
+"id": "b08-crash",
+"en": "crash",
+"cz": "spadnout (program)",
+"ex": "My laptop keeps crashing.",
+"level": "B2"
 },
 {
-"id": "b08-restart",
-"en": "restart",
+"id": "b08-freeze",
+"en": "freeze",
+"cz": "zamrznout",
+"ex": "The screen froze.",
+"level": "B2"
+},
+{
+"id": "b08-reboot",
+"en": "reboot",
 "cz": "restartovat",
-"ex": "Try restarting your computer.",
-"level": "B1"
+"ex": "Try rebooting the router.",
+"level": "C1"
 },
 {
-"id": "b08-virus",
-"en": "virus",
-"cz": "virus",
-"ex": "My computer has got a virus.",
-"level": "B1"
+"id": "b08-back-up",
+"en": "back up",
+"cz": "zálohovat",
+"ex": "Always back up your files.",
+"level": "B2"
+},
+{
+"id": "b08-sync",
+"en": "sync",
+"cz": "synchronizovat",
+"ex": "My phone syncs with my laptop.",
+"level": "B2"
 },
 {
 "id": "b08-cloud-storage",
@@ -283,6 +94,265 @@
 "cz": "cloudové úložiště",
 "ex": "I keep my photos in cloud storage.",
 "level": "B2"
+},
+{
+"id": "b08-data-breach",
+"en": "data breach",
+"cz": "únik dat",
+"ex": "The company suffered a data breach.",
+"level": "C1"
+},
+{
+"id": "b08-phishing",
+"en": "phishing",
+"cz": "phishing, podvodné e-maily",
+"ex": "Don't click on phishing links.",
+"level": "C1"
+},
+{
+"id": "b08-two-factor-authentication",
+"en": "two-factor authentication",
+"cz": "dvoufázové ověření",
+"ex": "Turn on two-factor authentication.",
+"level": "C1"
+},
+{
+"id": "b08-encrypted",
+"en": "encrypted",
+"cz": "šifrovaný",
+"ex": "The messages are encrypted.",
+"level": "C1"
+},
+{
+"id": "b08-go-viral",
+"en": "go viral",
+"cz": "stát se virálním",
+"ex": "Her video went viral.",
+"level": "B2"
+},
+{
+"id": "b08-troll",
+"en": "troll",
+"cz": "internetový troll",
+"ex": "Ignore the trolls.",
+"level": "B2"
+},
+{
+"id": "b08-screen-time",
+"en": "screen time",
+"cz": "čas u obrazovky",
+"ex": "Limit your children's screen time.",
+"level": "B2"
+},
+{
+"id": "b08-digital-detox",
+"en": "digital detox",
+"cz": "digitální detox",
+"ex": "I'm doing a digital detox this weekend.",
+"level": "C1"
+},
+{
+"id": "b08-be-glued-to-your-phone",
+"en": "be glued to your phone",
+"cz": "být přilepený k telefonu",
+"ex": "He's always glued to his phone.",
+"level": "C1"
+},
+{
+"id": "b08-scroll-through",
+"en": "scroll through",
+"cz": "projíždět",
+"ex": "I scrolled through my feed.",
+"level": "B2"
+},
+{
+"id": "b08-binge-watch",
+"en": "binge-watch",
+"cz": "sledovat seriál ve velkém",
+"ex": "We binge-watched the whole series.",
+"level": "C1"
+},
+{
+"id": "b08-wearable-tech",
+"en": "wearable tech",
+"cz": "nositelná elektronika",
+"ex": "Smartwatches are wearable tech.",
+"level": "C1"
+},
+{
+"id": "b08-algorithm",
+"en": "algorithm",
+"cz": "algoritmus",
+"ex": "The algorithm decides what you see.",
+"level": "C1"
+},
+{
+"id": "b08-artificial-intelligence",
+"en": "artificial intelligence",
+"cz": "umělá inteligence",
+"ex": "AI is transforming medicine.",
+"level": "B2"
+},
+{
+"id": "b08-automation",
+"en": "automation",
+"cz": "automatizace",
+"ex": "Automation will replace many jobs.",
+"level": "C1"
+},
+{
+"id": "b08-breakthrough",
+"en": "breakthrough",
+"cz": "průlom",
+"ex": "It's a technological breakthrough.",
+"level": "C1"
+},
+{
+"id": "b08-early-adopter",
+"en": "early adopter",
+"cz": "ten, kdo si novinky pořizuje první",
+"ex": "He's an early adopter of new gadgets.",
+"level": "C1"
+},
+{
+"id": "b08-plug-in",
+"en": "plug-in",
+"cz": "plugin, doplněk",
+"ex": "Install this browser plug-in.",
+"level": "C1"
+},
+{
+"id": "b08-bandwidth",
+"en": "bandwidth",
+"cz": "šířka pásma; kapacita (i člověka)",
+"ex": "I don't have the bandwidth for this project.",
+"level": "C1"
+},
+{
+"id": "b08-offline",
+"en": "offline",
+"cz": "offline",
+"ex": "Download the maps to use them offline.",
+"level": "B2"
+},
+{
+"id": "b08-log-off",
+"en": "log off",
+"cz": "odhlásit se",
+"ex": "Remember to log off.",
+"level": "B2"
+},
+{
+"id": "b08-customise",
+"en": "customise",
+"cz": "přizpůsobit",
+"ex": "You can customise the settings.",
+"level": "B2"
+},
+{
+"id": "b08-troubleshoot",
+"en": "troubleshoot",
+"cz": "řešit problémy",
+"ex": "Let's troubleshoot the issue.",
+"level": "C1"
+},
+{
+"id": "b08-fake-news",
+"en": "fake news",
+"cz": "falešné zprávy",
+"ex": "Fake news spreads fast.",
+"level": "B2"
+},
+{
+"id": "b08-cyberbullying",
+"en": "cyberbullying",
+"cz": "kyberšikana",
+"ex": "Cyberbullying is a serious problem.",
+"level": "C1"
+},
+{
+"id": "b08-the-digital-divide",
+"en": "the digital divide",
+"cz": "digitální propast",
+"ex": "The pandemic widened the digital divide.",
+"level": "C1"
+},
+{
+"id": "b08-tech-giant",
+"en": "tech giant",
+"cz": "technologický gigant",
+"ex": "Tech giants dominate the market.",
+"level": "C1"
+},
+{
+"id": "b08-download",
+"en": "download",
+"cz": "stáhnout",
+"ex": "Download the app for free.",
+"level": "B1+"
+},
+{
+"id": "b08-install",
+"en": "install",
+"cz": "nainstalovat",
+"ex": "Install the latest update.",
+"level": "B1+"
+},
+{
+"id": "b08-update",
+"en": "update",
+"cz": "aktualizace; aktualizovat",
+"ex": "My phone needs an update.",
+"level": "B1+"
+},
+{
+"id": "b08-log-in",
+"en": "log in",
+"cz": "přihlásit se",
+"ex": "Log in with your password.",
+"level": "B1+"
+},
+{
+"id": "b08-a-password",
+"en": "a password",
+"cz": "heslo",
+"ex": "Choose a strong password.",
+"level": "B1+"
+},
+{
+"id": "b08-charge-your-phone",
+"en": "charge your phone",
+"cz": "nabít telefon",
+"ex": "I need to charge my phone.",
+"level": "B1+"
+},
+{
+"id": "b08-run-out-of-battery",
+"en": "run out of battery",
+"cz": "vybít se (baterie)",
+"ex": "My phone ran out of battery.",
+"level": "B1+"
+},
+{
+"id": "b08-online-shopping",
+"en": "online shopping",
+"cz": "nakupování online",
+"ex": "I do a lot of online shopping.",
+"level": "B1+"
+},
+{
+"id": "b08-a-search-engine",
+"en": "a search engine",
+"cz": "vyhledávač",
+"ex": "Use a search engine to find it.",
+"level": "B1+"
+},
+{
+"id": "b08-social-media",
+"en": "social media",
+"cz": "sociální sítě",
+"ex": "I spend too much time on social media.",
+"level": "B1+"
 }
 ]
 }

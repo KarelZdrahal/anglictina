@@ -1,41 +1,51 @@
 #Relationships & feelings|Vztahy a pocity
-get on well with|dobře vycházet s|I get on well with my sister.|B1
-fall out with|pohádat se s|He fell out with his best friend.|B2
-make up|usmířit se|They argued but soon made up.|B2
-break up|rozejít se|They broke up after five years.|B1
-go out with|chodit s (někým)|How long have you been going out with him?|B1
-get engaged|zasnoubit se|They got engaged in Paris.|B1
-get married|vzít se|We got married in 2015.|A2
-divorced|rozvedený|My parents are divorced.|B1
-relative|příbuzný|We visited our relatives at Christmas.|B1
-acquaintance|známý|He's not a friend, just an acquaintance.|C1
-trust|důvěra; důvěřovat|I trust her completely.|B1
-rely on|spolehnout se na|You can always rely on me.|B1
-support|podpora; podporovat|My family supported me.|B1
-look up to|vzhlížet k|I always looked up to my older brother.|B2
-argue|hádat se|They argue about money.|B1
-apologise|omluvit se|You should apologise to her.|B1
-forgive|odpustit|I can't forgive him.|B1
-jealous|žárlivý|He gets jealous easily.|B1
-embarrassed|v rozpacích, trapně|I was so embarrassed!|B1
-proud of|hrdý na|I'm proud of you.|B1
-grateful|vděčný|I'm grateful for your help.|B2
-disappointed|zklamaný|We were disappointed with the result.|B1
-upset|rozrušený, smutný|She was upset about the news.|B1
-anxious|úzkostný, nervózní|I feel anxious before flying.|B2
-relieved|ulehčený|I was relieved when he called.|B1
-frustrated|frustrovaný|I get frustrated when the internet is slow.|B2
-lonely|osamělý|She feels lonely since her husband died.|B1
-confused|zmatený|I'm confused about the instructions.|B1
-thrilled|nadšený|I'm thrilled with my new job.|B2
-furious|zuřivý|He was furious with me.|B2
-annoyed|naštvaný, otrávený|I was annoyed that he was late again.|B1
-have a crush on|být zakoukaný do|She has a crush on her teacher.|B2
-keep in touch|zůstat v kontaktu|Let's keep in touch!|B1
-lose touch|ztratit kontakt|We lost touch after school.|B2
-close friend|blízký přítel|She's one of my closest friends.|B1
-get to know|poznat (se)|I'd like to get to know you better.|B1
-mood|nálada|You're in a good mood today.|B1
-cheer up|rozveselit (se)|Cheer up! It's not that bad.|B1
-calm down|uklidnit se|Calm down and tell me what happened.|B1
-hurt sb's feelings|ranit něčí city|I didn't want to hurt your feelings.|B2
+hit it off|padnout si do oka|We hit it off immediately.|B2
+see eye to eye|shodnout se|We don't always see eye to eye.|C1
+fall out with|pohádat se s|She fell out with her sister.|B2
+patch things up|urovnat to|They managed to patch things up.|C1
+drift apart|odcizit se|We drifted apart after school.|C1
+have a lot in common|mít mnoho společného|We have a lot in common.|B2
+be on the same wavelength|naladit se na stejnou vlnu|We're on the same wavelength.|C1
+get on sb's nerves|lézt někomu na nervy|His jokes get on my nerves.|B2
+take sb for granted|brát někoho jako samozřejmost|He takes his wife for granted.|C1
+let sb down|zklamat někoho|I won't let you down.|B2
+stand by sb|stát při někom|She stood by him through everything.|C1
+confide in|svěřit se|I confide in my best friend.|C1
+bear a grudge|chovat zášť|He still bears a grudge.|C1
+hold a grudge against|zanevřít na|Don't hold a grudge against him.|C1
+make up|usmířit se|They argued but made up quickly.|B2
+break up|rozejít se|They broke up last year.|B2
+settle down|usadit se|He wants to settle down and have kids.|B2
+tie the knot|vzít se|They tied the knot in June.|C1
+be head over heels|být bezhlavě zamilovaný|She's head over heels in love.|C1
+be over the moon|být v sedmém nebi|I'm over the moon about the news.|B2
+down in the dumps|skleslý, bez nálady|He's been down in the dumps lately.|C1
+on edge|nervózní, ve střehu|I've been on edge all day.|C1
+overwhelmed|zahlcený, přemožený|I feel overwhelmed by work.|B2
+devastated|zdrcený|She was devastated by the news.|B2
+resentful|plný zášti, zahořklý|He felt resentful about the decision.|C1
+envious|závistivý|I'm envious of her success.|C1
+apprehensive|obávající se|I'm apprehensive about the interview.|C1
+elated|nadšený, euforický|We were elated with the result.|C1
+content|spokojený|She seems content with her life.|C1
+heartbroken|se zlomeným srdcem|He was heartbroken when she left.|B2
+bottle up your feelings|dusit v sobě pocity|Don't bottle up your feelings.|C1
+lose your temper|ztratit nervy|I lost my temper with the kids.|B2
+keep your cool|zachovat klid|She kept her cool under pressure.|C1
+get sth off your chest|ulevit si (svěřit se)|I need to get this off my chest.|C1
+bond with|vytvořit si pouto s|Fathers bond with babies through play.|C1
+a shoulder to cry on|rameno, na kterém se lze vyplakat|She's always a shoulder to cry on.|C1
+supportive|oporou, podporující|My family is very supportive.|B2
+clingy|přehnaně závislý, přilnavý|He's a bit clingy.|C1
+look up to|vzhlížet k|I've always looked up to my aunt.|B2
+put up with|snášet, tolerovat|I don't know how she puts up with him.|B2
+get on well with|dobře vycházet s|I get on well with my boss.|B1+
+keep in touch|zůstat v kontaktu|Let's keep in touch.|B1+
+make friends|skamarádit se|It's easy to make friends here.|B1+
+argue about|hádat se o|They argue about money.|B1+
+apologise for|omluvit se za|He apologised for being late.|B1+
+be jealous of|žárlit na, závidět|She's jealous of her sister.|B1+
+be proud of|být hrdý na|I'm proud of you.|B1+
+be embarrassed|stydět se, být v rozpacích|I was so embarrassed.|B1+
+feel lonely|cítit se osaměle|He feels lonely since he moved.|B1+
+calm down|uklidnit se|Calm down and listen.|B1+

@@ -1,41 +1,51 @@
 #Health & body|Zdraví a tělo
-symptom|příznak|What are your symptoms?|B1
-headache|bolest hlavy|I've got a terrible headache.|A2
-sore throat|bolest v krku|I've got a sore throat and a cough.|B1
-temperature|teplota, horečka|She has a high temperature.|B1
-flu|chřipka|Half the office is off with flu.|B1
-injury|zranění|He had a knee injury.|B1
-injure|zranit|She injured her back playing tennis.|B1
-sprain|vymknout, podvrtnout|I sprained my ankle on the stairs.|B2
-bruise|modřina|I've got a big bruise on my leg.|B2
-prescription|recept (od lékaře)|You need a prescription for these pills.|B1
-painkiller|lék proti bolesti|Take a painkiller and rest.|B1
-recover|uzdravit se, zotavit se|It took him a month to recover.|B1
-get over|překonat (nemoc)|I'm still getting over a cold.|B2
-allergic to|alergický na|I'm allergic to cats.|B1
-appointment|objednání (k lékaři)|I've got a doctor's appointment at ten.|B1
-check-up|preventivní prohlídka|I go for a check-up once a year.|B2
-healthy diet|zdravá strava|A healthy diet is full of vegetables.|B1
-work out|cvičit (v posilovně)|I work out three times a week.|B1
-keep fit|udržovat se v kondici|Swimming is a great way to keep fit.|B1
-put on weight|přibrat|I put on weight over Christmas.|B1
-lose weight|zhubnout|He lost ten kilos.|B1
-stressed|ve stresu|I feel stressed before exams.|B1
-exhausted|vyčerpaný|I was exhausted after the run.|B1
-dizzy|mít závrať|I feel dizzy when I stand up.|B2
-sick leave|nemocenská|She's on sick leave this week.|B2
-surgery|operace; ordinace (BrE)|He had knee surgery last year.|B2
-treatment|léčba|The treatment was successful.|B1
-pharmacy|lékárna|Is there a pharmacy near here?|B1
-cough|kašel; kašlat|That cough sounds bad.|B1
-sneeze|kýchat|I can't stop sneezing.|B1
-heart attack|infarkt|He had a heart attack at 50.|B1
-blood pressure|krevní tlak|The nurse checked my blood pressure.|B1
-side effect|vedlejší účinek|Are there any side effects?|B2
-in good shape|v dobré kondici|She's in good shape for her age.|B1
-mental health|duševní zdraví|Sport is good for your mental health.|B2
-sleep deprivation|nedostatek spánku|Sleep deprivation affects concentration.|C1
-wellbeing|pohoda, blaho|Companies care more about employee wellbeing.|B2
-cut down on|omezit (něco)|I'm trying to cut down on sugar.|B2
-give up|přestat (s něčím), vzdát|He gave up smoking last year.|B1
-feel under the weather|necítit se dobře|I'm feeling a bit under the weather.|B2
+come down with|onemocnět (něčím)|I think I'm coming down with flu.|B2
+be run-down|být vyčerpaný, oslabený|You look run-down – take a break.|C1
+pass out|omdlít|He passed out in the heat.|B2
+come round|přijít k sobě|She came round in the ambulance.|C1
+throw up|zvracet|The child threw up in the car.|B2
+pull a muscle|natáhnout si sval|I pulled a muscle at the gym.|B2
+dislocate|vykloubit|He dislocated his shoulder.|C1
+fracture|zlomenina; zlomit|She fractured her wrist.|B2
+swollen|oteklý|My ankle is swollen.|B2
+itchy|svědivý|This rash is really itchy.|B2
+rash|vyrážka|I've got a rash on my arm.|B2
+chronic|chronický|He suffers from chronic back pain.|C1
+contagious|nakažlivý|Is it contagious?|B2
+immune system|imunitní systém|Stress weakens the immune system.|B2
+side effects|vedlejší účinky|The drug has few side effects.|B2
+over-the-counter|volně prodejný (lék)|You can buy it over the counter.|C1
+GP|praktický lékař|You should see your GP.|B2
+be on the mend|uzdravovat se|He's been ill, but he's on the mend.|C1
+make a full recovery|úplně se uzdravit|Doctors expect her to make a full recovery.|B2
+be fighting fit|být ve skvělé kondici|After the holiday I'm fighting fit.|C1
+as fit as a fiddle|zdravý jako řípa|My grandad is as fit as a fiddle.|C1
+under the weather|není mi dobře|I'm feeling a bit under the weather.|B2
+a splitting headache|třeštění hlavy|I've got a splitting headache.|C1
+sedentary lifestyle|sedavý způsob života|A sedentary lifestyle is bad for your heart.|C1
+burn calories|spalovat kalorie|Swimming burns a lot of calories.|B2
+cut down on|omezit|I'm cutting down on sugar.|B2
+cut out|úplně vyřadit|I've cut out alcohol completely.|B2
+balanced diet|vyvážená strava|Eat a balanced diet.|B2
+work up a sweat|zpotit se|We worked up a sweat on the hike.|C1
+get your strength back|nabrat síly|It took weeks to get my strength back.|B2
+insomnia|nespavost|She suffers from insomnia.|C1
+toss and turn|převalovat se (ze strany na stranu)|I tossed and turned all night.|C1
+anxiety|úzkost|Exercise can reduce anxiety.|B2
+burnout|vyhoření|Long hours led to burnout.|B2
+well-being|duševní a tělesná pohoda|Sleep is vital for well-being.|C1
+check-up|preventivní prohlídka|I'm going for a check-up.|B2
+take your blood pressure|změřit tlak|The nurse took my blood pressure.|B2
+be prone to|mít sklon k|I'm prone to headaches.|C1
+life expectancy|očekávaná délka života|Life expectancy has risen.|C1
+get a jab|dostat injekci, očkování|I got my flu jab yesterday.|C1
+catch a cold|nachladit se|I caught a cold at the weekend.|B1+
+have a temperature|mít teplotu|The child has a temperature.|B1+
+get over an illness|vyléčit se z nemoci|She's getting over the flu.|B1+
+sprain your ankle|vymknout si kotník|I sprained my ankle running.|B1+
+make an appointment|objednat se|I made an appointment with the dentist.|B1+
+prescription|recept (lékařský)|You need a prescription for this.|B1+
+be allergic to|být alergický na|I'm allergic to nuts.|B1+
+keep fit|udržovat se v kondici|I swim to keep fit.|B1+
+get enough sleep|dostatečně se vyspat|Make sure you get enough sleep.|B1+
+put on weight|přibrat|I've put on weight this winter.|B1+

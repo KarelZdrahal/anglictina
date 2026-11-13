@@ -2,273 +2,189 @@
 "id": "pack16",
 "topic": "City & transport",
 "topic_cz": "Město a doprava",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b16-traffic-jam",
-"en": "traffic jam",
-"cz": "dopravní zácpa",
-"ex": "We were stuck in a traffic jam.",
-"level": "B1"
+"id": "b16-gridlock",
+"en": "gridlock",
+"cz": "dopravní kolaps",
+"ex": "The city was in total gridlock.",
+"level": "C1"
+},
+{
+"id": "b16-bumper-to-bumper",
+"en": "bumper-to-bumper",
+"cz": "nárazník na nárazník",
+"ex": "Traffic was bumper-to-bumper.",
+"level": "C1"
+},
+{
+"id": "b16-congestion-charge",
+"en": "congestion charge",
+"cz": "poplatek za vjezd do centra",
+"ex": "London has a congestion charge.",
+"level": "C1"
 },
 {
 "id": "b16-rush-hour",
 "en": "rush hour",
 "cz": "dopravní špička",
-"ex": "Avoid the metro during rush hour.",
-"level": "B1"
-},
-{
-"id": "b16-public-transport",
-"en": "public transport",
-"cz": "veřejná doprava",
-"ex": "Public transport in Prague is excellent.",
-"level": "B1"
-},
-{
-"id": "b16-pedestrian",
-"en": "pedestrian",
-"cz": "chodec",
-"ex": "This street is for pedestrians only.",
+"ex": "Avoid the rush hour.",
 "level": "B2"
 },
 {
-"id": "b16-crossroads",
-"en": "crossroads",
-"cz": "křižovatka",
-"ex": "Turn left at the crossroads.",
-"level": "B1"
-},
-{
-"id": "b16-traffic-lights",
-"en": "traffic lights",
-"cz": "semafor",
-"ex": "Stop at the traffic lights.",
-"level": "A2"
-},
-{
-"id": "b16-roundabout",
-"en": "roundabout",
-"cz": "kruhový objezd",
-"ex": "Take the second exit at the roundabout.",
+"id": "b16-commute",
+"en": "commute",
+"cz": "dojíždět; dojíždění",
+"ex": "My commute takes an hour.",
 "level": "B2"
 },
 {
-"id": "b16-pavement",
-"en": "pavement",
-"cz": "chodník",
-"ex": "Don't ride your bike on the pavement.",
-"level": "B1"
+"id": "b16-packed-like-sardines",
+"en": "packed like sardines",
+"cz": "namačkaní jako sardinky",
+"ex": "We were packed like sardines on the train.",
+"level": "C1"
 },
 {
-"id": "b16-cycle-lane",
-"en": "cycle lane",
-"cz": "cyklostezka (ve městě)",
-"ex": "The city has built new cycle lanes.",
+"id": "b16-a-hold-up",
+"en": "a hold-up",
+"cz": "zdržení",
+"ex": "There's a hold-up on the motorway.",
+"level": "C1"
+},
+{
+"id": "b16-a-diversion",
+"en": "a diversion",
+"cz": "objížďka",
+"ex": "Follow the diversion signs.",
+"level": "C1"
+},
+{
+"id": "b16-roadworks",
+"en": "roadworks",
+"cz": "práce na silnici",
+"ex": "There are roadworks on the bridge.",
 "level": "B2"
 },
 {
-"id": "b16-parking-space",
-"en": "parking space",
-"cz": "parkovací místo",
-"ex": "I couldn't find a parking space.",
-"level": "B1"
-},
-{
-"id": "b16-get-on",
-"en": "get on",
-"cz": "nastoupit",
-"ex": "Get on the bus at the main station.",
-"level": "A2"
-},
-{
-"id": "b16-get-off",
-"en": "get off",
-"cz": "vystoupit",
-"ex": "Get off at the next stop.",
-"level": "A2"
-},
-{
-"id": "b16-change-trains",
-"en": "change trains",
-"cz": "přestoupit (na vlak)",
-"ex": "You have to change trains in Brno.",
-"level": "B1"
-},
-{
-"id": "b16-platform",
-"en": "platform",
-"cz": "nástupiště",
-"ex": "The train leaves from platform 4.",
-"level": "B1"
-},
-{
-"id": "b16-timetable",
-"en": "timetable",
-"cz": "jízdní řád",
-"ex": "Check the bus timetable online.",
-"level": "B1"
-},
-{
-"id": "b16-fare",
-"en": "fare",
-"cz": "jízdné",
-"ex": "Bus fares went up again.",
+"id": "b16-pull-over",
+"en": "pull over",
+"cz": "zastavit u kraje",
+"ex": "The police told him to pull over.",
 "level": "B2"
 },
 {
-"id": "b16-season-ticket",
-"en": "season ticket",
-"cz": "časová jízdenka",
-"ex": "I've got a monthly season ticket.",
+"id": "b16-pull-out",
+"en": "pull out",
+"cz": "vyjet (z řady)",
+"ex": "A car pulled out in front of me.",
+"level": "C1"
+},
+{
+"id": "b16-run-a-red-light",
+"en": "run a red light",
+"cz": "projet na červenou",
+"ex": "He ran a red light.",
+"level": "C1"
+},
+{
+"id": "b16-speed-camera",
+"en": "speed camera",
+"cz": "radar",
+"ex": "I was caught by a speed camera.",
 "level": "B2"
 },
 {
-"id": "b16-commuter",
-"en": "commuter",
-"cz": "dojíždějící",
-"ex": "The train is full of commuters.",
-"level": "B2"
+"id": "b16-penalty-points",
+"en": "penalty points",
+"cz": "trestné body",
+"ex": "I got three penalty points.",
+"level": "C1"
 },
 {
-"id": "b16-give-sb-a-lift",
-"en": "give sb a lift",
-"cz": "svézt někoho",
-"ex": "Can you give me a lift to the station?",
-"level": "B1"
+"id": "b16-pedestrianised",
+"en": "pedestrianised",
+"cz": "pěší (zóna)",
+"ex": "The centre is pedestrianised.",
+"level": "C1"
 },
 {
-"id": "b16-pick-sb-up",
-"en": "pick sb up",
-"cz": "vyzvednout někoho",
-"ex": "I'll pick you up at seven.",
-"level": "B1"
+"id": "b16-urban-sprawl",
+"en": "urban sprawl",
+"cz": "nekontrolované rozrůstání města",
+"ex": "Urban sprawl destroys the countryside.",
+"level": "C1"
 },
 {
-"id": "b16-drop-sb-off",
-"en": "drop sb off",
-"cz": "vysadit někoho",
-"ex": "Can you drop me off at the corner?",
-"level": "B2"
-},
-{
-"id": "b16-break-down",
-"en": "break down",
-"cz": "porouchat se",
-"ex": "Our car broke down on the motorway.",
-"level": "B1"
-},
-{
-"id": "b16-motorway",
-"en": "motorway",
-"cz": "dálnice",
-"ex": "Take the motorway to Brno.",
-"level": "B1"
-},
-{
-"id": "b16-speed-limit",
-"en": "speed limit",
-"cz": "rychlostní limit",
-"ex": "The speed limit here is 50.",
-"level": "B1"
-},
-{
-"id": "b16-driving-licence",
-"en": "driving licence",
-"cz": "řidičský průkaz",
-"ex": "I got my driving licence at 18.",
-"level": "B1"
-},
-{
-"id": "b16-town-hall",
-"en": "town hall",
-"cz": "radnice",
-"ex": "The town hall is in the main square.",
-"level": "B1"
-},
-{
-"id": "b16-square",
-"en": "square",
-"cz": "náměstí",
-"ex": "Let's meet in the square.",
-"level": "A2"
+"id": "b16-inner-city",
+"en": "inner city",
+"cz": "chudší centrální čtvrti",
+"ex": "Inner-city schools need more money.",
+"level": "C1"
 },
 {
 "id": "b16-outskirts",
 "en": "outskirts",
-"cz": "okraj (města)",
-"ex": "They live on the outskirts of Prague.",
+"cz": "okraj města",
+"ex": "They live on the outskirts.",
 "level": "B2"
 },
 {
-"id": "b16-crowded",
-"en": "crowded",
-"cz": "přeplněný",
-"ex": "The tram was very crowded.",
-"level": "B1"
+"id": "b16-built-up-area",
+"en": "built-up area",
+"cz": "zastavěná oblast",
+"ex": "The speed limit in built-up areas is 50.",
+"level": "C1"
 },
 {
-"id": "b16-lively",
-"en": "lively",
-"cz": "živý, rušný",
-"ex": "It's a lively area with lots of bars.",
-"level": "B2"
+"id": "b16-vibrant",
+"en": "vibrant",
+"cz": "živý, pulzující",
+"ex": "It's a vibrant neighbourhood.",
+"level": "C1"
 },
 {
 "id": "b16-run-down",
 "en": "run-down",
-"cz": "zchátralý",
-"ex": "It used to be a run-down area.",
+"cz": "zanedbaný",
+"ex": "The station area is run-down.",
+"level": "B2"
+},
+{
+"id": "b16-up-market",
+"en": "up-market",
+"cz": "luxusní",
+"ex": "It's an up-market area.",
 "level": "C1"
 },
 {
-"id": "b16-residential-area",
-"en": "residential area",
-"cz": "obytná čtvrť",
-"ex": "This is a quiet residential area.",
-"level": "B2"
+"id": "b16-the-hustle-and-bustle",
+"en": "the hustle and bustle",
+"cz": "ruch a shon",
+"ex": "I miss the hustle and bustle of the city.",
+"level": "C1"
 },
 {
-"id": "b16-underground",
-"en": "underground",
-"cz": "metro (BrE)",
-"ex": "Take the underground to the centre.",
-"level": "B1"
+"id": "b16-amenities",
+"en": "amenities",
+"cz": "vybavenost (obchody, služby)",
+"ex": "The area has good amenities.",
+"level": "C1"
 },
 {
-"id": "b16-taxi-rank",
-"en": "taxi rank",
-"cz": "stanoviště taxi",
-"ex": "The taxi rank is outside the station.",
-"level": "B2"
+"id": "b16-infrastructure",
+"en": "infrastructure",
+"cz": "infrastruktura",
+"ex": "The city needs better infrastructure.",
+"level": "C1"
 },
 {
-"id": "b16-get-lost",
-"en": "get lost",
-"cz": "zabloudit",
-"ex": "We got lost in the old town.",
-"level": "B1"
-},
-{
-"id": "b16-directions",
-"en": "directions",
-"cz": "popis cesty",
-"ex": "Can you give me directions to the museum?",
-"level": "B1"
-},
-{
-"id": "b16-go-straight-on",
-"en": "go straight on",
-"cz": "jít rovně",
-"ex": "Go straight on and turn right.",
-"level": "A2"
-},
-{
-"id": "b16-opposite",
-"en": "opposite",
-"cz": "naproti",
-"ex": "The bank is opposite the post office.",
-"level": "A2"
+"id": "b16-car-sharing",
+"en": "car-sharing",
+"cz": "sdílení aut",
+"ex": "Car-sharing is popular in Prague.",
+"level": "C1"
 },
 {
 "id": "b16-within-walking-distance",
@@ -278,11 +194,165 @@
 "level": "B2"
 },
 {
-"id": "b16-congestion",
-"en": "congestion",
-"cz": "přetížení dopravy",
-"ex": "Congestion is a big problem in the centre.",
+"id": "b16-miss-the-connection",
+"en": "miss the connection",
+"cz": "nestihnout přípoj",
+"ex": "We missed our connection in Vienna.",
+"level": "B2"
+},
+{
+"id": "b16-get-stuck-in-traffic",
+"en": "get stuck in traffic",
+"cz": "uvíznout v zácpě",
+"ex": "I got stuck in traffic.",
+"level": "B2"
+},
+{
+"id": "b16-hail-a-taxi",
+"en": "hail a taxi",
+"cz": "mávnout na taxi",
+"ex": "She hailed a taxi.",
 "level": "C1"
+},
+{
+"id": "b16-give-sb-a-lift",
+"en": "give sb a lift",
+"cz": "svézt někoho",
+"ex": "Can you give me a lift?",
+"level": "B2"
+},
+{
+"id": "b16-drop-sb-off",
+"en": "drop sb off",
+"cz": "vysadit někoho",
+"ex": "Drop me off at the station.",
+"level": "B2"
+},
+{
+"id": "b16-pick-sb-up",
+"en": "pick sb up",
+"cz": "vyzvednout někoho",
+"ex": "I'll pick you up at six.",
+"level": "B2"
+},
+{
+"id": "b16-off-peak",
+"en": "off-peak",
+"cz": "mimo špičku",
+"ex": "Off-peak tickets are cheaper.",
+"level": "C1"
+},
+{
+"id": "b16-season-ticket",
+"en": "season ticket",
+"cz": "časová jízdenka",
+"ex": "I bought an annual season ticket.",
+"level": "B2"
+},
+{
+"id": "b16-cycle-friendly",
+"en": "cycle-friendly",
+"cz": "vstřícný k cyklistům",
+"ex": "Amsterdam is very cycle-friendly.",
+"level": "C1"
+},
+{
+"id": "b16-road-rage",
+"en": "road rage",
+"cz": "agresivita za volantem",
+"ex": "Road rage is a growing problem.",
+"level": "C1"
+},
+{
+"id": "b16-a-near-miss",
+"en": "a near miss",
+"cz": "těsně odvrácená nehoda",
+"ex": "We had a near miss at the junction.",
+"level": "C1"
+},
+{
+"id": "b16-noise-pollution",
+"en": "noise pollution",
+"cz": "hlukové znečištění",
+"ex": "Noise pollution affects sleep.",
+"level": "C1"
+},
+{
+"id": "b16-the-concrete-jungle",
+"en": "the concrete jungle",
+"cz": "betonová džungle",
+"ex": "I need to escape the concrete jungle.",
+"level": "C1"
+},
+{
+"id": "b16-public-transport",
+"en": "public transport",
+"cz": "veřejná doprava",
+"ex": "Public transport here is great.",
+"level": "B1+"
+},
+{
+"id": "b16-a-traffic-jam",
+"en": "a traffic jam",
+"cz": "dopravní zácpa",
+"ex": "We were stuck in a traffic jam.",
+"level": "B1+"
+},
+{
+"id": "b16-a-parking-space",
+"en": "a parking space",
+"cz": "parkovací místo",
+"ex": "I can't find a parking space.",
+"level": "B1+"
+},
+{
+"id": "b16-get-on",
+"en": "get on",
+"cz": "nastoupit",
+"ex": "Get on the bus here.",
+"level": "B1+"
+},
+{
+"id": "b16-get-off",
+"en": "get off",
+"cz": "vystoupit",
+"ex": "Get off at the next stop.",
+"level": "B1+"
+},
+{
+"id": "b16-change-trains",
+"en": "change trains",
+"cz": "přestoupit",
+"ex": "Change trains in Brno.",
+"level": "B1+"
+},
+{
+"id": "b16-a-pedestrian-zone",
+"en": "a pedestrian zone",
+"cz": "pěší zóna",
+"ex": "The square is a pedestrian zone.",
+"level": "B1+"
+},
+{
+"id": "b16-a-crossroads",
+"en": "a crossroads",
+"cz": "křižovatka",
+"ex": "Turn left at the crossroads.",
+"level": "B1+"
+},
+{
+"id": "b16-ask-for-directions",
+"en": "ask for directions",
+"cz": "zeptat se na cestu",
+"ex": "Let's ask for directions.",
+"level": "B1+"
+},
+{
+"id": "b16-crowded",
+"en": "crowded",
+"cz": "přeplněný",
+"ex": "The tram was very crowded.",
+"level": "B1+"
 }
 ]
 }

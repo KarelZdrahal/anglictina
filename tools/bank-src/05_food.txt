@@ -1,41 +1,51 @@
 #Food & cooking|Jídlo a vaření
-recipe|recept (na vaření)|Can you send me the recipe?|B1
-ingredient|surovina, přísada|You only need four ingredients.|B1
-boil|vařit (ve vodě)|Boil the pasta for ten minutes.|B1
-fry|smažit|Fry the onions in a little oil.|B1
-roast|péct (maso, zeleninu)|We roasted a chicken for Sunday lunch.|B1
-bake|péct (pečivo)|My grandma bakes amazing cakes.|B1
-grill|grilovat|Let's grill some fish.|B1
-chop|nakrájet|Chop the vegetables into small pieces.|B1
-peel|loupat|Peel the potatoes first.|B1
-stir|míchat|Stir the soup from time to time.|B1
-season|ochutit, okořenit|Season with salt and pepper.|B2
-spicy|pálivý, kořeněný|I love spicy food.|B1
-bland|bez chuti, mdlý|The soup was a bit bland.|B2
-tasty|chutný|That was a really tasty meal.|B1
-raw|syrový|Sushi contains raw fish.|B1
-rare|krvavý (steak)|I like my steak rare.|B2
-leftovers|zbytky jídla|We had leftovers for lunch.|B2
-portion|porce|The portions were huge.|B1
-starter|předkrm|Would you like a starter?|B1
-main course|hlavní chod|For the main course I'll have the fish.|B1
-dessert|dezert|Let's skip dessert.|A2
-vegetarian|vegetarián(ský)|Do you have any vegetarian dishes?|B1
-vegan|vegan(ský)|She's been vegan for two years.|B1
-dairy products|mléčné výrobky|I avoid dairy products.|B2
-gluten-free|bezlepkový|They have gluten-free bread.|B2
-homemade|domácí (vyrobený doma)|This jam is homemade.|B1
-takeaway|jídlo s sebou|Let's get a takeaway tonight.|B1
-book a table|zarezervovat stůl|I've booked a table for eight.|B1
-tip|spropitné|Is the tip included?|B1
-the bill, please|zaplatím, prosím|Could we have the bill, please?|A2
-mouth-watering|lákavý, sbíhají se sliny|The smell was mouth-watering.|C1
-overcooked|převařený, připálený|The vegetables were overcooked.|B2
-frozen|mražený|I always keep frozen peas.|B1
-fresh|čerstvý|Buy fresh vegetables at the market.|A2
-snack|svačina, něco malého k jídlu|I had a snack at eleven.|B1
-diet|strava; dieta|She's on a diet.|B1
-nutritious|výživný|Lentils are cheap and nutritious.|C1
-craving|chuť (na něco)|I've got a craving for chocolate.|C1
-cuisine|kuchyně (styl vaření)|I love Thai cuisine.|B2
-eat out|jíst venku (v restauraci)|We eat out once a week.|B1
+mouth-watering|lákavý, sbíhají se sliny|The smell from the kitchen was mouth-watering.|C1
+bland|mdlý, bez chuti|The sauce is a bit bland.|B2
+stodgy|těžký, sytý (jídlo)|English school food used to be stodgy.|C1
+greasy|mastný|I don't like greasy chips.|B2
+savoury|slaný, pikantní (ne sladký)|I prefer savoury snacks to sweets.|B2
+moreish|návykový (jídlo, že chcete víc)|These crisps are really moreish.|C1
+overcooked|převařený|The pasta was overcooked.|B2
+undercooked|nedovařený|The chicken was undercooked.|B2
+simmer|nechat mírně vařit|Let the soup simmer for 20 minutes.|C1
+whisk|šlehat|Whisk the eggs and sugar.|B2
+marinate|marinovat|Marinate the meat overnight.|B2
+drizzle|pokapat|Drizzle with olive oil.|C1
+sprinkle|posypat|Sprinkle with cheese.|B2
+grate|nastrouhat|Grate some parmesan.|B2
+knead|hníst|Knead the dough for ten minutes.|C1
+leftovers|zbytky jídla|We'll have the leftovers tomorrow.|B2
+be starving|umírat hlady|I'm starving – let's eat.|B2
+be full up|být najedený|No dessert, thanks – I'm full up.|B2
+have a sweet tooth|mít rád sladké|I've got a real sweet tooth.|B2
+grab a bite|rychle něco sníst|Let's grab a bite before the film.|C1
+eat like a horse|jíst za dva|My teenage son eats like a horse.|C1
+pick at your food|nimrat se v jídle|She just picked at her food.|C1
+wolf down|zhltnout|He wolfed down his lunch.|C1
+a staple food|základní potravina|Rice is a staple food in Asia.|C1
+processed food|průmyslově zpracované potraviny|Avoid processed food.|B2
+additives|přídatné látky|It's full of additives.|C1
+locally sourced|z místních zdrojů|We use locally sourced ingredients.|C1
+home-grown|vypěstovaný doma|These are home-grown tomatoes.|B2
+a three-course meal|tříchodové menu|We had a three-course meal.|B2
+signature dish|specialita podniku|The chef's signature dish is duck.|C1
+pop out for|odskočit si pro|I'm popping out for some milk.|B2
+food poisoning|otrava jídlem|I got food poisoning from the prawns.|B2
+binge|přejídat se|I binged on chocolate all weekend.|C1
+a balanced meal|vyvážené jídlo|Try to eat a balanced meal.|B2
+be an acquired taste|chuť, kterou si člověk musí oblíbit|Blue cheese is an acquired taste.|C1
+dig in|pustit se do jídla|Dinner's ready – dig in!|B2
+to die for|vynikající, k zbláznění|Her chocolate cake is to die for.|C1
+cut back on|omezit (spotřebu)|I'm cutting back on meat.|B2
+nibble|uzobávat|We nibbled on olives.|C1
+a doggy bag|krabička na zbytky z restaurace|Can we have a doggy bag?|C1
+a takeaway|jídlo s sebou|Let's order a takeaway.|B1+
+eat out|jíst venku|We eat out every Friday.|B1+
+book a table|zarezervovat stůl|I've booked a table for four.|B1+
+the main course|hlavní chod|What would you like for the main course?|B1+
+a recipe|recept (kuchařský)|Can I have the recipe?|B1+
+an ingredient|surovina|You only need five ingredients.|B1+
+homemade|domácí|Everything here is homemade.|B1+
+spicy|pálivý|Is the curry very spicy?|B1+
+go off|zkazit se|The milk has gone off.|B1+
+skip a meal|vynechat jídlo|Don't skip breakfast.|B1+

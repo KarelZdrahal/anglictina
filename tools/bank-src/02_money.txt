@@ -1,41 +1,51 @@
 #Money & finance|Peníze a finance
-afford|dovolit si (finančně)|We can't afford a new car.|B1
-save up|šetřit (na něco)|I'm saving up for a holiday.|B1
-borrow|půjčit si|Can I borrow ten euros?|B1
-lend|půjčit (někomu)|Could you lend me your bike?|B1
-owe|dlužit|I owe you a coffee.|B1
-debt|dluh|They are trying to pay off their debts.|B1
-loan|půjčka, úvěr|We took out a loan to buy the flat.|B1
-mortgage|hypotéka|Our mortgage lasts thirty years.|B2
-interest rate|úroková sazba|Interest rates went up again.|B2
-budget|rozpočet|We need to stick to our budget.|B1
-expenses|výdaje|Living expenses in the city are high.|B1
-income|příjem|Their monthly income is quite low.|B1
-cash|hotovost|Do you pay in cash or by card?|B1
-withdraw money|vybrat peníze|I need to withdraw some money from the ATM.|B1
-bank account|bankovní účet|I opened a new bank account.|B1
-transfer|převod; převést|I'll transfer the money tomorrow.|B1
-receipt|účtenka|Keep the receipt in case you want to return it.|B1
-refund|vrácení peněz|I asked for a refund.|B1
-bargain|výhodná koupě|This jacket was a real bargain.|B1
-discount|sleva|Students get a 20% discount.|B1
-expensive|drahý|London is an expensive city.|A2
-overpriced|předražený|The drinks at the festival were overpriced.|B2
-cheap|levný|The food there is cheap and good.|A2
-waste money on|vyhazovat peníze za|Don't waste money on things you don't need.|B1
-invest|investovat|He invested his savings in property.|B2
-savings|úspory|They spent all their savings on the house.|B1
-pension|důchod (peníze)|Will our pension be enough?|B2
-tax|daň|You have to pay tax on your income.|B1
-bill|účet (k zaplacení)|Have you paid the electricity bill?|B1
-pay off|splatit|It took ten years to pay off the loan.|B2
-be broke|být bez peněz|I'm broke until payday.|B2
-well-off|zámožný|Her family is quite well-off.|B2
-cost of living|životní náklady|The cost of living keeps rising.|B2
-currency|měna|What's the local currency in Croatia?|B1
-exchange rate|směnný kurz|The exchange rate is good at the moment.|B2
-coin|mince|I've got some coins for the parking machine.|A2
-wallet|peněženka|I've lost my wallet!|A2
-charge|účtovat (si)|They charged us 50 euros for delivery.|B1
-fee|poplatek|There's no fee for using this card abroad.|B2
-make ends meet|vyjít s penězi|Many families struggle to make ends meet.|C1
+be strapped for cash|být na suchu|I'm a bit strapped for cash this month.|C1
+tighten your belt|utáhnout opasky|We'll have to tighten our belts.|B2
+splash out on|rozšoupnout se, utratit hodně za|We splashed out on a new sofa.|C1
+live beyond your means|žít nad poměry|They've been living beyond their means for years.|C1
+make ends meet|vyjít s penězi|It's hard to make ends meet on one salary.|B2
+run up a debt|nadělat dluhy|He ran up huge debts on his credit card.|C1
+be in the red|být v mínusu|My account is in the red again.|B2
+be in the black|být v plusu|The company is finally in the black.|C1
+overdraft|přečerpání účtu|I have an overdraft of 500 euros.|B2
+down payment|záloha, akontace|We made a down payment on the house.|B2
+instalment|splátka|You can pay in monthly instalments.|B2
+take out a loan|vzít si půjčku|We took out a loan for the car.|B2
+pay off a mortgage|splatit hypotéku|They paid off their mortgage early.|B2
+interest-free|bezúročný|It's an interest-free loan.|B2
+frugal|šetrný, skromný|My grandparents lead a frugal life.|C1
+thrifty|spořivý|She's very thrifty and never wastes money.|C1
+extravagant|marnotratný, rozhazovačný|That was an extravagant gift.|C1
+lucrative|výnosný, lukrativní|It's a very lucrative business.|C1
+squander|promrhat|He squandered his inheritance.|C1
+nest egg|úspory (na horší časy)|We've built up a nice nest egg.|C1
+windfall|nečekaný zisk|The tax refund was a nice windfall.|C1
+a rainy day|horší časy|Save some money for a rainy day.|B2
+cost a fortune|stát majlant|The repairs cost a fortune.|B2
+foot the bill|zaplatit účet|Who's going to foot the bill?|C1
+chip in|složit se|We all chipped in for her present.|B2
+go Dutch|zaplatit každý za sebe|Let's go Dutch tonight.|C1
+haggle|smlouvat|You can haggle at the market.|B2
+rip sb off|okrást, natáhnout někoho|The taxi driver ripped us off.|B2
+a steal|za babku, skvělá koupě|At this price it's a steal.|B2
+budget for|počítat s (výdajem)|We didn't budget for repairs.|B2
+inflation|inflace|Inflation is eating into our savings.|B2
+recession|recese|The country is in recession.|B2
+shareholder|akcionář|The shareholders approved the merger.|C1
+stock market|akciový trh|The stock market crashed.|B2
+hard-earned money|těžce vydělané peníze|Don't waste your hard-earned money.|B2
+disposable income|disponibilní příjem|People have less disposable income now.|C1
+tax return|daňové přiznání|I need to file my tax return.|B2
+financially independent|finančně nezávislý|She became financially independent at 25.|B2
+spending spree|nákupní horečka|She went on a spending spree in Milan.|C1
+money is tight|je málo peněz|Money is tight at the moment.|B2
+save up for|šetřit na|We're saving up for a new car.|B1+
+waste money on|vyhazovat peníze za|Don't waste money on junk food.|B1+
+can't afford|nemoci si dovolit|We can't afford a holiday this year.|B1+
+pay back|splatit, vrátit (peníze)|I'll pay you back on Friday.|B1+
+lend sb money|půjčit někomu peníze|Could you lend me some money?|B1+
+withdraw cash|vybrat hotovost|I need to withdraw some cash.|B1+
+be worth it|stát za to|It was expensive, but it was worth it.|B1+
+live on|vyžít z|They live on one salary.|B1+
+cost of living|životní náklady|The cost of living keeps rising.|B1+
+pocket money|kapesné|How much pocket money do your kids get?|B1+

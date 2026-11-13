@@ -3,24 +3,24 @@
  "start": "2026-11-12",
  "weekday": "čtvrtek (lekce se generuje a studuje ve čtvrtek; lekce 1 vydána předem 8. 11. 2026)",
  "level_in": "B1",
- "level_out": "B1+",
+ "level_out": "B1+ (s přesahem do B2)",
  "learners": 2,
  "quarters": {
   "1": {
    "title": "Everyday life & experiences",
-   "focus": "Upevnění základů B1: časy, budoucnost, kvantifikátory, modální slovesa"
+   "focus": "Krátké opakování B1 časů; rozšíření o zvyky, vyprávěcí časy, budoucí tvary, pravděpodobnost"
   },
   "2": {
    "title": "Stories, choices & the world around us",
-   "focus": "Vyprávění, podmínky, trpný rod, vztažné věty, nepřímá řeč"
+   "focus": "Krátké opakování B1 kondicionálů a trpného rodu; rozšíření o slovesné vazby, uvozovací slovesa, frázová slovesa"
   },
   "3": {
    "title": "Reflections & opinions",
-   "focus": "Přechod k B1+: 3. kondicionál, wish, dedukce v minulosti, argumentace"
+   "focus": "B1+: 3. a smíšené kondicionály, wish, dedukce v minulosti, spojovací výrazy, argumentace"
   },
   "4": {
    "title": "Fluency & precision",
-   "focus": "B1+: přesnost a plynulost, pokročilé struktury, souhrnné opakování"
+   "focus": "B1+ až B2: přesnost a plynulost, příčestné vazby, důraz, závislé předložky"
   }
  },
  "weeks": [
@@ -34,7 +34,8 @@
    "grammar": "Present simple vs present continuous; stavová slovesa (know, like, seem…)",
    "vocabulary": "Přídavná jména povahy; předpony un-/in-/dis-/im-",
    "function": "Small talk, představování se a ostatních",
-   "skill": "Čtení: profilový článek"
+   "skill": "Čtení: profilový článek",
+   "review_b1": "Přítomné časy (vstupní opakování)"
   },
   {
    "week": 2,
@@ -43,10 +44,11 @@
    "type": "lesson",
    "topic_en": "Work & daily routines",
    "topic_cz": "Práce a denní režim",
-   "grammar": "Vyjádření zvyků: usually, tend to, will (zvyk); příslovce frekvence",
-   "vocabulary": "Pracovní slovník; kolokace s make/do",
+   "grammar": "Zvyky a sklony: tend to, be inclined to, keep (on) doing, will/would pro zvyk, otravné zvyky (be always -ing)",
+   "vocabulary": "Kolokace práce (meet a deadline, take on, workload); make/do pro pokročilé",
    "function": "Mluvení o tom, co mám a nemám rád",
-   "skill": "Psaní: neformální e-mail"
+   "skill": "Psaní: neformální e-mail",
+   "review_b1": "Present simple vs continuous, příslovce frekvence"
   },
   {
    "week": 3,
@@ -55,10 +57,11 @@
    "type": "lesson",
    "topic_en": "Travel experiences",
    "topic_cz": "Zážitky z cestování",
-   "grammar": "Present perfect vs past simple (ever, never, just, already, yet)",
-   "vocabulary": "Cestování, doprava, letiště",
+   "grammar": "Present perfect continuous vs simple; It's the first time I've…; by now, so far, lately",
+   "vocabulary": "Cestování: itinerary, off the beaten track, jet lag; frázová slovesa (set off, check in, stop over)",
    "function": "Vyprávění o zážitku",
-   "skill": "Poslech: cestovatelské historky"
+   "skill": "Poslech: cestovatelské historky",
+   "review_b1": "Present perfect vs past simple"
   },
   {
    "week": 4,
@@ -67,10 +70,11 @@
    "type": "lesson",
    "topic_en": "Life stories",
    "topic_cz": "Životní příběhy",
-   "grammar": "Past simple vs past continuous; when / while / as",
-   "vocabulary": "Životní události, časové výrazy",
+   "grammar": "Vyprávěcí časy: past perfect simple a continuous; časové spojky (by the time, no sooner… than, as soon as)",
+   "vocabulary": "Životní události a milníky; kolokace (settle down, make a fresh start, come of age)",
    "function": "Vyprávění příběhu, projevování zájmu",
-   "skill": "Čtení: životopis"
+   "skill": "Čtení: životopis",
+   "review_b1": "Past simple vs past continuous"
   },
   {
    "week": 5,
@@ -79,10 +83,11 @@
    "type": "lesson",
    "topic_en": "Then and now",
    "topic_cz": "Dřív a dnes",
-   "grammar": "used to / would / past simple",
-   "vocabulary": "Dětství, školní vzpomínky",
+   "grammar": "would vs used to; be / get used to; změny v čase (gradually, no longer, any more)",
+   "vocabulary": "Změny a nostalgie: look back on, grow out of, bring back memories",
    "function": "Srovnávání minulosti a současnosti",
-   "skill": "Mluvení: popis fotografie"
+   "skill": "Mluvení: popis fotografie",
+   "review_b1": "used to"
   },
   {
    "week": 6,
@@ -91,10 +96,11 @@
    "type": "review",
    "topic_en": "Review 1",
    "topic_cz": "Opakování 1",
-   "grammar": "Opakování lekcí 1–5",
+   "grammar": "Upevnění rozšiřujících struktur 2–5",
    "vocabulary": "Opakování slovní zásoby 1–5",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 1–5 (B1)"
   },
   {
    "week": 7,
@@ -103,10 +109,11 @@
    "type": "lesson",
    "topic_en": "Celebrations & traditions",
    "topic_cz": "Svátky a tradice",
-   "grammar": "Budoucí čas: will, going to, present continuous",
-   "vocabulary": "Svátky, Vánoce a Nový rok, zvyky",
+   "grammar": "Pokročilé budoucí tvary: be about to, be due to, be set to, future continuous",
+   "vocabulary": "Svátky a tradice: customs, observe, mark an occasion, festive season",
    "function": "Pozvání, přijetí a odmítnutí",
-   "skill": "Čtení: tradice ve světě"
+   "skill": "Čtení: tradice ve světě",
+   "review_b1": "will / going to / present continuous"
   },
   {
    "week": 8,
@@ -115,10 +122,11 @@
    "type": "lesson",
    "topic_en": "Resolutions & goals",
    "topic_cz": "Předsevzetí a cíle",
-   "grammar": "might / may / be likely to; hope / plan / intend to",
-   "vocabulary": "Cíle, seberozvoj, kolokace",
+   "grammar": "Míra pravděpodobnosti: bound to, (un)likely to, there's a good chance, chances are; slovesné vazby (intend, aim, manage, struggle to)",
+   "vocabulary": "Cíle a motivace: set goals, stick to, follow through, procrastinate",
    "function": "Mluvení o ambicích a plánech",
-   "skill": "Psaní: osobní plán cílů"
+   "skill": "Psaní: osobní plán cílů",
+   "review_b1": "might / may / could pro možnost"
   },
   {
    "week": 9,
@@ -127,10 +135,11 @@
    "type": "lesson",
    "topic_en": "Food & eating out",
    "topic_cz": "Jídlo a restaurace",
-   "grammar": "Počitatelná a nepočitatelná podstatná jména; some/any/much/many/a few/a little",
-   "vocabulary": "Jídlo, vaření, restaurace",
+   "grammar": "Pokročilé kvantifikátory: plenty of, hardly any, a great deal of, few vs a few, none of, each/every, either/neither",
+   "vocabulary": "Gastronomie: bland, savoury, wholesome; způsoby vaření; restaurace",
    "function": "Objednávání, zdvořilá stížnost",
-   "skill": "Poslech: dialogy v restauraci"
+   "skill": "Poslech: dialogy v restauraci",
+   "review_b1": "Počitatelná a nepočitatelná, some/any/much/many"
   },
   {
    "week": 10,
@@ -139,10 +148,11 @@
    "type": "lesson",
    "topic_en": "Home & neighbourhood",
    "topic_cz": "Bydlení a okolí",
-   "grammar": "2. a 3. stupeň přídavných jmen; much/far/a bit/slightly; (not) as…as",
-   "vocabulary": "Bydlení, nábytek, popis míst",
+   "grammar": "Srovnávací vazby: the more… the more, nowhere near as, considerably, by far, twice as… as",
+   "vocabulary": "Bydlení: spacious, cramped, run-down, commute, gentrification",
    "function": "Srovnávání a výběr",
-   "skill": "Čtení: realitní inzeráty"
+   "skill": "Čtení: realitní inzeráty",
+   "review_b1": "2. a 3. stupeň přídavných jmen, as…as"
   },
   {
    "week": 11,
@@ -151,10 +161,11 @@
    "type": "lesson",
    "topic_en": "Health & fitness",
    "topic_cz": "Zdraví a kondice",
-   "grammar": "must / have to / should / ought to / don't have to / mustn't",
-   "vocabulary": "Tělo, nemoci, zdravý životní styl",
+   "grammar": "Povinnost a rada pro pokročilé: needn't vs didn't need to, be supposed to, had better, be required to",
+   "vocabulary": "Zdraví: symptoms, recover from, cut down on, be prone to",
    "function": "Rady, u lékaře",
-   "skill": "Poslech: lékař a pacient"
+   "skill": "Poslech: lékař a pacient",
+   "review_b1": "must / have to / should"
   },
   {
    "week": 12,
@@ -163,10 +174,11 @@
    "type": "review",
    "topic_en": "Review 2",
    "topic_cz": "Opakování 2",
-   "grammar": "Opakování lekcí 7–11",
+   "grammar": "Upevnění rozšiřujících struktur 7–11",
    "vocabulary": "Opakování slovní zásoby 7–11",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 7–11 (B1)"
   },
   {
    "week": 13,
@@ -175,10 +187,11 @@
    "type": "test",
    "topic_en": "Quarter test 1",
    "topic_cz": "Čtvrtletní test 1",
-   "grammar": "Test gramatiky 1. čtvrtletí",
+   "grammar": "Test rozšiřujících struktur 1. čtvrtletí",
    "vocabulary": "Test slovní zásoby 1. čtvrtletí",
    "function": "Projekt ve dvojici: prezentace „My first quarter“",
-   "skill": "Test: čtení, poslech, psaní, mluvení"
+   "skill": "Test: čtení, poslech, psaní, mluvení",
+   "review_b1": "Test B1 základů 1. čtvrtletí"
   },
   {
    "week": 14,
@@ -187,10 +200,11 @@
    "type": "lesson",
    "topic_en": "Money & shopping",
    "topic_cz": "Peníze a nakupování",
-   "grammar": "Present perfect continuous vs simple; for / since / how long",
-   "vocabulary": "Peníze, banka, nakupování",
+   "grammar": "Slovesné vazby s -ing a to: afford, can't help, be worth, it's no use, there's no point",
+   "vocabulary": "Peníze: make ends meet, go into debt, splash out, bargain, refund",
    "function": "Vrácení zboží, reklamace",
-   "skill": "Čtení: spotřebitelský článek"
+   "skill": "Čtení: spotřebitelský článek",
+   "review_b1": "Present perfect + for / since"
   },
   {
    "week": 15,
@@ -199,10 +213,11 @@
    "type": "lesson",
    "topic_en": "Crime & mysteries",
    "topic_cz": "Zločin a záhady",
-   "grammar": "Vyprávěcí časy včetně past perfect",
-   "vocabulary": "Zločin, detektivky",
+   "grammar": "Trpný rod v minulosti a past perfect passive; be said / believed to (have)",
+   "vocabulary": "Zločin a vyšetřování: suspect, evidence, charge sb with, get away with",
    "function": "Napínavé vyprávění",
-   "skill": "Psaní: krátká povídka"
+   "skill": "Psaní: krátká povídka",
+   "review_b1": "Past simple a past continuous ve vyprávění"
   },
   {
    "week": 16,
@@ -211,10 +226,11 @@
    "type": "lesson",
    "topic_en": "Technology in our lives",
    "topic_cz": "Technologie v životě",
-   "grammar": "Nultý a 1. kondicionál; časové věty (when, as soon as, unless)",
-   "vocabulary": "Technologie, přístroje, internet",
+   "grammar": "unless, provided that, as long as, in case; časové věty o budoucnosti (once, until, by the time)",
+   "vocabulary": "Technologie: device, upgrade, glitch, back up, keep up with",
    "function": "Návod, řešení technického problému",
-   "skill": "Poslech: hovor s technickou podporou"
+   "skill": "Poslech: hovor s technickou podporou",
+   "review_b1": "Nultý a 1. kondicionál"
   },
   {
    "week": 17,
@@ -223,10 +239,11 @@
    "type": "lesson",
    "topic_en": "Dreams & hypotheses",
    "topic_cz": "Sny a hypotézy",
-   "grammar": "2. kondicionál; would vs will",
-   "vocabulary": "Osobní vlastnosti, sny, výhra v loterii",
+   "grammar": "2. kondicionál pro pokročilé: were to, supposing, what if, I'd rather / it's time + minulý čas",
+   "vocabulary": "Sny a hypotézy: fulfil, daydream, long for, if I had my way",
    "function": "Spekulace a představy",
-   "skill": "Mluvení: „What would you do if…?“"
+   "skill": "Mluvení: „What would you do if…?“",
+   "review_b1": "2. kondicionál"
   },
   {
    "week": 18,
@@ -235,10 +252,11 @@
    "type": "lesson",
    "topic_en": "Nature & environment",
    "topic_cz": "Příroda a životní prostředí",
-   "grammar": "Trpný rod (přítomný a minulý prostý)",
-   "vocabulary": "Životní prostředí, počasí, přírodní katastrofy",
+   "grammar": "Trpný rod ve všech časech a s modálními slovesy; it is thought that…",
+   "vocabulary": "Životní prostředí: emissions, deplete, sustainable, endangered",
    "function": "Vyjádření obav a názoru",
-   "skill": "Čtení: zpravodajský článek"
+   "skill": "Čtení: zpravodajský článek",
+   "review_b1": "Trpný rod v přítomném a minulém čase"
   },
   {
    "week": 19,
@@ -247,10 +265,11 @@
    "type": "review",
    "topic_en": "Review 3",
    "topic_cz": "Opakování 3",
-   "grammar": "Opakování lekcí 14–18",
+   "grammar": "Upevnění rozšiřujících struktur 14–18",
    "vocabulary": "Opakování slovní zásoby 14–18",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 14–18 (B1)"
   },
   {
    "week": 20,
@@ -259,10 +278,11 @@
    "type": "lesson",
    "topic_en": "Relationships",
    "topic_cz": "Vztahy",
-   "grammar": "Vztažné věty určující a neurčující (who, which, that, whose, where)",
-   "vocabulary": "Vztahy, rodina, přátelství",
+   "grammar": "Vztažné věty neurčující, whose, whom, předložka + which; zkracování vztažných vět",
+   "vocabulary": "Vztahy: get on with, fall out, make up, rely on, close-knit",
    "function": "Popis lidí, souhlas a nesouhlas",
-   "skill": "Čtení: poradna"
+   "skill": "Čtení: poradna",
+   "review_b1": "Vztažné věty určující (who, which, that)"
   },
   {
    "week": 21,
@@ -271,10 +291,11 @@
    "type": "lesson",
    "topic_en": "Free time & hobbies",
    "topic_cz": "Volný čas a koníčky",
-   "grammar": "Gerundium vs infinitiv (enjoy doing, decide to; stop/remember/try)",
-   "vocabulary": "Koníčky, sport, volný čas",
+   "grammar": "Změna významu: stop / remember / try / regret / go on + -ing vs to",
+   "vocabulary": "Volný čas: take up, unwind, be into, devote time to",
    "function": "Návrhy a doporučení",
-   "skill": "Psaní: blogový příspěvek"
+   "skill": "Psaní: blogový příspěvek",
+   "review_b1": "Gerundium vs infinitiv (enjoy doing, decide to)"
   },
   {
    "week": 22,
@@ -283,10 +304,11 @@
    "type": "lesson",
    "topic_en": "Media & news",
    "topic_cz": "Média a zprávy",
-   "grammar": "Nepřímá řeč: oznamovací věty (say/tell, posun časů)",
-   "vocabulary": "Média, zprávy, sociální sítě",
+   "grammar": "Uvozovací slovesa: admit, deny, insist, claim, warn + vazby",
+   "vocabulary": "Média: headline, bias, coverage, go viral, misleading",
    "function": "Tlumočení toho, co kdo řekl",
-   "skill": "Poslech: zpravodajství"
+   "skill": "Poslech: zpravodajství",
+   "review_b1": "Nepřímá řeč: say / tell, posun časů"
   },
   {
    "week": 23,
@@ -295,10 +317,11 @@
    "type": "lesson",
    "topic_en": "Interviews & questions",
    "topic_cz": "Pohovory a otázky",
-   "grammar": "Nepřímé otázky; reported questions (Could you tell me…?)",
-   "vocabulary": "Pracovní pohovor, pracoviště",
+   "grammar": "Nepřímé otázky a reported questions; zdvořilé formulace (I was wondering if…)",
+   "vocabulary": "Pracovní pohovor: strengths, apply for, shortlist, be in charge of",
    "function": "Zdvořilé žádosti, formální tón",
-   "skill": "Psaní: formální e-mail a žádost o místo"
+   "skill": "Psaní: formální e-mail a žádost o místo",
+   "review_b1": "Otázky a pomocná slovesa"
   },
   {
    "week": 24,
@@ -307,10 +330,11 @@
    "type": "lesson",
    "topic_en": "Getting around the city",
    "topic_cz": "Pohyb po městě",
-   "grammar": "Frázová slovesa (oddělitelná a neoddělitelná)",
-   "vocabulary": "Město, cesta, problémy na cestě",
+   "grammar": "Frázová slovesa oddělitelná a neoddělitelná, třídílná (put up with, run out of)",
+   "vocabulary": "Město a doprava: congestion, get stuck, pedestrian, run late",
    "function": "Ptaní se na cestu a její popis",
-   "skill": "Poslech: hlášení a oznámení"
+   "skill": "Poslech: hlášení a oznámení",
+   "review_b1": "Základní frázová slovesa"
   },
   {
    "week": 25,
@@ -319,10 +343,11 @@
    "type": "review",
    "topic_en": "Review 4",
    "topic_cz": "Opakování 4",
-   "grammar": "Opakování lekcí 20–24",
+   "grammar": "Upevnění rozšiřujících struktur 20–24",
    "vocabulary": "Opakování slovní zásoby 20–24",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 20–24 (B1)"
   },
   {
    "week": 26,
@@ -331,10 +356,11 @@
    "type": "test",
    "topic_en": "Mid-year test",
    "topic_cz": "Pololetní test",
-   "grammar": "Ověření úrovně B1: gramatika 1. pololetí",
+   "grammar": "Ověření úrovně B1+: rozšiřující struktury 1. pololetí",
    "vocabulary": "Slovní zásoba 1. pololetí",
    "function": "Projekt ve dvojici: naplánujte společný výlet",
-   "skill": "Test: čtení, poslech, psaní, mluvení"
+   "skill": "Test: čtení, poslech, psaní, mluvení",
+   "review_b1": "Test B1 základů 1. pololetí"
   },
   {
    "week": 27,
@@ -343,10 +369,11 @@
    "type": "lesson",
    "topic_en": "Regrets & mistakes",
    "topic_cz": "Lítost a chyby",
-   "grammar": "3. kondicionál",
-   "vocabulary": "Životní volby, úspěch a neúspěch",
+   "grammar": "3. kondicionál; smíšené kondicionály",
+   "vocabulary": "Životní volby: turning point, miss out on, regret, take a risk",
    "function": "Vyjádření lítosti a soucitu",
-   "skill": "Čtení: skutečné příběhy"
+   "skill": "Čtení: skutečné příběhy",
+   "review_b1": "2. kondicionál (opakování)"
   },
   {
    "week": 28,
@@ -355,10 +382,11 @@
    "type": "lesson",
    "topic_en": "Wishes",
    "topic_cz": "Přání",
-   "grammar": "wish / if only (přítomnost i minulost)",
-   "vocabulary": "Stížnosti, ideální život",
+   "grammar": "wish / if only (přítomnost, minulost, would)",
+   "vocabulary": "Stížnosti a ideály: be fed up with, put up with, make the most of",
    "function": "Stěžování si, vyjádření přání",
-   "skill": "Mluvení: diskuse"
+   "skill": "Mluvení: diskuse",
+   "review_b1": "I'd like / I want (přání v přítomnosti)"
   },
   {
    "week": 29,
@@ -367,10 +395,11 @@
    "type": "lesson",
    "topic_en": "Getting things done",
    "topic_cz": "Služby a zařizování",
-   "grammar": "have / get something done; trpný rod ve všech časech",
-   "vocabulary": "Služby, opravy, auto, kosmetika",
+   "grammar": "have / get something done; need doing; causative get sb to do",
+   "vocabulary": "Služby a opravy: fix, service, install, rip off",
    "function": "Objednání služby po telefonu",
-   "skill": "Poslech: telefonní hovory"
+   "skill": "Poslech: telefonní hovory",
+   "review_b1": "Trpný rod (opakování)"
   },
   {
    "week": 30,
@@ -379,10 +408,11 @@
    "type": "lesson",
    "topic_en": "The future world",
    "topic_cz": "Svět budoucnosti",
-   "grammar": "Future continuous a future perfect",
-   "vocabulary": "Věda, vynálezy, předpovědi",
+   "grammar": "Future continuous a future perfect; this time next year",
+   "vocabulary": "Věda a budoucnost: breakthrough, cutting-edge, predict, foresee",
    "function": "Předpovídání, spekulace",
-   "skill": "Psaní: úvaha (úvod do argumentace)"
+   "skill": "Psaní: úvaha (úvod do argumentace)",
+   "review_b1": "will pro předpovědi"
   },
   {
    "week": 31,
@@ -391,10 +421,11 @@
    "type": "lesson",
    "topic_en": "Mysteries & deductions",
    "topic_cz": "Záhady a dedukce",
-   "grammar": "Modální slovesa dedukce v přítomnosti i minulosti (must/might/can't have)",
-   "vocabulary": "Nevysvětlené jevy, archeologie",
+   "grammar": "Dedukce v minulosti: must / might / can't have done",
+   "vocabulary": "Záhady: unexplained, remains, clue, puzzling",
    "function": "Spekulace o minulosti",
-   "skill": "Čtení: článek o záhadě"
+   "skill": "Čtení: článek o záhadě",
+   "review_b1": "must / might / can't v přítomnosti"
   },
   {
    "week": 32,
@@ -403,10 +434,11 @@
    "type": "review",
    "topic_en": "Review 5",
    "topic_cz": "Opakování 5",
-   "grammar": "Opakování lekcí 27–31",
+   "grammar": "Upevnění rozšiřujících struktur 27–31",
    "vocabulary": "Opakování slovní zásoby 27–31",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 27–31 (B1)"
   },
   {
    "week": 33,
@@ -415,10 +447,11 @@
    "type": "lesson",
    "topic_en": "Culture & the arts",
    "topic_cz": "Kultura a umění",
-   "grammar": "so / such; too / enough",
-   "vocabulary": "Film, hudba, knihy, umění",
+   "grammar": "so / such (that); such a… that; so much / so many",
+   "vocabulary": "Kultura: plot, review, gripping, overrated, critically acclaimed",
    "function": "Doporučení, hodnocení",
-   "skill": "Psaní: recenze"
+   "skill": "Psaní: recenze",
+   "review_b1": "too / enough"
   },
   {
    "week": 34,
@@ -427,10 +460,11 @@
    "type": "lesson",
    "topic_en": "Education & learning",
    "topic_cz": "Vzdělávání a učení",
-   "grammar": "Spojovací výrazy kontrastu (although, despite, in spite of, however, whereas)",
-   "vocabulary": "Vzdělávání, studijní dovednosti",
+   "grammar": "Spojovací výrazy kontrastu a důvodu: although, despite, in spite of, whereas, due to",
+   "vocabulary": "Vzdělávání: tuition, assessment, cram, drop out, graduate",
    "function": "Předkládání argumentů",
-   "skill": "Mluvení: debata"
+   "skill": "Mluvení: debata",
+   "review_b1": "but, because, so"
   },
   {
    "week": 35,
@@ -439,10 +473,11 @@
    "type": "lesson",
    "topic_en": "Summer holidays",
    "topic_cz": "Letní dovolená",
-   "grammar": "Tázací dovětky (question tags), echo otázky",
-   "vocabulary": "Typy dovolené, ubytování, problémy na dovolené",
+   "grammar": "Tázací dovětky a echo otázky; intonace",
+   "vocabulary": "Dovolená: package holiday, overbooked, all-inclusive, complaint",
    "function": "Ověřování informací, small talk",
-   "skill": "Poslech: stížnosti na dovolené"
+   "skill": "Poslech: stížnosti na dovolené",
+   "review_b1": "Tázací otázky"
   },
   {
    "week": 36,
@@ -451,10 +486,11 @@
    "type": "lesson",
    "topic_en": "Sport & competition",
    "topic_cz": "Sport a soutěžení",
-   "grammar": "Vyjádření účelu (to, in order to, so that, so as to)",
-   "vocabulary": "Sport, soutěž, motivace",
+   "grammar": "Účel a výsledek: in order to, so as to, so that, so as not to",
+   "vocabulary": "Sport: compete, be in shape, warm up, beat a record",
    "function": "Povzbuzování, mluvení o úspěších",
-   "skill": "Čtení: sportovní příběh"
+   "skill": "Čtení: sportovní příběh",
+   "review_b1": "to + infinitiv pro účel"
   },
   {
    "week": 37,
@@ -463,10 +499,11 @@
    "type": "lesson",
    "topic_en": "Workplace & careers",
    "topic_cz": "Práce a kariéra",
-   "grammar": "Schopnost v přítomnosti a minulosti (can, could, was able to, managed to)",
-   "vocabulary": "Kariéra, dovednosti, životopis",
+   "grammar": "was able to, managed to, succeeded in; schopnost v budoucnosti",
+   "vocabulary": "Kariéra: promotion, career ladder, skill set, freelance",
    "function": "Mluvení o schopnostech a úspěších",
-   "skill": "Psaní: životopis a motivační dopis"
+   "skill": "Psaní: životopis a motivační dopis",
+   "review_b1": "can / could"
   },
   {
    "week": 38,
@@ -475,10 +512,11 @@
    "type": "review",
    "topic_en": "Review 6",
    "topic_cz": "Opakování 6",
-   "grammar": "Opakování lekcí 33–37",
+   "grammar": "Upevnění rozšiřujících struktur 33–37",
    "vocabulary": "Opakování slovní zásoby 33–37",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 33–37 (B1)"
   },
   {
    "week": 39,
@@ -487,10 +525,11 @@
    "type": "test",
    "topic_en": "Quarter test 3",
    "topic_cz": "Čtvrtletní test 3",
-   "grammar": "Test gramatiky 3. čtvrtletí",
+   "grammar": "Test rozšiřujících struktur 3. čtvrtletí",
    "vocabulary": "Test slovní zásoby 3. čtvrtletí",
    "function": "Projekt ve dvojici: debata na zvolené téma",
-   "skill": "Test: čtení, poslech, psaní, mluvení"
+   "skill": "Test: čtení, poslech, psaní, mluvení",
+   "review_b1": "Test B1 základů 3. čtvrtletí"
   },
   {
    "week": 40,
@@ -499,10 +538,11 @@
    "type": "lesson",
    "topic_en": "Living abroad",
    "topic_cz": "Život v cizině",
-   "grammar": "used to / be used to / get used to",
-   "vocabulary": "Kulturní šok, zvyky, migrace",
+   "grammar": "be used to vs get used to vs used to (porovnání, vše časy)",
+   "vocabulary": "Život v zahraničí: culture shock, settle in, homesick, adapt",
    "function": "Popis přizpůsobování se",
-   "skill": "Čtení: blog krajana v zahraničí"
+   "skill": "Čtení: blog krajana v zahraničí",
+   "review_b1": "used to (opakování)"
   },
   {
    "week": 41,
@@ -511,10 +551,11 @@
    "type": "lesson",
    "topic_en": "Persuasion & advertising",
    "topic_cz": "Přesvědčování a reklama",
-   "grammar": "Uvozovací slovesa (advise, persuade, refuse, admit, suggest, deny)",
-   "vocabulary": "Reklama, marketing",
+   "grammar": "Uvozovací slovesa s vazbami: advise, persuade, refuse, suggest, accuse sb of",
+   "vocabulary": "Reklama: target audience, brand, slogan, persuade, catchy",
    "function": "Přesvědčování",
-   "skill": "Poslech: reklama a podcast"
+   "skill": "Poslech: reklama a podcast",
+   "review_b1": "Nepřímá řeč (opakování)"
   },
   {
    "week": 42,
@@ -523,10 +564,11 @@
    "type": "lesson",
    "topic_en": "Science & health news",
    "topic_cz": "Věda a zdraví ve zprávách",
-   "grammar": "Příčestné vazby a zkrácené vztažné věty",
-   "vocabulary": "Medicína, výzkum",
+   "grammar": "Příčestné vazby (Having finished…, Shocked by…)",
+   "vocabulary": "Medicína a výzkum: trial, side effect, cure, findings",
    "function": "Shrnutí informací",
-   "skill": "Čtení: populárně-naučný článek"
+   "skill": "Čtení: populárně-naučný článek",
+   "review_b1": "Vztažné věty (opakování)"
   },
   {
    "week": 43,
@@ -535,10 +577,11 @@
    "type": "lesson",
    "topic_en": "Consumer society",
    "topic_cz": "Konzumní společnost",
-   "grammar": "Členy (a/an/the/bez členu) pro pokročilé; opakování kvantifikátorů",
-   "vocabulary": "Konzum, udržitelnost, rozpočet",
+   "grammar": "Členy pro pokročilé; zpodstatnělá přídavná jména (the rich, the elderly)",
+   "vocabulary": "Konzum: impulse buy, consumerism, waste, second-hand",
    "function": "Vyjednávání, dohoda",
-   "skill": "Mluvení: vyjednávací scénka"
+   "skill": "Mluvení: vyjednávací scénka",
+   "review_b1": "Členy a / an / the"
   },
   {
    "week": 44,
@@ -547,10 +590,11 @@
    "type": "lesson",
    "topic_en": "Social issues",
    "topic_cz": "Společenská témata",
-   "grammar": "Důraz: vytýkací věty (What I need is…, It was… who), důrazné do/does",
-   "vocabulary": "Společnost, dobrovolnictví, komunita",
+   "grammar": "Důraz: vytýkací věty (What I need is…, It was… who), důrazné do",
+   "vocabulary": "Společnost: volunteer, inequality, community, raise awareness",
    "function": "Vyjádření silného názoru",
-   "skill": "Psaní: úvaha (opinion essay)"
+   "skill": "Psaní: úvaha (opinion essay)",
+   "review_b1": "Základní slovosled"
   },
   {
    "week": 45,
@@ -559,10 +603,11 @@
    "type": "review",
    "topic_en": "Review 7",
    "topic_cz": "Opakování 7",
-   "grammar": "Opakování lekcí 40–44",
+   "grammar": "Upevnění rozšiřujících struktur 40–44",
    "vocabulary": "Opakování slovní zásoby 40–44",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 40–44 (B1)"
   },
   {
    "week": 46,
@@ -571,10 +616,11 @@
    "type": "lesson",
    "topic_en": "Food culture & sustainability",
    "topic_cz": "Jídlo a udržitelnost",
-   "grammar": "Závislé předložky (přídavné jméno/sloveso + předložka)",
-   "vocabulary": "Produkce potravin, stravování",
+   "grammar": "Závislé předložky (přídavné jméno / sloveso / podstatné jméno + předložka)",
+   "vocabulary": "Potraviny a udržitelnost: locally sourced, organic, food miles",
    "function": "Výhody a nevýhody",
-   "skill": "Poslech: rozhovor"
+   "skill": "Poslech: rozhovor",
+   "review_b1": "Předložky času a místa"
   },
   {
    "week": 47,
@@ -583,10 +629,11 @@
    "type": "lesson",
    "topic_en": "Storytelling",
    "topic_cz": "Umění vyprávět",
-   "grammar": "Vyprávěcí časy včetně past perfect continuous",
-   "vocabulary": "Literatura, děj, postavy",
+   "grammar": "Past perfect continuous; vyprávěcí prostředky (all of a sudden, eventually)",
+   "vocabulary": "Literatura: character, plot twist, narrator, page-turner",
    "function": "Živé vyprávění",
-   "skill": "Psaní: povídka"
+   "skill": "Psaní: povídka",
+   "review_b1": "Vyprávěcí časy (opakování)"
   },
   {
    "week": 48,
@@ -596,9 +643,10 @@
    "topic_en": "Humour & entertainment",
    "topic_cz": "Humor a zábava",
    "grammar": "Kritika minulosti: should have / could have / needn't have",
-   "vocabulary": "Komedie, televize, zábava",
+   "vocabulary": "Zábava: sitcom, stand-up, binge-watch, punchline",
    "function": "Vyprávění vtipů a historek, reakce",
-   "skill": "Mluvení: anekdoty"
+   "skill": "Mluvení: anekdoty",
+   "review_b1": "should / could pro radu"
   },
   {
    "week": 49,
@@ -607,10 +655,11 @@
    "type": "lesson",
    "topic_en": "Making decisions",
    "topic_cz": "Rozhodování",
-   "grammar": "Smíšené kondicionály; unless / provided that / as long as / otherwise",
-   "vocabulary": "Rozhodnutí, riziko",
+   "grammar": "Smíšené kondicionály; otherwise, or else, but for",
+   "vocabulary": "Rozhodování: weigh up, pros and cons, on second thoughts",
    "function": "Zvažování možností, kompromis",
-   "skill": "Čtení: případová studie"
+   "skill": "Čtení: případová studie",
+   "review_b1": "Kondicionály 0–2 (opakování)"
   },
   {
    "week": 50,
@@ -619,10 +668,11 @@
    "type": "lesson",
    "topic_en": "Looking back, looking ahead",
    "topic_cz": "Ohlédnutí a výhled",
-   "grammar": "Souhrnné opakování časů",
-   "vocabulary": "Úspěchy, životní cíle",
+   "grammar": "Souhrnné opakování rozšiřujících struktur roku",
+   "vocabulary": "Úspěchy a cíle: achievement, milestone, look ahead",
    "function": "Reflexe, prezentace",
-   "skill": "Psaní: zpráva (report)"
+   "skill": "Psaní: zpráva (report)",
+   "review_b1": "Přehled časů B1"
   },
   {
    "week": 51,
@@ -631,10 +681,11 @@
    "type": "review",
    "topic_en": "Review 8",
    "topic_cz": "Opakování 8",
-   "grammar": "Opakování lekcí 46–50",
+   "grammar": "Upevnění rozšiřujících struktur 46–50",
    "vocabulary": "Opakování slovní zásoby 46–50",
    "function": "Komunikační hry ve dvojici",
-   "skill": "Smíšená cvičení všech dovedností"
+   "skill": "Smíšená cvičení všech dovedností",
+   "review_b1": "Opakování lekcí 46–50 (B1)"
   },
   {
    "week": 52,
@@ -643,10 +694,12 @@
    "type": "test",
    "topic_en": "Final test",
    "topic_cz": "Závěrečný test",
-   "grammar": "Ověření úrovně B1+: gramatika celého roku",
+   "grammar": "Závěrečný test: rozšiřující struktury B1+ až B2",
    "vocabulary": "Slovní zásoba celého roku",
    "function": "Projekt ve dvojici: závěrečná prezentace a plán na další rok",
-   "skill": "Test: čtení, poslech, psaní, mluvení"
+   "skill": "Test: čtení, poslech, psaní, mluvení",
+   "review_b1": "Závěrečný test B1 základů"
   }
- ]
+ ],
+ "level_note": "Opakovací část lekce (cca 12 min) drží úroveň B1. Hlavní, rozšiřující část a nová slovní zásoba jsou na úrovni B1+ až B2. Aplikace B1 jen lehce opakuje a hlavně rozšiřuje slovní zásobu (B1+ až B2, C1 volitelně)."
 }

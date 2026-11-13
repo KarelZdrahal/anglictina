@@ -1,41 +1,51 @@
 #Shopping & consumerism|Nakupování a spotřeba
-shopping centre|nákupní centrum|Let's meet at the shopping centre.|B1
-department store|obchodní dům|Harrods is a famous department store.|B1
-checkout|pokladna|There was a long queue at the checkout.|B1
-queue|fronta; stát ve frontě|I hate queuing.|B1
-try on|zkusit si (oblečení)|Can I try this on?|A2
-fitting room|zkušební kabinka|Where are the fitting rooms?|B1
-size|velikost|Have you got this in a smaller size?|A2
-fit|padnout (velikostí)|These jeans don't fit me.|B1
-suit|slušet|That colour really suits you.|B1
-match|ladit (k sobě)|The shoes don't match the bag.|B1
-on sale|ve slevě|These boots are on sale.|B1
-sales|výprodej|I bought it in the January sales.|B1
-return|vrátit (zboží)|I'd like to return this shirt.|B1
-exchange|vyměnit|Can I exchange it for a bigger size?|B1
-faulty|vadný|The phone was faulty.|B2
-complain|stěžovat si|I complained to the manager.|B1
-complaint|stížnost|I'd like to make a complaint.|B1
-guarantee|záruka|It has a two-year guarantee.|B2
-brand|značka|What's your favourite brand?|B1
-second-hand|z druhé ruky|I buy second-hand clothes.|B1
-online shopping|nakupování online|Online shopping is so convenient.|B1
-delivery|doručení|Delivery is free over 50 euros.|B1
-order|objednat; objednávka|I ordered a new laptop.|B1
-in stock|skladem|Is this item in stock?|B2
-out of stock|vyprodáno|Sorry, it's out of stock.|B2
-shop around|porovnávat ceny|It's worth shopping around.|B2
-window shopping|prohlížení výloh|We just went window shopping.|B2
-impulse buy|nákup pod vlivem impulsu|The sunglasses were an impulse buy.|C1
-consumer|spotřebitel|Consumers want cheaper products.|B2
-customer|zákazník|The customer is always right.|B1
-shop assistant|prodavač|The shop assistant was very helpful.|B1
-loyalty card|věrnostní karta|Do you have a loyalty card?|B2
-receipt|účtenka|Can I have the receipt, please?|B1
-afford|dovolit si|I can't afford designer clothes.|B1
-browse|prohlížet si (zboží)|I'm just browsing, thanks.|B2
-pay by card|platit kartou|Can I pay by card?|A2
-trolley|nákupní vozík|I'll get a trolley.|B1
-basket|košík|I only need a basket.|A2
-good value for money|za dobrou cenu|This restaurant is good value for money.|B2
-rip-off|zlodějina (předražené)|Ten euros for a coffee? What a rip-off!|C1
+shop around|porovnávat nabídky|Shop around for the best deal.|B2
+a bargain|výhodná koupě|This coat was a real bargain.|B2
+snap up|rychle koupit, sebrat|Shoppers snapped up the discounts.|C1
+impulse buy|nákup pod vlivem okamžiku|It was an impulse buy.|C1
+splurge|rozšoupnout se|I splurged on new boots.|C1
+window-shop|prohlížet výlohy|We just went window-shopping.|B2
+browse|prohlížet si zboží|I'm just browsing, thanks.|B2
+be ripped off|být natažen (přeplatit)|We were ripped off at the market.|B2
+overpriced|předražený|Everything here is overpriced.|B2
+good value for money|za dobrou cenu|The hotel was good value for money.|B2
+cost an arm and a leg|stát majlant|The car cost an arm and a leg.|C1
+knock-off|levná napodobenina|It's a knock-off designer bag.|C1
+counterfeit|padělaný|They sell counterfeit watches.|C1
+faulty|vadný|The kettle was faulty.|B2
+refund|vrácení peněz|I'd like a refund.|B2
+store credit|poukaz místo vrácení peněz|They offered me store credit.|C1
+warranty|záruka|It's still under warranty.|C1
+receipt|účtenka|Keep your receipt.|B2
+out of stock|vyprodáno|The item is out of stock.|B2
+back in stock|znovu skladem|It'll be back in stock next week.|B2
+pre-order|předobjednat|I pre-ordered the new phone.|C1
+free shipping|doprava zdarma|Free shipping on orders over £30.|B2
+track an order|sledovat zásilku|You can track your order online.|B2
+checkout|pokladna (i v e-shopu)|Proceed to checkout.|B2
+loyalty scheme|věrnostní program|Join our loyalty scheme.|C1
+consumerism|konzumerismus|Consumerism is bad for the planet.|C1
+retail therapy|nakupování pro dobrou náladu|I need some retail therapy.|C1
+brand-conscious|dbající na značky|Teenagers are very brand-conscious.|C1
+high street|obchodní ulice, kamenné obchody|High street shops are struggling.|C1
+bulk buy|nakupovat ve velkém|We bulk-buy toilet paper.|C1
+haggle over|smlouvat o|We haggled over the price.|B2
+the small print|drobné písmo (podmínky)|Read the small print first.|C1
+hidden charges|skryté poplatky|Watch out for hidden charges.|C1
+a must-have|nezbytnost (módní)|This bag is this season's must-have.|C1
+sell like hot cakes|jít na dračku|The tickets sold like hot cakes.|C1
+pay through the nose|zaplatit nekřesťanské peníze|We paid through the nose for parking.|C1
+in the sales|ve výprodeji|I bought it in the sales.|B2
+second-hand|z druhé ruky|I love second-hand clothes.|B2
+on a budget|s omezeným rozpočtem|We're travelling on a budget.|B2
+try on|vyzkoušet si|Can I try this on?|B2
+a discount|sleva|Students get a discount.|B1+
+the sales|výprodej|I bought it in the sales.|B1+
+on special offer|v akci|Coffee is on special offer.|B1+
+pay by card|platit kartou|Can I pay by card?|B1+
+exchange|vyměnit|Can I exchange it for a smaller size?|B1+
+fit|padnout (velikostí)|These jeans don't fit me.|B1+
+suit|slušet|That colour suits you.|B1+
+a shop assistant|prodavač|Ask the shop assistant.|B1+
+queue|stát ve frontě|We queued for an hour.|B1+
+complain about|stěžovat si na|I complained about the service.|B1+

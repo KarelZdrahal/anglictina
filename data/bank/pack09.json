@@ -2,287 +2,357 @@
 "id": "pack09",
 "topic": "Media & news",
 "topic_cz": "Média a zprávy",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b09-headline",
-"en": "headline",
-"cz": "titulek",
-"ex": "Did you see the headlines this morning?",
-"level": "B1"
-},
-{
-"id": "b09-article",
-"en": "article",
-"cz": "článek",
-"ex": "I read an interesting article about sleep.",
-"level": "B1"
-},
-{
-"id": "b09-journalist",
-"en": "journalist",
-"cz": "novinář",
-"ex": "She works as a journalist.",
-"level": "B1"
-},
-{
-"id": "b09-newspaper",
-"en": "newspaper",
-"cz": "noviny",
-"ex": "I don't buy newspapers anymore.",
-"level": "A2"
-},
-{
-"id": "b09-broadcast",
-"en": "broadcast",
-"cz": "vysílat; vysílání",
-"ex": "The match will be broadcast live.",
-"level": "B2"
-},
-{
-"id": "b09-live",
-"en": "live",
-"cz": "živě, v přímém přenosu",
-"ex": "The concert was shown live on TV.",
-"level": "B1"
-},
-{
-"id": "b09-channel",
-"en": "channel",
-"cz": "kanál, program",
-"ex": "What's on the other channel?",
-"level": "B1"
-},
-{
-"id": "b09-advert",
-"en": "advert",
-"cz": "reklama",
-"ex": "There are too many adverts on TV.",
-"level": "B1"
-},
-{
-"id": "b09-social-media",
-"en": "social media",
-"cz": "sociální sítě",
-"ex": "I spend too much time on social media.",
-"level": "B1"
-},
-{
-"id": "b09-post",
-"en": "post",
-"cz": "příspěvek; zveřejnit",
-"ex": "Her post got thousands of likes.",
-"level": "B1"
-},
-{
-"id": "b09-share",
-"en": "share",
-"cz": "sdílet",
-"ex": "Share the link with your friends.",
-"level": "B1"
-},
-{
-"id": "b09-follower",
-"en": "follower",
-"cz": "sledující",
-"ex": "He has a million followers.",
-"level": "B1"
-},
-{
-"id": "b09-influencer",
-"en": "influencer",
-"cz": "influencer",
-"ex": "Influencers are paid to promote products.",
-"level": "B2"
-},
-{
-"id": "b09-go-viral",
-"en": "go viral",
-"cz": "stát se virálním",
-"ex": "The video went viral overnight.",
-"level": "B2"
-},
-{
-"id": "b09-fake-news",
-"en": "fake news",
-"cz": "falešné zprávy",
-"ex": "Fake news spreads quickly online.",
-"level": "B2"
-},
-{
-"id": "b09-reliable-source",
-"en": "reliable source",
-"cz": "spolehlivý zdroj",
-"ex": "Wikipedia is not always a reliable source.",
-"level": "B2"
-},
-{
-"id": "b09-biased",
-"en": "biased",
-"cz": "zaujatý",
-"ex": "The report was clearly biased.",
+"id": "b09-hit-the-headlines",
+"en": "hit the headlines",
+"cz": "dostat se na titulní stránky",
+"ex": "The scandal hit the headlines.",
 "level": "C1"
 },
 {
-"id": "b09-coverage",
-"en": "coverage",
-"cz": "zpravodajství (o něčem)",
-"ex": "The coverage of the election was excellent.",
-"level": "C1"
-},
-{
-"id": "b09-current-affairs",
-"en": "current affairs",
-"cz": "aktuální dění",
-"ex": "She's interested in current affairs.",
-"level": "B2"
-},
-{
-"id": "b09-press",
-"en": "press",
-"cz": "tisk, novináři",
-"ex": "The press were waiting outside.",
-"level": "B2"
-},
-{
-"id": "b09-interview",
-"en": "interview",
-"cz": "rozhovor",
-"ex": "The interview was published yesterday.",
-"level": "B1"
-},
-{
-"id": "b09-podcast",
-"en": "podcast",
-"cz": "podcast",
-"ex": "I listen to podcasts on the way to work.",
-"level": "B1"
-},
-{
-"id": "b09-documentary",
-"en": "documentary",
-"cz": "dokument (film)",
-"ex": "We watched a documentary about whales.",
-"level": "B1"
-},
-{
-"id": "b09-series",
-"en": "series",
-"cz": "seriál",
-"ex": "Have you seen the new series?",
-"level": "B1"
-},
-{
-"id": "b09-episode",
-"en": "episode",
-"cz": "díl, epizoda",
-"ex": "I watched three episodes in a row.",
-"level": "B1"
-},
-{
-"id": "b09-review",
-"en": "review",
-"cz": "recenze",
-"ex": "The film got great reviews.",
-"level": "B1"
-},
-{
-"id": "b09-celebrity",
-"en": "celebrity",
-"cz": "celebrita",
-"ex": "Celebrities often complain about the press.",
-"level": "B1"
-},
-{
-"id": "b09-gossip",
-"en": "gossip",
-"cz": "drby",
-"ex": "I don't read celebrity gossip.",
+"id": "b09-make-the-news",
+"en": "make the news",
+"cz": "dostat se do zpráv",
+"ex": "The story made the national news.",
 "level": "B2"
 },
 {
 "id": "b09-breaking-news",
 "en": "breaking news",
-"cz": "nejnovější zprávy",
-"ex": "Breaking news: the minister has resigned.",
+"cz": "horká novinka",
+"ex": "We interrupt this programme with breaking news.",
 "level": "B2"
 },
 {
-"id": "b09-report",
-"en": "report",
-"cz": "zpráva, reportáž; informovat",
-"ex": "The BBC reported the story first.",
-"level": "B1"
-},
-{
-"id": "b09-spread",
-"en": "spread",
-"cz": "šířit (se)",
-"ex": "Rumours spread fast.",
-"level": "B1"
-},
-{
-"id": "b09-the-public",
-"en": "the public",
-"cz": "veřejnost",
-"ex": "The public has a right to know.",
-"level": "B2"
-},
-{
-"id": "b09-censorship",
-"en": "censorship",
-"cz": "cenzura",
-"ex": "There's strict censorship in some countries.",
+"id": "b09-in-depth-coverage",
+"en": "in-depth coverage",
+"cz": "podrobné zpravodajství",
+"ex": "The paper offers in-depth coverage.",
 "level": "C1"
 },
 {
-"id": "b09-scroll-through",
-"en": "scroll through",
-"cz": "projíždět (stránku, telefon)",
-"ex": "I scrolled through the news on my phone.",
+"id": "b09-biased",
+"en": "biased",
+"cz": "zaujatý",
+"ex": "The report is clearly biased.",
+"level": "C1"
+},
+{
+"id": "b09-impartial",
+"en": "impartial",
+"cz": "nestranný",
+"ex": "The BBC aims to be impartial.",
+"level": "C1"
+},
+{
+"id": "b09-sensationalist",
+"en": "sensationalist",
+"cz": "bulvární, senzacechtivý",
+"ex": "Tabloids are often sensationalist.",
+"level": "C1"
+},
+{
+"id": "b09-tabloid",
+"en": "tabloid",
+"cz": "bulvární deník",
+"ex": "I never read the tabloids.",
 "level": "B2"
+},
+{
+"id": "b09-broadsheet",
+"en": "broadsheet",
+"cz": "seriózní deník",
+"ex": "She writes for a broadsheet.",
+"level": "C1"
+},
+{
+"id": "b09-leak",
+"en": "leak",
+"cz": "vyzradit (informaci)",
+"ex": "Someone leaked the documents to the press.",
+"level": "C1"
+},
+{
+"id": "b09-whistle-blower",
+"en": "whistle-blower",
+"cz": "oznamovatel (nekalých praktik)",
+"ex": "The whistle-blower lost her job.",
+"level": "C1"
+},
+{
+"id": "b09-go-to-press",
+"en": "go to press",
+"cz": "jít do tisku",
+"ex": "The paper goes to press at midnight.",
+"level": "C1"
+},
+{
+"id": "b09-editorial",
+"en": "editorial",
+"cz": "úvodník",
+"ex": "The editorial criticised the government.",
+"level": "C1"
+},
+{
+"id": "b09-press-conference",
+"en": "press conference",
+"cz": "tisková konference",
+"ex": "The minister held a press conference.",
+"level": "B2"
+},
+{
+"id": "b09-off-the-record",
+"en": "off the record",
+"cz": "neoficiálně",
+"ex": "He spoke off the record.",
+"level": "C1"
+},
+{
+"id": "b09-spin",
+"en": "spin",
+"cz": "účelové překroucení",
+"ex": "That's just political spin.",
+"level": "C1"
 },
 {
 "id": "b09-clickbait",
 "en": "clickbait",
 "cz": "lákavý titulek bez obsahu",
-"ex": "That headline is pure clickbait.",
+"ex": "Ignore that clickbait.",
 "level": "C1"
 },
 {
-"id": "b09-subscriber",
-"en": "subscriber",
-"cz": "předplatitel, odběratel",
-"ex": "The channel has 50,000 subscribers.",
+"id": "b09-echo-chamber",
+"en": "echo chamber",
+"cz": "informační bublina",
+"ex": "Social media creates echo chambers.",
+"level": "C1"
+},
+{
+"id": "b09-misinformation",
+"en": "misinformation",
+"cz": "dezinformace (nezáměrné)",
+"ex": "There's a lot of misinformation online.",
+"level": "C1"
+},
+{
+"id": "b09-fact-check",
+"en": "fact-check",
+"cz": "ověřit fakta",
+"ex": "Always fact-check before you share.",
+"level": "C1"
+},
+{
+"id": "b09-media-outlet",
+"en": "media outlet",
+"cz": "médium, zpravodajský kanál",
+"ex": "Several media outlets reported the story.",
+"level": "C1"
+},
+{
+"id": "b09-coverage",
+"en": "coverage",
+"cz": "zpravodajství, pokrytí",
+"ex": "The election got wide coverage.",
 "level": "B2"
 },
 {
-"id": "b09-publish",
-"en": "publish",
-"cz": "publikovat, vydat",
-"ex": "The book was published in 2020.",
-"level": "B1"
-},
-{
-"id": "b09-editor",
-"en": "editor",
-"cz": "redaktor",
-"ex": "The editor rejected my article.",
+"id": "b09-make-a-statement",
+"en": "make a statement",
+"cz": "učinit prohlášení",
+"ex": "The company made a statement.",
 "level": "B2"
 },
 {
-"id": "b09-caption",
-"en": "caption",
-"cz": "popisek (u obrázku)",
-"ex": "Write a short caption for the photo.",
+"id": "b09-paparazzi",
+"en": "paparazzi",
+"cz": "paparazzi",
+"ex": "She was followed by paparazzi.",
 "level": "B2"
 },
 {
-"id": "b09-trending",
-"en": "trending",
-"cz": "populární, v trendu",
-"ex": "What's trending on Twitter today?",
+"id": "b09-invasion-of-privacy",
+"en": "invasion of privacy",
+"cz": "zásah do soukromí",
+"ex": "It's an invasion of privacy.",
+"level": "C1"
+},
+{
+"id": "b09-public-figure",
+"en": "public figure",
+"cz": "veřejně známá osoba",
+"ex": "Public figures face constant scrutiny.",
+"level": "C1"
+},
+{
+"id": "b09-scrutiny",
+"en": "scrutiny",
+"cz": "důkladné zkoumání, drobnohled",
+"ex": "The plan is under scrutiny.",
+"level": "C1"
+},
+{
+"id": "b09-gossip-column",
+"en": "gossip column",
+"cz": "rubrika drbů",
+"ex": "I read it in the gossip column.",
 "level": "B2"
+},
+{
+"id": "b09-prime-time",
+"en": "prime time",
+"cz": "hlavní vysílací čas",
+"ex": "The show is on at prime time.",
+"level": "C1"
+},
+{
+"id": "b09-ratings",
+"en": "ratings",
+"cz": "sledovanost",
+"ex": "The show's ratings dropped.",
+"level": "B2"
+},
+{
+"id": "b09-air",
+"en": "air",
+"cz": "vysílat",
+"ex": "The documentary airs on Sunday.",
+"level": "C1"
+},
+{
+"id": "b09-cover-a-story",
+"en": "cover a story",
+"cz": "zpracovat (reportáž o) příběhu",
+"ex": "She covered the story from Kyiv.",
+"level": "B2"
+},
+{
+"id": "b09-get-wind-of",
+"en": "get wind of",
+"cz": "dozvědět se (o něčem tajném)",
+"ex": "The press got wind of the deal.",
+"level": "C1"
+},
+{
+"id": "b09-hype",
+"en": "hype",
+"cz": "humbuk",
+"ex": "The film didn't live up to the hype.",
+"level": "B2"
+},
+{
+"id": "b09-live-up-to",
+"en": "live up to",
+"cz": "dostát (očekávání)",
+"ex": "The sequel didn't live up to expectations.",
+"level": "B2"
+},
+{
+"id": "b09-go-public",
+"en": "go public",
+"cz": "zveřejnit; vstoupit na burzu",
+"ex": "She went public with her story.",
+"level": "C1"
+},
+{
+"id": "b09-the-mainstream-media",
+"en": "the mainstream media",
+"cz": "hlavní média",
+"ex": "The mainstream media ignored it.",
+"level": "C1"
+},
+{
+"id": "b09-influencer-marketing",
+"en": "influencer marketing",
+"cz": "influencer marketing",
+"ex": "Brands spend millions on influencer marketing.",
+"level": "C1"
+},
+{
+"id": "b09-sponsored-content",
+"en": "sponsored content",
+"cz": "placený obsah",
+"ex": "This post is sponsored content.",
+"level": "C1"
+},
+{
+"id": "b09-skim-through",
+"en": "skim through",
+"cz": "zběžně pročíst",
+"ex": "I skimmed through the paper.",
+"level": "B2"
+},
+{
+"id": "b09-a-headline",
+"en": "a headline",
+"cz": "titulek",
+"ex": "Did you see the headline?",
+"level": "B1+"
+},
+{
+"id": "b09-an-article",
+"en": "an article",
+"cz": "článek",
+"ex": "I read an interesting article.",
+"level": "B1+"
+},
+{
+"id": "b09-a-journalist",
+"en": "a journalist",
+"cz": "novinář",
+"ex": "She works as a journalist.",
+"level": "B1+"
+},
+{
+"id": "b09-the-news",
+"en": "the news",
+"cz": "zprávy",
+"ex": "I watch the news every evening.",
+"level": "B1+"
+},
+{
+"id": "b09-a-documentary",
+"en": "a documentary",
+"cz": "dokument",
+"ex": "We watched a documentary about whales.",
+"level": "B1+"
+},
+{
+"id": "b09-a-series",
+"en": "a series",
+"cz": "seriál",
+"ex": "What series are you watching?",
+"level": "B1+"
+},
+{
+"id": "b09-an-episode",
+"en": "an episode",
+"cz": "díl",
+"ex": "I watched three episodes in a row.",
+"level": "B1+"
+},
+{
+"id": "b09-a-podcast",
+"en": "a podcast",
+"cz": "podcast",
+"ex": "I listen to podcasts on the bus.",
+"level": "B1+"
+},
+{
+"id": "b09-an-advert",
+"en": "an advert",
+"cz": "reklama",
+"ex": "There are too many adverts.",
+"level": "B1+"
+},
+{
+"id": "b09-a-review",
+"en": "a review",
+"cz": "recenze",
+"ex": "The film got good reviews.",
+"level": "B1+"
 }
 ]
 }

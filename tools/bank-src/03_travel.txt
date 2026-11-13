@@ -1,41 +1,51 @@
 #Travel & tourism|Cestování a turistika
-destination|cíl cesty, destinace|Croatia is a popular holiday destination.|B1
-book|rezervovat|I booked a room for three nights.|A2
-accommodation|ubytování|Accommodation in the centre is expensive.|B1
-sightseeing|prohlídka pamětihodností|We spent the day sightseeing.|B1
-landmark|památka, orientační bod|The castle is the city's best-known landmark.|B2
-package holiday|zájezd|We went on a package holiday to Greece.|B1
-check in|ubytovat se; odbavit se|We checked in at the hotel at three.|B1
-check out|odhlásit se z hotelu|We have to check out by 11 a.m.|B1
-luggage|zavazadla|How much luggage can I take?|B1
-carry-on bag|příruční zavazadlo|You can take one carry-on bag.|B2
-boarding pass|palubní vstupenka|Please show your boarding pass.|B1
-departure|odlet, odjezd|Departures are on the first floor.|B1
-arrival|přílet, příjezd|Our arrival time is 6 p.m.|B1
-delay|zpoždění|There's a two-hour delay.|B1
-cancel|zrušit|Our flight was cancelled.|B1
-miss a flight|zmeškat let|We missed our flight because of traffic.|B1
-journey|cesta (z místa na místo)|The journey took five hours.|B1
-trip|výlet, cesta|We went on a day trip to Vienna.|A2
-travel insurance|cestovní pojištění|Don't forget travel insurance.|B1
-passport|cestovní pas|My passport expires next year.|A2
-visa|vízum|Do Czechs need a visa for the USA?|B1
-abroad|v zahraničí, do zahraničí|Have you ever lived abroad?|B1
-off the beaten track|mimo turistické trasy|We like places off the beaten track.|C1
-crowded|přeplněný|The beach was too crowded.|B1
-breathtaking|dechberoucí|The view from the top was breathtaking.|B2
-souvenir|suvenýr|I bought a few souvenirs for my family.|B1
-guidebook|průvodce (kniha)|The guidebook recommends this restaurant.|B1
-backpacking|cestování s batohem|He went backpacking around Asia.|B2
-jet lag|únava z časového posunu|I've still got jet lag.|B2
-itinerary|plán cesty|Here's our itinerary for the week.|C1
-round trip|zpáteční cesta|A round trip ticket is cheaper.|B2
-one-way ticket|jednosměrná jízdenka|I bought a one-way ticket to Madrid.|B1
-set off|vyrazit (na cestu)|We set off early in the morning.|B1
-get away|vypadnout si, odjet na dovolenou|We need to get away for a few days.|B2
-explore|prozkoumat|We spent a week exploring the island.|B1
-local|místní (obyvatel)|Ask the locals for the best restaurants.|B1
-tourist trap|past na turisty|That restaurant is a tourist trap.|B2
-self-catering|s vlastním stravováním|We rented a self-catering apartment.|B2
-all-inclusive|all inclusive (vše v ceně)|The hotel is all-inclusive.|B1
+off the beaten track|mimo turistické trasy|We found a village off the beaten track.|C1
+get away from it all|utéct od všeho|We went to the mountains to get away from it all.|B2
+travel light|cestovat nalehko|I always travel light.|B2
+a stopover|mezipřistání, zastávka|We had a stopover in Dubai.|B2
+a layover|čekání na přestup|There's a six-hour layover in Frankfurt.|C1
+be stranded|uvíznout|We were stranded at the airport for two days.|C1
+turbulence|turbulence|Fasten your seatbelts – we're expecting turbulence.|B2
+excess baggage|nadváha zavazadel|I had to pay for excess baggage.|B2
+overbooked|přeprodaný (let, hotel)|The flight was overbooked.|C1
+upgrade|přeřadit do vyšší třídy|We got upgraded to business class.|B2
+wanderlust|touha cestovat|I've always had wanderlust.|C1
+globetrotter|světoběžník|She's a real globetrotter.|C1
+breathtaking|dechberoucí|The view was breathtaking.|B2
+unspoilt|nedotčený, nezkažený|It's an unspoilt stretch of coast.|C1
+picturesque|malebný|We stayed in a picturesque village.|B2
+bustling|rušný, plný ruchu|We explored the bustling markets.|C1
+secluded|odlehlý, klidný|We found a secluded beach.|C1
+touristy|turistický (přeplněný turisty)|The old town is a bit touristy.|B2
+a tourist trap|past na turisty|That restaurant is a tourist trap.|B2
+soak up the atmosphere|nasát atmosféru|We sat in the square and soaked up the atmosphere.|C1
+see the sights|prohlédnout si pamětihodnosti|We spent a day seeing the sights.|B2
+hit the road|vyrazit na cestu|It's late – let's hit the road.|C1
+itinerary|plán cesty|Our itinerary includes three cities.|C1
+hitchhike|stopovat|We hitchhiked across Ireland.|B2
+a red-eye flight|noční let|I took a red-eye flight to New York.|C1
+jet-lagged|unavený z časového posunu|I'm still a bit jet-lagged.|B2
+culture shock|kulturní šok|I experienced culture shock in Japan.|B2
+get your bearings|zorientovat se|It took us a day to get our bearings.|C1
+take a detour|udělat si zajížďku|We took a detour to avoid the traffic.|B2
+a staycation|dovolená doma|We're having a staycation this year.|C1
 peak season|hlavní sezóna|Prices double in peak season.|B2
+off-season|mimo sezónu|It's cheaper to travel off-season.|B2
+cancellation fee|storno poplatek|There's a 20% cancellation fee.|B2
+travel insurance claim|pojistná událost z cestovního pojištění|I made a travel insurance claim for my lost bag.|C1
+a breathtaking view|úchvatný výhled|The room had a breathtaking view of the lake.|B2
+sleeper train|noční vlak s lůžky|We took the sleeper train to Kraków.|B2
+backpacker hostel|hostel pro batůžkáře|We stayed in a cheap backpacker hostel.|B2
+roam|toulat se|We roamed the streets of Lisbon.|C1
+go sightseeing|jít na prohlídku města|We went sightseeing all day.|B2
+have itchy feet|nevydržet na jednom místě|After a year at home I've got itchy feet.|C1
+set off|vyrazit|We set off at dawn.|B1+
+get delayed|mít zpoždění|Our flight got delayed.|B1+
+check in online|odbavit se online|You can check in online.|B1+
+hand luggage|příruční zavazadlo|I only took hand luggage.|B1+
+book in advance|rezervovat předem|It's cheaper to book in advance.|B1+
+a package holiday|zájezd|We went on a package holiday to Crete.|B1+
+go on a day trip|jet na jednodenní výlet|We went on a day trip to Vienna.|B1+
+the locals|místní|Ask the locals for advice.|B1+
+get lost|zabloudit|We got lost in the old town.|B1+
+sightseeing tour|vyhlídková prohlídka|We took a sightseeing tour by boat.|B1+

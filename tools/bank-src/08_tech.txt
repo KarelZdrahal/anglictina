@@ -1,41 +1,51 @@
 #Technology & internet|Technologie a internet
-device|zařízení|You can use the app on any device.|B1
-download|stáhnout|Download the app for free.|B1
-upload|nahrát (na internet)|I uploaded the photos.|B1
-install|nainstalovat|I need to install an update.|B1
-update|aktualizace; aktualizovat|Update your software regularly.|B1
-log in|přihlásit se|Log in with your email.|B1
-password|heslo|Don't share your password.|A2
-account|účet|Create a free account.|B1
-settings|nastavení|Change the language in settings.|B1
-screen|obrazovka|My phone screen is broken.|A2
-charger|nabíječka|Have you got a phone charger?|B1
-battery|baterie|My battery is almost dead.|B1
-crash|spadnout (program)|My computer keeps crashing.|B1
-backup|záloha|Always make a backup of your files.|B2
-browser|prohlížeč|Which browser do you use?|B1
-search engine|vyhledávač|Google is the most popular search engine.|B1
-attachment|příloha|I've sent the file as an attachment.|B1
-wireless|bezdrátový|Wireless headphones are very practical.|B1
-artificial intelligence|umělá inteligence|Artificial intelligence is changing many jobs.|B2
-user-friendly|uživatelsky přívětivý|The website is very user-friendly.|B2
-cutting-edge|špičkový, nejmodernější|They use cutting-edge technology.|C1
-outdated|zastaralý|My laptop is completely outdated.|B2
-gadget|technická vychytávka|He loves new gadgets.|B1
-keyboard|klávesnice|I spilled coffee on my keyboard.|A2
-hack|hacknout|Someone hacked my email account.|B2
-privacy|soukromí|Social media can be a risk to your privacy.|B2
-data|data, údaje|The app collects personal data.|B1
-online|online, na internetu|I do most of my shopping online.|A2
-offline|offline, bez připojení|This app works offline.|B1
-stream|streamovat|We streamed the match on my laptop.|B2
-subscribe|předplatit si, odebírat|Subscribe to our newsletter.|B2
-notification|oznámení|Turn off notifications at night.|B2
-screen time|čas u obrazovky|Children need limits on screen time.|B2
-tech-savvy|technicky zdatný|My grandma is surprisingly tech-savvy.|C1
-troubleshoot|řešit (technický) problém|The IT team helped me troubleshoot the problem.|C1
-plug in|zapojit|Plug in the printer.|B1
-switch off|vypnout|Switch off your phone during the film.|B1
-restart|restartovat|Try restarting your computer.|B1
-virus|virus|My computer has got a virus.|B1
+cutting-edge|špičkový|They use cutting-edge technology.|C1
+state-of-the-art|nejmodernější|The lab is state-of-the-art.|C1
+obsolete|zastaralý|Fax machines are obsolete.|C1
+user-friendly|uživatelsky přívětivý|The app is very user-friendly.|B2
+tech-savvy|zdatný v technice|My kids are more tech-savvy than me.|C1
+glitch|závada, chyba|There was a glitch in the system.|C1
+bug|chyba v programu|The update fixes several bugs.|B2
+crash|spadnout (program)|My laptop keeps crashing.|B2
+freeze|zamrznout|The screen froze.|B2
+reboot|restartovat|Try rebooting the router.|C1
+back up|zálohovat|Always back up your files.|B2
+sync|synchronizovat|My phone syncs with my laptop.|B2
 cloud storage|cloudové úložiště|I keep my photos in cloud storage.|B2
+data breach|únik dat|The company suffered a data breach.|C1
+phishing|phishing, podvodné e-maily|Don't click on phishing links.|C1
+two-factor authentication|dvoufázové ověření|Turn on two-factor authentication.|C1
+encrypted|šifrovaný|The messages are encrypted.|C1
+go viral|stát se virálním|Her video went viral.|B2
+troll|internetový troll|Ignore the trolls.|B2
+screen time|čas u obrazovky|Limit your children's screen time.|B2
+digital detox|digitální detox|I'm doing a digital detox this weekend.|C1
+be glued to your phone|být přilepený k telefonu|He's always glued to his phone.|C1
+scroll through|projíždět|I scrolled through my feed.|B2
+binge-watch|sledovat seriál ve velkém|We binge-watched the whole series.|C1
+wearable tech|nositelná elektronika|Smartwatches are wearable tech.|C1
+algorithm|algoritmus|The algorithm decides what you see.|C1
+artificial intelligence|umělá inteligence|AI is transforming medicine.|B2
+automation|automatizace|Automation will replace many jobs.|C1
+breakthrough|průlom|It's a technological breakthrough.|C1
+early adopter|ten, kdo si novinky pořizuje první|He's an early adopter of new gadgets.|C1
+plug-in|plugin, doplněk|Install this browser plug-in.|C1
+bandwidth|šířka pásma; kapacita (i člověka)|I don't have the bandwidth for this project.|C1
+offline|offline|Download the maps to use them offline.|B2
+log off|odhlásit se|Remember to log off.|B2
+customise|přizpůsobit|You can customise the settings.|B2
+troubleshoot|řešit problémy|Let's troubleshoot the issue.|C1
+fake news|falešné zprávy|Fake news spreads fast.|B2
+cyberbullying|kyberšikana|Cyberbullying is a serious problem.|C1
+the digital divide|digitální propast|The pandemic widened the digital divide.|C1
+tech giant|technologický gigant|Tech giants dominate the market.|C1
+download|stáhnout|Download the app for free.|B1+
+install|nainstalovat|Install the latest update.|B1+
+update|aktualizace; aktualizovat|My phone needs an update.|B1+
+log in|přihlásit se|Log in with your password.|B1+
+a password|heslo|Choose a strong password.|B1+
+charge your phone|nabít telefon|I need to charge my phone.|B1+
+run out of battery|vybít se (baterie)|My phone ran out of battery.|B1+
+online shopping|nakupování online|I do a lot of online shopping.|B1+
+a search engine|vyhledávač|Use a search engine to find it.|B1+
+social media|sociální sítě|I spend too much time on social media.|B1+

@@ -1,41 +1,51 @@
 #Nature & environment|Příroda a životní prostředí
-environment|životní prostředí|We must protect the environment.|B1
-pollution|znečištění|Air pollution is a big problem in cities.|B1
-climate change|klimatická změna|Climate change affects everyone.|B1
-global warming|globální oteplování|Global warming is melting the ice.|B1
-recycle|recyklovat|We recycle paper and plastic.|B1
-waste|odpad; plýtvat|Don't waste water.|B1
-rubbish|odpadky|Take the rubbish out, please.|B1
-renewable energy|obnovitelná energie|Solar power is a renewable energy source.|B2
-fossil fuels|fosilní paliva|We need to stop burning fossil fuels.|B2
 carbon footprint|uhlíková stopa|Flying increases your carbon footprint.|B2
-endangered species|ohrožený druh|Tigers are an endangered species.|B2
-extinct|vyhynulý|Dinosaurs are extinct.|B1
-wildlife|divoká zvířata a rostliny|The park is full of wildlife.|B1
-habitat|přirozené prostředí|Forests are the habitat of many animals.|B2
-deforestation|odlesňování|Deforestation destroys ecosystems.|C1
-drought|sucho|The drought lasted three months.|B2
-flood|povodeň|The flood damaged many houses.|B1
-storm|bouřka, bouře|There was a big storm last night.|A2
-heatwave|vlna veder|Europe had a terrible heatwave.|B2
-earthquake|zemětřesení|The earthquake destroyed the town.|B1
-natural disaster|přírodní katastrofa|Floods are the most common natural disaster.|B1
-sustainable|udržitelný|We need a more sustainable lifestyle.|B2
-eco-friendly|šetrný k přírodě|This is an eco-friendly product.|B2
-reduce|snížit|We must reduce our energy use.|B1
-reuse|znovu použít|Reuse your shopping bags.|B1
-single-use plastic|jednorázový plast|The EU has banned some single-use plastic.|B2
-countryside|venkov, krajina|I prefer the countryside to the city.|B1
-valley|údolí|The village lies in a beautiful valley.|B1
-coast|pobřeží|We drove along the coast.|B1
-stream|potok|We walked along a stream.|B1
-cliff|útes|The house stands on a cliff above the sea.|B2
-pond|rybník|There are ducks in the pond.|B1
-soil|půda, hlína|The soil here is very good for wine.|B2
-protect|chránit|This area is protected by law.|B1
-threaten|ohrožovat|Pollution threatens wildlife.|B2
-emissions|emise|Car emissions are bad for our health.|B2
-organic|bio, ekologický|I buy organic vegetables.|B1
-greenhouse gases|skleníkové plyny|Cows produce a lot of greenhouse gases.|B2
-melt|tát|The glaciers are melting.|B1
-scenery|scenérie, krajina|The scenery in Scotland is amazing.|B2
+carbon-neutral|uhlíkově neutrální|The company aims to be carbon-neutral by 2030.|C1
+renewable|obnovitelný|Wind is a renewable energy source.|B2
+fossil fuels|fosilní paliva|We must reduce our use of fossil fuels.|B2
+emissions|emise|Car emissions pollute the air.|B2
+deforestation|odlesňování|Deforestation threatens the rainforest.|C1
+biodiversity|biodiverzita|Pesticides reduce biodiversity.|C1
+endangered species|ohrožený druh|The snow leopard is an endangered species.|B2
+on the brink of extinction|na pokraji vyhynutí|Some species are on the brink of extinction.|C1
+habitat loss|ztráta přirozeného prostředí|Habitat loss is the biggest threat.|C1
+drought|sucho|Farmers are suffering from the drought.|B2
+flash flood|bleskové záplavy|A flash flood hit the valley.|C1
+wildfire|lesní požár|Wildfires destroyed thousands of hectares.|B2
+scorching|rozpálený, úmorný|It was a scorching day.|C1
+torrential rain|přívalový déšť|Torrential rain caused floods.|C1
+landfill|skládka|Most plastic ends up in landfill.|C1
+compost|kompost; kompostovat|We compost our food waste.|B2
+upcycle|přetvořit na něco hodnotnějšího|She upcycles old furniture.|C1
+single-use|jednorázový|Ban single-use plastics!|B2
+sustainable|udržitelný|We need sustainable farming.|B2
+eco-friendly|šetrný k přírodě|Choose eco-friendly products.|B2
+greenwashing|zelené mytí (falešná ekologičnost)|That advert is pure greenwashing.|C1
+offset|kompenzovat|You can offset your flight emissions.|C1
+melt away|roztát|The glaciers are melting away.|B2
+rising sea levels|stoupající hladina moří|Rising sea levels threaten coastal cities.|C1
+the greenhouse effect|skleníkový efekt|CO2 increases the greenhouse effect.|B2
+conservation|ochrana přírody|She works in wildlife conservation.|C1
+nature reserve|přírodní rezervace|The lake is a nature reserve.|B2
+lush|bujný, svěže zelený|We walked through lush valleys.|C1
+barren|pustý, neúrodný|The landscape is barren and rocky.|C1
+rugged|drsný, členitý|The coast is rugged and wild.|C1
+dense forest|hustý les|They got lost in the dense forest.|B2
+take its toll|vybrat si svou daň|The drought has taken its toll on crops.|C1
+wipe out|vyhubit|The disease wiped out the population.|B2
+run out of|dojít (zásoby)|We're running out of clean water.|B2
+cut down|kácet|They cut down the old trees.|B2
+throwaway society|společnost jednorázového zboží|We live in a throwaway society.|C1
+climate crisis|klimatická krize|The climate crisis is getting worse.|B2
+environmentally conscious|ekologicky uvědomělý|Young people are more environmentally conscious.|C1
+leave no trace|nezanechat stopy (v přírodě)|When camping, leave no trace.|C1
+recycle|recyklovat|We recycle all our plastic.|B1+
+waste|odpad; plýtvat|Don't waste water.|B1+
+pollution|znečištění|Air pollution is a big problem.|B1+
+protect the environment|chránit životní prostředí|We should all protect the environment.|B1+
+global warming|globální oteplování|Global warming affects us all.|B1+
+a heatwave|vlna veder|There was a heatwave in July.|B1+
+a storm|bouře|The storm damaged our roof.|B1+
+the countryside|venkov|I love walking in the countryside.|B1+
+wildlife|volně žijící zvířata|The park is full of wildlife.|B1+
+save energy|šetřit energii|Turn off the lights to save energy.|B1+

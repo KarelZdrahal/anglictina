@@ -1,41 +1,51 @@
 #Science & research|Věda a výzkum
-research|výzkum; zkoumat|Research shows that sleep improves memory.|B1
-scientist|vědec|Scientists have discovered a new planet.|B1
-experiment|experiment, pokus|They did an experiment in the lab.|B1
-laboratory|laboratoř|She works in a laboratory.|B1
-discover|objevit|Who discovered penicillin?|B1
-discovery|objev|It was an important discovery.|B1
-invent|vynalézt|Who invented the telephone?|B1
-invention|vynález|The wheel was a great invention.|B1
-theory|teorie|Darwin's theory of evolution|B1
-prove|dokázat|Can you prove it?|B1
-evidence|důkaz|There's no evidence that it works.|B2
-result|výsledek|The results were surprising.|B1
-data|data|We collected data from 500 people.|B1
-survey|průzkum (dotazník)|A survey found that most people sleep too little.|B2
-analyse|analyzovat|Scientists analysed the samples.|B2
-conclusion|závěr|What conclusion did they reach?|B2
-breakthrough|průlom|It was a breakthrough in cancer research.|C1
-space|vesmír|Would you like to travel to space?|B1
-planet|planeta|Mars is the fourth planet from the sun.|A2
-astronaut|astronaut|The astronauts returned safely.|B1
-gravity|gravitace|Gravity keeps us on the ground.|B2
-genetic|genetický|Some diseases are genetic.|B2
-vaccine|vakcína|The vaccine was developed quickly.|B2
-cure|lék; vyléčit|There's no cure for the common cold.|B2
-brain|mozek|The human brain is amazing.|B1
-species|druh|Scientists found a new species of frog.|B2
-the human body|lidské tělo|The human body is 60% water.|B1
-microscope|mikroskop|Look at it under the microscope.|B1
-develop|vyvinout|They're developing a new medicine.|B1
-test|testovat; test|The drug was tested on volunteers.|B1
-study|studie|A new study suggests that coffee is healthy.|B1
-expert|odborník|Experts disagree on this.|B1
-robot|robot|Robots do many jobs in factories.|A2
-solar system|sluneční soustava|There are eight planets in our solar system.|B1
-chemical|chemická látka; chemický|Some chemicals are dangerous.|B2
-measure|měřit|We measured the temperature every hour.|B1
-predict|předpovědět|It's hard to predict the future.|B2
-artificial|umělý|The flowers are artificial.|B2
-progress|pokrok|Science has made huge progress.|B1
-scientific|vědecký|There's no scientific proof.|B2
+breakthrough|průlom|It's a major medical breakthrough.|C1
+groundbreaking|převratný|Her research is groundbreaking.|C1
+carry out research|provádět výzkum|They carried out research on sleep.|B2
+conduct an experiment|provést pokus|We conducted an experiment.|C1
+a hypothesis|hypotéza|The results support the hypothesis.|C1
+findings|zjištění|The findings were published in Nature.|C1
+draw a conclusion|vyvodit závěr|It's too early to draw conclusions.|B2
+peer-reviewed|recenzovaný (odborně)|It's a peer-reviewed journal.|C1
+a sample|vzorek|They tested a sample of 500 people.|B2
+a control group|kontrolní skupina|The control group got a placebo.|C1
+placebo|placebo|The placebo had a surprising effect.|C1
+clinical trial|klinická studie|The drug is in clinical trials.|C1
+side effect|vedlejší účinek|Are there any side effects?|B2
+evidence-based|založený na důkazech|We need evidence-based policy.|C1
+correlation|korelace|Correlation is not causation.|C1
+statistically significant|statisticky významný|The difference was statistically significant.|C1
+data set|soubor dat|They analysed a huge data set.|C1
+cutting-edge research|špičkový výzkum|The lab does cutting-edge research.|C1
+pioneer|průkopník|She was a pioneer of genetics.|C1
+shed light on|vrhnout světlo na|The study sheds light on memory.|C1
+in its infancy|v plenkách|The technology is still in its infancy.|C1
+funding|financování|The project lost its funding.|B2
+a grant|grant|They received a research grant.|C1
+replicate|zopakovat (pokus)|Other scientists couldn't replicate the results.|C1
+debunk|vyvrátit (mýtus)|Scientists debunked the myth.|C1
+gene editing|genové editace|Gene editing raises ethical questions.|C1
+genetically modified|geneticky modifikovaný|Genetically modified crops|C1
+ethical concerns|etické obavy|There are ethical concerns about cloning.|C1
+space exploration|výzkum vesmíru|Space exploration is expensive.|B2
+launch|vypustit (raketu)|They launched a new satellite.|B2
+orbit|obíhat; oběžná dráha|The station orbits the Earth.|C1
+renewable resources|obnovitelné zdroje|We must use renewable resources.|C1
+trial and error|metoda pokus–omyl|We learned by trial and error.|C1
+a eureka moment|okamžik prozření|I had a eureka moment in the shower.|C1
+rule out|vyloučit|We can't rule out a link.|C1
+come up with|přijít s|They came up with a new theory.|B2
+look into|prošetřit|Scientists are looking into the cause.|B2
+find out|zjistit|We need to find out why.|B2
+point to|naznačovat, ukazovat na|The data point to a clear trend.|C1
+pave the way for|připravit cestu pro|The discovery paved the way for new drugs.|C1
+an experiment|pokus|We did an experiment in class.|B1+
+a scientist|vědec|Scientists have found a new planet.|B1+
+discover|objevit|Who discovered penicillin?|B1+
+invent|vynalézt|Who invented the radio?|B1+
+a laboratory|laboratoř|She works in a laboratory.|B1+
+results|výsledky|The results were surprising.|B1+
+prove|dokázat|Can you prove it?|B1+
+a theory|teorie|It's just a theory.|B1+
+research|výzkum|More research is needed.|B1+
+a survey|průzkum|A survey shows people sleep less.|B1+

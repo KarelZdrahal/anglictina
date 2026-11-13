@@ -1,41 +1,51 @@
 #Culture & the arts|Kultura a umění
-exhibition|výstava|There's a new exhibition at the gallery.|B1
-gallery|galerie|We visited the National Gallery.|B1
-painting|obraz, malba|This painting is worth millions.|B1
-sculpture|socha|The park has several modern sculptures.|B2
-artist|umělec|She's a talented artist.|A2
-performance|představení, výkon|The performance lasted three hours.|B1
-audience|publikum|The audience loved the show.|B1
-stage|jeviště|The actors came back on stage.|B1
-play|divadelní hra|We saw a play by Shakespeare.|A2
-musical|muzikál|Have you seen the musical Cats?|B1
-plot|děj|The plot was hard to follow.|B1
-character|postava|The main character is a young doctor.|B1
-director|režisér|Who is the director of this film?|B1
-cast|obsazení|The film has a great cast.|B2
-soundtrack|filmová hudba|I love the soundtrack of this film.|B2
-subtitles|titulky|I watch films with English subtitles.|B1
-novel|román|Her latest novel is a bestseller.|B1
-author|autor|Who's the author of this book?|B1
-poem|báseň|He wrote a poem for her.|B1
-bestseller|bestseller|The book became a bestseller.|B2
-masterpiece|mistrovské dílo|The film is a masterpiece.|B2
-moving|dojemný|It was a very moving story.|B2
-gripping|napínavý, strhující|The book is absolutely gripping.|C1
+gripping|napínavý, strhující|It's a gripping thriller.|C1
+thought-provoking|podnětný, nutící k zamyšlení|The film is thought-provoking.|C1
+moving|dojemný|It's a deeply moving story.|B2
+overrated|přeceňovaný|I think the book is overrated.|C1
+underrated|nedoceněný|It's an underrated masterpiece.|C1
+far-fetched|přitažený za vlasy|The plot is a bit far-fetched.|C1
 predictable|předvídatelný|The ending was predictable.|B2
-overrated|přeceňovaný|I think that film is overrated.|C1
-recommend|doporučit|I can recommend this book.|B1
-get tickets|sehnat lístky|We got tickets for the concert.|B1
-sold out|vyprodaný|The concert is sold out.|B1
-band|kapela|What's your favourite band?|A2
-lyrics|text písně|I don't understand the lyrics.|B2
-album|album|Their new album comes out in May.|B1
-festival|festival|We go to a music festival every summer.|B1
-heritage|dědictví|Prague is part of UNESCO World Heritage.|C1
-tradition|tradice|It's an old Czech tradition.|B1
-custom|zvyk|Every country has different customs.|B1
-review|recenze|The play got terrible reviews.|B1
-critic|kritik|The critics loved it.|B2
-premiere|premiéra|The premiere is next Friday.|B2
-applause|potlesk|There was loud applause at the end.|B2
-entertaining|zábavný|The show was very entertaining.|B1
+a page-turner|kniha, od které se nedá odtrhnout|Her new novel is a real page-turner.|C1
+can't put it down|nemůžu se od toho odtrhnout|I couldn't put the book down.|B2
+a cliffhanger|napínavý konec (dílu)|The episode ended on a cliffhanger.|C1
+plot twist|dějový zvrat|There's a great plot twist.|C1
+spoiler|prozrazení děje|No spoilers, please!|B2
+critically acclaimed|kritikou oceňovaný|It's a critically acclaimed film.|C1
+box-office hit|kasovní trhák|The film was a box-office hit.|C1
+a flop|propadák|The musical was a flop.|C1
+rave reviews|nadšené recenze|The play got rave reviews.|C1
+sold-out|vyprodaný|The tour is sold out.|B2
+standing ovation|potlesk vestoje|They got a standing ovation.|C1
+encore|přídavek|The band played two encores.|C1
+in the limelight|v centru pozornosti|She enjoys being in the limelight.|C1
+up-and-coming artist|nadějný umělec|He's an up-and-coming artist.|C1
+masterpiece|mistrovské dílo|It's considered a masterpiece.|B2
+a must-see|něco, co musíte vidět|The exhibition is a must-see.|C1
+highbrow|intelektuální, náročný|It's quite a highbrow programme.|C1
+lowbrow|nenáročný, lidový|I enjoy lowbrow comedy.|C1
+avant-garde|avantgardní|An avant-garde theatre group|C1
+portray|ztvárnit, vylíčit|He portrays a lonely detective.|C1
+be set in|odehrávat se v|The story is set in Victorian London.|B2
+based on a true story|podle skutečné události|The film is based on a true story.|B2
+the sequel|pokračování|The sequel was disappointing.|B2
+adaptation|adaptace|It's an adaptation of a novel.|C1
+cultural heritage|kulturní dědictví|We must protect our cultural heritage.|C1
+a cult classic|kultovní dílo|It's become a cult classic.|C1
+catchy|chytlavý|It's a really catchy song.|B2
+grow on you|postupně se zalíbit|The album grows on you.|C1
+strike a chord|zarezonovat|Her words struck a chord with me.|C1
+take centre stage|dostat se do popředí|Climate took centre stage at the festival.|C1
+a stage fright|tréma|She suffers from stage fright.|C1
+behind the scenes|v zákulisí|We got a tour behind the scenes.|B2
+bring sth to life|oživit|The actors brought the story to life.|C1
+an exhibition|výstava|There's a new exhibition at the gallery.|B1+
+the plot|děj|The plot is very complicated.|B1+
+the main character|hlavní postava|The main character is a doctor.|B1+
+a novel|román|I'm reading a novel by Kundera.|B1+
+subtitles|titulky|I watch films with subtitles.|B1+
+recommend|doporučit|Can you recommend a good book?|B1+
+a performance|představení, výkon|Her performance was excellent.|B1+
+the audience|publikum|The audience loved it.|B1+
+book tickets|zarezervovat lístky|I booked tickets for the concert.|B1+
+a happy ending|šťastný konec|I like films with a happy ending.|B1+

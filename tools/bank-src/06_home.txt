@@ -1,41 +1,51 @@
 #Home & housing|Bydlení a domov
-rent|nájem; pronajmout si|The rent is due on the first of the month.|B1
-landlord|pronajímatel|Our landlord is very nice.|B1
-tenant|nájemník|The tenants complained about the heating.|B2
-flatmate|spolubydlící|I share a flat with two flatmates.|B1
-move house|stěhovat se|We're moving house next month.|B1
-neighbourhood|čtvrť, okolí|It's a quiet neighbourhood.|B1
-suburbs|předměstí|They live in the suburbs.|B1
-detached house|samostatně stojící dům|They bought a detached house with a garden.|B2
-semi-detached house|dvojdům|We live in a semi-detached house.|B2
-terraced house|řadový dům|Terraced houses are typical in England.|B2
-block of flats|panelák, činžovní dům|I grew up in a block of flats.|B1
-spacious|prostorný|The living room is very spacious.|B2
-cosy|útulný|What a cosy little flat!|B1
-cramped|stísněný|The kitchen is a bit cramped.|B2
-furnished|zařízený (nábytkem)|The flat is fully furnished.|B1
-utility bills|účty za energie|Utility bills are included in the rent.|B2
-heating|topení|The heating doesn't work.|B1
-leak|únik, protékat|There's a leak in the bathroom.|B2
-repair|opravit; oprava|The landlord should repair the boiler.|B1
-decorate|vymalovat, vyzdobit|We're decorating the bedroom.|B1
-do up|zrekonstruovat|They're doing up an old farmhouse.|B2
-housework|domácí práce|I hate doing housework.|B1
-do the washing-up|umýt nádobí|It's your turn to do the washing-up.|B1
-hoover|vysávat|I hoover the flat every Saturday.|B1
-tidy up|uklidit|Please tidy up your room.|B1
-mess|nepořádek|What a mess!|B1
-cupboard|skříňka|The cups are in the cupboard.|A2
-drawer|zásuvka|The keys are in the top drawer.|B1
-shelf|police|Put the books on the shelf.|B1
-balcony|balkon|We have breakfast on the balcony.|A2
-attic|půda, podkroví|We keep old things in the attic.|B1
-basement|suterén, sklep|The washing machine is in the basement.|B1
-doorbell|zvonek|The doorbell rang.|B1
-view|výhled|The flat has a great view of the river.|B1
-noisy|hlučný|The street is very noisy at night.|B1
-property|nemovitost|Property prices are rising.|B2
-estate agent|realitní makléř|The estate agent showed us three flats.|B2
-deposit|kauce; záloha|We paid a two-month deposit.|B2
+do up|zrenovovat, opravit|They're doing up an old cottage.|B2
+cramped|stísněný|The flat is a bit cramped.|B2
+spacious|prostorný|It's a spacious three-bedroom flat.|B2
+poky|těsný, malý (místnost)|My first room was a poky little box.|C1
+draughty|kde táhne|Old houses can be draughty.|C1
+damp|vlhký, plesnivý|The basement is damp.|B2
+run-down|zchátralý|They bought a run-down farmhouse.|B2
+well-maintained|dobře udržovaný|The garden is well-maintained.|B2
+up-and-coming|rozvíjející se (čtvrť)|It's an up-and-coming area.|C1
+gentrification|gentrifikace|Gentrification has pushed rents up.|C1
+commuter belt|satelitní městečka kolem velkého města|They live in the commuter belt.|C1
+landlord|pronajímatel|My landlord refuses to fix the heating.|B2
+tenancy agreement|nájemní smlouva|Read the tenancy agreement carefully.|C1
+evict|vystěhovat (soudně)|They were evicted for not paying rent.|C1
+get on the property ladder|pořídit si první nemovitost|It's hard for young people to get on the property ladder.|C1
+move in|nastěhovat se|We moved in last week.|B2
+move out|odstěhovat se|When are you moving out?|B2
 settle in|zabydlet se|Have you settled in yet?|B2
-homesick|stýskající se po domově|I was homesick during my first month abroad.|B1
+downsize|přestěhovat se do menšího|After the kids left, they downsized.|C1
+house-warming party|kolaudační večírek|We're having a house-warming party.|B2
+put up shelves|pověsit police|I need to put up some shelves.|B2
+DIY|kutilství, udělej si sám|He loves DIY.|B2
+clutter|nepořádek, harampádí|I need to get rid of the clutter.|C1
+declutter|zbavit se zbytečností|I spent the weekend decluttering.|C1
+tidy up|uklidit|Tidy up before the guests arrive.|B2
+do the chores|dělat domácí práce|We take turns doing the chores.|B2
+leaky tap|kapající kohoutek|We've got a leaky tap in the kitchen.|C1
+blocked drain|ucpaný odpad|The plumber fixed the blocked drain.|C1
+fuse|pojistka|A fuse has blown.|C1
+boiler|kotel|The boiler broke down.|B2
+utility bills|účty za energie|Utility bills have gone up.|B2
+open-plan|otevřený (prostor bez příček)|We have an open-plan kitchen.|C1
+en suite|s vlastní koupelnou|The bedroom has an en suite bathroom.|C1
+loft conversion|vestavba do podkroví|We're planning a loft conversion.|C1
+feel at home|cítit se jako doma|Make yourself at home.|B2
+homely|útulný, domácký|The hotel has a homely atmosphere.|C1
+nosy neighbour|zvědavý soused|Our nosy neighbour watches everything.|B2
+noise complaint|stížnost na hluk|We got a noise complaint.|B2
+house-sit|hlídat dům (v nepřítomnosti majitele)|I'm house-sitting for my aunt.|C1
+mortgage repayments|splátky hypotéky|Our mortgage repayments are high.|C1
+rent a flat|pronajmout si byt|We rent a flat in the centre.|B1+
+share a flat|bydlet ve sdíleném bytě|I share a flat with two students.|B1+
+flatmate|spolubydlící|My flatmate is very tidy.|B1+
+neighbourhood|čtvrť, okolí|It's a quiet neighbourhood.|B1+
+furnished|zařízený|The flat is fully furnished.|B1+
+do the housework|uklízet, dělat domácí práce|I do the housework on Saturdays.|B1+
+the suburbs|předměstí|They moved to the suburbs.|B1+
+a view of|výhled na|We have a view of the river.|B1+
+the heating|topení|The heating isn't working.|B1+
+redecorate|vymalovat, předělat|We're redecorating the kitchen.|B1+

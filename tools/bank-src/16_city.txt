@@ -1,41 +1,51 @@
 #City & transport|Město a doprava
-traffic jam|dopravní zácpa|We were stuck in a traffic jam.|B1
-rush hour|dopravní špička|Avoid the metro during rush hour.|B1
-public transport|veřejná doprava|Public transport in Prague is excellent.|B1
-pedestrian|chodec|This street is for pedestrians only.|B2
-crossroads|křižovatka|Turn left at the crossroads.|B1
-traffic lights|semafor|Stop at the traffic lights.|A2
-roundabout|kruhový objezd|Take the second exit at the roundabout.|B2
-pavement|chodník|Don't ride your bike on the pavement.|B1
-cycle lane|cyklostezka (ve městě)|The city has built new cycle lanes.|B2
-parking space|parkovací místo|I couldn't find a parking space.|B1
-get on|nastoupit|Get on the bus at the main station.|A2
-get off|vystoupit|Get off at the next stop.|A2
-change trains|přestoupit (na vlak)|You have to change trains in Brno.|B1
-platform|nástupiště|The train leaves from platform 4.|B1
-timetable|jízdní řád|Check the bus timetable online.|B1
-fare|jízdné|Bus fares went up again.|B2
-season ticket|časová jízdenka|I've got a monthly season ticket.|B2
-commuter|dojíždějící|The train is full of commuters.|B2
-give sb a lift|svézt někoho|Can you give me a lift to the station?|B1
-pick sb up|vyzvednout někoho|I'll pick you up at seven.|B1
-drop sb off|vysadit někoho|Can you drop me off at the corner?|B2
-break down|porouchat se|Our car broke down on the motorway.|B1
-motorway|dálnice|Take the motorway to Brno.|B1
-speed limit|rychlostní limit|The speed limit here is 50.|B1
-driving licence|řidičský průkaz|I got my driving licence at 18.|B1
-town hall|radnice|The town hall is in the main square.|B1
-square|náměstí|Let's meet in the square.|A2
-outskirts|okraj (města)|They live on the outskirts of Prague.|B2
-crowded|přeplněný|The tram was very crowded.|B1
-lively|živý, rušný|It's a lively area with lots of bars.|B2
-run-down|zchátralý|It used to be a run-down area.|C1
-residential area|obytná čtvrť|This is a quiet residential area.|B2
-underground|metro (BrE)|Take the underground to the centre.|B1
-taxi rank|stanoviště taxi|The taxi rank is outside the station.|B2
-get lost|zabloudit|We got lost in the old town.|B1
-directions|popis cesty|Can you give me directions to the museum?|B1
-go straight on|jít rovně|Go straight on and turn right.|A2
-opposite|naproti|The bank is opposite the post office.|A2
+gridlock|dopravní kolaps|The city was in total gridlock.|C1
+bumper-to-bumper|nárazník na nárazník|Traffic was bumper-to-bumper.|C1
+congestion charge|poplatek za vjezd do centra|London has a congestion charge.|C1
+rush hour|dopravní špička|Avoid the rush hour.|B2
+commute|dojíždět; dojíždění|My commute takes an hour.|B2
+packed like sardines|namačkaní jako sardinky|We were packed like sardines on the train.|C1
+a hold-up|zdržení|There's a hold-up on the motorway.|C1
+a diversion|objížďka|Follow the diversion signs.|C1
+roadworks|práce na silnici|There are roadworks on the bridge.|B2
+pull over|zastavit u kraje|The police told him to pull over.|B2
+pull out|vyjet (z řady)|A car pulled out in front of me.|C1
+run a red light|projet na červenou|He ran a red light.|C1
+speed camera|radar|I was caught by a speed camera.|B2
+penalty points|trestné body|I got three penalty points.|C1
+pedestrianised|pěší (zóna)|The centre is pedestrianised.|C1
+urban sprawl|nekontrolované rozrůstání města|Urban sprawl destroys the countryside.|C1
+inner city|chudší centrální čtvrti|Inner-city schools need more money.|C1
+outskirts|okraj města|They live on the outskirts.|B2
+built-up area|zastavěná oblast|The speed limit in built-up areas is 50.|C1
+vibrant|živý, pulzující|It's a vibrant neighbourhood.|C1
+run-down|zanedbaný|The station area is run-down.|B2
+up-market|luxusní|It's an up-market area.|C1
+the hustle and bustle|ruch a shon|I miss the hustle and bustle of the city.|C1
+amenities|vybavenost (obchody, služby)|The area has good amenities.|C1
+infrastructure|infrastruktura|The city needs better infrastructure.|C1
+car-sharing|sdílení aut|Car-sharing is popular in Prague.|C1
 within walking distance|v docházkové vzdálenosti|Everything is within walking distance.|B2
-congestion|přetížení dopravy|Congestion is a big problem in the centre.|C1
+miss the connection|nestihnout přípoj|We missed our connection in Vienna.|B2
+get stuck in traffic|uvíznout v zácpě|I got stuck in traffic.|B2
+hail a taxi|mávnout na taxi|She hailed a taxi.|C1
+give sb a lift|svézt někoho|Can you give me a lift?|B2
+drop sb off|vysadit někoho|Drop me off at the station.|B2
+pick sb up|vyzvednout někoho|I'll pick you up at six.|B2
+off-peak|mimo špičku|Off-peak tickets are cheaper.|C1
+season ticket|časová jízdenka|I bought an annual season ticket.|B2
+cycle-friendly|vstřícný k cyklistům|Amsterdam is very cycle-friendly.|C1
+road rage|agresivita za volantem|Road rage is a growing problem.|C1
+a near miss|těsně odvrácená nehoda|We had a near miss at the junction.|C1
+noise pollution|hlukové znečištění|Noise pollution affects sleep.|C1
+the concrete jungle|betonová džungle|I need to escape the concrete jungle.|C1
+public transport|veřejná doprava|Public transport here is great.|B1+
+a traffic jam|dopravní zácpa|We were stuck in a traffic jam.|B1+
+a parking space|parkovací místo|I can't find a parking space.|B1+
+get on|nastoupit|Get on the bus here.|B1+
+get off|vystoupit|Get off at the next stop.|B1+
+change trains|přestoupit|Change trains in Brno.|B1+
+a pedestrian zone|pěší zóna|The square is a pedestrian zone.|B1+
+a crossroads|křižovatka|Turn left at the crossroads.|B1+
+ask for directions|zeptat se na cestu|Let's ask for directions.|B1+
+crowded|přeplněný|The tram was very crowded.|B1+

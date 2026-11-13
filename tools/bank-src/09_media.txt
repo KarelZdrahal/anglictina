@@ -1,41 +1,51 @@
 #Media & news|Média a zprávy
-headline|titulek|Did you see the headlines this morning?|B1
-article|článek|I read an interesting article about sleep.|B1
-journalist|novinář|She works as a journalist.|B1
-newspaper|noviny|I don't buy newspapers anymore.|A2
-broadcast|vysílat; vysílání|The match will be broadcast live.|B2
-live|živě, v přímém přenosu|The concert was shown live on TV.|B1
-channel|kanál, program|What's on the other channel?|B1
-advert|reklama|There are too many adverts on TV.|B1
-social media|sociální sítě|I spend too much time on social media.|B1
-post|příspěvek; zveřejnit|Her post got thousands of likes.|B1
-share|sdílet|Share the link with your friends.|B1
-follower|sledující|He has a million followers.|B1
-influencer|influencer|Influencers are paid to promote products.|B2
-go viral|stát se virálním|The video went viral overnight.|B2
-fake news|falešné zprávy|Fake news spreads quickly online.|B2
-reliable source|spolehlivý zdroj|Wikipedia is not always a reliable source.|B2
-biased|zaujatý|The report was clearly biased.|C1
-coverage|zpravodajství (o něčem)|The coverage of the election was excellent.|C1
-current affairs|aktuální dění|She's interested in current affairs.|B2
-press|tisk, novináři|The press were waiting outside.|B2
-interview|rozhovor|The interview was published yesterday.|B1
-podcast|podcast|I listen to podcasts on the way to work.|B1
-documentary|dokument (film)|We watched a documentary about whales.|B1
-series|seriál|Have you seen the new series?|B1
-episode|díl, epizoda|I watched three episodes in a row.|B1
-review|recenze|The film got great reviews.|B1
-celebrity|celebrita|Celebrities often complain about the press.|B1
-gossip|drby|I don't read celebrity gossip.|B2
-breaking news|nejnovější zprávy|Breaking news: the minister has resigned.|B2
-report|zpráva, reportáž; informovat|The BBC reported the story first.|B1
-spread|šířit (se)|Rumours spread fast.|B1
-the public|veřejnost|The public has a right to know.|B2
-censorship|cenzura|There's strict censorship in some countries.|C1
-scroll through|projíždět (stránku, telefon)|I scrolled through the news on my phone.|B2
-clickbait|lákavý titulek bez obsahu|That headline is pure clickbait.|C1
-subscriber|předplatitel, odběratel|The channel has 50,000 subscribers.|B2
-publish|publikovat, vydat|The book was published in 2020.|B1
-editor|redaktor|The editor rejected my article.|B2
-caption|popisek (u obrázku)|Write a short caption for the photo.|B2
-trending|populární, v trendu|What's trending on Twitter today?|B2
+hit the headlines|dostat se na titulní stránky|The scandal hit the headlines.|C1
+make the news|dostat se do zpráv|The story made the national news.|B2
+breaking news|horká novinka|We interrupt this programme with breaking news.|B2
+in-depth coverage|podrobné zpravodajství|The paper offers in-depth coverage.|C1
+biased|zaujatý|The report is clearly biased.|C1
+impartial|nestranný|The BBC aims to be impartial.|C1
+sensationalist|bulvární, senzacechtivý|Tabloids are often sensationalist.|C1
+tabloid|bulvární deník|I never read the tabloids.|B2
+broadsheet|seriózní deník|She writes for a broadsheet.|C1
+leak|vyzradit (informaci)|Someone leaked the documents to the press.|C1
+whistle-blower|oznamovatel (nekalých praktik)|The whistle-blower lost her job.|C1
+go to press|jít do tisku|The paper goes to press at midnight.|C1
+editorial|úvodník|The editorial criticised the government.|C1
+press conference|tisková konference|The minister held a press conference.|B2
+off the record|neoficiálně|He spoke off the record.|C1
+spin|účelové překroucení|That's just political spin.|C1
+clickbait|lákavý titulek bez obsahu|Ignore that clickbait.|C1
+echo chamber|informační bublina|Social media creates echo chambers.|C1
+misinformation|dezinformace (nezáměrné)|There's a lot of misinformation online.|C1
+fact-check|ověřit fakta|Always fact-check before you share.|C1
+media outlet|médium, zpravodajský kanál|Several media outlets reported the story.|C1
+coverage|zpravodajství, pokrytí|The election got wide coverage.|B2
+make a statement|učinit prohlášení|The company made a statement.|B2
+paparazzi|paparazzi|She was followed by paparazzi.|B2
+invasion of privacy|zásah do soukromí|It's an invasion of privacy.|C1
+public figure|veřejně známá osoba|Public figures face constant scrutiny.|C1
+scrutiny|důkladné zkoumání, drobnohled|The plan is under scrutiny.|C1
+gossip column|rubrika drbů|I read it in the gossip column.|B2
+prime time|hlavní vysílací čas|The show is on at prime time.|C1
+ratings|sledovanost|The show's ratings dropped.|B2
+air|vysílat|The documentary airs on Sunday.|C1
+cover a story|zpracovat (reportáž o) příběhu|She covered the story from Kyiv.|B2
+get wind of|dozvědět se (o něčem tajném)|The press got wind of the deal.|C1
+hype|humbuk|The film didn't live up to the hype.|B2
+live up to|dostát (očekávání)|The sequel didn't live up to expectations.|B2
+go public|zveřejnit; vstoupit na burzu|She went public with her story.|C1
+the mainstream media|hlavní média|The mainstream media ignored it.|C1
+influencer marketing|influencer marketing|Brands spend millions on influencer marketing.|C1
+sponsored content|placený obsah|This post is sponsored content.|C1
+skim through|zběžně pročíst|I skimmed through the paper.|B2
+a headline|titulek|Did you see the headline?|B1+
+an article|článek|I read an interesting article.|B1+
+a journalist|novinář|She works as a journalist.|B1+
+the news|zprávy|I watch the news every evening.|B1+
+a documentary|dokument|We watched a documentary about whales.|B1+
+a series|seriál|What series are you watching?|B1+
+an episode|díl|I watched three episodes in a row.|B1+
+a podcast|podcast|I listen to podcasts on the bus.|B1+
+an advert|reklama|There are too many adverts.|B1+
+a review|recenze|The film got good reviews.|B1+

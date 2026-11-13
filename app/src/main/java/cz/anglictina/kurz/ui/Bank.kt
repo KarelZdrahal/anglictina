@@ -44,7 +44,7 @@ fun BankScreen(repo: Repository, version: Int, onBack: () -> Unit, onStart: (Int
     val learning = all.count { p.peek("w:" + it.id)?.learning == true }
     val todayNew = p.bankNewByDay[Progress.today()] ?: 0
 
-    Screen("Slovní zásoba bez omezení", onBack = { saveAll(); onBack() }) {
+    Screen("Rozšiřování slovní zásoby", onBack = { saveAll(); onBack() }) {
         Section {
             StatRow("umím" to "$mastered", "učím se" to "$learning", "celkem slov" to "${all.size}")
             Text("Dnes nových: $todayNew / ${perDay.toInt()}", style = MaterialTheme.typography.bodySmall)
@@ -57,7 +57,7 @@ fun BankScreen(repo: Repository, version: Int, onBack: () -> Unit, onStart: (Int
         Section("Úroveň") {
             FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 listOf("B1", "B2", "C1").forEach { l ->
-                    FilterChip(selected = l in levels, onClick = { levels = if (l in levels) levels - l else levels + l }, label = { Text(l) })
+                    FilterChip(selected = l in levels, onClick = { levels = if (l in levels) levels - l else levels + l }, label = { Text(if (l == "B1") "B1+" else l) })
                 }
             }
         }

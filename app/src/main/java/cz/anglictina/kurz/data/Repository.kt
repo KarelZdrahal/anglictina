@@ -19,7 +19,7 @@ class Settings(ctx: Context) {
     var reminderOn: Boolean get() = p.getBoolean("rem", true); set(v) = p.edit().putBoolean("rem", v).apply()
     var reminderHour: Int get() = p.getInt("remH", 19); set(v) = p.edit().putInt("remH", v).apply()
     var reminderMinute: Int get() = p.getInt("remM", 0); set(v) = p.edit().putInt("remM", v).apply()
-    var bankNewPerDay: Int get() = p.getInt("bankNew", 10); set(v) = p.edit().putInt("bankNew", v).apply()
+    var bankNewPerDay: Int get() = p.getInt("bankNew", 15); set(v) = p.edit().putInt("bankNew", v).apply()
     var bankLevels: Set<String> get() = p.getStringSet("bankLevels", setOf("B1", "B2")) ?: setOf("B1", "B2"); set(v) = p.edit().putStringSet("bankLevels", v).apply()
     var bankPacks: Set<String> get() = p.getStringSet("bankPacks", emptySet()) ?: emptySet(); set(v) = p.edit().putStringSet("bankPacks", v).apply()
     var direction: String get() = p.getString("dir", "mix") ?: "mix"; set(v) = p.edit().putString("dir", v).apply()   // en2cz | cz2en | mix

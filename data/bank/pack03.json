@@ -2,280 +2,217 @@
 "id": "pack03",
 "topic": "Travel & tourism",
 "topic_cz": "Cestování a turistika",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
-{
-"id": "b03-destination",
-"en": "destination",
-"cz": "cíl cesty, destinace",
-"ex": "Croatia is a popular holiday destination.",
-"level": "B1"
-},
-{
-"id": "b03-book",
-"en": "book",
-"cz": "rezervovat",
-"ex": "I booked a room for three nights.",
-"level": "A2"
-},
-{
-"id": "b03-accommodation",
-"en": "accommodation",
-"cz": "ubytování",
-"ex": "Accommodation in the centre is expensive.",
-"level": "B1"
-},
-{
-"id": "b03-sightseeing",
-"en": "sightseeing",
-"cz": "prohlídka pamětihodností",
-"ex": "We spent the day sightseeing.",
-"level": "B1"
-},
-{
-"id": "b03-landmark",
-"en": "landmark",
-"cz": "památka, orientační bod",
-"ex": "The castle is the city's best-known landmark.",
-"level": "B2"
-},
-{
-"id": "b03-package-holiday",
-"en": "package holiday",
-"cz": "zájezd",
-"ex": "We went on a package holiday to Greece.",
-"level": "B1"
-},
-{
-"id": "b03-check-in",
-"en": "check in",
-"cz": "ubytovat se; odbavit se",
-"ex": "We checked in at the hotel at three.",
-"level": "B1"
-},
-{
-"id": "b03-check-out",
-"en": "check out",
-"cz": "odhlásit se z hotelu",
-"ex": "We have to check out by 11 a.m.",
-"level": "B1"
-},
-{
-"id": "b03-luggage",
-"en": "luggage",
-"cz": "zavazadla",
-"ex": "How much luggage can I take?",
-"level": "B1"
-},
-{
-"id": "b03-carry-on-bag",
-"en": "carry-on bag",
-"cz": "příruční zavazadlo",
-"ex": "You can take one carry-on bag.",
-"level": "B2"
-},
-{
-"id": "b03-boarding-pass",
-"en": "boarding pass",
-"cz": "palubní vstupenka",
-"ex": "Please show your boarding pass.",
-"level": "B1"
-},
-{
-"id": "b03-departure",
-"en": "departure",
-"cz": "odlet, odjezd",
-"ex": "Departures are on the first floor.",
-"level": "B1"
-},
-{
-"id": "b03-arrival",
-"en": "arrival",
-"cz": "přílet, příjezd",
-"ex": "Our arrival time is 6 p.m.",
-"level": "B1"
-},
-{
-"id": "b03-delay",
-"en": "delay",
-"cz": "zpoždění",
-"ex": "There's a two-hour delay.",
-"level": "B1"
-},
-{
-"id": "b03-cancel",
-"en": "cancel",
-"cz": "zrušit",
-"ex": "Our flight was cancelled.",
-"level": "B1"
-},
-{
-"id": "b03-miss-a-flight",
-"en": "miss a flight",
-"cz": "zmeškat let",
-"ex": "We missed our flight because of traffic.",
-"level": "B1"
-},
-{
-"id": "b03-journey",
-"en": "journey",
-"cz": "cesta (z místa na místo)",
-"ex": "The journey took five hours.",
-"level": "B1"
-},
-{
-"id": "b03-trip",
-"en": "trip",
-"cz": "výlet, cesta",
-"ex": "We went on a day trip to Vienna.",
-"level": "A2"
-},
-{
-"id": "b03-travel-insurance",
-"en": "travel insurance",
-"cz": "cestovní pojištění",
-"ex": "Don't forget travel insurance.",
-"level": "B1"
-},
-{
-"id": "b03-passport",
-"en": "passport",
-"cz": "cestovní pas",
-"ex": "My passport expires next year.",
-"level": "A2"
-},
-{
-"id": "b03-visa",
-"en": "visa",
-"cz": "vízum",
-"ex": "Do Czechs need a visa for the USA?",
-"level": "B1"
-},
-{
-"id": "b03-abroad",
-"en": "abroad",
-"cz": "v zahraničí, do zahraničí",
-"ex": "Have you ever lived abroad?",
-"level": "B1"
-},
 {
 "id": "b03-off-the-beaten-track",
 "en": "off the beaten track",
 "cz": "mimo turistické trasy",
-"ex": "We like places off the beaten track.",
+"ex": "We found a village off the beaten track.",
 "level": "C1"
 },
 {
-"id": "b03-crowded",
-"en": "crowded",
-"cz": "přeplněný",
-"ex": "The beach was too crowded.",
-"level": "B1"
+"id": "b03-get-away-from-it-all",
+"en": "get away from it all",
+"cz": "utéct od všeho",
+"ex": "We went to the mountains to get away from it all.",
+"level": "B2"
+},
+{
+"id": "b03-travel-light",
+"en": "travel light",
+"cz": "cestovat nalehko",
+"ex": "I always travel light.",
+"level": "B2"
+},
+{
+"id": "b03-a-stopover",
+"en": "a stopover",
+"cz": "mezipřistání, zastávka",
+"ex": "We had a stopover in Dubai.",
+"level": "B2"
+},
+{
+"id": "b03-a-layover",
+"en": "a layover",
+"cz": "čekání na přestup",
+"ex": "There's a six-hour layover in Frankfurt.",
+"level": "C1"
+},
+{
+"id": "b03-be-stranded",
+"en": "be stranded",
+"cz": "uvíznout",
+"ex": "We were stranded at the airport for two days.",
+"level": "C1"
+},
+{
+"id": "b03-turbulence",
+"en": "turbulence",
+"cz": "turbulence",
+"ex": "Fasten your seatbelts – we're expecting turbulence.",
+"level": "B2"
+},
+{
+"id": "b03-excess-baggage",
+"en": "excess baggage",
+"cz": "nadváha zavazadel",
+"ex": "I had to pay for excess baggage.",
+"level": "B2"
+},
+{
+"id": "b03-overbooked",
+"en": "overbooked",
+"cz": "přeprodaný (let, hotel)",
+"ex": "The flight was overbooked.",
+"level": "C1"
+},
+{
+"id": "b03-upgrade",
+"en": "upgrade",
+"cz": "přeřadit do vyšší třídy",
+"ex": "We got upgraded to business class.",
+"level": "B2"
+},
+{
+"id": "b03-wanderlust",
+"en": "wanderlust",
+"cz": "touha cestovat",
+"ex": "I've always had wanderlust.",
+"level": "C1"
+},
+{
+"id": "b03-globetrotter",
+"en": "globetrotter",
+"cz": "světoběžník",
+"ex": "She's a real globetrotter.",
+"level": "C1"
 },
 {
 "id": "b03-breathtaking",
 "en": "breathtaking",
 "cz": "dechberoucí",
-"ex": "The view from the top was breathtaking.",
+"ex": "The view was breathtaking.",
 "level": "B2"
 },
 {
-"id": "b03-souvenir",
-"en": "souvenir",
-"cz": "suvenýr",
-"ex": "I bought a few souvenirs for my family.",
-"level": "B1"
-},
-{
-"id": "b03-guidebook",
-"en": "guidebook",
-"cz": "průvodce (kniha)",
-"ex": "The guidebook recommends this restaurant.",
-"level": "B1"
-},
-{
-"id": "b03-backpacking",
-"en": "backpacking",
-"cz": "cestování s batohem",
-"ex": "He went backpacking around Asia.",
-"level": "B2"
-},
-{
-"id": "b03-jet-lag",
-"en": "jet lag",
-"cz": "únava z časového posunu",
-"ex": "I've still got jet lag.",
-"level": "B2"
-},
-{
-"id": "b03-itinerary",
-"en": "itinerary",
-"cz": "plán cesty",
-"ex": "Here's our itinerary for the week.",
+"id": "b03-unspoilt",
+"en": "unspoilt",
+"cz": "nedotčený, nezkažený",
+"ex": "It's an unspoilt stretch of coast.",
 "level": "C1"
 },
 {
-"id": "b03-round-trip",
-"en": "round trip",
-"cz": "zpáteční cesta",
-"ex": "A round trip ticket is cheaper.",
+"id": "b03-picturesque",
+"en": "picturesque",
+"cz": "malebný",
+"ex": "We stayed in a picturesque village.",
 "level": "B2"
 },
 {
-"id": "b03-one-way-ticket",
-"en": "one-way ticket",
-"cz": "jednosměrná jízdenka",
-"ex": "I bought a one-way ticket to Madrid.",
-"level": "B1"
+"id": "b03-bustling",
+"en": "bustling",
+"cz": "rušný, plný ruchu",
+"ex": "We explored the bustling markets.",
+"level": "C1"
 },
 {
-"id": "b03-set-off",
-"en": "set off",
-"cz": "vyrazit (na cestu)",
-"ex": "We set off early in the morning.",
-"level": "B1"
+"id": "b03-secluded",
+"en": "secluded",
+"cz": "odlehlý, klidný",
+"ex": "We found a secluded beach.",
+"level": "C1"
 },
 {
-"id": "b03-get-away",
-"en": "get away",
-"cz": "vypadnout si, odjet na dovolenou",
-"ex": "We need to get away for a few days.",
+"id": "b03-touristy",
+"en": "touristy",
+"cz": "turistický (přeplněný turisty)",
+"ex": "The old town is a bit touristy.",
 "level": "B2"
 },
 {
-"id": "b03-explore",
-"en": "explore",
-"cz": "prozkoumat",
-"ex": "We spent a week exploring the island.",
-"level": "B1"
-},
-{
-"id": "b03-local",
-"en": "local",
-"cz": "místní (obyvatel)",
-"ex": "Ask the locals for the best restaurants.",
-"level": "B1"
-},
-{
-"id": "b03-tourist-trap",
-"en": "tourist trap",
+"id": "b03-a-tourist-trap",
+"en": "a tourist trap",
 "cz": "past na turisty",
 "ex": "That restaurant is a tourist trap.",
 "level": "B2"
 },
 {
-"id": "b03-self-catering",
-"en": "self-catering",
-"cz": "s vlastním stravováním",
-"ex": "We rented a self-catering apartment.",
+"id": "b03-soak-up-the-atmosphere",
+"en": "soak up the atmosphere",
+"cz": "nasát atmosféru",
+"ex": "We sat in the square and soaked up the atmosphere.",
+"level": "C1"
+},
+{
+"id": "b03-see-the-sights",
+"en": "see the sights",
+"cz": "prohlédnout si pamětihodnosti",
+"ex": "We spent a day seeing the sights.",
 "level": "B2"
 },
 {
-"id": "b03-all-inclusive",
-"en": "all-inclusive",
-"cz": "all inclusive (vše v ceně)",
-"ex": "The hotel is all-inclusive.",
-"level": "B1"
+"id": "b03-hit-the-road",
+"en": "hit the road",
+"cz": "vyrazit na cestu",
+"ex": "It's late – let's hit the road.",
+"level": "C1"
+},
+{
+"id": "b03-itinerary",
+"en": "itinerary",
+"cz": "plán cesty",
+"ex": "Our itinerary includes three cities.",
+"level": "C1"
+},
+{
+"id": "b03-hitchhike",
+"en": "hitchhike",
+"cz": "stopovat",
+"ex": "We hitchhiked across Ireland.",
+"level": "B2"
+},
+{
+"id": "b03-a-red-eye-flight",
+"en": "a red-eye flight",
+"cz": "noční let",
+"ex": "I took a red-eye flight to New York.",
+"level": "C1"
+},
+{
+"id": "b03-jet-lagged",
+"en": "jet-lagged",
+"cz": "unavený z časového posunu",
+"ex": "I'm still a bit jet-lagged.",
+"level": "B2"
+},
+{
+"id": "b03-culture-shock",
+"en": "culture shock",
+"cz": "kulturní šok",
+"ex": "I experienced culture shock in Japan.",
+"level": "B2"
+},
+{
+"id": "b03-get-your-bearings",
+"en": "get your bearings",
+"cz": "zorientovat se",
+"ex": "It took us a day to get our bearings.",
+"level": "C1"
+},
+{
+"id": "b03-take-a-detour",
+"en": "take a detour",
+"cz": "udělat si zajížďku",
+"ex": "We took a detour to avoid the traffic.",
+"level": "B2"
+},
+{
+"id": "b03-a-staycation",
+"en": "a staycation",
+"cz": "dovolená doma",
+"ex": "We're having a staycation this year.",
+"level": "C1"
 },
 {
 "id": "b03-peak-season",
@@ -283,6 +220,139 @@
 "cz": "hlavní sezóna",
 "ex": "Prices double in peak season.",
 "level": "B2"
+},
+{
+"id": "b03-off-season",
+"en": "off-season",
+"cz": "mimo sezónu",
+"ex": "It's cheaper to travel off-season.",
+"level": "B2"
+},
+{
+"id": "b03-cancellation-fee",
+"en": "cancellation fee",
+"cz": "storno poplatek",
+"ex": "There's a 20% cancellation fee.",
+"level": "B2"
+},
+{
+"id": "b03-travel-insurance-claim",
+"en": "travel insurance claim",
+"cz": "pojistná událost z cestovního pojištění",
+"ex": "I made a travel insurance claim for my lost bag.",
+"level": "C1"
+},
+{
+"id": "b03-a-breathtaking-view",
+"en": "a breathtaking view",
+"cz": "úchvatný výhled",
+"ex": "The room had a breathtaking view of the lake.",
+"level": "B2"
+},
+{
+"id": "b03-sleeper-train",
+"en": "sleeper train",
+"cz": "noční vlak s lůžky",
+"ex": "We took the sleeper train to Kraków.",
+"level": "B2"
+},
+{
+"id": "b03-backpacker-hostel",
+"en": "backpacker hostel",
+"cz": "hostel pro batůžkáře",
+"ex": "We stayed in a cheap backpacker hostel.",
+"level": "B2"
+},
+{
+"id": "b03-roam",
+"en": "roam",
+"cz": "toulat se",
+"ex": "We roamed the streets of Lisbon.",
+"level": "C1"
+},
+{
+"id": "b03-go-sightseeing",
+"en": "go sightseeing",
+"cz": "jít na prohlídku města",
+"ex": "We went sightseeing all day.",
+"level": "B2"
+},
+{
+"id": "b03-have-itchy-feet",
+"en": "have itchy feet",
+"cz": "nevydržet na jednom místě",
+"ex": "After a year at home I've got itchy feet.",
+"level": "C1"
+},
+{
+"id": "b03-set-off",
+"en": "set off",
+"cz": "vyrazit",
+"ex": "We set off at dawn.",
+"level": "B1+"
+},
+{
+"id": "b03-get-delayed",
+"en": "get delayed",
+"cz": "mít zpoždění",
+"ex": "Our flight got delayed.",
+"level": "B1+"
+},
+{
+"id": "b03-check-in-online",
+"en": "check in online",
+"cz": "odbavit se online",
+"ex": "You can check in online.",
+"level": "B1+"
+},
+{
+"id": "b03-hand-luggage",
+"en": "hand luggage",
+"cz": "příruční zavazadlo",
+"ex": "I only took hand luggage.",
+"level": "B1+"
+},
+{
+"id": "b03-book-in-advance",
+"en": "book in advance",
+"cz": "rezervovat předem",
+"ex": "It's cheaper to book in advance.",
+"level": "B1+"
+},
+{
+"id": "b03-a-package-holiday",
+"en": "a package holiday",
+"cz": "zájezd",
+"ex": "We went on a package holiday to Crete.",
+"level": "B1+"
+},
+{
+"id": "b03-go-on-a-day-trip",
+"en": "go on a day trip",
+"cz": "jet na jednodenní výlet",
+"ex": "We went on a day trip to Vienna.",
+"level": "B1+"
+},
+{
+"id": "b03-the-locals",
+"en": "the locals",
+"cz": "místní",
+"ex": "Ask the locals for advice.",
+"level": "B1+"
+},
+{
+"id": "b03-get-lost",
+"en": "get lost",
+"cz": "zabloudit",
+"ex": "We got lost in the old town.",
+"level": "B1+"
+},
+{
+"id": "b03-sightseeing-tour",
+"en": "sightseeing tour",
+"cz": "vyhlídková prohlídka",
+"ex": "We took a sightseeing tour by boat.",
+"level": "B1+"
 }
 ]
 }

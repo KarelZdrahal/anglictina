@@ -2,287 +2,357 @@
 "id": "pack04",
 "topic": "Health & body",
 "topic_cz": "Zdraví a tělo",
-"level": "A2/B1/B2/C1",
+"level": "B1+/B2/C1",
 "words": [
 {
-"id": "b04-symptom",
-"en": "symptom",
-"cz": "příznak",
-"ex": "What are your symptoms?",
-"level": "B1"
-},
-{
-"id": "b04-headache",
-"en": "headache",
-"cz": "bolest hlavy",
-"ex": "I've got a terrible headache.",
-"level": "A2"
-},
-{
-"id": "b04-sore-throat",
-"en": "sore throat",
-"cz": "bolest v krku",
-"ex": "I've got a sore throat and a cough.",
-"level": "B1"
-},
-{
-"id": "b04-temperature",
-"en": "temperature",
-"cz": "teplota, horečka",
-"ex": "She has a high temperature.",
-"level": "B1"
-},
-{
-"id": "b04-flu",
-"en": "flu",
-"cz": "chřipka",
-"ex": "Half the office is off with flu.",
-"level": "B1"
-},
-{
-"id": "b04-injury",
-"en": "injury",
-"cz": "zranění",
-"ex": "He had a knee injury.",
-"level": "B1"
-},
-{
-"id": "b04-injure",
-"en": "injure",
-"cz": "zranit",
-"ex": "She injured her back playing tennis.",
-"level": "B1"
-},
-{
-"id": "b04-sprain",
-"en": "sprain",
-"cz": "vymknout, podvrtnout",
-"ex": "I sprained my ankle on the stairs.",
+"id": "b04-come-down-with",
+"en": "come down with",
+"cz": "onemocnět (něčím)",
+"ex": "I think I'm coming down with flu.",
 "level": "B2"
 },
 {
-"id": "b04-bruise",
-"en": "bruise",
-"cz": "modřina",
-"ex": "I've got a big bruise on my leg.",
-"level": "B2"
-},
-{
-"id": "b04-prescription",
-"en": "prescription",
-"cz": "recept (od lékaře)",
-"ex": "You need a prescription for these pills.",
-"level": "B1"
-},
-{
-"id": "b04-painkiller",
-"en": "painkiller",
-"cz": "lék proti bolesti",
-"ex": "Take a painkiller and rest.",
-"level": "B1"
-},
-{
-"id": "b04-recover",
-"en": "recover",
-"cz": "uzdravit se, zotavit se",
-"ex": "It took him a month to recover.",
-"level": "B1"
-},
-{
-"id": "b04-get-over",
-"en": "get over",
-"cz": "překonat (nemoc)",
-"ex": "I'm still getting over a cold.",
-"level": "B2"
-},
-{
-"id": "b04-allergic-to",
-"en": "allergic to",
-"cz": "alergický na",
-"ex": "I'm allergic to cats.",
-"level": "B1"
-},
-{
-"id": "b04-appointment",
-"en": "appointment",
-"cz": "objednání (k lékaři)",
-"ex": "I've got a doctor's appointment at ten.",
-"level": "B1"
-},
-{
-"id": "b04-check-up",
-"en": "check-up",
-"cz": "preventivní prohlídka",
-"ex": "I go for a check-up once a year.",
-"level": "B2"
-},
-{
-"id": "b04-healthy-diet",
-"en": "healthy diet",
-"cz": "zdravá strava",
-"ex": "A healthy diet is full of vegetables.",
-"level": "B1"
-},
-{
-"id": "b04-work-out",
-"en": "work out",
-"cz": "cvičit (v posilovně)",
-"ex": "I work out three times a week.",
-"level": "B1"
-},
-{
-"id": "b04-keep-fit",
-"en": "keep fit",
-"cz": "udržovat se v kondici",
-"ex": "Swimming is a great way to keep fit.",
-"level": "B1"
-},
-{
-"id": "b04-put-on-weight",
-"en": "put on weight",
-"cz": "přibrat",
-"ex": "I put on weight over Christmas.",
-"level": "B1"
-},
-{
-"id": "b04-lose-weight",
-"en": "lose weight",
-"cz": "zhubnout",
-"ex": "He lost ten kilos.",
-"level": "B1"
-},
-{
-"id": "b04-stressed",
-"en": "stressed",
-"cz": "ve stresu",
-"ex": "I feel stressed before exams.",
-"level": "B1"
-},
-{
-"id": "b04-exhausted",
-"en": "exhausted",
-"cz": "vyčerpaný",
-"ex": "I was exhausted after the run.",
-"level": "B1"
-},
-{
-"id": "b04-dizzy",
-"en": "dizzy",
-"cz": "mít závrať",
-"ex": "I feel dizzy when I stand up.",
-"level": "B2"
-},
-{
-"id": "b04-sick-leave",
-"en": "sick leave",
-"cz": "nemocenská",
-"ex": "She's on sick leave this week.",
-"level": "B2"
-},
-{
-"id": "b04-surgery",
-"en": "surgery",
-"cz": "operace; ordinace (BrE)",
-"ex": "He had knee surgery last year.",
-"level": "B2"
-},
-{
-"id": "b04-treatment",
-"en": "treatment",
-"cz": "léčba",
-"ex": "The treatment was successful.",
-"level": "B1"
-},
-{
-"id": "b04-pharmacy",
-"en": "pharmacy",
-"cz": "lékárna",
-"ex": "Is there a pharmacy near here?",
-"level": "B1"
-},
-{
-"id": "b04-cough",
-"en": "cough",
-"cz": "kašel; kašlat",
-"ex": "That cough sounds bad.",
-"level": "B1"
-},
-{
-"id": "b04-sneeze",
-"en": "sneeze",
-"cz": "kýchat",
-"ex": "I can't stop sneezing.",
-"level": "B1"
-},
-{
-"id": "b04-heart-attack",
-"en": "heart attack",
-"cz": "infarkt",
-"ex": "He had a heart attack at 50.",
-"level": "B1"
-},
-{
-"id": "b04-blood-pressure",
-"en": "blood pressure",
-"cz": "krevní tlak",
-"ex": "The nurse checked my blood pressure.",
-"level": "B1"
-},
-{
-"id": "b04-side-effect",
-"en": "side effect",
-"cz": "vedlejší účinek",
-"ex": "Are there any side effects?",
-"level": "B2"
-},
-{
-"id": "b04-in-good-shape",
-"en": "in good shape",
-"cz": "v dobré kondici",
-"ex": "She's in good shape for her age.",
-"level": "B1"
-},
-{
-"id": "b04-mental-health",
-"en": "mental health",
-"cz": "duševní zdraví",
-"ex": "Sport is good for your mental health.",
-"level": "B2"
-},
-{
-"id": "b04-sleep-deprivation",
-"en": "sleep deprivation",
-"cz": "nedostatek spánku",
-"ex": "Sleep deprivation affects concentration.",
+"id": "b04-be-run-down",
+"en": "be run-down",
+"cz": "být vyčerpaný, oslabený",
+"ex": "You look run-down – take a break.",
 "level": "C1"
 },
 {
-"id": "b04-wellbeing",
-"en": "wellbeing",
-"cz": "pohoda, blaho",
-"ex": "Companies care more about employee wellbeing.",
+"id": "b04-pass-out",
+"en": "pass out",
+"cz": "omdlít",
+"ex": "He passed out in the heat.",
+"level": "B2"
+},
+{
+"id": "b04-come-round",
+"en": "come round",
+"cz": "přijít k sobě",
+"ex": "She came round in the ambulance.",
+"level": "C1"
+},
+{
+"id": "b04-throw-up",
+"en": "throw up",
+"cz": "zvracet",
+"ex": "The child threw up in the car.",
+"level": "B2"
+},
+{
+"id": "b04-pull-a-muscle",
+"en": "pull a muscle",
+"cz": "natáhnout si sval",
+"ex": "I pulled a muscle at the gym.",
+"level": "B2"
+},
+{
+"id": "b04-dislocate",
+"en": "dislocate",
+"cz": "vykloubit",
+"ex": "He dislocated his shoulder.",
+"level": "C1"
+},
+{
+"id": "b04-fracture",
+"en": "fracture",
+"cz": "zlomenina; zlomit",
+"ex": "She fractured her wrist.",
+"level": "B2"
+},
+{
+"id": "b04-swollen",
+"en": "swollen",
+"cz": "oteklý",
+"ex": "My ankle is swollen.",
+"level": "B2"
+},
+{
+"id": "b04-itchy",
+"en": "itchy",
+"cz": "svědivý",
+"ex": "This rash is really itchy.",
+"level": "B2"
+},
+{
+"id": "b04-rash",
+"en": "rash",
+"cz": "vyrážka",
+"ex": "I've got a rash on my arm.",
+"level": "B2"
+},
+{
+"id": "b04-chronic",
+"en": "chronic",
+"cz": "chronický",
+"ex": "He suffers from chronic back pain.",
+"level": "C1"
+},
+{
+"id": "b04-contagious",
+"en": "contagious",
+"cz": "nakažlivý",
+"ex": "Is it contagious?",
+"level": "B2"
+},
+{
+"id": "b04-immune-system",
+"en": "immune system",
+"cz": "imunitní systém",
+"ex": "Stress weakens the immune system.",
+"level": "B2"
+},
+{
+"id": "b04-side-effects",
+"en": "side effects",
+"cz": "vedlejší účinky",
+"ex": "The drug has few side effects.",
+"level": "B2"
+},
+{
+"id": "b04-over-the-counter",
+"en": "over-the-counter",
+"cz": "volně prodejný (lék)",
+"ex": "You can buy it over the counter.",
+"level": "C1"
+},
+{
+"id": "b04-gp",
+"en": "GP",
+"cz": "praktický lékař",
+"ex": "You should see your GP.",
+"level": "B2"
+},
+{
+"id": "b04-be-on-the-mend",
+"en": "be on the mend",
+"cz": "uzdravovat se",
+"ex": "He's been ill, but he's on the mend.",
+"level": "C1"
+},
+{
+"id": "b04-make-a-full-recovery",
+"en": "make a full recovery",
+"cz": "úplně se uzdravit",
+"ex": "Doctors expect her to make a full recovery.",
+"level": "B2"
+},
+{
+"id": "b04-be-fighting-fit",
+"en": "be fighting fit",
+"cz": "být ve skvělé kondici",
+"ex": "After the holiday I'm fighting fit.",
+"level": "C1"
+},
+{
+"id": "b04-as-fit-as-a-fiddle",
+"en": "as fit as a fiddle",
+"cz": "zdravý jako řípa",
+"ex": "My grandad is as fit as a fiddle.",
+"level": "C1"
+},
+{
+"id": "b04-under-the-weather",
+"en": "under the weather",
+"cz": "není mi dobře",
+"ex": "I'm feeling a bit under the weather.",
+"level": "B2"
+},
+{
+"id": "b04-a-splitting-headache",
+"en": "a splitting headache",
+"cz": "třeštění hlavy",
+"ex": "I've got a splitting headache.",
+"level": "C1"
+},
+{
+"id": "b04-sedentary-lifestyle",
+"en": "sedentary lifestyle",
+"cz": "sedavý způsob života",
+"ex": "A sedentary lifestyle is bad for your heart.",
+"level": "C1"
+},
+{
+"id": "b04-burn-calories",
+"en": "burn calories",
+"cz": "spalovat kalorie",
+"ex": "Swimming burns a lot of calories.",
 "level": "B2"
 },
 {
 "id": "b04-cut-down-on",
 "en": "cut down on",
-"cz": "omezit (něco)",
-"ex": "I'm trying to cut down on sugar.",
+"cz": "omezit",
+"ex": "I'm cutting down on sugar.",
 "level": "B2"
 },
 {
-"id": "b04-give-up",
-"en": "give up",
-"cz": "přestat (s něčím), vzdát",
-"ex": "He gave up smoking last year.",
-"level": "B1"
+"id": "b04-cut-out",
+"en": "cut out",
+"cz": "úplně vyřadit",
+"ex": "I've cut out alcohol completely.",
+"level": "B2"
 },
 {
-"id": "b04-feel-under-the-weather",
-"en": "feel under the weather",
-"cz": "necítit se dobře",
-"ex": "I'm feeling a bit under the weather.",
+"id": "b04-balanced-diet",
+"en": "balanced diet",
+"cz": "vyvážená strava",
+"ex": "Eat a balanced diet.",
 "level": "B2"
+},
+{
+"id": "b04-work-up-a-sweat",
+"en": "work up a sweat",
+"cz": "zpotit se",
+"ex": "We worked up a sweat on the hike.",
+"level": "C1"
+},
+{
+"id": "b04-get-your-strength-back",
+"en": "get your strength back",
+"cz": "nabrat síly",
+"ex": "It took weeks to get my strength back.",
+"level": "B2"
+},
+{
+"id": "b04-insomnia",
+"en": "insomnia",
+"cz": "nespavost",
+"ex": "She suffers from insomnia.",
+"level": "C1"
+},
+{
+"id": "b04-toss-and-turn",
+"en": "toss and turn",
+"cz": "převalovat se (ze strany na stranu)",
+"ex": "I tossed and turned all night.",
+"level": "C1"
+},
+{
+"id": "b04-anxiety",
+"en": "anxiety",
+"cz": "úzkost",
+"ex": "Exercise can reduce anxiety.",
+"level": "B2"
+},
+{
+"id": "b04-burnout",
+"en": "burnout",
+"cz": "vyhoření",
+"ex": "Long hours led to burnout.",
+"level": "B2"
+},
+{
+"id": "b04-well-being",
+"en": "well-being",
+"cz": "duševní a tělesná pohoda",
+"ex": "Sleep is vital for well-being.",
+"level": "C1"
+},
+{
+"id": "b04-check-up",
+"en": "check-up",
+"cz": "preventivní prohlídka",
+"ex": "I'm going for a check-up.",
+"level": "B2"
+},
+{
+"id": "b04-take-your-blood-pressure",
+"en": "take your blood pressure",
+"cz": "změřit tlak",
+"ex": "The nurse took my blood pressure.",
+"level": "B2"
+},
+{
+"id": "b04-be-prone-to",
+"en": "be prone to",
+"cz": "mít sklon k",
+"ex": "I'm prone to headaches.",
+"level": "C1"
+},
+{
+"id": "b04-life-expectancy",
+"en": "life expectancy",
+"cz": "očekávaná délka života",
+"ex": "Life expectancy has risen.",
+"level": "C1"
+},
+{
+"id": "b04-get-a-jab",
+"en": "get a jab",
+"cz": "dostat injekci, očkování",
+"ex": "I got my flu jab yesterday.",
+"level": "C1"
+},
+{
+"id": "b04-catch-a-cold",
+"en": "catch a cold",
+"cz": "nachladit se",
+"ex": "I caught a cold at the weekend.",
+"level": "B1+"
+},
+{
+"id": "b04-have-a-temperature",
+"en": "have a temperature",
+"cz": "mít teplotu",
+"ex": "The child has a temperature.",
+"level": "B1+"
+},
+{
+"id": "b04-get-over-an-illness",
+"en": "get over an illness",
+"cz": "vyléčit se z nemoci",
+"ex": "She's getting over the flu.",
+"level": "B1+"
+},
+{
+"id": "b04-sprain-your-ankle",
+"en": "sprain your ankle",
+"cz": "vymknout si kotník",
+"ex": "I sprained my ankle running.",
+"level": "B1+"
+},
+{
+"id": "b04-make-an-appointment",
+"en": "make an appointment",
+"cz": "objednat se",
+"ex": "I made an appointment with the dentist.",
+"level": "B1+"
+},
+{
+"id": "b04-prescription",
+"en": "prescription",
+"cz": "recept (lékařský)",
+"ex": "You need a prescription for this.",
+"level": "B1+"
+},
+{
+"id": "b04-be-allergic-to",
+"en": "be allergic to",
+"cz": "být alergický na",
+"ex": "I'm allergic to nuts.",
+"level": "B1+"
+},
+{
+"id": "b04-keep-fit",
+"en": "keep fit",
+"cz": "udržovat se v kondici",
+"ex": "I swim to keep fit.",
+"level": "B1+"
+},
+{
+"id": "b04-get-enough-sleep",
+"en": "get enough sleep",
+"cz": "dostatečně se vyspat",
+"ex": "Make sure you get enough sleep.",
+"level": "B1+"
+},
+{
+"id": "b04-put-on-weight",
+"en": "put on weight",
+"cz": "přibrat",
+"ex": "I've put on weight this winter.",
+"level": "B1+"
 }
 ]
 }
