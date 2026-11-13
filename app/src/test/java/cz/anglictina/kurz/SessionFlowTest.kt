@@ -12,6 +12,7 @@ import androidx.compose.ui.test.onAllNodesWithTag
 import androidx.compose.ui.test.onAllNodesWithText
 import androidx.compose.ui.test.onRoot
 import androidx.compose.ui.test.performClick
+import androidx.compose.ui.test.performScrollTo
 import androidx.compose.ui.test.performTextInput
 import androidx.compose.ui.test.printToString
 import androidx.test.core.app.ActivityScenario
@@ -34,7 +35,11 @@ class Player(private val rule: ComposeTestRule, private val rnd: Random) {
         return rule.onAllNodes(m, useUnmergedTree = true).fetchSemanticsNodes().firstOrNull()?.config?.getOrNull(SemanticsProperties.TestTag)
     }
     fun has(text: String) = rule.onAllNodesWithText(text, substring = true).fetchSemanticsNodes().isNotEmpty()
-    fun click(text: String) { rule.onAllNodesWithText(text, substring = true)[0].performClick(); rule.mainClock.advanceTimeBy(50) }
+    fun click(text: String) {
+        val n = rule.onAllNodesWithText(text, substring = true)[0]
+        runCatching { n.performScrollTo() }
+        n.performClick(); rule.mainClock.advanceTimeBy(50)
+    }
     private fun dump() = runCatching { rule.onRoot(useUnmergedTree = true).printToString() }.getOrDefault("?")
 
     /** Vrací seznam zobrazených položek. */
@@ -135,7 +140,7 @@ class AppFlowTest {
             val b = p.play(); println("APP bank +5: ${b.size} položek: ${b.take(30)}")
             assertTrue("bank +5: jen ${b.size}", b.size >= 10)
             p.click("Hotovo"); rule.mainClock.advanceTimeBy(1000); rule.waitForIdle()
-            p.click("Začít opakování")
+            p.click("Začít opakování"); rule.mainClock.advanceTimeBy(1000); rule.waitForIdle()
             val c = p.play(); println("APP lekce: ${c.size} položek: ${c.take(30)}")
             assertTrue("lekce: jen ${c.size}", c.size >= 15)
         }

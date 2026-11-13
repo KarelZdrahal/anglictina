@@ -119,6 +119,20 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
                 .sortedByDescending { weakness("w:" + it.id) + rnd.nextDouble() * 0.3 }
                 .take(target - out.size).forEach { out += quizFor(it, all) }
         }
+        // Když není co opakovat (např. denní dávka je vyčerpaná a známých slov je málo),
+        // nepouštět krátkou relaci s jedním slovem dokola – doplnit další nová slova.
+        if (out.size < target) {
+            val used = out.map { it.cardId }.toHashSet()
+            val more = pool.filter { "w:" + it.id !in used }.shuffled(rnd).sortedBy { levelRank(it.level) }
+                .take((target - out.size + 1) / 2)
+            val pend = ArrayDeque<Item>()
+            more.forEach { w ->
+                out += Item.Vocab(w, Mode.INTRO)
+                pend += quizFor(w, all, forceChoice = true)
+                if (pend.size > 2) out += pend.removeFirst()
+            }
+            out += pend
+        }
         return out
     }
 
