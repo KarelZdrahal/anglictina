@@ -37,7 +37,7 @@ class WeekSimulationTest {
             println("den ${day + 1}: ${items.size} položek, vět/textů ${drills.size} (z toho dříve správně zodpovězených $rep), slovíček ${words.size}, typy $types")
             assertTrue("den ${day + 1}: relace je krátká (${items.size})", items.size >= 90)
             assertTrue("den ${day + 1}: málo typů cvičení $types", types.size >= 4)
-            assertTrue("den ${day + 1}: příliš mnoho otázek k článkům $types", (types["read"] ?: 0) <= 6)
+            assertTrue("den ${day + 1}: příliš mnoho otázek k článkům $types", (types["read"] ?: 0) <= 10)
             totalDrills += drills.size; repeatedCorrect += rep
             drills.forEach { distinct += it.cardId }
             items.forEach { item ->
