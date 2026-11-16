@@ -42,9 +42,13 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
         val drills = lessons.flatMap { it.exercises } + practice.flatMap { it.exercises }
         val out = mutableListOf<Item>()
         val used = HashSet<String>()
+        var texts = 0                                    // nové články v této relaci (nejvýš jeden)
         fun addWord(w: Word) { if (used.add("w:" + w.id)) out += quizFor(w, words) }
         fun addDrill(e: Exercise) {
             if (e.type == "read" && e.text.isNotBlank()) {
+                if ("x:" + e.id in used) return
+                if (isNew("x:" + e.id) && texts >= 1) return
+                if (isNew("x:" + e.id)) texts++
                 // otázky k jednomu textu jdou za sebou
                 drills.filter { it.type == "read" && it.text == e.text && (it.id == e.id || isNew("x:" + it.id) || retry(it.id)) }
                     .sortedBy { it.id }
