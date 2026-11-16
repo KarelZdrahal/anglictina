@@ -161,8 +161,8 @@ fun SessionScreen(
                     // správná odpověď: po krátké chvilce samo dál (u všech typů cvičení)
                     if (lastCorrect) { delay(1100); if (phase == Phase.FEEDBACK) next() }
                 }
-                // tlačítko jen po chybné odpovědi
-                if (!lastCorrect) Button(onClick = { next() }, modifier = Modifier.fillMaxWidth().height(52.dp)) { Text("Pokračovat") }
+                // tlačítko vždy (po správné odpovědi jen pro zrychlení – pokračuje se i samo)
+                Button(onClick = { next() }, modifier = Modifier.fillMaxWidth().height(52.dp)) { Text("Pokračovat") }
             }
         }
     }
