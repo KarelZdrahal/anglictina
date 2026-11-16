@@ -1,0 +1,61 @@
+#Translation|Překlad
+tr ## Můj bratr pracuje v nemocnici. ## My brother works in a hospital. | My brother works at a hospital.
+tr ## Teď nemůžu mluvit, vařím večeři. ## I can't talk now, I'm cooking dinner. | I can't talk now. I'm cooking dinner. | I cannot talk now, I am cooking dinner.
+tr ## Jak často chodíš do kina? ## How often do you go to the cinema? | How often do you go to the movies?
+tr ## Ona je velmi pracovitá a spolehlivá. ## She is very hard-working and reliable. | She's very hard-working and reliable.
+tr ## Proč se směješ? ## Why are you laughing?
+tr ## Tento týden pracuju z domova. ## I'm working from home this week. | I am working from home this week. | This week I'm working from home. | This week I am working from home.
+tr ## Nerozumím ti. ## I don't understand you. | I do not understand you.
+tr ## Můj otec je hodně tvrdohlavý. ## My father is very stubborn. | My dad is very stubborn. | My father is really stubborn.
+tr ## Dobře vycházím se svými kolegy. ## I get on well with my colleagues. | I get along well with my colleagues.
+tr ## Je po matce. ## She takes after her mother. | He takes after his mother. | She takes after her mum. | He takes after his mum.
+tr ## Obvykle vstávám v šest. ## I usually get up at six. | I usually get up at 6.
+tr ## Prší. Vezmi si deštník. ## It's raining. Take an umbrella. | It is raining. Take an umbrella. | It's raining. Take your umbrella.
+tr ## V zimě tady hodně sněží. ## It snows a lot here in winter. | In winter it snows a lot here.
+tr ## Na koho čekáš? ## Who are you waiting for?
+tr ## Moje sestra je hrozně upovídaná. ## My sister is very talkative. | My sister is really talkative. | My sister is terribly talkative.
+tr ## Děti si hrají na zahradě. ## The children are playing in the garden. | The kids are playing in the garden.
+tr ## Nejím maso. ## I don't eat meat. | I do not eat meat.
+tr ## Dneska nejím maso, jsem nemocný. ## I'm not eating meat today, I'm ill. | I'm not eating meat today, I'm sick. | I am not eating meat today, I am ill.
+tr ## Ta polévka chutná skvěle. ## The soup tastes great. | This soup tastes great. | That soup tastes great.
+tr ## Znám ho dobře. ## I know him well.
+tr ## Je to štědrý a ohleduplný člověk. ## He is a generous and thoughtful person. | He's a generous and thoughtful person. | She is a generous and thoughtful person. | She's a generous and thoughtful person.
+tr ## Pořád ztrácíš klíče! ## You're always losing your keys! | You are always losing your keys! | You're always losing keys!
+tr ## Co děláš? – Jsem učitel. ## What do you do? – I'm a teacher. | What do you do? I'm a teacher. | What do you do? I am a teacher.
+tr ## Co děláš? – Hledám telefon. ## What are you doing? – I'm looking for my phone. | What are you doing? I'm looking for my phone. | What are you doing? I am looking for my phone.
+tr ## Ceny teď rychle rostou. ## Prices are rising quickly now. | Prices are rising fast now. | Prices are going up quickly at the moment. | Prices are rising quickly at the moment.
+tr ## Jeho angličtina se zlepšuje. ## His English is getting better. | His English is improving.
+tr ## Je velmi sebevědomý, ale není namyšlený. ## He is very confident, but he isn't big-headed. | He's very confident but he isn't big-headed. | He is very confident, but he is not big-headed.
+tr ## Můj šéf je panovačný a náladový. ## My boss is bossy and moody.
+tr ## Potřebuju víc času. ## I need more time.
+tr ## Myslím, že máš pravdu. ## I think you're right. | I think you are right.
+tr ## Přemýšlím o nové práci. ## I'm thinking about a new job. | I am thinking about a new job. | I'm thinking of a new job.
+tr ## Ta taška patří mé sestře. ## The bag belongs to my sister. | This bag belongs to my sister. | That bag belongs to my sister.
+tr ## Vypadáš unaveně. ## You look tired.
+tr ## Bydlím u rodičů, než si najdu byt. ## I'm living with my parents until I find a flat. | I am living with my parents until I find a flat. | I'm staying with my parents until I find a flat.
+tr ## Moji rodiče bydlí na vesnici. ## My parents live in a village.
+tr ## Je to dobrý posluchač. ## He's a good listener. | He is a good listener. | She's a good listener. | She is a good listener.
+tr ## Je opravdu líný, nikdy nepomáhá. ## He's really lazy, he never helps. | He is really lazy. He never helps. | He's really lazy. He never helps.
+tr ## Proč jsi dnes tak nepříjemný? ## Why are you being so mean today? | Why are you so mean today? | Why are you being so unpleasant today?
+tr ## Vlak odjíždí v sedm. ## The train leaves at seven. | The train leaves at 7. | The train departs at seven.
+tr ## Je to spolehlivý a trpělivý učitel. ## He is a reliable and patient teacher. | He's a reliable and patient teacher.
+tr ## Učí se řídit. ## She's learning to drive. | She is learning to drive. | He's learning to drive. | He is learning to drive.
+tr ## Nevěřím mu. ## I don't believe him. | I don't trust him. | I do not believe him.
+tr ## Voda se vaří při sto stupních. ## Water boils at a hundred degrees. | Water boils at 100 degrees. | Water boils at one hundred degrees.
+tr ## Je velmi zvědavý a pořád se ptá. ## He's very curious and he's always asking questions. | He is very curious and always asks questions. | He's very curious and always asks questions.
+tr ## Mé sestře chutná káva víc než čaj. ## My sister likes coffee more than tea. | My sister prefers coffee to tea.
+tr ## Zrovna mám schůzku, zavolám ti později. ## I'm in a meeting right now, I'll call you later. | I'm having a meeting right now, I'll call you later. | I'm in a meeting at the moment. I'll call you later.
+tr ## Je velmi společenská, ráda poznává nové lidi. ## She's very outgoing, she likes meeting new people. | She is very sociable and likes meeting new people. | She's very sociable, she likes meeting new people. | She is very outgoing and she likes meeting new people.
+tr ## Nikdy nechodí pozdě. ## He's never late. | He is never late. | She's never late. | She is never late.
+tr ## Kdo vaří u vás doma? ## Who cooks in your house? | Who does the cooking in your house? | Who cooks at your place?
+tr ## Ten pes kouše. ## The dog bites. | That dog bites.
+tr ## Pozor, ten pes tě kouše! ## Careful, the dog is biting you! | Watch out, the dog is biting you!
+tr ## Je spíš plachá, ale velmi milá. ## She's rather shy but very nice. | She is quite shy, but very nice. | She's quite shy but very kind.
+tr ## Neustále si stěžuje na počasí. ## He's constantly complaining about the weather. | He is always complaining about the weather. | She's constantly complaining about the weather.
+tr ## Tenhle týden bydlím v hotelu. ## I'm staying at a hotel this week. | I am staying in a hotel this week. | This week I'm staying at a hotel.
+tr ## Kolik stojí ta bunda? ## How much does the jacket cost? | How much is the jacket? | How much is that jacket? | How much does that jacket cost?
+tr ## Klima se mění. ## The climate is changing.
+tr ## Je roztržitý, pořád něco zapomíná. ## He's absent-minded, he's always forgetting things. | He is absent-minded and always forgets things. | He's absent-minded. He always forgets something.
+tr ## Má rád lidi a umí s nimi jednat. ## He's a people person. | He is a people person.
+tr ## Proč máš na sobě kabát? ## Why are you wearing a coat?
+tr ## Moje babička chodí spát v deset. ## My grandmother goes to bed at ten. | My grandma goes to bed at ten. | My granny goes to bed at 10.

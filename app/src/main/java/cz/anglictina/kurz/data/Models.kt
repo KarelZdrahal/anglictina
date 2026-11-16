@@ -44,6 +44,7 @@ data class Lesson(
 /** Další procvičování na úrovni B1 (nad rámec lekcí). */
 data class PracticePack(
     val id: String,
+    val lesson: String,
     val topic: String,
     val topicCz: String,
     val exercises: List<Exercise>,
@@ -95,7 +96,7 @@ fun parseLesson(o: JSONObject): Lesson {
 fun parsePractice(o: JSONObject): PracticePack {
     val id = o.getString("id")
     return PracticePack(
-        id = id, topic = o.optString("topic"), topicCz = o.optString("topic_cz"),
+        id = id, lesson = o.optString("lesson"), topic = o.optString("topic"), topicCz = o.optString("topic_cz"),
         exercises = o.optJSONArray("exercises").objects().map {
             Exercise(
                 id = it.getString("id"), type = it.getString("type"), prompt = it.getString("q"),

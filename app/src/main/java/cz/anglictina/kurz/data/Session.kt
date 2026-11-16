@@ -18,71 +18,93 @@ sealed class Item {
 enum class SessionKind { LESSONS, BANK }
 
 /** Sestavuje frontu položek pro jednu relaci. */
-class SessionBuilder(private val repo: Repository, private val rnd: Random = Random.Default) {
-    private val now = System.currentTimeMillis()
+class SessionBuilder(private val repo: Repository, private val rnd: Random = Random.Default,
+                     private val now: Long = System.currentTimeMillis()) {
     private val p = repo.progress
 
     private fun due(id: String) = p.peek(id)?.let { !it.isNew && it.due <= now } ?: false
     private fun isNew(id: String) = p.peek(id)?.isNew ?: true
     private fun weakness(id: String): Double = p.peek(id)?.let { (it.wrong + 1.0) / (it.correct + 1.0) / it.ease } ?: 1.0
 
+    /**
+     * Opakování lekcí: jen látka probraných lekcí (slovíčka, cvičení z lekce a k ní připravené sady procvičování).
+     * Slovíčka se opakují v rozestupech; u vět a textů má přednost NOVÁ varianta téhož jevu – správně
+     * zodpovězená věta se znovu ukáže až po vyčerpání nových, špatně zodpovězená se vrací (než se zvládne).
+     */
     fun lessons(minutes: Int): List<Item> {
         val target = minutes * 5 + 4                     // cca 12 s na položku
         val lessons = repo.lessons
         if (lessons.isEmpty()) return emptyList()
-        val latest = lessons.last()
+        val ids = lessons.map { it.id }.toSet()
+        val order = lessons.map { it.id }.reversed()     // nejnovější lekce první
         val words = lessons.flatMap { it.words }
-        val practice = repo.practice.flatMap { it.exercises }
-        val drills = lessons.flatMap { it.exercises } + practice
+        val practice = repo.practice.filter { it.lesson in ids }
+        val drills = lessons.flatMap { it.exercises } + practice.flatMap { it.exercises }
         val out = mutableListOf<Item>()
         val used = HashSet<String>()
         fun addWord(w: Word) { if (used.add("w:" + w.id)) out += quizFor(w, words) }
-        fun addDrill(e: Exercise) { if (used.add("x:" + e.id)) out += drillFor(e) }
+        fun addDrill(e: Exercise) {
+            if (e.type == "read" && e.text.isNotBlank()) {
+                // otázky k jednomu textu jdou za sebou
+                drills.filter { it.type == "read" && it.text == e.text && (it.id == e.id || isNew("x:" + it.id) || retry(it.id)) }
+                    .sortedBy { it.id }
+                    .forEach { if (used.add("x:" + it.id)) out += drillFor(it) }
+            } else if (used.add("x:" + e.id)) out += drillFor(e)
+        }
 
-        // 1) splatné opakování
+        // 1) splatná slovíčka a chybně zodpovězené věty (nejvýš polovina relace)
         val dueW = words.filter { due("w:" + it.id) }.sortedBy { p.peek("w:" + it.id)!!.due }
-        val dueX = drills.filter { due("x:" + it.id) }.sortedBy { p.peek("x:" + it.id)!!.due }
-        interleave(dueW, dueX, 3, 2).forEach { when (it) { is Word -> addWord(it); is Exercise -> addDrill(it) } ; if (out.size >= target) return finish(out) }
+        val retryX = drills.filter { retry(it.id) }.sortedBy { p.peek("x:" + it.id)!!.due }
+        val cap = target / 2
+        for (it in interleave(dueW, retryX, 2, 2)) {
+            if (out.size >= cap) break
+            when (it) { is Word -> addWord(it); is Exercise -> addDrill(it) }
+        }
 
-        // 2) nové z poslední lekce, pak ze starších
-        val newBudget = (target * 0.45).toInt().coerceAtLeast(6)
-        var introduced = 0
-        val newWords = (latest.words + lessons.dropLast(1).reversed().flatMap { it.words }).filter { isNew("w:" + it.id) }
-        val newDrills = (latest.exercises + lessons.dropLast(1).reversed().flatMap { it.exercises }).filter { isNew("x:" + it.id) }
-        // další látka B1 nad rámec lekcí: střídat typy (gramatika, slovíčka, čtení, překlad)
-        val newPractice = practice.filter { isNew("x:" + it.id) }.shuffled(rnd).groupBy { it.type }.values
-            .map { it.iterator() }.let { its -> buildList { while (its.any { it.hasNext() }) its.forEach { i -> if (i.hasNext()) add(i.next()) } } }
+        // 2) nová slovíčka z lekce (s představením)
+        val newWords = order.flatMap { id -> lessons.first { it.id == id }.words }.filter { isNew("w:" + it.id) }
+        val wordBudget = minOf(12, (target * 0.2).toInt())
         val pending = ArrayDeque<Item>()
-        val nw = newWords.iterator(); val nd = newDrills.iterator(); val np = newPractice.iterator()
-        while (out.size < target && introduced < newBudget && (nw.hasNext() || nd.hasNext() || np.hasNext())) {
-            repeat(2) {
-                if (nw.hasNext() && introduced < newBudget) {
-                    val w = nw.next()
-                    if (used.add("w:" + w.id)) {
-                        out += Item.Vocab(w, Mode.INTRO); introduced++
-                        pending += quizFor(w, words, forceChoice = true)
-                    }
-                }
+
+        // 3) nové věty/texty: nejnovější lekce první, pestře – střídat sady i typy cvičení
+        val newDrills = order.flatMap { lid ->
+            val groups = (lessons.first { it.id == lid }.exercises.let { listOf(it) } +
+                practice.filter { it.lesson == lid }.flatMap { pk -> pk.exercises.groupBy { it.type }.values })
+                .map { g -> g.filter { isNew("x:" + it.id) }.shuffled(rnd).iterator() }
+            buildList { while (groups.any { it.hasNext() }) groups.shuffled(rnd).forEach { g -> if (g.hasNext()) add(g.next()) } }
+        }
+        val nw = newWords.iterator(); val nd = newDrills.iterator()
+        var introduced = 0; var k = 0
+        val known = words.filter { !isNew("w:" + it.id) && "w:" + it.id !in used }
+            .sortedByDescending { weakness("w:" + it.id) + rnd.nextDouble() * 0.5 }.iterator()
+        while (out.size < target && (nd.hasNext() || nw.hasNext())) {
+            if (nw.hasNext() && introduced < wordBudget && k % 3 == 0) {
+                val w = nw.next()
+                if (used.add("w:" + w.id)) { out += Item.Vocab(w, Mode.INTRO); introduced++; pending += quizFor(w, words, forceChoice = true) }
+            } else if (nd.hasNext()) {
+                addDrill(nd.next())
+            } else if (nw.hasNext()) {
+                val w = nw.next(); if (used.add("w:" + w.id)) { out += Item.Vocab(w, Mode.INTRO); pending += quizFor(w, words, forceChoice = true) }
             }
-            if (nd.hasNext()) addDrill(nd.next())
-            if (np.hasNext()) { addDrill(np.next()); if (!nw.hasNext() && !nd.hasNext()) introduced++ }
-            if (pending.size > 2) out += pending.removeFirst()
+            // slovíčka lekce průběžně (každá 5. položka), aby nezmizela
+            if (k % 5 == 4 && known.hasNext()) addWord(known.next())
+            if (pending.size > 1) out += pending.removeFirst()
+            k++
         }
         out += pending
 
-        // 3) doplnění nejslabšími položkami
+        // 4) všechno nové už bylo: nejdéle neviděné položky (nejslabší napřed)
         if (out.size < target) {
             val rest = (words.map { "w:" + it.id to it } + drills.map { "x:" + it.id to it })
-                .filter { it.first !in used && !isNew(it.first) }
-                .sortedByDescending { weakness(it.first) + rnd.nextDouble() * 0.3 }
+                .filter { it.first !in used }
+                .sortedBy { (p.peek(it.first)?.lastSeen ?: 0L) - (weakness(it.first) * 86_400_000L).toLong() }
             for ((_, v) in rest) { when (v) { is Word -> addWord(v); is Exercise -> addDrill(v) }; if (out.size >= target) break }
-        }
-        // 4) když je všeho málo, procvičit i nové bez úvodu
-        if (out.size < target) {
-            (words.shuffled(rnd)).forEach { if (out.size < target) addWord(it) }
         }
         return finish(out)
     }
+
+    /** Věta/text zodpovězené naposledy špatně a už splatné. */
+    private fun retry(id: String) = p.peek("x:" + id)?.let { !it.isNew && it.reps == 0 && it.due <= now } ?: false
 
     /** Neomezená slovní zásoba: splatná slova + nová dávka. */
     fun bank(minutes: Int, extraBatch: Boolean): List<Item> {

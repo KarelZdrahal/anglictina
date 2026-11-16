@@ -1,0 +1,369 @@
+{
+"id": "L01-d_translate",
+"lesson": "L01",
+"topic": "Translation",
+"topic_cz": "Překlad",
+"level": "B1",
+"exercises": [
+{
+"id": "L01-d_translate-001",
+"type": "translate",
+"q": "Můj bratr pracuje v nemocnici.",
+"a": "My brother works in a hospital. | My brother works at a hospital."
+},
+{
+"id": "L01-d_translate-002",
+"type": "translate",
+"q": "Teď nemůžu mluvit, vařím večeři.",
+"a": "I can't talk now, I'm cooking dinner. | I can't talk now. I'm cooking dinner. | I cannot talk now, I am cooking dinner."
+},
+{
+"id": "L01-d_translate-003",
+"type": "translate",
+"q": "Jak často chodíš do kina?",
+"a": "How often do you go to the cinema? | How often do you go to the movies?"
+},
+{
+"id": "L01-d_translate-004",
+"type": "translate",
+"q": "Ona je velmi pracovitá a spolehlivá.",
+"a": "She is very hard-working and reliable. | She's very hard-working and reliable."
+},
+{
+"id": "L01-d_translate-005",
+"type": "translate",
+"q": "Proč se směješ?",
+"a": "Why are you laughing?"
+},
+{
+"id": "L01-d_translate-006",
+"type": "translate",
+"q": "Tento týden pracuju z domova.",
+"a": "I'm working from home this week. | I am working from home this week. | This week I'm working from home. | This week I am working from home."
+},
+{
+"id": "L01-d_translate-007",
+"type": "translate",
+"q": "Nerozumím ti.",
+"a": "I don't understand you. | I do not understand you."
+},
+{
+"id": "L01-d_translate-008",
+"type": "translate",
+"q": "Můj otec je hodně tvrdohlavý.",
+"a": "My father is very stubborn. | My dad is very stubborn. | My father is really stubborn."
+},
+{
+"id": "L01-d_translate-009",
+"type": "translate",
+"q": "Dobře vycházím se svými kolegy.",
+"a": "I get on well with my colleagues. | I get along well with my colleagues."
+},
+{
+"id": "L01-d_translate-010",
+"type": "translate",
+"q": "Je po matce.",
+"a": "She takes after her mother. | He takes after his mother. | She takes after her mum. | He takes after his mum."
+},
+{
+"id": "L01-d_translate-011",
+"type": "translate",
+"q": "Obvykle vstávám v šest.",
+"a": "I usually get up at six. | I usually get up at 6."
+},
+{
+"id": "L01-d_translate-012",
+"type": "translate",
+"q": "Prší. Vezmi si deštník.",
+"a": "It's raining. Take an umbrella. | It is raining. Take an umbrella. | It's raining. Take your umbrella."
+},
+{
+"id": "L01-d_translate-013",
+"type": "translate",
+"q": "V zimě tady hodně sněží.",
+"a": "It snows a lot here in winter. | In winter it snows a lot here."
+},
+{
+"id": "L01-d_translate-014",
+"type": "translate",
+"q": "Na koho čekáš?",
+"a": "Who are you waiting for?"
+},
+{
+"id": "L01-d_translate-015",
+"type": "translate",
+"q": "Moje sestra je hrozně upovídaná.",
+"a": "My sister is very talkative. | My sister is really talkative. | My sister is terribly talkative."
+},
+{
+"id": "L01-d_translate-016",
+"type": "translate",
+"q": "Děti si hrají na zahradě.",
+"a": "The children are playing in the garden. | The kids are playing in the garden."
+},
+{
+"id": "L01-d_translate-017",
+"type": "translate",
+"q": "Nejím maso.",
+"a": "I don't eat meat. | I do not eat meat."
+},
+{
+"id": "L01-d_translate-018",
+"type": "translate",
+"q": "Dneska nejím maso, jsem nemocný.",
+"a": "I'm not eating meat today, I'm ill. | I'm not eating meat today, I'm sick. | I am not eating meat today, I am ill."
+},
+{
+"id": "L01-d_translate-019",
+"type": "translate",
+"q": "Ta polévka chutná skvěle.",
+"a": "The soup tastes great. | This soup tastes great. | That soup tastes great."
+},
+{
+"id": "L01-d_translate-020",
+"type": "translate",
+"q": "Znám ho dobře.",
+"a": "I know him well."
+},
+{
+"id": "L01-d_translate-021",
+"type": "translate",
+"q": "Je to štědrý a ohleduplný člověk.",
+"a": "He is a generous and thoughtful person. | He's a generous and thoughtful person. | She is a generous and thoughtful person. | She's a generous and thoughtful person."
+},
+{
+"id": "L01-d_translate-022",
+"type": "translate",
+"q": "Pořád ztrácíš klíče!",
+"a": "You're always losing your keys! | You are always losing your keys! | You're always losing keys!"
+},
+{
+"id": "L01-d_translate-023",
+"type": "translate",
+"q": "Co děláš? – Jsem učitel.",
+"a": "What do you do? – I'm a teacher. | What do you do? I'm a teacher. | What do you do? I am a teacher."
+},
+{
+"id": "L01-d_translate-024",
+"type": "translate",
+"q": "Co děláš? – Hledám telefon.",
+"a": "What are you doing? – I'm looking for my phone. | What are you doing? I'm looking for my phone. | What are you doing? I am looking for my phone."
+},
+{
+"id": "L01-d_translate-025",
+"type": "translate",
+"q": "Ceny teď rychle rostou.",
+"a": "Prices are rising quickly now. | Prices are rising fast now. | Prices are going up quickly at the moment. | Prices are rising quickly at the moment."
+},
+{
+"id": "L01-d_translate-026",
+"type": "translate",
+"q": "Jeho angličtina se zlepšuje.",
+"a": "His English is getting better. | His English is improving."
+},
+{
+"id": "L01-d_translate-027",
+"type": "translate",
+"q": "Je velmi sebevědomý, ale není namyšlený.",
+"a": "He is very confident, but he isn't big-headed. | He's very confident but he isn't big-headed. | He is very confident, but he is not big-headed."
+},
+{
+"id": "L01-d_translate-028",
+"type": "translate",
+"q": "Můj šéf je panovačný a náladový.",
+"a": "My boss is bossy and moody."
+},
+{
+"id": "L01-d_translate-029",
+"type": "translate",
+"q": "Potřebuju víc času.",
+"a": "I need more time."
+},
+{
+"id": "L01-d_translate-030",
+"type": "translate",
+"q": "Myslím, že máš pravdu.",
+"a": "I think you're right. | I think you are right."
+},
+{
+"id": "L01-d_translate-031",
+"type": "translate",
+"q": "Přemýšlím o nové práci.",
+"a": "I'm thinking about a new job. | I am thinking about a new job. | I'm thinking of a new job."
+},
+{
+"id": "L01-d_translate-032",
+"type": "translate",
+"q": "Ta taška patří mé sestře.",
+"a": "The bag belongs to my sister. | This bag belongs to my sister. | That bag belongs to my sister."
+},
+{
+"id": "L01-d_translate-033",
+"type": "translate",
+"q": "Vypadáš unaveně.",
+"a": "You look tired."
+},
+{
+"id": "L01-d_translate-034",
+"type": "translate",
+"q": "Bydlím u rodičů, než si najdu byt.",
+"a": "I'm living with my parents until I find a flat. | I am living with my parents until I find a flat. | I'm staying with my parents until I find a flat."
+},
+{
+"id": "L01-d_translate-035",
+"type": "translate",
+"q": "Moji rodiče bydlí na vesnici.",
+"a": "My parents live in a village."
+},
+{
+"id": "L01-d_translate-036",
+"type": "translate",
+"q": "Je to dobrý posluchač.",
+"a": "He's a good listener. | He is a good listener. | She's a good listener. | She is a good listener."
+},
+{
+"id": "L01-d_translate-037",
+"type": "translate",
+"q": "Je opravdu líný, nikdy nepomáhá.",
+"a": "He's really lazy, he never helps. | He is really lazy. He never helps. | He's really lazy. He never helps."
+},
+{
+"id": "L01-d_translate-038",
+"type": "translate",
+"q": "Proč jsi dnes tak nepříjemný?",
+"a": "Why are you being so mean today? | Why are you so mean today? | Why are you being so unpleasant today?"
+},
+{
+"id": "L01-d_translate-039",
+"type": "translate",
+"q": "Vlak odjíždí v sedm.",
+"a": "The train leaves at seven. | The train leaves at 7. | The train departs at seven."
+},
+{
+"id": "L01-d_translate-040",
+"type": "translate",
+"q": "Je to spolehlivý a trpělivý učitel.",
+"a": "He is a reliable and patient teacher. | He's a reliable and patient teacher."
+},
+{
+"id": "L01-d_translate-041",
+"type": "translate",
+"q": "Učí se řídit.",
+"a": "She's learning to drive. | She is learning to drive. | He's learning to drive. | He is learning to drive."
+},
+{
+"id": "L01-d_translate-042",
+"type": "translate",
+"q": "Nevěřím mu.",
+"a": "I don't believe him. | I don't trust him. | I do not believe him."
+},
+{
+"id": "L01-d_translate-043",
+"type": "translate",
+"q": "Voda se vaří při sto stupních.",
+"a": "Water boils at a hundred degrees. | Water boils at 100 degrees. | Water boils at one hundred degrees."
+},
+{
+"id": "L01-d_translate-044",
+"type": "translate",
+"q": "Je velmi zvědavý a pořád se ptá.",
+"a": "He's very curious and he's always asking questions. | He is very curious and always asks questions. | He's very curious and always asks questions."
+},
+{
+"id": "L01-d_translate-045",
+"type": "translate",
+"q": "Mé sestře chutná káva víc než čaj.",
+"a": "My sister likes coffee more than tea. | My sister prefers coffee to tea."
+},
+{
+"id": "L01-d_translate-046",
+"type": "translate",
+"q": "Zrovna mám schůzku, zavolám ti později.",
+"a": "I'm in a meeting right now, I'll call you later. | I'm having a meeting right now, I'll call you later. | I'm in a meeting at the moment. I'll call you later."
+},
+{
+"id": "L01-d_translate-047",
+"type": "translate",
+"q": "Je velmi společenská, ráda poznává nové lidi.",
+"a": "She's very outgoing, she likes meeting new people. | She is very sociable and likes meeting new people. | She's very sociable, she likes meeting new people. | She is very outgoing and she likes meeting new people."
+},
+{
+"id": "L01-d_translate-048",
+"type": "translate",
+"q": "Nikdy nechodí pozdě.",
+"a": "He's never late. | He is never late. | She's never late. | She is never late."
+},
+{
+"id": "L01-d_translate-049",
+"type": "translate",
+"q": "Kdo vaří u vás doma?",
+"a": "Who cooks in your house? | Who does the cooking in your house? | Who cooks at your place?"
+},
+{
+"id": "L01-d_translate-050",
+"type": "translate",
+"q": "Ten pes kouše.",
+"a": "The dog bites. | That dog bites."
+},
+{
+"id": "L01-d_translate-051",
+"type": "translate",
+"q": "Pozor, ten pes tě kouše!",
+"a": "Careful, the dog is biting you! | Watch out, the dog is biting you!"
+},
+{
+"id": "L01-d_translate-052",
+"type": "translate",
+"q": "Je spíš plachá, ale velmi milá.",
+"a": "She's rather shy but very nice. | She is quite shy, but very nice. | She's quite shy but very kind."
+},
+{
+"id": "L01-d_translate-053",
+"type": "translate",
+"q": "Neustále si stěžuje na počasí.",
+"a": "He's constantly complaining about the weather. | He is always complaining about the weather. | She's constantly complaining about the weather."
+},
+{
+"id": "L01-d_translate-054",
+"type": "translate",
+"q": "Tenhle týden bydlím v hotelu.",
+"a": "I'm staying at a hotel this week. | I am staying in a hotel this week. | This week I'm staying at a hotel."
+},
+{
+"id": "L01-d_translate-055",
+"type": "translate",
+"q": "Kolik stojí ta bunda?",
+"a": "How much does the jacket cost? | How much is the jacket? | How much is that jacket? | How much does that jacket cost?"
+},
+{
+"id": "L01-d_translate-056",
+"type": "translate",
+"q": "Klima se mění.",
+"a": "The climate is changing."
+},
+{
+"id": "L01-d_translate-057",
+"type": "translate",
+"q": "Je roztržitý, pořád něco zapomíná.",
+"a": "He's absent-minded, he's always forgetting things. | He is absent-minded and always forgets things. | He's absent-minded. He always forgets something."
+},
+{
+"id": "L01-d_translate-058",
+"type": "translate",
+"q": "Má rád lidi a umí s nimi jednat.",
+"a": "He's a people person. | He is a people person."
+},
+{
+"id": "L01-d_translate-059",
+"type": "translate",
+"q": "Proč máš na sobě kabát?",
+"a": "Why are you wearing a coat?"
+},
+{
+"id": "L01-d_translate-060",
+"type": "translate",
+"q": "Moje babička chodí spát v deset.",
+"a": "My grandmother goes to bed at ten. | My grandma goes to bed at ten. | My granny goes to bed at 10."
+}
+]
+}

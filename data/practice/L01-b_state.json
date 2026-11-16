@@ -1,0 +1,609 @@
+{
+"id": "L01-b_state",
+"lesson": "L01",
+"topic": "State verbs, mistakes & word order",
+"topic_cz": "Stavová slovesa, chyby a slovosled",
+"level": "B1",
+"exercises": [
+{
+"id": "L01-b_state-001",
+"type": "choose",
+"q": "I ___ (know/am knowing) the answer to this question.",
+"a": "know"
+},
+{
+"id": "L01-b_state-002",
+"type": "choose",
+"q": "This soup ___ (tastes/is tasting) delicious.",
+"a": "tastes"
+},
+{
+"id": "L01-b_state-003",
+"type": "choose",
+"q": "The chef ___ (tastes/is tasting) the soup to check the salt.",
+"a": "is tasting"
+},
+{
+"id": "L01-b_state-004",
+"type": "choose",
+"q": "Do you ___ (want/wanting) something to drink?",
+"a": "want"
+},
+{
+"id": "L01-b_state-005",
+"type": "choose",
+"q": "I ___ (have/am having) a headache.",
+"a": "have"
+},
+{
+"id": "L01-b_state-006",
+"type": "choose",
+"q": "I ___ (have/am having) a bath. Can you answer the door?",
+"a": "am having"
+},
+{
+"id": "L01-b_state-007",
+"type": "choose",
+"q": "He ___ (seems/is seeming) a really nice guy.",
+"a": "seems"
+},
+{
+"id": "L01-b_state-008",
+"type": "choose",
+"q": "This book ___ (belongs/is belonging) to the library.",
+"a": "belongs"
+},
+{
+"id": "L01-b_state-009",
+"type": "choose",
+"q": "I ___ (don't believe/am not believing) a word he says.",
+"a": "don't believe"
+},
+{
+"id": "L01-b_state-010",
+"type": "choose",
+"q": "___ (Do you remember/Are you remembering) our first holiday together?",
+"a": "Do you remember"
+},
+{
+"id": "L01-b_state-011",
+"type": "choose",
+"q": "She ___ (loves/is loving) her grandchildren very much.",
+"a": "loves"
+},
+{
+"id": "L01-b_state-012",
+"type": "choose",
+"q": "We ___ (need/are needing) more chairs for the guests.",
+"a": "need"
+},
+{
+"id": "L01-b_state-013",
+"type": "choose",
+"q": "This coat ___ (costs/is costing) too much.",
+"a": "costs"
+},
+{
+"id": "L01-b_state-014",
+"type": "choose",
+"q": "I ___ (see/am seeing) what you mean.",
+"a": "see"
+},
+{
+"id": "L01-b_state-015",
+"type": "choose",
+"q": "I ___ (see/am seeing) the dentist at three this afternoon.",
+"a": "am seeing"
+},
+{
+"id": "L01-b_state-016",
+"type": "choose",
+"q": "Your perfume ___ (smells/is smelling) lovely.",
+"a": "smells"
+},
+{
+"id": "L01-b_state-017",
+"type": "choose",
+"q": "Why ___ (do you smell/are you smelling) the milk? Is it off?",
+"a": "are you smelling"
+},
+{
+"id": "L01-b_state-018",
+"type": "choose",
+"q": "Lucie ___ (looks/is looking) like her mother.",
+"a": "looks"
+},
+{
+"id": "L01-b_state-019",
+"type": "choose",
+"q": "The box ___ (contains/is containing) old photos.",
+"a": "contains"
+},
+{
+"id": "L01-b_state-020",
+"type": "choose",
+"q": "I ___ (hate/am hating) waiting in queues.",
+"a": "hate"
+},
+{
+"id": "L01-b_state-021",
+"type": "choose",
+"q": "She ___ (understands/is understanding) Spanish but she can't speak it.",
+"a": "understands"
+},
+{
+"id": "L01-b_state-022",
+"type": "choose",
+"q": "I ___ (prefer/am preferring) the blue one.",
+"a": "prefer"
+},
+{
+"id": "L01-b_state-023",
+"type": "choose",
+"q": "This bag ___ (weighs/is weighing) about ten kilos.",
+"a": "weighs"
+},
+{
+"id": "L01-b_state-024",
+"type": "choose",
+"q": "The shop assistant ___ (weighs/is weighing) the apples.",
+"a": "is weighing"
+},
+{
+"id": "L01-b_state-025",
+"type": "choose",
+"q": "We ___ (think/are thinking) about moving to the countryside.",
+"a": "are thinking"
+},
+{
+"id": "L01-b_state-026",
+"type": "choose",
+"q": "I ___ (think/am thinking) that's a great idea.",
+"a": "think"
+},
+{
+"id": "L01-b_state-027",
+"type": "choose",
+"q": "He ___ (owns/is owning) a house by the lake.",
+"a": "owns"
+},
+{
+"id": "L01-b_state-028",
+"type": "choose",
+"q": "Do you ___ (mind/minding) if I open the window?",
+"a": "mind"
+},
+{
+"id": "L01-b_state-029",
+"type": "choose",
+"q": "It ___ (depends/is depending) on the weather.",
+"a": "depends"
+},
+{
+"id": "L01-b_state-030",
+"type": "choose",
+"q": "I ___ (don't recognise/am not recognising) this street. Are we lost?",
+"a": "don't recognise"
+},
+{
+"id": "L01-b_state-031",
+"type": "choose",
+"q": "___ (Do you hear/Are you hearing) that noise?",
+"a": "Do you hear"
+},
+{
+"id": "L01-b_state-032",
+"type": "choose",
+"q": "Karel ___ (is being/is) really helpful today – is he feeling all right?",
+"a": "is being"
+},
+{
+"id": "L01-b_state-033",
+"type": "choose",
+"q": "Karel ___ (is being/is) usually very helpful.",
+"a": "is"
+},
+{
+"id": "L01-b_state-034",
+"type": "choose",
+"q": "I ___ (feel/am feeling) that we should leave now.",
+"a": "feel"
+},
+{
+"id": "L01-b_state-035",
+"type": "choose",
+"q": "This cake ___ (contains/is containing) nuts, so be careful.",
+"a": "contains"
+},
+{
+"id": "L01-b_state-036",
+"type": "choose",
+"q": "Everybody ___ (agrees/is agreeing) that she is very reliable.",
+"a": "agrees"
+},
+{
+"id": "L01-b_state-037",
+"type": "choose",
+"q": "I ___ (promise/am promising) I won't be late again.",
+"a": "promise"
+},
+{
+"id": "L01-b_state-038",
+"type": "choose",
+"q": "That ___ (sounds/is sounding) like a great plan!",
+"a": "sounds"
+},
+{
+"id": "L01-b_state-039",
+"type": "choose",
+"q": "My son ___ (wishes/is wishing) he had a dog.",
+"a": "wishes"
+},
+{
+"id": "L01-b_state-040",
+"type": "choose",
+"q": "These shoes ___ (fit/are fitting) perfectly.",
+"a": "fit"
+},
+{
+"id": "L01-b_state-041",
+"type": "error",
+"q": "I am knowing her for ten years.",
+"a": "I have known her for ten years."
+},
+{
+"id": "L01-b_state-042",
+"type": "error",
+"q": "She is having two brothers.",
+"a": "She has two brothers."
+},
+{
+"id": "L01-b_state-043",
+"type": "error",
+"q": "Look! It snows.",
+"a": "Look! It's snowing. | Look! It is snowing."
+},
+{
+"id": "L01-b_state-044",
+"type": "error",
+"q": "He don't like coffee.",
+"a": "He doesn't like coffee. | He does not like coffee."
+},
+{
+"id": "L01-b_state-045",
+"type": "error",
+"q": "Are you understand me?",
+"a": "Do you understand me?"
+},
+{
+"id": "L01-b_state-046",
+"type": "error",
+"q": "I am wanting a new phone.",
+"a": "I want a new phone."
+},
+{
+"id": "L01-b_state-047",
+"type": "error",
+"q": "My father work in a factory.",
+"a": "My father works in a factory."
+},
+{
+"id": "L01-b_state-048",
+"type": "error",
+"q": "What you are doing now?",
+"a": "What are you doing now?"
+},
+{
+"id": "L01-b_state-049",
+"type": "error",
+"q": "She doesn't works on Fridays.",
+"a": "She doesn't work on Fridays. | She does not work on Fridays."
+},
+{
+"id": "L01-b_state-050",
+"type": "error",
+"q": "Where does he lives?",
+"a": "Where does he live?"
+},
+{
+"id": "L01-b_state-051",
+"type": "error",
+"q": "This pizza is tasting great.",
+"a": "This pizza tastes great."
+},
+{
+"id": "L01-b_state-052",
+"type": "error",
+"q": "I'm usually going to bed at eleven.",
+"a": "I usually go to bed at eleven."
+},
+{
+"id": "L01-b_state-053",
+"type": "error",
+"q": "Why you are laughing?",
+"a": "Why are you laughing?"
+},
+{
+"id": "L01-b_state-054",
+"type": "error",
+"q": "Does she is coming tonight?",
+"a": "Is she coming tonight?"
+},
+{
+"id": "L01-b_state-055",
+"type": "error",
+"q": "They are owning a big house.",
+"a": "They own a big house."
+},
+{
+"id": "L01-b_state-056",
+"type": "error",
+"q": "My brother is playing tennis every Sunday.",
+"a": "My brother plays tennis every Sunday."
+},
+{
+"id": "L01-b_state-057",
+"type": "error",
+"q": "Listen! The birds sing.",
+"a": "Listen! The birds are singing."
+},
+{
+"id": "L01-b_state-058",
+"type": "error",
+"q": "I'm not believing you.",
+"a": "I don't believe you. | I do not believe you."
+},
+{
+"id": "L01-b_state-059",
+"type": "error",
+"q": "Do you can swim?",
+"a": "Can you swim?"
+},
+{
+"id": "L01-b_state-060",
+"type": "error",
+"q": "She never is late.",
+"a": "She is never late. | She's never late."
+},
+{
+"id": "L01-b_state-061",
+"type": "error",
+"q": "He is seeming tired today.",
+"a": "He seems tired today."
+},
+{
+"id": "L01-b_state-062",
+"type": "error",
+"q": "We are needing more time.",
+"a": "We need more time."
+},
+{
+"id": "L01-b_state-063",
+"type": "error",
+"q": "How often you go to the cinema?",
+"a": "How often do you go to the cinema?"
+},
+{
+"id": "L01-b_state-064",
+"type": "error",
+"q": "My mum always is cooking on Sundays.",
+"a": "My mum always cooks on Sundays."
+},
+{
+"id": "L01-b_state-065",
+"type": "error",
+"q": "I'm not liking this music.",
+"a": "I don't like this music. | I do not like this music."
+},
+{
+"id": "L01-b_state-066",
+"type": "error",
+"q": "Petr study engineering at the moment.",
+"a": "Petr is studying engineering at the moment. | Petr's studying engineering at the moment."
+},
+{
+"id": "L01-b_state-067",
+"type": "error",
+"q": "Who is this umbrella belonging to?",
+"a": "Who does this umbrella belong to?"
+},
+{
+"id": "L01-b_state-068",
+"type": "error",
+"q": "It's raining often in November.",
+"a": "It often rains in November."
+},
+{
+"id": "L01-b_state-069",
+"type": "error",
+"q": "The kids is playing outside.",
+"a": "The kids are playing outside."
+},
+{
+"id": "L01-b_state-070",
+"type": "error",
+"q": "I'm agree with you.",
+"a": "I agree with you."
+},
+{
+"id": "L01-b_state-071",
+"type": "order",
+"q": "always / she / late / is",
+"a": "She is always late."
+},
+{
+"id": "L01-b_state-072",
+"type": "order",
+"q": "do / how / often / exercise / you",
+"a": "How often do you exercise?"
+},
+{
+"id": "L01-b_state-073",
+"type": "order",
+"q": "working / he / at / is / moment / the / home / from",
+"a": "He is working from home at the moment."
+},
+{
+"id": "L01-b_state-074",
+"type": "order",
+"q": "never / my / breakfast / eats / brother",
+"a": "My brother never eats breakfast."
+},
+{
+"id": "L01-b_state-075",
+"type": "order",
+"q": "you / what / reading / are",
+"a": "What are you reading?"
+},
+{
+"id": "L01-b_state-076",
+"type": "order",
+"q": "doesn't / she / meat / eat",
+"a": "She doesn't eat meat."
+},
+{
+"id": "L01-b_state-077",
+"type": "order",
+"q": "usually / we / to / go / bed / eleven / at",
+"a": "We usually go to bed at eleven."
+},
+{
+"id": "L01-b_state-078",
+"type": "order",
+"q": "are / why / you / smiling",
+"a": "Why are you smiling?"
+},
+{
+"id": "L01-b_state-079",
+"type": "order",
+"q": "she / does / where / work",
+"a": "Where does she work?"
+},
+{
+"id": "L01-b_state-080",
+"type": "order",
+"q": "listening / not / is / he / me / to",
+"a": "He is not listening to me."
+},
+{
+"id": "L01-b_state-081",
+"type": "order",
+"q": "the / is / getting / weather / worse",
+"a": "The weather is getting worse."
+},
+{
+"id": "L01-b_state-082",
+"type": "order",
+"q": "who / you / are / waiting / for",
+"a": "Who are you waiting for?"
+},
+{
+"id": "L01-b_state-083",
+"type": "order",
+"q": "know / I / don't / answer / the",
+"a": "I don't know the answer."
+},
+{
+"id": "L01-b_state-084",
+"type": "order",
+"q": "hardly / he / ever / complains",
+"a": "He hardly ever complains."
+},
+{
+"id": "L01-b_state-085",
+"type": "order",
+"q": "sister / my / Spanish / is / learning",
+"a": "My sister is learning Spanish."
+},
+{
+"id": "L01-b_state-086",
+"type": "order",
+"q": "does / mean / what / word / this",
+"a": "What does this word mean?"
+},
+{
+"id": "L01-b_state-087",
+"type": "order",
+"q": "are / the / sleeping / children / still",
+"a": "The children are still sleeping."
+},
+{
+"id": "L01-b_state-088",
+"type": "order",
+"q": "a / people / person / is / real / she",
+"a": "She is a real people person."
+},
+{
+"id": "L01-b_state-089",
+"type": "order",
+"q": "well / get / on / I / colleagues / with / my",
+"a": "I get on well with my colleagues."
+},
+{
+"id": "L01-b_state-090",
+"type": "order",
+"q": "after / takes / father / his / he",
+"a": "He takes after his father."
+},
+{
+"id": "L01-b_state-091",
+"type": "order",
+"q": "is / always / my / complaining / neighbour",
+"a": "My neighbour is always complaining."
+},
+{
+"id": "L01-b_state-092",
+"type": "order",
+"q": "every / do / you / cook / day",
+"a": "Do you cook every day?"
+},
+{
+"id": "L01-b_state-093",
+"type": "order",
+"q": "is / the / rising / price / of / petrol",
+"a": "The price of petrol is rising."
+},
+{
+"id": "L01-b_state-094",
+"type": "order",
+"q": "twice / a / visits / she / month / us",
+"a": "She visits us twice a month."
+},
+{
+"id": "L01-b_state-095",
+"type": "order",
+"q": "isn't / today / she / working",
+"a": "She isn't working today."
+},
+{
+"id": "L01-b_state-096",
+"type": "order",
+"q": "time / leave / what / you / home / do",
+"a": "What time do you leave home?"
+},
+{
+"id": "L01-b_state-097",
+"type": "order",
+"q": "am / I / my / looking / for / keys",
+"a": "I am looking for my keys."
+},
+{
+"id": "L01-b_state-098",
+"type": "order",
+"q": "seems / he / nervous / a / bit",
+"a": "He seems a bit nervous."
+},
+{
+"id": "L01-b_state-099",
+"type": "order",
+"q": "good / is / a / listener / mother / my",
+"a": "My mother is a good listener."
+},
+{
+"id": "L01-b_state-100",
+"type": "order",
+"q": "rarely / the / we / watch / news",
+"a": "We rarely watch the news."
+}
+]
+}

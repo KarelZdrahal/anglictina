@@ -1,0 +1,97 @@
+#Personality vocabulary in context|Slovíčka o povaze v kontextu
+choose ## Lenka talks to everyone at parties and makes friends easily – she's very ___ (outgoing/shy/stubborn). ## outgoing
+choose ## My son goes red when strangers talk to him. He's quite ___ (shy/bossy/confident). ## shy
+choose ## You can always count on Martin – he's never late and always does what he promises. He's very ___ (reliable/moody/lazy). ## reliable
+choose ## Nothing worries my uncle. He's so ___ (easy-going/quick-tempered/selfish). ## easy-going
+choose ## She works long hours and never complains. She's really ___ (hard-working/lazy/mean). ## hard-working
+choose ## He stays in bed until noon and never helps at home. He's so ___ (lazy/ambitious/organised). ## lazy
+choose ## My grandmother always gives us presents and money. She's very ___ (generous/mean/two-faced). ## generous
+choose ## He never buys anyone a drink – he's really ___ (mean/generous/thoughtful). ## mean
+choose ## Tell me what you really think. I want you to be ___ (honest/two-faced/moody). ## honest
+choose ## Jana wants to be the director of the company before she's forty. She's very ___ (ambitious/laid-back/shy). ## ambitious
+choose ## Teachers of small children need to be very ___ (patient/quick-tempered/bossy). ## patient
+choose ## He gave a speech to 500 people without any notes – he's so ___ (confident/shy/absent-minded). ## confident
+choose ## Be careful what you say to her – she's quite ___ (sensitive/stubborn/lazy) and gets upset easily. ## sensitive
+choose ## Once he decides something, he never changes his mind. He's so ___ (stubborn/open-minded/easy-going). ## stubborn
+choose ## My older sister always tells everyone what to do. She's really ___ (bossy/shy/patient). ## bossy
+choose ## Our receptionist always smiles and sings – she's such a ___ (cheerful/moody/mean) person. ## cheerful
+choose ## One minute he's happy, the next minute he's angry. He's very ___ (moody/calm/reliable). ## moody
+choose ## She remembered my birthday and brought me flowers when I was ill. She's so ___ (thoughtful/selfish/big-headed). ## thoughtful
+choose ## He only thinks about himself and never helps anyone. He's really ___ (selfish/generous/loyal). ## selfish
+choose ## My aunt can talk for hours without stopping – she's very ___ (talkative/shy/calm). ## talkative
+choose ## Petr loves being with other people and hates spending evenings alone. He's very ___ (sociable/stubborn/curious). ## sociable
+choose ## Her desk is always tidy and she plans everything in advance. She's very ___ (organised/absent-minded/lazy). ## organised
+choose ## Even in an emergency, the pilot stayed ___ (calm/moody/talkative). ## calm
+choose ## Children are naturally ___ (curious/narrow-minded/mean) – they ask questions all the time. ## curious
+choose ## My dog follows me everywhere – dogs are very ___ (loyal/selfish/two-faced) animals. ## loyal
+choose ## Despite being a famous actor, he is very ___ (down-to-earth/big-headed/bossy) and talks to everyone. ## down-to-earth
+choose ## My grandfather is very ___ (open-minded/narrow-minded/stubborn) – he's happy to try new things and listen to new ideas. ## open-minded
+choose ## He thinks his way is the only right way. He's quite ___ (narrow-minded/open-minded/thoughtful). ## narrow-minded
+choose ## My professor often forgets where he put his glasses – he's a bit ___ (absent-minded/organised/ambitious). ## absent-minded
+choose ## He gets angry very quickly over small things. He's rather ___ (quick-tempered/laid-back/patient). ## quick-tempered
+choose ## On holiday I'm completely ___ (laid-back/bossy/ambitious) – I don't worry about anything. ## laid-back
+choose ## Since he won the competition, he's become really ___ (big-headed/down-to-earth/shy). He thinks he's the best. ## big-headed
+choose ## She's nice to you, but then she says terrible things about you behind your back. She's so ___ (two-faced/honest/loyal). ## two-faced
+choose ## Lucie loves meeting customers and working in a team – she's a real ___ (people person/good listener/narrow-minded). ## people person
+choose ## When I have a problem, I talk to my brother. He's a ___ (good listener/two-faced person/moody person). ## good listener
+choose ## I ___ (get on well with/take after/look like) my colleagues – we often go for lunch together. ## get on well with
+choose ## Tomáš is good at music – he ___ (takes after/gets on with/looks after) his mother, who is a pianist. ## takes after
+choose ## A good manager needs to be ___ (reliable/lazy/selfish), so that the team can trust them. ## reliable
+choose ## My boss is never satisfied and always wants more. He's very ___ (demanding/laid-back/easy-going). ## demanding
+choose ## I'm not very ___ (sociable/shy/stubborn) – I prefer staying at home with a book. ## sociable
+choose ## You can tell him a secret; he would never tell anyone. He's completely ___ (trustworthy/two-faced/talkative). ## trustworthy
+choose ## Don't be so ___ (impatient/patient/calm)! The bus will come in a minute. ## impatient
+choose ## It was really ___ (unkind/kind/thoughtful) of you to laugh at her mistake. ## unkind
+choose ## He never tells the truth. He's completely ___ (dishonest/honest/loyal). ## dishonest
+choose ## She's so ___ (disorganised/organised/reliable) – she's always losing her documents. ## disorganised
+choose ## I felt very ___ (insecure/confident/calm) when I started my new job. ## insecure
+choose ## It's ___ (impolite/polite/thoughtful) to talk with your mouth full. ## impolite
+choose ## Our new colleague is a bit ___ (unfriendly/friendly/cheerful) – she never says hello. ## unfriendly
+choose ## He changed his opinion again – he's so ___ (unreliable/reliable/loyal). ## unreliable
+choose ## My sister is ___ (sensible/sensitive/stubborn): she always makes practical, reasonable decisions. ## sensible
+choose ## My brother is very ___ (sensitive/sensible/bossy) – he cries at sad films. ## sensitive
+choose ## A person who is relaxed and doesn't get upset easily is ___ (easy-going/outgoing/hard-working). ## easy-going
+choose ## Lazy is the opposite of ___ (hard-working/easy-going/outgoing). ## hard-working
+choose ## Generous is the opposite of ___ (mean/honest/calm). ## mean
+choose ## Shy is the opposite of ___ (outgoing/stubborn/patient). ## outgoing
+choose ## Organised is the opposite of ___ (disorganised/unorganising/misorganised). ## disorganised
+choose ## The opposite of patient is ___ (impatient/unpatient/dispatient). ## impatient
+choose ## The opposite of honest is ___ (dishonest/unhonest/inhonest). ## dishonest
+choose ## The opposite of polite is ___ (impolite/unpolite/dispolite). ## impolite
+choose ## The opposite of reliable is ___ (unreliable/disreliable/inreliable). ## unreliable
+choose ## The opposite of friendly is ___ (unfriendly/disfriendly/infriendly). ## unfriendly
+choose ## The opposite of kind is ___ (unkind/inkind/diskind). ## unkind
+choose ## The opposite of selfish is ___ (unselfish/disselfish/imselfish). ## unselfish
+choose ## The opposite of mature is ___ (immature/unmature/dismature). ## immature
+choose ## The opposite of responsible is ___ (irresponsible/unresponsible/disresponsible). ## irresponsible
+choose ## The opposite of secure is ___ (insecure/unsecure/dissecure). ## insecure
+choose ## The opposite of loyal is ___ (disloyal/unloyal/inloyal). ## disloyal
+choose ## The opposite of tolerant is ___ (intolerant/untolerant/distolerant). ## intolerant
+choose ## The opposite of sociable is ___ (unsociable/dissociable/insociable). ## unsociable
+choose ## The opposite of practical is ___ (impractical/unpractical/dispractical). ## impractical
+choose ## The opposite of happy is ___ (unhappy/dishappy/imhappy). ## unhappy
+choose ## The opposite of satisfied is ___ (dissatisfied/unsatisfied/insatisfied). ## dissatisfied
+gap ## He's not patient at all – he's very _____. ## impatient
+gap ## She isn't honest – in fact she's quite _____. ## dishonest
+gap ## My flatmate isn't organised – his room is a mess. He's very _____. ## disorganised | disorganized
+gap ## It was _____ of him not to say thank you. (opposite of polite) ## impolite | rude
+gap ## Don't ask Pavel to help you – he's very _____ and forgets everything. (opposite of reliable) ## unreliable
+gap ## The new receptionist seems _____ – she never smiles. (opposite of friendly) ## unfriendly
+gap ## Leaving a small child alone at home is very _____. (opposite of responsible) ## irresponsible
+gap ## He behaves like a ten-year-old. He's so _____. (opposite of mature) ## immature
+gap ## She doesn't like other people's ideas. She is quite _____. (opposite of tolerant) ## intolerant
+gap ## A person who is always cheerful and positive is an _____ person. (opposite of pessimistic) ## optimistic
+gap ## She's very _____ – she wants to be a famous lawyer one day. ## ambitious
+gap ## You can't change his mind – he's as _____ as a mule. ## stubborn
+gap ## He always remembers small details about people – he's very _____. ## thoughtful
+gap ## My little brother asks "why?" about everything. He's very _____. ## curious
+gap ## I _____ after my dad – we both love football and hate shopping. ## take
+gap ## Do you get _____ well with your neighbours? ## on
+gap ## She's a real people _____ – she loves working with customers. ## person
+gap ## My best friend is a very good _____ – she never interrupts me. ## listener
+gap ## A person who is happy to try new things and accept different opinions is _____-minded. ## open
+gap ## A person who often forgets things is _____-minded. ## absent
+gap ## He gets angry very quickly – he's quick-_____. ## tempered
+gap ## Don't be so big-_____! You're not the only one who did well. ## headed
+gap ## She's very down-to-_____ for someone so rich. ## earth
+gap ## My uncle is very laid-_____ – nothing ever stresses him. ## back

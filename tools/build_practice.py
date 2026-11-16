@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Převede tools/practice-src/*.txt na data/practice/prNN.json (procvičování B1 nad rámec lekcí).
 
+Soubor LXX_nazev.txt patří k lekci LXX (opakování v aplikaci bere jen sady probraných lekcí).
 Formát souboru (oddělovač polí je " ## "):
   #Topic|Téma                       první řádek
   choose ## věta s (a/b/c) ## správná možnost
@@ -12,13 +13,16 @@ Formát souboru (oddělovač polí je " ## "):
   @q ## otázka ## možnost / možnost / možnost ## správná možnost
   @end                              konec textu
 """
-import os, json, glob
+import os, re, json, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 out = os.path.join(ROOT, 'data', 'practice'); os.makedirs(out, exist_ok=True)
+for old in glob.glob(os.path.join(out, '*.json')): os.remove(old)
 total = 0
 for f in sorted(glob.glob(os.path.join(ROOT, 'tools', 'practice-src', '*.txt'))):
-    nn = os.path.basename(f)[:2]
-    pid = f"pr{nn}"
+    base = os.path.splitext(os.path.basename(f))[0]
+    m = re.match(r'(L\d\d)_(.+)', base)
+    lesson = m.group(1) if m else ''
+    pid = f"{m.group(1)}-{m.group(2)}" if m else f"pr{base[:2]}"
     lines = [l.rstrip('\n') for l in open(f, encoding='utf-8') if l.strip()]
     topic, topic_cz = lines[0].lstrip('#').split('|')
     ex, text, n = [], None, 0
@@ -33,8 +37,8 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'tools', 'practice-src', '*.txt')))
                 _, q, opts, a = l.split(' ## ')
                 opts = [o.strip() for o in opts.split(' / ')]
                 assert a in opts, a
-                add(type='read', q=q, a=a, options=opts, text=' '.join(text) if isinstance(text, list) else text)
-                if isinstance(text, list): text = ' '.join(text)
+                add(type='read', q=q, a=a, options=opts, text='\n\n'.join(text) if isinstance(text, list) else text)
+                if isinstance(text, list): text = '\n\n'.join(text)
                 continue
             if isinstance(text, list): text.append(l.strip()); continue
             t, q, a = l.split(' ## ')
@@ -48,8 +52,11 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'tools', 'practice-src', '*.txt')))
             add(type=t, q=q, a=a)
         except Exception as e:
             raise SystemExit(f"{f}:{ln}: {e!r}: {l}")
+    qs = [e['q'] for e in ex]
+    dup = {q for q in qs if qs.count(q) > 1 and not q.startswith('@')}
+    if dup: raise SystemExit(f"{f}: duplicitní zadání: {sorted(dup)[:5]}")
     total += len(ex)
-    json.dump(dict(id=pid, topic=topic, topic_cz=topic_cz, level="B1", exercises=ex),
+    json.dump(dict(id=pid, lesson=lesson, topic=topic, topic_cz=topic_cz, level="B1", exercises=ex),
               open(os.path.join(out, f"{pid}.json"), 'w'), ensure_ascii=False, indent=0)
     print(pid, topic, len(ex), {t: sum(1 for e in ex if e['type'] == t) for t in ('choose','gap','error','order','translate','read')})
 print("celkem", total)
