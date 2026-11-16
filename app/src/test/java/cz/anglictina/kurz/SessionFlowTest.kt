@@ -62,11 +62,13 @@ class Player(private val rule: ComposeTestRule, private val rnd: Random) {
                 has("Snadné") -> click("Dobře")
                 rule.onAllNodesWithTag("option").fetchSemanticsNodes().isNotEmpty() -> {
                     val opts = rule.onAllNodesWithTag("option")
-                    opts[rnd.nextInt(opts.fetchSemanticsNodes().size)].performClick()
+                    val o = opts[rnd.nextInt(opts.fetchSemanticsNodes().size)]
+                    runCatching { o.performScrollTo() }
+                    o.performClick()
                 }
                 rule.onAllNodesWithTag("tile").fetchSemanticsNodes().isNotEmpty() -> {
                     while (rule.onAllNodesWithTag("tile").fetchSemanticsNodes().isNotEmpty()) {
-                        rule.onAllNodesWithTag("tile")[0].performClick(); rule.mainClock.advanceTimeBy(100); rule.waitForIdle()
+                        rule.onAllNodesWithTag("tile")[0].apply { runCatching { performScrollTo() } }.performClick(); rule.mainClock.advanceTimeBy(100); rule.waitForIdle()
                     }
                     click("Zkontrolovat")
                 }

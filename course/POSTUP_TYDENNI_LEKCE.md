@@ -26,10 +26,16 @@ Každý čtvrtek ráno se vytvoří další lekce (datum v sylabu = čtvrtek, kd
 4. Zkopíruj `Lekce_XX_*.pdf` → `data/lessons/LXX.pdf`, `Lekce_XX_poslech.mp3` → `data/lessons/LXX.mp3`.
 5. Přidej nové téma do zásoby slov: `tools/bank-src/NN_tema.txt` (50 položek, `en|cz|příklad|úroveň`; úroveň B1+ / B2 / C1,
    přibližně 20 % B1+, 50 % B2, 30 % C1; žádná základní B1 slova), bez duplicit s existujícími balíčky; pak `python3 tools/build_bank.py`.
-5b. Rozšiř procvičování B1 v aplikaci: nový soubor `tools/practice-src/NN_tema.txt` (≈35 položek na úrovni B1,
-   navázat na `review_b1` této lekce a na látku minulých lekcí, ale ne doslova stejné věty): mix typů choose, gap, error,
-   order, tr (překlad z češtiny, více variant oddělených „ | “) a 2 krátké texty s 3 otázkami (@text … @q … @end);
-   formát viz hlavička `tools/build_practice.py`; pak `python3 tools/build_practice.py`.
+5b. Procvičování lekce v aplikaci (rozhodnutí Karla 16. 11. 2026): opakování obsahuje JEN látku této lekce
+   (její gramatické jevy a slovíčka), nic z celé B1 navíc, ale v mnoha různých podobách – při cca 20 min denně
+   se během týdne nesmí opakovat tytéž věty. Soubory `tools/practice-src/LXX_*.txt` (formát viz `tools/build_practice.py`),
+   celkem aspoň 450 položek, každá věta jiná (žádné kopie z PDF ani mezi soubory):
+   - `LXX_a_*.txt` hlavní gramatický jev lekce: ≥110 choose + ≥55 gap, různé situace, osoby, otázky i zápory;
+   - `LXX_b_*.txt` související jevy lekce: ≥40 choose, 30 error (oprava chyby), 30 order (slovosled);
+   - `LXX_c_vocab.txt` slovíčka lekce v kontextu: ≥70 choose (věta + 3 slova z lekce), ≥25 gap (tvoření slov, kolokace);
+   - `LXX_d_translate.txt` ≥60 překladů z češtiny (gramatika + slovíčka lekce, více uznávaných variant „ | “);
+   - `LXX_e_reading.txt` 6 článků k tématu lekce (250–400 slov, úroveň B1, nadpis + odstavce) a ke každému 5 otázek.
+   Pak `python3 tools/build_practice.py` (kontroluje formát a duplicity).
 6. `python3 tools/export_app.py lessons-src/lesson_XX.json` (aktualizuje `data/index.json`).
 7. Aktualizuj `course/stav_kurzu.json` (záznam lekce, `next_week`, `notes_for_next`).
 8. Commit + push do `main`. Aplikace si nový obsah stáhne sama.

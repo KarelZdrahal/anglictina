@@ -1,0 +1,1011 @@
+{
+"id": "L01-a_tenses",
+"lesson": "L01",
+"topic": "Present simple vs continuous",
+"topic_cz": "Přítomný čas prostý a průběhový",
+"level": "B1",
+"exercises": [
+{
+"id": "L01-a_tenses-001",
+"type": "choose",
+"q": "My sister ___ (works/is working) in a bank. She has been there for years.",
+"a": "works"
+},
+{
+"id": "L01-a_tenses-002",
+"type": "choose",
+"q": "Be quiet, please. The baby ___ (sleeps/is sleeping).",
+"a": "is sleeping"
+},
+{
+"id": "L01-a_tenses-003",
+"type": "choose",
+"q": "I ___ (don't usually drink/am not usually drinking) coffee in the evening.",
+"a": "don't usually drink"
+},
+{
+"id": "L01-a_tenses-004",
+"type": "choose",
+"q": "Why ___ (do you wear/are you wearing) a coat? It's really warm today!",
+"a": "are you wearing"
+},
+{
+"id": "L01-a_tenses-005",
+"type": "choose",
+"q": "Water ___ (boils/is boiling) at 100 degrees Celsius.",
+"a": "boils"
+},
+{
+"id": "L01-a_tenses-006",
+"type": "choose",
+"q": "Look! Those two men ___ (argue/are arguing) outside the shop.",
+"a": "are arguing"
+},
+{
+"id": "L01-a_tenses-007",
+"type": "choose",
+"q": "Tom ___ (plays/is playing) football every Saturday morning.",
+"a": "plays"
+},
+{
+"id": "L01-a_tenses-008",
+"type": "choose",
+"q": "I can't talk now – I ___ (drive/am driving). I'll call you back.",
+"a": "am driving"
+},
+{
+"id": "L01-a_tenses-009",
+"type": "choose",
+"q": "How often ___ (do you visit/are you visiting) your grandparents?",
+"a": "do you visit"
+},
+{
+"id": "L01-a_tenses-010",
+"type": "choose",
+"q": "This week I ___ (work/am working) from home because the office is closed.",
+"a": "am working"
+},
+{
+"id": "L01-a_tenses-011",
+"type": "choose",
+"q": "The shop ___ (opens/is opening) at nine and closes at six.",
+"a": "opens"
+},
+{
+"id": "L01-a_tenses-012",
+"type": "choose",
+"q": "Listen! Somebody ___ (knocks/is knocking) at the door.",
+"a": "is knocking"
+},
+{
+"id": "L01-a_tenses-013",
+"type": "choose",
+"q": "My dad ___ (cooks/is cooking) dinner at the moment, so he can't come to the phone.",
+"a": "is cooking"
+},
+{
+"id": "L01-a_tenses-014",
+"type": "choose",
+"q": "Petra ___ (speaks/is speaking) three languages fluently.",
+"a": "speaks"
+},
+{
+"id": "L01-a_tenses-015",
+"type": "choose",
+"q": "We ___ (have/are having) a great time here in Rome – the weather is lovely.",
+"a": "are having"
+},
+{
+"id": "L01-a_tenses-016",
+"type": "choose",
+"q": "She ___ (always forgets/is always forgetting) her keys! It's so annoying.",
+"a": "is always forgetting"
+},
+{
+"id": "L01-a_tenses-017",
+"type": "choose",
+"q": "I ___ (go/am going) to the gym twice a week.",
+"a": "go"
+},
+{
+"id": "L01-a_tenses-018",
+"type": "choose",
+"q": "Prices ___ (rise/are rising) quickly at the moment.",
+"a": "are rising"
+},
+{
+"id": "L01-a_tenses-019",
+"type": "choose",
+"q": "What ___ (do you do/are you doing)? – I'm a nurse.",
+"a": "do you do"
+},
+{
+"id": "L01-a_tenses-020",
+"type": "choose",
+"q": "What ___ (do you do/are you doing)? – I'm looking for my phone.",
+"a": "are you doing"
+},
+{
+"id": "L01-a_tenses-021",
+"type": "choose",
+"q": "The sun ___ (rises/is rising) in the east.",
+"a": "rises"
+},
+{
+"id": "L01-a_tenses-022",
+"type": "choose",
+"q": "My brother ___ (lives/is living) with us until he finds his own flat.",
+"a": "is living"
+},
+{
+"id": "L01-a_tenses-023",
+"type": "choose",
+"q": "My parents ___ (live/are living) in a small village near Olomouc.",
+"a": "live"
+},
+{
+"id": "L01-a_tenses-024",
+"type": "choose",
+"q": "It ___ (rains/is raining) a lot in Scotland.",
+"a": "rains"
+},
+{
+"id": "L01-a_tenses-025",
+"type": "choose",
+"q": "Take an umbrella – it ___ (rains/is raining) again.",
+"a": "is raining"
+},
+{
+"id": "L01-a_tenses-026",
+"type": "choose",
+"q": "Jana ___ (doesn't eat/isn't eating) meat. She's a vegetarian.",
+"a": "doesn't eat"
+},
+{
+"id": "L01-a_tenses-027",
+"type": "choose",
+"q": "Jana ___ (doesn't eat/isn't eating) much today because she feels ill.",
+"a": "isn't eating"
+},
+{
+"id": "L01-a_tenses-028",
+"type": "choose",
+"q": "I usually walk to work, but this month I ___ (cycle/am cycling).",
+"a": "am cycling"
+},
+{
+"id": "L01-a_tenses-029",
+"type": "choose",
+"q": "The train to Brno ___ (leaves/is leaving) every hour.",
+"a": "leaves"
+},
+{
+"id": "L01-a_tenses-030",
+"type": "choose",
+"q": "Hurry up! The train ___ (leaves/is leaving)!",
+"a": "is leaving"
+},
+{
+"id": "L01-a_tenses-031",
+"type": "choose",
+"q": "More and more people ___ (work/are working) from home these days.",
+"a": "are working"
+},
+{
+"id": "L01-a_tenses-032",
+"type": "choose",
+"q": "He ___ (never reads/is never reading) the newspaper.",
+"a": "never reads"
+},
+{
+"id": "L01-a_tenses-033",
+"type": "choose",
+"q": "Who ___ (do you talk/are you talking) to on the phone?",
+"a": "are you talking"
+},
+{
+"id": "L01-a_tenses-034",
+"type": "choose",
+"q": "Our teacher ___ (gives/is giving) us homework every Monday.",
+"a": "gives"
+},
+{
+"id": "L01-a_tenses-035",
+"type": "choose",
+"q": "I ___ (read/am reading) a great book about Japan at the moment.",
+"a": "am reading"
+},
+{
+"id": "L01-a_tenses-036",
+"type": "choose",
+"q": "Cats ___ (sleep/are sleeping) about 15 hours a day.",
+"a": "sleep"
+},
+{
+"id": "L01-a_tenses-037",
+"type": "choose",
+"q": "Why ___ (does Martin laugh/is Martin laughing)? What's so funny?",
+"a": "is Martin laughing"
+},
+{
+"id": "L01-a_tenses-038",
+"type": "choose",
+"q": "My English ___ (gets/is getting) better thanks to this course.",
+"a": "is getting"
+},
+{
+"id": "L01-a_tenses-039",
+"type": "choose",
+"q": "She ___ (teaches/is teaching) maths at a secondary school.",
+"a": "teaches"
+},
+{
+"id": "L01-a_tenses-040",
+"type": "choose",
+"q": "Be careful! The dog ___ (bites/is biting) strangers.",
+"a": "bites"
+},
+{
+"id": "L01-a_tenses-041",
+"type": "choose",
+"q": "Can you turn the TV down? I ___ (try/am trying) to concentrate.",
+"a": "am trying"
+},
+{
+"id": "L01-a_tenses-042",
+"type": "choose",
+"q": "Eva ___ (usually takes/is usually taking) the bus, but today her husband is driving her.",
+"a": "usually takes"
+},
+{
+"id": "L01-a_tenses-043",
+"type": "choose",
+"q": "The children ___ (play/are playing) in the garden right now.",
+"a": "are playing"
+},
+{
+"id": "L01-a_tenses-044",
+"type": "choose",
+"q": "In winter, it ___ (gets/is getting) dark very early.",
+"a": "gets"
+},
+{
+"id": "L01-a_tenses-045",
+"type": "choose",
+"q": "Look outside – it ___ (gets/is getting) dark already.",
+"a": "is getting"
+},
+{
+"id": "L01-a_tenses-046",
+"type": "choose",
+"q": "I ___ (don't watch/am not watching) TV much. I prefer reading.",
+"a": "don't watch"
+},
+{
+"id": "L01-a_tenses-047",
+"type": "choose",
+"q": "You can switch the TV off. I ___ (don't watch/am not watching) it.",
+"a": "am not watching"
+},
+{
+"id": "L01-a_tenses-048",
+"type": "choose",
+"q": "___ (Does she know/Is she knowing) about the party?",
+"a": "Does she know"
+},
+{
+"id": "L01-a_tenses-049",
+"type": "choose",
+"q": "My boss ___ (travels/is travelling) a lot for work.",
+"a": "travels"
+},
+{
+"id": "L01-a_tenses-050",
+"type": "choose",
+"q": "My boss ___ (travels/is travelling) in Asia this week.",
+"a": "is travelling"
+},
+{
+"id": "L01-a_tenses-051",
+"type": "choose",
+"q": "How much ___ (does this jacket cost/is this jacket costing)?",
+"a": "does this jacket cost"
+},
+{
+"id": "L01-a_tenses-052",
+"type": "choose",
+"q": "I ___ (meet/am meeting) Karel for lunch tomorrow – we arranged it yesterday.",
+"a": "am meeting"
+},
+{
+"id": "L01-a_tenses-053",
+"type": "choose",
+"q": "The film ___ (starts/is starting) at 8.15 tonight.",
+"a": "starts"
+},
+{
+"id": "L01-a_tenses-054",
+"type": "choose",
+"q": "Why ___ (are you being/do you be) so rude to your brother today?",
+"a": "are you being"
+},
+{
+"id": "L01-a_tenses-055",
+"type": "choose",
+"q": "My grandmother ___ (goes/is going) to bed at ten every night.",
+"a": "goes"
+},
+{
+"id": "L01-a_tenses-056",
+"type": "choose",
+"q": "She ___ (studies/is studying) for an important exam, so she doesn't go out much these days.",
+"a": "is studying"
+},
+{
+"id": "L01-a_tenses-057",
+"type": "choose",
+"q": "Babies ___ (cry/are crying) when they are hungry.",
+"a": "cry"
+},
+{
+"id": "L01-a_tenses-058",
+"type": "choose",
+"q": "That baby ___ (cries/is crying) – where are its parents?",
+"a": "is crying"
+},
+{
+"id": "L01-a_tenses-059",
+"type": "choose",
+"q": "We ___ (redecorate/are redecorating) the kitchen, so we're eating in the living room.",
+"a": "are redecorating"
+},
+{
+"id": "L01-a_tenses-060",
+"type": "choose",
+"q": "Most people in Britain ___ (drive/are driving) on the left.",
+"a": "drive"
+},
+{
+"id": "L01-a_tenses-061",
+"type": "choose",
+"q": "My phone ___ (doesn't work/isn't working) properly today. I need to restart it.",
+"a": "isn't working"
+},
+{
+"id": "L01-a_tenses-062",
+"type": "choose",
+"q": "I ___ (always have/am always having) toast for breakfast.",
+"a": "always have"
+},
+{
+"id": "L01-a_tenses-063",
+"type": "choose",
+"q": "Lukáš is a teacher, but this year he ___ (writes/is writing) a novel.",
+"a": "is writing"
+},
+{
+"id": "L01-a_tenses-064",
+"type": "choose",
+"q": "The company ___ (employs/is employing) about 300 people.",
+"a": "employs"
+},
+{
+"id": "L01-a_tenses-065",
+"type": "choose",
+"q": "___ (Do you wait/Are you waiting) for someone? – Yes, my wife.",
+"a": "Are you waiting"
+},
+{
+"id": "L01-a_tenses-066",
+"type": "choose",
+"q": "I'm sorry, I ___ (don't understand/am not understanding) what you mean.",
+"a": "don't understand"
+},
+{
+"id": "L01-a_tenses-067",
+"type": "choose",
+"q": "The climate ___ (changes/is changing) faster than scientists expected.",
+"a": "is changing"
+},
+{
+"id": "L01-a_tenses-068",
+"type": "choose",
+"q": "Hana ___ (looks after/is looking after) her neighbour's dog this weekend.",
+"a": "is looking after"
+},
+{
+"id": "L01-a_tenses-069",
+"type": "choose",
+"q": "Shops in Czechia usually ___ (close/are closing) early on Sundays.",
+"a": "close"
+},
+{
+"id": "L01-a_tenses-070",
+"type": "choose",
+"q": "Hurry, the shop ___ (closes/is closing) in five minutes!",
+"a": "closes"
+},
+{
+"id": "L01-a_tenses-071",
+"type": "choose",
+"q": "What time ___ (does the museum open/is the museum opening) on Mondays?",
+"a": "does the museum open"
+},
+{
+"id": "L01-a_tenses-072",
+"type": "choose",
+"q": "Our neighbours ___ (have/are having) a party tonight – I can hear the music.",
+"a": "are having"
+},
+{
+"id": "L01-a_tenses-073",
+"type": "choose",
+"q": "My son ___ (grows/is growing) so fast – he needs new shoes every few months.",
+"a": "is growing"
+},
+{
+"id": "L01-a_tenses-074",
+"type": "choose",
+"q": "He ___ (doesn't like/isn't liking) spicy food.",
+"a": "doesn't like"
+},
+{
+"id": "L01-a_tenses-075",
+"type": "choose",
+"q": "You ___ (sit/are sitting) in my seat, I'm afraid.",
+"a": "are sitting"
+},
+{
+"id": "L01-a_tenses-076",
+"type": "choose",
+"q": "I ___ (think/am thinking) of changing my job.",
+"a": "am thinking"
+},
+{
+"id": "L01-a_tenses-077",
+"type": "choose",
+"q": "I ___ (think/am thinking) you're right.",
+"a": "think"
+},
+{
+"id": "L01-a_tenses-078",
+"type": "choose",
+"q": "We ___ (have/are having) two cats and a dog.",
+"a": "have"
+},
+{
+"id": "L01-a_tenses-079",
+"type": "choose",
+"q": "We ___ (have/are having) lunch at the moment – can I call you back?",
+"a": "are having"
+},
+{
+"id": "L01-a_tenses-080",
+"type": "choose",
+"q": "The guests ___ (arrive/are arriving)! Quick, open the door.",
+"a": "are arriving"
+},
+{
+"id": "L01-a_tenses-081",
+"type": "choose",
+"q": "Our flight ___ (lands/is landing) at 6.30 according to the timetable.",
+"a": "lands"
+},
+{
+"id": "L01-a_tenses-082",
+"type": "choose",
+"q": "Peter ___ (often works/is often working) late on Fridays.",
+"a": "often works"
+},
+{
+"id": "L01-a_tenses-083",
+"type": "choose",
+"q": "She ___ (is constantly complaining/constantly complains) about her job – it drives me mad!",
+"a": "is constantly complaining"
+},
+{
+"id": "L01-a_tenses-084",
+"type": "choose",
+"q": "Not many people ___ (write/are writing) letters by hand nowadays.",
+"a": "write"
+},
+{
+"id": "L01-a_tenses-085",
+"type": "choose",
+"q": "The kids ___ (do/are doing) their homework in their room.",
+"a": "are doing"
+},
+{
+"id": "L01-a_tenses-086",
+"type": "choose",
+"q": "Bees ___ (make/are making) honey.",
+"a": "make"
+},
+{
+"id": "L01-a_tenses-087",
+"type": "choose",
+"q": "Where's Mum? – She ___ (has/is having) a shower.",
+"a": "is having"
+},
+{
+"id": "L01-a_tenses-088",
+"type": "choose",
+"q": "My husband ___ (snores/is snoring) every night. I can't sleep!",
+"a": "snores"
+},
+{
+"id": "L01-a_tenses-089",
+"type": "choose",
+"q": "Please don't make so much noise – Dad ___ (works/is working).",
+"a": "is working"
+},
+{
+"id": "L01-a_tenses-090",
+"type": "choose",
+"q": "I ___ (stay/am staying) at a hotel until my flat is ready.",
+"a": "am staying"
+},
+{
+"id": "L01-a_tenses-091",
+"type": "choose",
+"q": "I ___ (stay/am staying) at the same hotel every time I go to Prague.",
+"a": "stay"
+},
+{
+"id": "L01-a_tenses-092",
+"type": "choose",
+"q": "Our team ___ (wins/is winning) 2–0 at half-time.",
+"a": "is winning"
+},
+{
+"id": "L01-a_tenses-093",
+"type": "choose",
+"q": "The river ___ (flows/is flowing) into the North Sea.",
+"a": "flows"
+},
+{
+"id": "L01-a_tenses-094",
+"type": "choose",
+"q": "The river ___ (flows/is flowing) very fast today after all that rain.",
+"a": "is flowing"
+},
+{
+"id": "L01-a_tenses-095",
+"type": "choose",
+"q": "Ondřej ___ (wears/is wearing) a suit to work every day.",
+"a": "wears"
+},
+{
+"id": "L01-a_tenses-096",
+"type": "choose",
+"q": "Ondřej ___ (wears/is wearing) jeans today because it's Friday.",
+"a": "is wearing"
+},
+{
+"id": "L01-a_tenses-097",
+"type": "choose",
+"q": "My computer ___ (makes/is making) a strange noise. I think it's broken.",
+"a": "is making"
+},
+{
+"id": "L01-a_tenses-098",
+"type": "choose",
+"q": "How ___ (do you get/are you getting) to work, by bus or by car?",
+"a": "do you get"
+},
+{
+"id": "L01-a_tenses-099",
+"type": "choose",
+"q": "You ___ (look/are looking) great in that dress!",
+"a": "look"
+},
+{
+"id": "L01-a_tenses-100",
+"type": "choose",
+"q": "She ___ (looks/is looking) for a new flat at the moment.",
+"a": "is looking"
+},
+{
+"id": "L01-a_tenses-101",
+"type": "choose",
+"q": "People ___ (become/are becoming) more interested in healthy food.",
+"a": "are becoming"
+},
+{
+"id": "L01-a_tenses-102",
+"type": "choose",
+"q": "I ___ (hardly ever eat/am hardly ever eating) fast food.",
+"a": "hardly ever eat"
+},
+{
+"id": "L01-a_tenses-103",
+"type": "choose",
+"q": "Mark and Lucy ___ (don't speak/aren't speaking) to each other at the moment. They had a big argument.",
+"a": "aren't speaking"
+},
+{
+"id": "L01-a_tenses-104",
+"type": "choose",
+"q": "My aunt ___ (doesn't speak/isn't speaking) any English, so I translate for her.",
+"a": "doesn't speak"
+},
+{
+"id": "L01-a_tenses-105",
+"type": "choose",
+"q": "What ___ (does your sister do/is your sister doing) these days? Is she still at university?",
+"a": "is your sister doing"
+},
+{
+"id": "L01-a_tenses-106",
+"type": "choose",
+"q": "Ice ___ (melts/is melting) when you heat it.",
+"a": "melts"
+},
+{
+"id": "L01-a_tenses-107",
+"type": "choose",
+"q": "The ice on the lake ___ (melts/is melting), so don't walk on it.",
+"a": "is melting"
+},
+{
+"id": "L01-a_tenses-108",
+"type": "choose",
+"q": "Sorry, I can't come out tonight. I ___ (revise/am revising) for my test.",
+"a": "am revising"
+},
+{
+"id": "L01-a_tenses-109",
+"type": "choose",
+"q": "Mr Novák ___ (runs/is running) a small café in the centre.",
+"a": "runs"
+},
+{
+"id": "L01-a_tenses-110",
+"type": "choose",
+"q": "Hurry! Mr Novák ___ (runs/is running) to catch the bus.",
+"a": "is running"
+},
+{
+"id": "L01-a_tenses-111",
+"type": "choose",
+"q": "This bag ___ (belongs/is belonging) to my sister.",
+"a": "belongs"
+},
+{
+"id": "L01-a_tenses-112",
+"type": "choose",
+"q": "Every summer we ___ (rent/are renting) a cottage in the mountains.",
+"a": "rent"
+},
+{
+"id": "L01-a_tenses-113",
+"type": "choose",
+"q": "Kateřina ___ (learns/is learning) to drive. Her test is in May.",
+"a": "is learning"
+},
+{
+"id": "L01-a_tenses-114",
+"type": "gap",
+"q": "My brother never _____ (get up) before ten at weekends.",
+"a": "gets up"
+},
+{
+"id": "L01-a_tenses-115",
+"type": "gap",
+"q": "Quiet, please! I _____ (listen) to the news.",
+"a": "am listening | 'm listening"
+},
+{
+"id": "L01-a_tenses-116",
+"type": "gap",
+"q": "_____ you _____ (like) your new job?",
+"a": "do like"
+},
+{
+"id": "L01-a_tenses-117",
+"type": "gap",
+"q": "Look at Jakub! He _____ (dance) with the teacher!",
+"a": "is dancing | 's dancing"
+},
+{
+"id": "L01-a_tenses-118",
+"type": "gap",
+"q": "We _____ (not / have) a car, so we cycle everywhere.",
+"a": "don't have | do not have"
+},
+{
+"id": "L01-a_tenses-119",
+"type": "gap",
+"q": "Where's Pavel? – He _____ (talk) to the manager.",
+"a": "is talking | 's talking"
+},
+{
+"id": "L01-a_tenses-120",
+"type": "gap",
+"q": "How often _____ she _____ (go) swimming?",
+"a": "does go"
+},
+{
+"id": "L01-a_tenses-121",
+"type": "gap",
+"q": "My parents _____ (visit) us this weekend.",
+"a": "are visiting"
+},
+{
+"id": "L01-a_tenses-122",
+"type": "gap",
+"q": "The museum _____ (not / open) on Mondays.",
+"a": "doesn't open | does not open"
+},
+{
+"id": "L01-a_tenses-123",
+"type": "gap",
+"q": "I _____ (not / understand) this question. Can you help me?",
+"a": "don't understand | do not understand"
+},
+{
+"id": "L01-a_tenses-124",
+"type": "gap",
+"q": "Why _____ you _____ (smile)? Did something good happen?",
+"a": "are smiling"
+},
+{
+"id": "L01-a_tenses-125",
+"type": "gap",
+"q": "Lenka _____ (study) medicine in Brno this year.",
+"a": "is studying | 's studying"
+},
+{
+"id": "L01-a_tenses-126",
+"type": "gap",
+"q": "Martin _____ (drink) two cups of coffee every morning.",
+"a": "drinks"
+},
+{
+"id": "L01-a_tenses-127",
+"type": "gap",
+"q": "Shh! The children _____ (sleep).",
+"a": "are sleeping | 're sleeping"
+},
+{
+"id": "L01-a_tenses-128",
+"type": "gap",
+"q": "She _____ (want) to become a vet when she grows up.",
+"a": "wants"
+},
+{
+"id": "L01-a_tenses-129",
+"type": "gap",
+"q": "_____ it _____ (rain) at the moment?",
+"a": "is raining"
+},
+{
+"id": "L01-a_tenses-130",
+"type": "gap",
+"q": "My grandfather _____ (read) the newspaper every morning after breakfast.",
+"a": "reads"
+},
+{
+"id": "L01-a_tenses-131",
+"type": "gap",
+"q": "I _____ (look) for my glasses. Have you seen them?",
+"a": "am looking | 'm looking"
+},
+{
+"id": "L01-a_tenses-132",
+"type": "gap",
+"q": "The bus _____ (stop) right in front of our house.",
+"a": "stops"
+},
+{
+"id": "L01-a_tenses-133",
+"type": "gap",
+"q": "Tereza _____ (not / work) today. She's at home with a cold.",
+"a": "isn't working | is not working | 's not working"
+},
+{
+"id": "L01-a_tenses-134",
+"type": "gap",
+"q": "What _____ this word _____ (mean)?",
+"a": "does mean"
+},
+{
+"id": "L01-a_tenses-135",
+"type": "gap",
+"q": "The population of the city _____ (grow) very fast.",
+"a": "is growing | 's growing"
+},
+{
+"id": "L01-a_tenses-136",
+"type": "gap",
+"q": "We usually _____ (spend) Christmas with my wife's family.",
+"a": "spend"
+},
+{
+"id": "L01-a_tenses-137",
+"type": "gap",
+"q": "You _____ (always / leave) your dirty socks on the floor!",
+"a": "are always leaving | 're always leaving"
+},
+{
+"id": "L01-a_tenses-138",
+"type": "gap",
+"q": "I _____ (believe) that everyone deserves a second chance.",
+"a": "believe"
+},
+{
+"id": "L01-a_tenses-139",
+"type": "gap",
+"q": "They _____ (build) a new hospital near the station.",
+"a": "are building | 're building"
+},
+{
+"id": "L01-a_tenses-140",
+"type": "gap",
+"q": "My cousin _____ (own) two restaurants in Prague.",
+"a": "owns"
+},
+{
+"id": "L01-a_tenses-141",
+"type": "gap",
+"q": "Tomáš _____ (not / like) cold weather.",
+"a": "doesn't like | does not like"
+},
+{
+"id": "L01-a_tenses-142",
+"type": "gap",
+"q": "Can you hear me? I _____ (call) from the train.",
+"a": "am calling | 'm calling"
+},
+{
+"id": "L01-a_tenses-143",
+"type": "gap",
+"q": "Hana _____ (seem) a bit tired today.",
+"a": "seems"
+},
+{
+"id": "L01-a_tenses-144",
+"type": "gap",
+"q": "Who _____ (cook) in your family usually?",
+"a": "cooks"
+},
+{
+"id": "L01-a_tenses-145",
+"type": "gap",
+"q": "Sorry, I can't help you now – I _____ (have) a meeting.",
+"a": "am having | 'm having | have"
+},
+{
+"id": "L01-a_tenses-146",
+"type": "gap",
+"q": "Water _____ (freeze) at zero degrees.",
+"a": "freezes"
+},
+{
+"id": "L01-a_tenses-147",
+"type": "gap",
+"q": "Look, the dog _____ (try) to open the fridge!",
+"a": "is trying | 's trying"
+},
+{
+"id": "L01-a_tenses-148",
+"type": "gap",
+"q": "I _____ (know) Petra very well – we were at school together.",
+"a": "know"
+},
+{
+"id": "L01-a_tenses-149",
+"type": "gap",
+"q": "How many hours a day _____ you _____ (work)?",
+"a": "do work"
+},
+{
+"id": "L01-a_tenses-150",
+"type": "gap",
+"q": "The kids _____ (watch) cartoons in the living room right now.",
+"a": "are watching | 're watching"
+},
+{
+"id": "L01-a_tenses-151",
+"type": "gap",
+"q": "My sister _____ (hate) getting up early.",
+"a": "hates"
+},
+{
+"id": "L01-a_tenses-152",
+"type": "gap",
+"q": "It _____ (smell) wonderful in here! What are you cooking?",
+"a": "smells"
+},
+{
+"id": "L01-a_tenses-153",
+"type": "gap",
+"q": "What _____ you _____ (think) about? You look worried.",
+"a": "are thinking"
+},
+{
+"id": "L01-a_tenses-154",
+"type": "gap",
+"q": "What _____ you _____ (think) about the new mayor?",
+"a": "do think"
+},
+{
+"id": "L01-a_tenses-155",
+"type": "gap",
+"q": "I _____ (need) a new laptop – mine is very slow.",
+"a": "need"
+},
+{
+"id": "L01-a_tenses-156",
+"type": "gap",
+"q": "Hurry up! Everybody _____ (wait) for you.",
+"a": "is waiting | 's waiting"
+},
+{
+"id": "L01-a_tenses-157",
+"type": "gap",
+"q": "He _____ (usually / walk) to work, but today he's taking the tram.",
+"a": "usually walks"
+},
+{
+"id": "L01-a_tenses-158",
+"type": "gap",
+"q": "Our neighbours _____ (renovate) their house, so it's very noisy.",
+"a": "are renovating | 're renovating"
+},
+{
+"id": "L01-a_tenses-159",
+"type": "gap",
+"q": "Most of my friends _____ (live) in Brno.",
+"a": "live"
+},
+{
+"id": "L01-a_tenses-160",
+"type": "gap",
+"q": "Things _____ (get) more expensive every year.",
+"a": "get | are getting"
+},
+{
+"id": "L01-a_tenses-161",
+"type": "gap",
+"q": "I _____ (not / remember) his name.",
+"a": "don't remember | do not remember | can't remember"
+},
+{
+"id": "L01-a_tenses-162",
+"type": "gap",
+"q": "Please be quiet – I _____ (try) to sleep.",
+"a": "am trying | 'm trying"
+},
+{
+"id": "L01-a_tenses-163",
+"type": "gap",
+"q": "She _____ (prefer) tea to coffee.",
+"a": "prefers"
+},
+{
+"id": "L01-a_tenses-164",
+"type": "gap",
+"q": "The phone _____ (ring)! Can you answer it?",
+"a": "is ringing | 's ringing"
+},
+{
+"id": "L01-a_tenses-165",
+"type": "gap",
+"q": "What time _____ the concert _____ (start)?",
+"a": "does start"
+},
+{
+"id": "L01-a_tenses-166",
+"type": "gap",
+"q": "I _____ (meet) my old classmates on Saturday – we've booked a table.",
+"a": "am meeting | 'm meeting"
+},
+{
+"id": "L01-a_tenses-167",
+"type": "gap",
+"q": "Why _____ Jitka _____ (cry)? Is she OK?",
+"a": "is crying"
+}
+]
+}

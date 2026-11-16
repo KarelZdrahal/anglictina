@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -174,68 +174,44 @@
  ],
  "practice": [
   {
-   "file": "practice/pr01.json",
+   "file": "practice/L01-a_tenses.json",
    "v": 1,
-   "h": "315de0ffe198",
-   "id": "pr01",
-   "topic": "Present & past tenses",
-   "count": 37
+   "h": "70dfa559c2f3",
+   "id": "L01-a_tenses",
+   "topic": "Present simple vs continuous",
+   "count": 167
   },
   {
-   "file": "practice/pr02.json",
+   "file": "practice/L01-b_state.json",
    "v": 1,
-   "h": "1f40c7e603de",
-   "id": "pr02",
-   "topic": "Future & modal verbs",
-   "count": 36
+   "h": "a4d678b5580d",
+   "id": "L01-b_state",
+   "topic": "State verbs, mistakes & word order",
+   "count": 100
   },
   {
-   "file": "practice/pr03.json",
+   "file": "practice/L01-c_vocab.json",
    "v": 1,
-   "h": "0430538dbe7b",
-   "id": "pr03",
-   "topic": "Conditionals & time clauses",
-   "count": 36
+   "h": "fa49a8bf7c6b",
+   "id": "L01-c_vocab",
+   "topic": "Personality vocabulary in context",
+   "count": 96
   },
   {
-   "file": "practice/pr04.json",
+   "file": "practice/L01-d_translate.json",
    "v": 1,
-   "h": "0fa33963f877",
-   "id": "pr04",
-   "topic": "Passive & relative clauses",
-   "count": 36
+   "h": "ca8912e0cb53",
+   "id": "L01-d_translate",
+   "topic": "Translation",
+   "count": 60
   },
   {
-   "file": "practice/pr05.json",
+   "file": "practice/L01-e_reading.json",
    "v": 1,
-   "h": "843a726acce2",
-   "id": "pr05",
-   "topic": "Quantifiers, articles & comparison",
-   "count": 38
-  },
-  {
-   "file": "practice/pr06.json",
-   "v": 1,
-   "h": "4d5298b426f6",
-   "id": "pr06",
-   "topic": "Verb patterns, reported speech & questions",
-   "count": 38
-  },
-  {
-   "file": "practice/pr07.json",
-   "v": 1,
-   "h": "2ec50b8992bc",
-   "id": "pr07",
-   "topic": "Prepositions, phrasal verbs & linkers",
-   "count": 38
-  },
-  {
-   "file": "practice/pr08.json",
-   "v": 1,
-   "h": "5bde5e94585a",
-   "id": "pr08",
-   "topic": "Everyday vocabulary B1",
-   "count": 39
+   "h": "e64172ac903e",
+   "id": "L01-e_reading",
+   "topic": "Reading – articles",
+   "count": 30
   }
  ]
 }

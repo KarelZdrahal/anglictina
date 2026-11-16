@@ -1,0 +1,101 @@
+#State verbs, mistakes & word order|Stavová slovesa, chyby a slovosled
+choose ## I ___ (know/am knowing) the answer to this question. ## know
+choose ## This soup ___ (tastes/is tasting) delicious. ## tastes
+choose ## The chef ___ (tastes/is tasting) the soup to check the salt. ## is tasting
+choose ## Do you ___ (want/wanting) something to drink? ## want
+choose ## I ___ (have/am having) a headache. ## have
+choose ## I ___ (have/am having) a bath. Can you answer the door? ## am having
+choose ## He ___ (seems/is seeming) a really nice guy. ## seems
+choose ## This book ___ (belongs/is belonging) to the library. ## belongs
+choose ## I ___ (don't believe/am not believing) a word he says. ## don't believe
+choose ## ___ (Do you remember/Are you remembering) our first holiday together? ## Do you remember
+choose ## She ___ (loves/is loving) her grandchildren very much. ## loves
+choose ## We ___ (need/are needing) more chairs for the guests. ## need
+choose ## This coat ___ (costs/is costing) too much. ## costs
+choose ## I ___ (see/am seeing) what you mean. ## see
+choose ## I ___ (see/am seeing) the dentist at three this afternoon. ## am seeing
+choose ## Your perfume ___ (smells/is smelling) lovely. ## smells
+choose ## Why ___ (do you smell/are you smelling) the milk? Is it off? ## are you smelling
+choose ## Lucie ___ (looks/is looking) like her mother. ## looks
+choose ## The box ___ (contains/is containing) old photos. ## contains
+choose ## I ___ (hate/am hating) waiting in queues. ## hate
+choose ## She ___ (understands/is understanding) Spanish but she can't speak it. ## understands
+choose ## I ___ (prefer/am preferring) the blue one. ## prefer
+choose ## This bag ___ (weighs/is weighing) about ten kilos. ## weighs
+choose ## The shop assistant ___ (weighs/is weighing) the apples. ## is weighing
+choose ## We ___ (think/are thinking) about moving to the countryside. ## are thinking
+choose ## I ___ (think/am thinking) that's a great idea. ## think
+choose ## He ___ (owns/is owning) a house by the lake. ## owns
+choose ## Do you ___ (mind/minding) if I open the window? ## mind
+choose ## It ___ (depends/is depending) on the weather. ## depends
+choose ## I ___ (don't recognise/am not recognising) this street. Are we lost? ## don't recognise
+choose ## ___ (Do you hear/Are you hearing) that noise? ## Do you hear
+choose ## Karel ___ (is being/is) really helpful today – is he feeling all right? ## is being
+choose ## Karel ___ (is being/is) usually very helpful. ## is
+choose ## I ___ (feel/am feeling) that we should leave now. ## feel
+choose ## This cake ___ (contains/is containing) nuts, so be careful. ## contains
+choose ## Everybody ___ (agrees/is agreeing) that she is very reliable. ## agrees
+choose ## I ___ (promise/am promising) I won't be late again. ## promise
+choose ## That ___ (sounds/is sounding) like a great plan! ## sounds
+choose ## My son ___ (wishes/is wishing) he had a dog. ## wishes
+choose ## These shoes ___ (fit/are fitting) perfectly. ## fit
+error ## I am knowing her for ten years. ## I have known her for ten years.
+error ## She is having two brothers. ## She has two brothers.
+error ## Look! It snows. ## Look! It's snowing. | Look! It is snowing.
+error ## He don't like coffee. ## He doesn't like coffee. | He does not like coffee.
+error ## Are you understand me? ## Do you understand me?
+error ## I am wanting a new phone. ## I want a new phone.
+error ## My father work in a factory. ## My father works in a factory.
+error ## What you are doing now? ## What are you doing now?
+error ## She doesn't works on Fridays. ## She doesn't work on Fridays. | She does not work on Fridays.
+error ## Where does he lives? ## Where does he live?
+error ## This pizza is tasting great. ## This pizza tastes great.
+error ## I'm usually going to bed at eleven. ## I usually go to bed at eleven.
+error ## Why you are laughing? ## Why are you laughing?
+error ## Does she is coming tonight? ## Is she coming tonight?
+error ## They are owning a big house. ## They own a big house.
+error ## My brother is playing tennis every Sunday. ## My brother plays tennis every Sunday.
+error ## Listen! The birds sing. ## Listen! The birds are singing.
+error ## I'm not believing you. ## I don't believe you. | I do not believe you.
+error ## Do you can swim? ## Can you swim?
+error ## She never is late. ## She is never late. | She's never late.
+error ## He is seeming tired today. ## He seems tired today.
+error ## We are needing more time. ## We need more time.
+error ## How often you go to the cinema? ## How often do you go to the cinema?
+error ## My mum always is cooking on Sundays. ## My mum always cooks on Sundays.
+error ## I'm not liking this music. ## I don't like this music. | I do not like this music.
+error ## Petr study engineering at the moment. ## Petr is studying engineering at the moment. | Petr's studying engineering at the moment.
+error ## Who is this umbrella belonging to? ## Who does this umbrella belong to?
+error ## It's raining often in November. ## It often rains in November.
+error ## The kids is playing outside. ## The kids are playing outside.
+error ## I'm agree with you. ## I agree with you.
+order ## always / she / late / is ## She is always late.
+order ## do / how / often / exercise / you ## How often do you exercise?
+order ## working / he / at / is / moment / the / home / from ## He is working from home at the moment.
+order ## never / my / breakfast / eats / brother ## My brother never eats breakfast.
+order ## you / what / reading / are ## What are you reading?
+order ## doesn't / she / meat / eat ## She doesn't eat meat.
+order ## usually / we / to / go / bed / eleven / at ## We usually go to bed at eleven.
+order ## are / why / you / smiling ## Why are you smiling?
+order ## she / does / where / work ## Where does she work?
+order ## listening / not / is / he / me / to ## He is not listening to me.
+order ## the / is / getting / weather / worse ## The weather is getting worse.
+order ## who / you / are / waiting / for ## Who are you waiting for?
+order ## know / I / don't / answer / the ## I don't know the answer.
+order ## hardly / he / ever / complains ## He hardly ever complains.
+order ## sister / my / Spanish / is / learning ## My sister is learning Spanish.
+order ## does / mean / what / word / this ## What does this word mean?
+order ## are / the / sleeping / children / still ## The children are still sleeping.
+order ## a / people / person / is / real / she ## She is a real people person.
+order ## well / get / on / I / colleagues / with / my ## I get on well with my colleagues.
+order ## after / takes / father / his / he ## He takes after his father.
+order ## is / always / my / complaining / neighbour ## My neighbour is always complaining.
+order ## every / do / you / cook / day ## Do you cook every day?
+order ## is / the / rising / price / of / petrol ## The price of petrol is rising.
+order ## twice / a / visits / she / month / us ## She visits us twice a month.
+order ## isn't / today / she / working ## She isn't working today.
+order ## time / leave / what / you / home / do ## What time do you leave home?
+order ## am / I / my / looking / for / keys ## I am looking for my keys.
+order ## seems / he / nervous / a / bit ## He seems a bit nervous.
+order ## good / is / a / listener / mother / my ## My mother is a good listener.
+order ## rarely / the / we / watch / news ## We rarely watch the news.

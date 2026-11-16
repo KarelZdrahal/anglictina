@@ -1,0 +1,585 @@
+{
+"id": "L01-c_vocab",
+"lesson": "L01",
+"topic": "Personality vocabulary in context",
+"topic_cz": "Slovíčka o povaze v kontextu",
+"level": "B1",
+"exercises": [
+{
+"id": "L01-c_vocab-001",
+"type": "choose",
+"q": "Lenka talks to everyone at parties and makes friends easily – she's very ___ (outgoing/shy/stubborn).",
+"a": "outgoing"
+},
+{
+"id": "L01-c_vocab-002",
+"type": "choose",
+"q": "My son goes red when strangers talk to him. He's quite ___ (shy/bossy/confident).",
+"a": "shy"
+},
+{
+"id": "L01-c_vocab-003",
+"type": "choose",
+"q": "You can always count on Martin – he's never late and always does what he promises. He's very ___ (reliable/moody/lazy).",
+"a": "reliable"
+},
+{
+"id": "L01-c_vocab-004",
+"type": "choose",
+"q": "Nothing worries my uncle. He's so ___ (easy-going/quick-tempered/selfish).",
+"a": "easy-going"
+},
+{
+"id": "L01-c_vocab-005",
+"type": "choose",
+"q": "She works long hours and never complains. She's really ___ (hard-working/lazy/mean).",
+"a": "hard-working"
+},
+{
+"id": "L01-c_vocab-006",
+"type": "choose",
+"q": "He stays in bed until noon and never helps at home. He's so ___ (lazy/ambitious/organised).",
+"a": "lazy"
+},
+{
+"id": "L01-c_vocab-007",
+"type": "choose",
+"q": "My grandmother always gives us presents and money. She's very ___ (generous/mean/two-faced).",
+"a": "generous"
+},
+{
+"id": "L01-c_vocab-008",
+"type": "choose",
+"q": "He never buys anyone a drink – he's really ___ (mean/generous/thoughtful).",
+"a": "mean"
+},
+{
+"id": "L01-c_vocab-009",
+"type": "choose",
+"q": "Tell me what you really think. I want you to be ___ (honest/two-faced/moody).",
+"a": "honest"
+},
+{
+"id": "L01-c_vocab-010",
+"type": "choose",
+"q": "Jana wants to be the director of the company before she's forty. She's very ___ (ambitious/laid-back/shy).",
+"a": "ambitious"
+},
+{
+"id": "L01-c_vocab-011",
+"type": "choose",
+"q": "Teachers of small children need to be very ___ (patient/quick-tempered/bossy).",
+"a": "patient"
+},
+{
+"id": "L01-c_vocab-012",
+"type": "choose",
+"q": "He gave a speech to 500 people without any notes – he's so ___ (confident/shy/absent-minded).",
+"a": "confident"
+},
+{
+"id": "L01-c_vocab-013",
+"type": "choose",
+"q": "Be careful what you say to her – she's quite ___ (sensitive/stubborn/lazy) and gets upset easily.",
+"a": "sensitive"
+},
+{
+"id": "L01-c_vocab-014",
+"type": "choose",
+"q": "Once he decides something, he never changes his mind. He's so ___ (stubborn/open-minded/easy-going).",
+"a": "stubborn"
+},
+{
+"id": "L01-c_vocab-015",
+"type": "choose",
+"q": "My older sister always tells everyone what to do. She's really ___ (bossy/shy/patient).",
+"a": "bossy"
+},
+{
+"id": "L01-c_vocab-016",
+"type": "choose",
+"q": "Our receptionist always smiles and sings – she's such a ___ (cheerful/moody/mean) person.",
+"a": "cheerful"
+},
+{
+"id": "L01-c_vocab-017",
+"type": "choose",
+"q": "One minute he's happy, the next minute he's angry. He's very ___ (moody/calm/reliable).",
+"a": "moody"
+},
+{
+"id": "L01-c_vocab-018",
+"type": "choose",
+"q": "She remembered my birthday and brought me flowers when I was ill. She's so ___ (thoughtful/selfish/big-headed).",
+"a": "thoughtful"
+},
+{
+"id": "L01-c_vocab-019",
+"type": "choose",
+"q": "He only thinks about himself and never helps anyone. He's really ___ (selfish/generous/loyal).",
+"a": "selfish"
+},
+{
+"id": "L01-c_vocab-020",
+"type": "choose",
+"q": "My aunt can talk for hours without stopping – she's very ___ (talkative/shy/calm).",
+"a": "talkative"
+},
+{
+"id": "L01-c_vocab-021",
+"type": "choose",
+"q": "Petr loves being with other people and hates spending evenings alone. He's very ___ (sociable/stubborn/curious).",
+"a": "sociable"
+},
+{
+"id": "L01-c_vocab-022",
+"type": "choose",
+"q": "Her desk is always tidy and she plans everything in advance. She's very ___ (organised/absent-minded/lazy).",
+"a": "organised"
+},
+{
+"id": "L01-c_vocab-023",
+"type": "choose",
+"q": "Even in an emergency, the pilot stayed ___ (calm/moody/talkative).",
+"a": "calm"
+},
+{
+"id": "L01-c_vocab-024",
+"type": "choose",
+"q": "Children are naturally ___ (curious/narrow-minded/mean) – they ask questions all the time.",
+"a": "curious"
+},
+{
+"id": "L01-c_vocab-025",
+"type": "choose",
+"q": "My dog follows me everywhere – dogs are very ___ (loyal/selfish/two-faced) animals.",
+"a": "loyal"
+},
+{
+"id": "L01-c_vocab-026",
+"type": "choose",
+"q": "Despite being a famous actor, he is very ___ (down-to-earth/big-headed/bossy) and talks to everyone.",
+"a": "down-to-earth"
+},
+{
+"id": "L01-c_vocab-027",
+"type": "choose",
+"q": "My grandfather is very ___ (open-minded/narrow-minded/stubborn) – he's happy to try new things and listen to new ideas.",
+"a": "open-minded"
+},
+{
+"id": "L01-c_vocab-028",
+"type": "choose",
+"q": "He thinks his way is the only right way. He's quite ___ (narrow-minded/open-minded/thoughtful).",
+"a": "narrow-minded"
+},
+{
+"id": "L01-c_vocab-029",
+"type": "choose",
+"q": "My professor often forgets where he put his glasses – he's a bit ___ (absent-minded/organised/ambitious).",
+"a": "absent-minded"
+},
+{
+"id": "L01-c_vocab-030",
+"type": "choose",
+"q": "He gets angry very quickly over small things. He's rather ___ (quick-tempered/laid-back/patient).",
+"a": "quick-tempered"
+},
+{
+"id": "L01-c_vocab-031",
+"type": "choose",
+"q": "On holiday I'm completely ___ (laid-back/bossy/ambitious) – I don't worry about anything.",
+"a": "laid-back"
+},
+{
+"id": "L01-c_vocab-032",
+"type": "choose",
+"q": "Since he won the competition, he's become really ___ (big-headed/down-to-earth/shy). He thinks he's the best.",
+"a": "big-headed"
+},
+{
+"id": "L01-c_vocab-033",
+"type": "choose",
+"q": "She's nice to you, but then she says terrible things about you behind your back. She's so ___ (two-faced/honest/loyal).",
+"a": "two-faced"
+},
+{
+"id": "L01-c_vocab-034",
+"type": "choose",
+"q": "Lucie loves meeting customers and working in a team – she's a real ___ (people person/good listener/narrow-minded).",
+"a": "people person"
+},
+{
+"id": "L01-c_vocab-035",
+"type": "choose",
+"q": "When I have a problem, I talk to my brother. He's a ___ (good listener/two-faced person/moody person).",
+"a": "good listener"
+},
+{
+"id": "L01-c_vocab-036",
+"type": "choose",
+"q": "I ___ (get on well with/take after/look like) my colleagues – we often go for lunch together.",
+"a": "get on well with"
+},
+{
+"id": "L01-c_vocab-037",
+"type": "choose",
+"q": "Tomáš is good at music – he ___ (takes after/gets on with/looks after) his mother, who is a pianist.",
+"a": "takes after"
+},
+{
+"id": "L01-c_vocab-038",
+"type": "choose",
+"q": "A good manager needs to be ___ (reliable/lazy/selfish), so that the team can trust them.",
+"a": "reliable"
+},
+{
+"id": "L01-c_vocab-039",
+"type": "choose",
+"q": "My boss is never satisfied and always wants more. He's very ___ (demanding/laid-back/easy-going).",
+"a": "demanding"
+},
+{
+"id": "L01-c_vocab-040",
+"type": "choose",
+"q": "I'm not very ___ (sociable/shy/stubborn) – I prefer staying at home with a book.",
+"a": "sociable"
+},
+{
+"id": "L01-c_vocab-041",
+"type": "choose",
+"q": "You can tell him a secret; he would never tell anyone. He's completely ___ (trustworthy/two-faced/talkative).",
+"a": "trustworthy"
+},
+{
+"id": "L01-c_vocab-042",
+"type": "choose",
+"q": "Don't be so ___ (impatient/patient/calm)! The bus will come in a minute.",
+"a": "impatient"
+},
+{
+"id": "L01-c_vocab-043",
+"type": "choose",
+"q": "It was really ___ (unkind/kind/thoughtful) of you to laugh at her mistake.",
+"a": "unkind"
+},
+{
+"id": "L01-c_vocab-044",
+"type": "choose",
+"q": "He never tells the truth. He's completely ___ (dishonest/honest/loyal).",
+"a": "dishonest"
+},
+{
+"id": "L01-c_vocab-045",
+"type": "choose",
+"q": "She's so ___ (disorganised/organised/reliable) – she's always losing her documents.",
+"a": "disorganised"
+},
+{
+"id": "L01-c_vocab-046",
+"type": "choose",
+"q": "I felt very ___ (insecure/confident/calm) when I started my new job.",
+"a": "insecure"
+},
+{
+"id": "L01-c_vocab-047",
+"type": "choose",
+"q": "It's ___ (impolite/polite/thoughtful) to talk with your mouth full.",
+"a": "impolite"
+},
+{
+"id": "L01-c_vocab-048",
+"type": "choose",
+"q": "Our new colleague is a bit ___ (unfriendly/friendly/cheerful) – she never says hello.",
+"a": "unfriendly"
+},
+{
+"id": "L01-c_vocab-049",
+"type": "choose",
+"q": "He changed his opinion again – he's so ___ (unreliable/reliable/loyal).",
+"a": "unreliable"
+},
+{
+"id": "L01-c_vocab-050",
+"type": "choose",
+"q": "My sister is ___ (sensible/sensitive/stubborn): she always makes practical, reasonable decisions.",
+"a": "sensible"
+},
+{
+"id": "L01-c_vocab-051",
+"type": "choose",
+"q": "My brother is very ___ (sensitive/sensible/bossy) – he cries at sad films.",
+"a": "sensitive"
+},
+{
+"id": "L01-c_vocab-052",
+"type": "choose",
+"q": "A person who is relaxed and doesn't get upset easily is ___ (easy-going/outgoing/hard-working).",
+"a": "easy-going"
+},
+{
+"id": "L01-c_vocab-053",
+"type": "choose",
+"q": "Lazy is the opposite of ___ (hard-working/easy-going/outgoing).",
+"a": "hard-working"
+},
+{
+"id": "L01-c_vocab-054",
+"type": "choose",
+"q": "Generous is the opposite of ___ (mean/honest/calm).",
+"a": "mean"
+},
+{
+"id": "L01-c_vocab-055",
+"type": "choose",
+"q": "Shy is the opposite of ___ (outgoing/stubborn/patient).",
+"a": "outgoing"
+},
+{
+"id": "L01-c_vocab-056",
+"type": "choose",
+"q": "Organised is the opposite of ___ (disorganised/unorganising/misorganised).",
+"a": "disorganised"
+},
+{
+"id": "L01-c_vocab-057",
+"type": "choose",
+"q": "The opposite of patient is ___ (impatient/unpatient/dispatient).",
+"a": "impatient"
+},
+{
+"id": "L01-c_vocab-058",
+"type": "choose",
+"q": "The opposite of honest is ___ (dishonest/unhonest/inhonest).",
+"a": "dishonest"
+},
+{
+"id": "L01-c_vocab-059",
+"type": "choose",
+"q": "The opposite of polite is ___ (impolite/unpolite/dispolite).",
+"a": "impolite"
+},
+{
+"id": "L01-c_vocab-060",
+"type": "choose",
+"q": "The opposite of reliable is ___ (unreliable/disreliable/inreliable).",
+"a": "unreliable"
+},
+{
+"id": "L01-c_vocab-061",
+"type": "choose",
+"q": "The opposite of friendly is ___ (unfriendly/disfriendly/infriendly).",
+"a": "unfriendly"
+},
+{
+"id": "L01-c_vocab-062",
+"type": "choose",
+"q": "The opposite of kind is ___ (unkind/inkind/diskind).",
+"a": "unkind"
+},
+{
+"id": "L01-c_vocab-063",
+"type": "choose",
+"q": "The opposite of selfish is ___ (unselfish/disselfish/imselfish).",
+"a": "unselfish"
+},
+{
+"id": "L01-c_vocab-064",
+"type": "choose",
+"q": "The opposite of mature is ___ (immature/unmature/dismature).",
+"a": "immature"
+},
+{
+"id": "L01-c_vocab-065",
+"type": "choose",
+"q": "The opposite of responsible is ___ (irresponsible/unresponsible/disresponsible).",
+"a": "irresponsible"
+},
+{
+"id": "L01-c_vocab-066",
+"type": "choose",
+"q": "The opposite of secure is ___ (insecure/unsecure/dissecure).",
+"a": "insecure"
+},
+{
+"id": "L01-c_vocab-067",
+"type": "choose",
+"q": "The opposite of loyal is ___ (disloyal/unloyal/inloyal).",
+"a": "disloyal"
+},
+{
+"id": "L01-c_vocab-068",
+"type": "choose",
+"q": "The opposite of tolerant is ___ (intolerant/untolerant/distolerant).",
+"a": "intolerant"
+},
+{
+"id": "L01-c_vocab-069",
+"type": "choose",
+"q": "The opposite of sociable is ___ (unsociable/dissociable/insociable).",
+"a": "unsociable"
+},
+{
+"id": "L01-c_vocab-070",
+"type": "choose",
+"q": "The opposite of practical is ___ (impractical/unpractical/dispractical).",
+"a": "impractical"
+},
+{
+"id": "L01-c_vocab-071",
+"type": "choose",
+"q": "The opposite of happy is ___ (unhappy/dishappy/imhappy).",
+"a": "unhappy"
+},
+{
+"id": "L01-c_vocab-072",
+"type": "choose",
+"q": "The opposite of satisfied is ___ (dissatisfied/unsatisfied/insatisfied).",
+"a": "dissatisfied"
+},
+{
+"id": "L01-c_vocab-073",
+"type": "gap",
+"q": "He's not patient at all – he's very _____.",
+"a": "impatient"
+},
+{
+"id": "L01-c_vocab-074",
+"type": "gap",
+"q": "She isn't honest – in fact she's quite _____.",
+"a": "dishonest"
+},
+{
+"id": "L01-c_vocab-075",
+"type": "gap",
+"q": "My flatmate isn't organised – his room is a mess. He's very _____.",
+"a": "disorganised | disorganized"
+},
+{
+"id": "L01-c_vocab-076",
+"type": "gap",
+"q": "It was _____ of him not to say thank you. (opposite of polite)",
+"a": "impolite | rude"
+},
+{
+"id": "L01-c_vocab-077",
+"type": "gap",
+"q": "Don't ask Pavel to help you – he's very _____ and forgets everything. (opposite of reliable)",
+"a": "unreliable"
+},
+{
+"id": "L01-c_vocab-078",
+"type": "gap",
+"q": "The new receptionist seems _____ – she never smiles. (opposite of friendly)",
+"a": "unfriendly"
+},
+{
+"id": "L01-c_vocab-079",
+"type": "gap",
+"q": "Leaving a small child alone at home is very _____. (opposite of responsible)",
+"a": "irresponsible"
+},
+{
+"id": "L01-c_vocab-080",
+"type": "gap",
+"q": "He behaves like a ten-year-old. He's so _____. (opposite of mature)",
+"a": "immature"
+},
+{
+"id": "L01-c_vocab-081",
+"type": "gap",
+"q": "She doesn't like other people's ideas. She is quite _____. (opposite of tolerant)",
+"a": "intolerant"
+},
+{
+"id": "L01-c_vocab-082",
+"type": "gap",
+"q": "A person who is always cheerful and positive is an _____ person. (opposite of pessimistic)",
+"a": "optimistic"
+},
+{
+"id": "L01-c_vocab-083",
+"type": "gap",
+"q": "She's very _____ – she wants to be a famous lawyer one day.",
+"a": "ambitious"
+},
+{
+"id": "L01-c_vocab-084",
+"type": "gap",
+"q": "You can't change his mind – he's as _____ as a mule.",
+"a": "stubborn"
+},
+{
+"id": "L01-c_vocab-085",
+"type": "gap",
+"q": "He always remembers small details about people – he's very _____.",
+"a": "thoughtful"
+},
+{
+"id": "L01-c_vocab-086",
+"type": "gap",
+"q": "My little brother asks \"why?\" about everything. He's very _____.",
+"a": "curious"
+},
+{
+"id": "L01-c_vocab-087",
+"type": "gap",
+"q": "I _____ after my dad – we both love football and hate shopping.",
+"a": "take"
+},
+{
+"id": "L01-c_vocab-088",
+"type": "gap",
+"q": "Do you get _____ well with your neighbours?",
+"a": "on"
+},
+{
+"id": "L01-c_vocab-089",
+"type": "gap",
+"q": "She's a real people _____ – she loves working with customers.",
+"a": "person"
+},
+{
+"id": "L01-c_vocab-090",
+"type": "gap",
+"q": "My best friend is a very good _____ – she never interrupts me.",
+"a": "listener"
+},
+{
+"id": "L01-c_vocab-091",
+"type": "gap",
+"q": "A person who is happy to try new things and accept different opinions is _____-minded.",
+"a": "open"
+},
+{
+"id": "L01-c_vocab-092",
+"type": "gap",
+"q": "A person who often forgets things is _____-minded.",
+"a": "absent"
+},
+{
+"id": "L01-c_vocab-093",
+"type": "gap",
+"q": "He gets angry very quickly – he's quick-_____.",
+"a": "tempered"
+},
+{
+"id": "L01-c_vocab-094",
+"type": "gap",
+"q": "Don't be so big-_____! You're not the only one who did well.",
+"a": "headed"
+},
+{
+"id": "L01-c_vocab-095",
+"type": "gap",
+"q": "She's very down-to-_____ for someone so rich.",
+"a": "earth"
+},
+{
+"id": "L01-c_vocab-096",
+"type": "gap",
+"q": "My uncle is very laid-_____ – nothing ever stresses him.",
+"a": "back"
+}
+]
+}
