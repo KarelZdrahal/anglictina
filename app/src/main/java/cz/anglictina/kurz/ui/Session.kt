@@ -158,11 +158,11 @@ fun SessionScreen(
             }
             if (phase == Phase.FEEDBACK) {
                 LaunchedEffect(idx, lastCorrect) {
-                    if (lastCorrect && (item is Item.Vocab && item.mode in setOf(Mode.CHOICE_CZ2EN, Mode.CHOICE_EN2CZ, Mode.EXAMPLE_GAP, Mode.LISTEN) || item is Item.Drill && item.ex.type == "choose")) {
-                        delay(1100); if (phase == Phase.FEEDBACK) next()
-                    }
+                    // správná odpověď: po krátké chvilce samo dál (u všech typů cvičení)
+                    if (lastCorrect) { delay(1100); if (phase == Phase.FEEDBACK) next() }
                 }
-                Button(onClick = { next() }, modifier = Modifier.fillMaxWidth().height(52.dp)) { Text("Pokračovat") }
+                // tlačítko jen po chybné odpovědi
+                if (!lastCorrect) Button(onClick = { next() }, modifier = Modifier.fillMaxWidth().height(52.dp)) { Text("Pokračovat") }
             }
         }
     }
