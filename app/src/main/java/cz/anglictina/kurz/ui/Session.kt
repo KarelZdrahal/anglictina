@@ -88,8 +88,11 @@ fun SessionScreen(
     val requeued = remember { HashSet<String>() }
     val limit = minutes * 60
 
+    val startedAt = remember { System.currentTimeMillis() }
+    val wrongIds = remember { mutableListOf<String>() }
     fun persist() {
         repo.progress.addTime(elapsed - saved, 0); saved = elapsed
+        if (answered > 0) repo.progress.recordSession(startedAt, kind.name, elapsed, answered, correct, introduced, wrongIds)
         repo.progress.save()
     }
 
@@ -111,7 +114,7 @@ fun SessionScreen(
         }
         Srs.review(st, g)
         answered++; repo.progress.dayItems[Progress.today()] = (repo.progress.dayItems[Progress.today()] ?: 0) + 1
-        if (g > 0) correct++
+        if (g > 0) correct++ else wrongIds += item.cardId
         lastCorrect = g > 0
         if (g == 0 && requeued.add(item.cardId)) {
             val again = when (item) {
@@ -128,6 +131,7 @@ fun SessionScreen(
         st.wrong = (st.wrong - 1).coerceAtLeast(0); st.lapses = (st.lapses - 1).coerceAtLeast(0)
         Srs.review(st, 1)
         correct++
+        wrongIds.remove(item.cardId)
         val later = (idx + 1 until queue.size).firstOrNull { queue[it].cardId == item.cardId }
         if (later != null) queue.removeAt(later)
     }
@@ -153,7 +157,7 @@ fun SessionScreen(
                 when (item) {
                     is Item.Vocab -> VocabItem(item, phase, lastCorrect, given, { given = it }, speech, repo.settings.speakAuto,
                         onIntroDone = { introduced++; next() }, onGrade = { grade(item, it) })
-                    is Item.Drill -> DrillItem(item, phase, lastCorrect, given, { given = it }, onGrade = { grade(item, it) }, onOverride = { override(item) })
+                    is Item.Drill -> DrillItem(item, phase, lastCorrect, given, { given = it }, speech, onGrade = { grade(item, it) }, onOverride = { override(item) })
                 }
             }
             if (phase == Phase.FEEDBACK) {
@@ -325,11 +329,24 @@ private fun Verdict(ok: Boolean, answer: String) {
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given: String, setGiven: (String) -> Unit, onGrade: (Int) -> Unit, onOverride: () -> Unit) {
+private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given: String, setGiven: (String) -> Unit, speech: Speech, onGrade: (Int) -> Unit, onOverride: () -> Unit) {
     val e = it.ex
     var chosen by remember(it) { mutableStateOf("") }
     var overridden by remember(it) { mutableStateOf(false) }
     when (e.type) {
+        "listen" -> {
+            LaunchedEffect(e.text) { if (speech.lastText != e.text) { delay(300); speech.say(e.text) } }
+            Text("Poslechni si nahrávku a odpověz", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                Button(onClick = { speech.say(e.text) }) { Icon(Icons.AutoMirrored.Filled.VolumeUp, null); Spacer(Modifier.padding(3.dp)); Text("Přehrát") }
+                OutlinedButton(onClick = { speech.say(e.text, slow = true) }) { Text("Pomalu") }
+            }
+            Text(e.prompt, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+            Options(it.options, e.answer, phase, chosen) { o -> chosen = o; onGrade(if (o.equals(e.answer, true)) 2 else 0) }
+            if (phase == Phase.FEEDBACK) Surface(color = MaterialTheme.colorScheme.surfaceVariant, shape = MaterialTheme.shapes.medium, modifier = Modifier.fillMaxWidth()) {
+                Text(e.text, style = MaterialTheme.typography.bodyMedium, fontStyle = FontStyle.Italic, modifier = Modifier.padding(12.dp))
+            }
+        }
         "read" -> {
             Text("Přečti si text", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
             Surface(color = MaterialTheme.colorScheme.surfaceVariant, shape = MaterialTheme.shapes.medium, modifier = Modifier.fillMaxWidth()) {

@@ -43,14 +43,17 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
         val out = mutableListOf<Item>()
         val used = HashSet<String>()
         var texts = 0                                    // nové články v této relaci (nejvýš jeden)
+        var listens = 0                                  // nové poslechy v této relaci (nejvýš dva)
         fun addWord(w: Word) { if (used.add("w:" + w.id)) out += quizFor(w, words) }
         fun addDrill(e: Exercise) {
-            if (e.type == "read" && e.text.isNotBlank()) {
+            if ((e.type == "read" || e.type == "listen") && e.text.isNotBlank()) {
                 if ("x:" + e.id in used) return
-                if (isNew("x:" + e.id) && texts >= 1) return
-                if (isNew("x:" + e.id)) texts++
-                // otázky k jednomu textu jdou za sebou
-                drills.filter { it.type == "read" && it.text == e.text && (it.id == e.id || isNew("x:" + it.id) || retry(it.id)) }
+                if (isNew("x:" + e.id)) {
+                    if (e.type == "read") { if (texts >= 1) return; texts++ }
+                    else { if (listens >= 2) return; listens++ }
+                }
+                // otázky k jednomu textu / poslechu jdou za sebou
+                drills.filter { it.type == e.type && it.text == e.text && (it.id == e.id || isNew("x:" + it.id) || retry(it.id)) }
                     .sortedBy { it.id }
                     .forEach { if (used.add("x:" + it.id)) out += drillFor(it) }
             } else if (used.add("x:" + e.id)) out += drillFor(e)
@@ -209,7 +212,7 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
     }
 
     fun drillFor(e: Exercise): Item.Drill = when (e.type) {
-        "choose", "read" -> Item.Drill(e, e.options.ifEmpty { parseOptions(e.prompt) }.shuffled(rnd))
+        "choose", "read", "listen" -> Item.Drill(e, e.options.ifEmpty { parseOptions(e.prompt) }.shuffled(rnd))
         "order" -> Item.Drill(e, tiles = e.prompt.split("/").map { it.trim() }.filter { it.isNotEmpty() }.shuffled(rnd))
         else -> Item.Drill(e)
     }

@@ -18,7 +18,11 @@ class Speech(ctx: Context) : TextToSpeech.OnInitListener {
         }
     }
 
+    /** Naposledy přehraný text (u poslechu se při dalších otázkách nepřehrává znovu sám). */
+    var lastText: String = ""; private set
+
     fun say(text: String, slow: Boolean = false) {
+        lastText = text
         if (!ready) return
         tts.setSpeechRate(if (slow) 0.6f else 0.92f)
         tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, text.hashCode().toString())

@@ -12,6 +12,7 @@ Formát souboru (oddělovač polí je " ## "):
   @text                             začátek textu k porozumění (řádky textu až do první otázky)
   @q ## otázka ## možnost / možnost / možnost ## správná možnost
   @end                              konec textu
+  @listen … @q … @end               poslech: text se nezobrazí, aplikace ho přečte (lze přehrát opakovaně)
 """
 import os, re, json, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -25,19 +26,20 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'tools', 'practice-src', '*.txt')))
     pid = f"{m.group(1)}-{m.group(2)}" if m else f"pr{base[:2]}"
     lines = [l.rstrip('\n') for l in open(f, encoding='utf-8') if l.strip()]
     topic, topic_cz = lines[0].lstrip('#').split('|')
-    ex, text, n = [], None, 0
+    ex, text, n, kind = [], None, 0, 'read'
     def add(**kw):
         global n
         n += 1; ex.append(dict(id=f"{pid}-{n:03d}", **kw))
     for ln, l in enumerate(lines[1:], 2):
         try:
-            if l.startswith('@text'): text = []; continue
+            if l.startswith('@text'): text = []; kind = 'read'; continue
+            if l.startswith('@listen'): text = []; kind = 'listen'; continue
             if l.startswith('@end'): text = None; continue
             if l.startswith('@q'):
                 _, q, opts, a = l.split(' ## ')
                 opts = [o.strip() for o in opts.split(' / ')]
                 assert a in opts, a
-                add(type='read', q=q, a=a, options=opts, text='\n\n'.join(text) if isinstance(text, list) else text)
+                add(type=kind, q=q, a=a, options=opts, text='\n\n'.join(text) if isinstance(text, list) else text)
                 if isinstance(text, list): text = '\n\n'.join(text)
                 continue
             if isinstance(text, list): text.append(l.strip()); continue
@@ -58,5 +60,5 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'tools', 'practice-src', '*.txt')))
     total += len(ex)
     json.dump(dict(id=pid, lesson=lesson, topic=topic, topic_cz=topic_cz, level="B1", exercises=ex),
               open(os.path.join(out, f"{pid}.json"), 'w'), ensure_ascii=False, indent=0)
-    print(pid, topic, len(ex), {t: sum(1 for e in ex if e['type'] == t) for t in ('choose','gap','error','order','translate','read')})
+    print(pid, topic, len(ex), {t: sum(1 for e in ex if e['type'] == t) for t in ('choose','gap','error','order','translate','read','listen')})
 print("celkem", total)

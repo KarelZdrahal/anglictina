@@ -1,0 +1,80 @@
+#Listening|Poslech
+@listen
+Hi, I'm Daniel. I usually work in an office in the city centre, but this week I'm working from home because my daughter is ill. I don't mind it at all. I'm quite organised, so I can concentrate even with the TV on in the next room.
+@q ## Where does Daniel usually work? ## in an office in the city centre / at home / in a hospital ## in an office in the city centre
+@q ## Why is he working from home this week? ## His daughter is ill. / The office is closed. / He is ill. ## His daughter is ill.
+@q ## How does Daniel describe himself? ## organised / lazy / moody ## organised
+@end
+@listen
+My grandmother is eighty, but she's very curious about everything. At the moment she's learning to use a smartphone. She calls me every evening with new questions. She's really patient, even when the phone does something strange.
+@q ## How old is the grandmother? ## eighty / seventy / ninety ## eighty
+@q ## What is she learning at the moment? ## to use a smartphone / to drive / to speak English ## to use a smartphone
+@q ## When does she call? ## every evening / every morning / at weekends ## every evening
+@end
+@listen
+Lucie, can you help me? I'm looking for my keys. I always put them on the table by the door, but they aren't there. I think I'm getting a bit absent-minded these days!
+@q ## What is the speaker looking for? ## keys / a phone / glasses ## keys
+@q ## Where does the speaker always put them? ## on the table by the door / in a bag / in the kitchen ## on the table by the door
+@q ## How does the speaker describe himself these days? ## absent-minded / organised / stubborn ## absent-minded
+@end
+@listen
+Our new manager is very different from the old one. She's calm and easy-going, and she listens to everybody. The old manager was quite bossy. People in our team are much happier now and nobody is complaining.
+@q ## What is the new manager like? ## calm and easy-going / bossy / shy ## calm and easy-going
+@q ## What was the old manager like? ## bossy / patient / generous ## bossy
+@q ## How does the team feel now? ## much happier / worried / bored ## much happier
+@end
+@listen
+Hello, this is a message for Pavel. It's Jana. I'm calling from the train, so the line is bad. The train is running late, so I'm not arriving at six. I think I'll be there at about seven. Sorry!
+@q ## Where is Jana calling from? ## the train / her office / the station ## the train
+@q ## When will she arrive? ## at about seven / at six / at eight ## at about seven
+@end
+@listen
+My brother and I are very different. He's outgoing and talkative – he makes friends everywhere. I'm quieter and a bit shy, but I'm a good listener. We get on really well, though. He says I'm the only person who can stop him talking!
+@q ## What is the speaker's brother like? ## outgoing and talkative / shy / lazy ## outgoing and talkative
+@q ## How does the speaker describe herself? ## quiet and a good listener / bossy / talkative ## quiet and a good listener
+@q ## How do the brother and sister get on? ## very well / badly / they don't speak ## very well
+@end
+@listen
+Every Saturday morning I go running in the park. I usually run about ten kilometres. But today I'm not running because it's raining very hard. I'm sitting at home with a cup of tea and a good book instead.
+@q ## How often does the speaker go running? ## every Saturday morning / every day / twice a month ## every Saturday morning
+@q ## Why isn't he running today? ## It's raining hard. / He is ill. / The park is closed. ## It's raining hard.
+@q ## What is he doing now? ## reading at home / watching TV / sleeping ## reading at home
+@end
+@listen
+People often think Tomáš is mean, but that's not true. He doesn't spend much money on himself, but he's very generous to his friends. Last month he paid for a holiday for his parents. He just doesn't like showing off.
+@q ## What do people often think about Tomáš? ## that he is mean / that he is lazy / that he is rich ## that he is mean
+@q ## What did he do last month? ## paid for his parents' holiday / bought a new car / went on holiday alone ## paid for his parents' holiday
+@end
+@listen
+I take after my dad in many ways. We both love football, we both hate shopping and we're both quite stubborn. When we disagree, it can take hours before one of us says sorry. My mum just laughs at us.
+@q ## Who does the speaker take after? ## his dad / his mum / his grandfather ## his dad
+@q ## What do they both hate? ## shopping / football / cooking ## shopping
+@q ## What does the mum do when they disagree? ## She laughs. / She gets angry. / She leaves. ## She laughs.
+@end
+@listen
+Excuse me, are you waiting for the number twelve bus? It usually comes every ten minutes, but the timetable is changing this month because they're repairing the road. I think it's coming now – look!
+@q ## Which bus is the speaker asking about? ## number twelve / number two / number twenty ## number twelve
+@q ## Why is the timetable changing? ## They are repairing the road. / There are fewer drivers. / It's a holiday. ## They are repairing the road.
+@end
+@listen
+My flatmate Eva is very hard-working. She studies medicine and she has a part-time job in a café. She gets up at six every day. At the moment she's preparing for a big exam, so she's studying even at weekends.
+@q ## What does Eva study? ## medicine / economics / languages ## medicine
+@q ## Where does she work part-time? ## in a café / in a hospital / in a shop ## in a café
+@q ## Why is she studying at weekends now? ## She's preparing for a big exam. / She doesn't work. / She likes it. ## She's preparing for a big exam.
+@end
+@listen
+I don't usually like parties, but tonight I'm having a great time. Everyone here is so friendly and open-minded. I'm talking to people I don't know at all, which is really unusual for me!
+@q ## Does the speaker usually like parties? ## no / yes / only birthday parties ## no
+@q ## How does the speaker describe the people at the party? ## friendly and open-minded / big-headed / two-faced ## friendly and open-minded
+@end
+@listen
+Martina is a teacher. She teaches children aged six and seven, so she needs to be very patient. She says the best thing about her job is that the children are so curious – they ask questions all day. This year she is also writing a book for parents.
+@q ## How old are the children she teaches? ## six and seven / ten / fifteen ## six and seven
+@q ## What is the best thing about her job? ## The children are curious. / The holidays are long. / The salary is good. ## The children are curious.
+@q ## What is she doing this year? ## writing a book for parents / studying / moving to another school ## writing a book for parents
+@end
+@listen
+Can you turn the music down, please? I'm trying to concentrate. I have an important interview tomorrow and I'm reading about the company. I don't usually get nervous, but this job really matters to me.
+@q ## Why does the speaker want the music turned down? ## He is trying to concentrate. / He is sleeping. / He is on the phone. ## He is trying to concentrate.
+@q ## What is happening tomorrow? ## a job interview / an exam / a party ## a job interview
+@end

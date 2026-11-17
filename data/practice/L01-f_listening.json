@@ -1,0 +1,453 @@
+{
+"id": "L01-f_listening",
+"lesson": "L01",
+"topic": "Listening",
+"topic_cz": "Poslech",
+"level": "B1",
+"exercises": [
+{
+"id": "L01-f_listening-001",
+"type": "listen",
+"q": "Where does Daniel usually work?",
+"a": "in an office in the city centre",
+"options": [
+"in an office in the city centre",
+"at home",
+"in a hospital"
+],
+"text": "Hi, I'm Daniel. I usually work in an office in the city centre, but this week I'm working from home because my daughter is ill. I don't mind it at all. I'm quite organised, so I can concentrate even with the TV on in the next room."
+},
+{
+"id": "L01-f_listening-002",
+"type": "listen",
+"q": "Why is he working from home this week?",
+"a": "His daughter is ill.",
+"options": [
+"His daughter is ill.",
+"The office is closed.",
+"He is ill."
+],
+"text": "Hi, I'm Daniel. I usually work in an office in the city centre, but this week I'm working from home because my daughter is ill. I don't mind it at all. I'm quite organised, so I can concentrate even with the TV on in the next room."
+},
+{
+"id": "L01-f_listening-003",
+"type": "listen",
+"q": "How does Daniel describe himself?",
+"a": "organised",
+"options": [
+"organised",
+"lazy",
+"moody"
+],
+"text": "Hi, I'm Daniel. I usually work in an office in the city centre, but this week I'm working from home because my daughter is ill. I don't mind it at all. I'm quite organised, so I can concentrate even with the TV on in the next room."
+},
+{
+"id": "L01-f_listening-004",
+"type": "listen",
+"q": "How old is the grandmother?",
+"a": "eighty",
+"options": [
+"eighty",
+"seventy",
+"ninety"
+],
+"text": "My grandmother is eighty, but she's very curious about everything. At the moment she's learning to use a smartphone. She calls me every evening with new questions. She's really patient, even when the phone does something strange."
+},
+{
+"id": "L01-f_listening-005",
+"type": "listen",
+"q": "What is she learning at the moment?",
+"a": "to use a smartphone",
+"options": [
+"to use a smartphone",
+"to drive",
+"to speak English"
+],
+"text": "My grandmother is eighty, but she's very curious about everything. At the moment she's learning to use a smartphone. She calls me every evening with new questions. She's really patient, even when the phone does something strange."
+},
+{
+"id": "L01-f_listening-006",
+"type": "listen",
+"q": "When does she call?",
+"a": "every evening",
+"options": [
+"every evening",
+"every morning",
+"at weekends"
+],
+"text": "My grandmother is eighty, but she's very curious about everything. At the moment she's learning to use a smartphone. She calls me every evening with new questions. She's really patient, even when the phone does something strange."
+},
+{
+"id": "L01-f_listening-007",
+"type": "listen",
+"q": "What is the speaker looking for?",
+"a": "keys",
+"options": [
+"keys",
+"a phone",
+"glasses"
+],
+"text": "Lucie, can you help me? I'm looking for my keys. I always put them on the table by the door, but they aren't there. I think I'm getting a bit absent-minded these days!"
+},
+{
+"id": "L01-f_listening-008",
+"type": "listen",
+"q": "Where does the speaker always put them?",
+"a": "on the table by the door",
+"options": [
+"on the table by the door",
+"in a bag",
+"in the kitchen"
+],
+"text": "Lucie, can you help me? I'm looking for my keys. I always put them on the table by the door, but they aren't there. I think I'm getting a bit absent-minded these days!"
+},
+{
+"id": "L01-f_listening-009",
+"type": "listen",
+"q": "How does the speaker describe himself these days?",
+"a": "absent-minded",
+"options": [
+"absent-minded",
+"organised",
+"stubborn"
+],
+"text": "Lucie, can you help me? I'm looking for my keys. I always put them on the table by the door, but they aren't there. I think I'm getting a bit absent-minded these days!"
+},
+{
+"id": "L01-f_listening-010",
+"type": "listen",
+"q": "What is the new manager like?",
+"a": "calm and easy-going",
+"options": [
+"calm and easy-going",
+"bossy",
+"shy"
+],
+"text": "Our new manager is very different from the old one. She's calm and easy-going, and she listens to everybody. The old manager was quite bossy. People in our team are much happier now and nobody is complaining."
+},
+{
+"id": "L01-f_listening-011",
+"type": "listen",
+"q": "What was the old manager like?",
+"a": "bossy",
+"options": [
+"bossy",
+"patient",
+"generous"
+],
+"text": "Our new manager is very different from the old one. She's calm and easy-going, and she listens to everybody. The old manager was quite bossy. People in our team are much happier now and nobody is complaining."
+},
+{
+"id": "L01-f_listening-012",
+"type": "listen",
+"q": "How does the team feel now?",
+"a": "much happier",
+"options": [
+"much happier",
+"worried",
+"bored"
+],
+"text": "Our new manager is very different from the old one. She's calm and easy-going, and she listens to everybody. The old manager was quite bossy. People in our team are much happier now and nobody is complaining."
+},
+{
+"id": "L01-f_listening-013",
+"type": "listen",
+"q": "Where is Jana calling from?",
+"a": "the train",
+"options": [
+"the train",
+"her office",
+"the station"
+],
+"text": "Hello, this is a message for Pavel. It's Jana. I'm calling from the train, so the line is bad. The train is running late, so I'm not arriving at six. I think I'll be there at about seven. Sorry!"
+},
+{
+"id": "L01-f_listening-014",
+"type": "listen",
+"q": "When will she arrive?",
+"a": "at about seven",
+"options": [
+"at about seven",
+"at six",
+"at eight"
+],
+"text": "Hello, this is a message for Pavel. It's Jana. I'm calling from the train, so the line is bad. The train is running late, so I'm not arriving at six. I think I'll be there at about seven. Sorry!"
+},
+{
+"id": "L01-f_listening-015",
+"type": "listen",
+"q": "What is the speaker's brother like?",
+"a": "outgoing and talkative",
+"options": [
+"outgoing and talkative",
+"shy",
+"lazy"
+],
+"text": "My brother and I are very different. He's outgoing and talkative – he makes friends everywhere. I'm quieter and a bit shy, but I'm a good listener. We get on really well, though. He says I'm the only person who can stop him talking!"
+},
+{
+"id": "L01-f_listening-016",
+"type": "listen",
+"q": "How does the speaker describe herself?",
+"a": "quiet and a good listener",
+"options": [
+"quiet and a good listener",
+"bossy",
+"talkative"
+],
+"text": "My brother and I are very different. He's outgoing and talkative – he makes friends everywhere. I'm quieter and a bit shy, but I'm a good listener. We get on really well, though. He says I'm the only person who can stop him talking!"
+},
+{
+"id": "L01-f_listening-017",
+"type": "listen",
+"q": "How do the brother and sister get on?",
+"a": "very well",
+"options": [
+"very well",
+"badly",
+"they don't speak"
+],
+"text": "My brother and I are very different. He's outgoing and talkative – he makes friends everywhere. I'm quieter and a bit shy, but I'm a good listener. We get on really well, though. He says I'm the only person who can stop him talking!"
+},
+{
+"id": "L01-f_listening-018",
+"type": "listen",
+"q": "How often does the speaker go running?",
+"a": "every Saturday morning",
+"options": [
+"every Saturday morning",
+"every day",
+"twice a month"
+],
+"text": "Every Saturday morning I go running in the park. I usually run about ten kilometres. But today I'm not running because it's raining very hard. I'm sitting at home with a cup of tea and a good book instead."
+},
+{
+"id": "L01-f_listening-019",
+"type": "listen",
+"q": "Why isn't he running today?",
+"a": "It's raining hard.",
+"options": [
+"It's raining hard.",
+"He is ill.",
+"The park is closed."
+],
+"text": "Every Saturday morning I go running in the park. I usually run about ten kilometres. But today I'm not running because it's raining very hard. I'm sitting at home with a cup of tea and a good book instead."
+},
+{
+"id": "L01-f_listening-020",
+"type": "listen",
+"q": "What is he doing now?",
+"a": "reading at home",
+"options": [
+"reading at home",
+"watching TV",
+"sleeping"
+],
+"text": "Every Saturday morning I go running in the park. I usually run about ten kilometres. But today I'm not running because it's raining very hard. I'm sitting at home with a cup of tea and a good book instead."
+},
+{
+"id": "L01-f_listening-021",
+"type": "listen",
+"q": "What do people often think about Tomáš?",
+"a": "that he is mean",
+"options": [
+"that he is mean",
+"that he is lazy",
+"that he is rich"
+],
+"text": "People often think Tomáš is mean, but that's not true. He doesn't spend much money on himself, but he's very generous to his friends. Last month he paid for a holiday for his parents. He just doesn't like showing off."
+},
+{
+"id": "L01-f_listening-022",
+"type": "listen",
+"q": "What did he do last month?",
+"a": "paid for his parents' holiday",
+"options": [
+"paid for his parents' holiday",
+"bought a new car",
+"went on holiday alone"
+],
+"text": "People often think Tomáš is mean, but that's not true. He doesn't spend much money on himself, but he's very generous to his friends. Last month he paid for a holiday for his parents. He just doesn't like showing off."
+},
+{
+"id": "L01-f_listening-023",
+"type": "listen",
+"q": "Who does the speaker take after?",
+"a": "his dad",
+"options": [
+"his dad",
+"his mum",
+"his grandfather"
+],
+"text": "I take after my dad in many ways. We both love football, we both hate shopping and we're both quite stubborn. When we disagree, it can take hours before one of us says sorry. My mum just laughs at us."
+},
+{
+"id": "L01-f_listening-024",
+"type": "listen",
+"q": "What do they both hate?",
+"a": "shopping",
+"options": [
+"shopping",
+"football",
+"cooking"
+],
+"text": "I take after my dad in many ways. We both love football, we both hate shopping and we're both quite stubborn. When we disagree, it can take hours before one of us says sorry. My mum just laughs at us."
+},
+{
+"id": "L01-f_listening-025",
+"type": "listen",
+"q": "What does the mum do when they disagree?",
+"a": "She laughs.",
+"options": [
+"She laughs.",
+"She gets angry.",
+"She leaves."
+],
+"text": "I take after my dad in many ways. We both love football, we both hate shopping and we're both quite stubborn. When we disagree, it can take hours before one of us says sorry. My mum just laughs at us."
+},
+{
+"id": "L01-f_listening-026",
+"type": "listen",
+"q": "Which bus is the speaker asking about?",
+"a": "number twelve",
+"options": [
+"number twelve",
+"number two",
+"number twenty"
+],
+"text": "Excuse me, are you waiting for the number twelve bus? It usually comes every ten minutes, but the timetable is changing this month because they're repairing the road. I think it's coming now – look!"
+},
+{
+"id": "L01-f_listening-027",
+"type": "listen",
+"q": "Why is the timetable changing?",
+"a": "They are repairing the road.",
+"options": [
+"They are repairing the road.",
+"There are fewer drivers.",
+"It's a holiday."
+],
+"text": "Excuse me, are you waiting for the number twelve bus? It usually comes every ten minutes, but the timetable is changing this month because they're repairing the road. I think it's coming now – look!"
+},
+{
+"id": "L01-f_listening-028",
+"type": "listen",
+"q": "What does Eva study?",
+"a": "medicine",
+"options": [
+"medicine",
+"economics",
+"languages"
+],
+"text": "My flatmate Eva is very hard-working. She studies medicine and she has a part-time job in a café. She gets up at six every day. At the moment she's preparing for a big exam, so she's studying even at weekends."
+},
+{
+"id": "L01-f_listening-029",
+"type": "listen",
+"q": "Where does she work part-time?",
+"a": "in a café",
+"options": [
+"in a café",
+"in a hospital",
+"in a shop"
+],
+"text": "My flatmate Eva is very hard-working. She studies medicine and she has a part-time job in a café. She gets up at six every day. At the moment she's preparing for a big exam, so she's studying even at weekends."
+},
+{
+"id": "L01-f_listening-030",
+"type": "listen",
+"q": "Why is she studying at weekends now?",
+"a": "She's preparing for a big exam.",
+"options": [
+"She's preparing for a big exam.",
+"She doesn't work.",
+"She likes it."
+],
+"text": "My flatmate Eva is very hard-working. She studies medicine and she has a part-time job in a café. She gets up at six every day. At the moment she's preparing for a big exam, so she's studying even at weekends."
+},
+{
+"id": "L01-f_listening-031",
+"type": "listen",
+"q": "Does the speaker usually like parties?",
+"a": "no",
+"options": [
+"no",
+"yes",
+"only birthday parties"
+],
+"text": "I don't usually like parties, but tonight I'm having a great time. Everyone here is so friendly and open-minded. I'm talking to people I don't know at all, which is really unusual for me!"
+},
+{
+"id": "L01-f_listening-032",
+"type": "listen",
+"q": "How does the speaker describe the people at the party?",
+"a": "friendly and open-minded",
+"options": [
+"friendly and open-minded",
+"big-headed",
+"two-faced"
+],
+"text": "I don't usually like parties, but tonight I'm having a great time. Everyone here is so friendly and open-minded. I'm talking to people I don't know at all, which is really unusual for me!"
+},
+{
+"id": "L01-f_listening-033",
+"type": "listen",
+"q": "How old are the children she teaches?",
+"a": "six and seven",
+"options": [
+"six and seven",
+"ten",
+"fifteen"
+],
+"text": "Martina is a teacher. She teaches children aged six and seven, so she needs to be very patient. She says the best thing about her job is that the children are so curious – they ask questions all day. This year she is also writing a book for parents."
+},
+{
+"id": "L01-f_listening-034",
+"type": "listen",
+"q": "What is the best thing about her job?",
+"a": "The children are curious.",
+"options": [
+"The children are curious.",
+"The holidays are long.",
+"The salary is good."
+],
+"text": "Martina is a teacher. She teaches children aged six and seven, so she needs to be very patient. She says the best thing about her job is that the children are so curious – they ask questions all day. This year she is also writing a book for parents."
+},
+{
+"id": "L01-f_listening-035",
+"type": "listen",
+"q": "What is she doing this year?",
+"a": "writing a book for parents",
+"options": [
+"writing a book for parents",
+"studying",
+"moving to another school"
+],
+"text": "Martina is a teacher. She teaches children aged six and seven, so she needs to be very patient. She says the best thing about her job is that the children are so curious – they ask questions all day. This year she is also writing a book for parents."
+},
+{
+"id": "L01-f_listening-036",
+"type": "listen",
+"q": "Why does the speaker want the music turned down?",
+"a": "He is trying to concentrate.",
+"options": [
+"He is trying to concentrate.",
+"He is sleeping.",
+"He is on the phone."
+],
+"text": "Can you turn the music down, please? I'm trying to concentrate. I have an important interview tomorrow and I'm reading about the company. I don't usually get nervous, but this job really matters to me."
+},
+{
+"id": "L01-f_listening-037",
+"type": "listen",
+"q": "What is happening tomorrow?",
+"a": "a job interview",
+"options": [
+"a job interview",
+"an exam",
+"a party"
+],
+"text": "Can you turn the music down, please? I'm trying to concentrate. I have an important interview tomorrow and I'm reading about the company. I don't usually get nervous, but this job really matters to me."
+}
+]
+}
