@@ -157,7 +157,7 @@ fun SessionScreen(
                 when (item) {
                     is Item.Vocab -> VocabItem(item, phase, lastCorrect, given, { given = it }, speech, repo.settings.speakAuto,
                         onIntroDone = { introduced++; next() }, onGrade = { grade(item, it) })
-                    is Item.Drill -> DrillItem(item, phase, lastCorrect, given, { given = it }, onGrade = { grade(item, it) }, onOverride = { override(item) })
+                    is Item.Drill -> DrillItem(item, phase, lastCorrect, given, { given = it }, speech, onGrade = { grade(item, it) }, onOverride = { override(item) })
                 }
             }
             if (phase == Phase.FEEDBACK) {
@@ -329,11 +329,24 @@ private fun Verdict(ok: Boolean, answer: String) {
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given: String, setGiven: (String) -> Unit, onGrade: (Int) -> Unit, onOverride: () -> Unit) {
+private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given: String, setGiven: (String) -> Unit, speech: Speech, onGrade: (Int) -> Unit, onOverride: () -> Unit) {
     val e = it.ex
     var chosen by remember(it) { mutableStateOf("") }
     var overridden by remember(it) { mutableStateOf(false) }
     when (e.type) {
+        "listen" -> {
+            LaunchedEffect(e.text) { if (speech.lastText != e.text) { delay(300); speech.say(e.text) } }
+            Text("Poslechni si nahrávku a odpověz", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                Button(onClick = { speech.say(e.text) }) { Icon(Icons.AutoMirrored.Filled.VolumeUp, null); Spacer(Modifier.padding(3.dp)); Text("Přehrát") }
+                OutlinedButton(onClick = { speech.say(e.text, slow = true) }) { Text("Pomalu") }
+            }
+            Text(e.prompt, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
+            Options(it.options, e.answer, phase, chosen) { o -> chosen = o; onGrade(if (o.equals(e.answer, true)) 2 else 0) }
+            if (phase == Phase.FEEDBACK) Surface(color = MaterialTheme.colorScheme.surfaceVariant, shape = MaterialTheme.shapes.medium, modifier = Modifier.fillMaxWidth()) {
+                Text(e.text, style = MaterialTheme.typography.bodyMedium, fontStyle = FontStyle.Italic, modifier = Modifier.padding(12.dp))
+            }
+        }
         "read" -> {
             Text("Přečti si text", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.primary)
             Surface(color = MaterialTheme.colorScheme.surfaceVariant, shape = MaterialTheme.shapes.medium, modifier = Modifier.fillMaxWidth()) {

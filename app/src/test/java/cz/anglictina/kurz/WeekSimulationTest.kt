@@ -38,6 +38,7 @@ class WeekSimulationTest {
             assertTrue("den ${day + 1}: relace je krátká (${items.size})", items.size >= 90)
             assertTrue("den ${day + 1}: málo typů cvičení $types", types.size >= 4)
             assertTrue("den ${day + 1}: příliš mnoho otázek k článkům $types", (types["read"] ?: 0) <= 10)
+            if (day < 6) assertTrue("den ${day + 1}: chybí poslech $types", (types["listen"] ?: 0) >= 2)
             totalDrills += drills.size; repeatedCorrect += rep
             drills.forEach { distinct += it.cardId }
             items.forEach { item ->

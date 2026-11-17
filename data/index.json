@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -212,6 +212,14 @@
    "id": "L01-e_reading",
    "topic": "Reading – articles",
    "count": 30
+  },
+  {
+   "file": "practice/L01-f_listening.json",
+   "v": 1,
+   "h": "02bc5bdcc67c",
+   "id": "L01-f_listening",
+   "topic": "Listening",
+   "count": 37
   }
  ]
 }
