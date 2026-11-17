@@ -35,6 +35,8 @@ Každý čtvrtek ráno se vytvoří další lekce (datum v sylabu = čtvrtek, kd
    - `LXX_c_vocab.txt` slovíčka lekce v kontextu: ≥70 choose (věta + 3 slova z lekce), ≥25 gap (tvoření slov, kolokace);
    - `LXX_d_translate.txt` ≥60 překladů z češtiny (gramatika + slovíčka lekce, více uznávaných variant „ | “);
    - `LXX_e_reading.txt` 6 článků k tématu lekce (250–400 slov, úroveň B1, nadpis + odstavce) a ke každému 5 otázek.
+   - `LXX_f_listening.txt` 14 krátkých poslechů (3–5 vět, téma a gramatika lekce, různí mluvčí a situace),
+     ke každému 2–3 otázky (blok `@listen … @q … @end`); aplikace text přečte a dovolí opakované přehrání.
    Pak `python3 tools/build_practice.py` (kontroluje formát a duplicity).
 6. `python3 tools/export_app.py lessons-src/lesson_XX.json` (aktualizuje `data/index.json`).
 7. Aktualizuj `course/stav_kurzu.json` (záznam lekce, `next_week`, `notes_for_next`).
