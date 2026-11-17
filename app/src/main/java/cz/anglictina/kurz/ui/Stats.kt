@@ -117,7 +117,7 @@ fun StatsScreen(repo: Repository, onBack: () -> Unit) {
 private fun DayChart(days: List<Triple<Int, Float, Boolean>>, goal: Int) {
     val maxVal = maxOf(days.maxOf { it.second }, goal.toFloat(), 5f)
     val step = when { maxVal <= 10 -> 2; maxVal <= 30 -> 5; maxVal <= 60 -> 10; else -> 20 }
-    val top = (ceil(maxVal / step) * step).toInt()
+    val top = (ceil(maxVal * 1.12f / step) * step).toInt()     // rezerva nad nejvyšším sloupcem pro popisek
     val ticks = (0..top step step).toList()
     val primary = MaterialTheme.colorScheme.primary
     val grid = MaterialTheme.colorScheme.outlineVariant
@@ -133,7 +133,7 @@ private fun DayChart(days: List<Triple<Int, Float, Boolean>>, goal: Int) {
                 val frac = 1f - t / top.toFloat()
                 Text("$t", fontSize = 10.sp, textAlign = TextAlign.End,
                     modifier = Modifier.fillMaxWidth().padding(end = 4.dp)
-                        .align(Alignment.TopStart).padding(top = (chartH.value * frac - 7).coerceAtLeast(0f).dp))
+                        .align(Alignment.TopStart).padding(top = (chartH.value * frac - 7).coerceIn(0f, chartH.value - 14f).dp))
             }
         }
         Column(Modifier.weight(1f)) {
