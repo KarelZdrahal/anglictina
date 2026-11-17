@@ -18,8 +18,8 @@ data class CardState(
     var wrong: Int = 0,
 ) {
     val isNew get() = reps == 0 && lastSeen == 0L
-    /** „Umím“ = interval aspoň 21 dní. */
-    val mastered get() = intervalDays >= 21.0
+    /** „Umím“ = aspoň dvakrát po sobě správně v různých dnech (další opakování za 6 a více dní). */
+    val mastered get() = !isNew && reps >= 2
     val learning get() = !isNew && !mastered
 
     fun toJson() = JSONObject().apply {

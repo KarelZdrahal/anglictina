@@ -88,8 +88,11 @@ fun SessionScreen(
     val requeued = remember { HashSet<String>() }
     val limit = minutes * 60
 
+    val startedAt = remember { System.currentTimeMillis() }
+    val wrongIds = remember { mutableListOf<String>() }
     fun persist() {
         repo.progress.addTime(elapsed - saved, 0); saved = elapsed
+        if (answered > 0) repo.progress.recordSession(startedAt, kind.name, elapsed, answered, correct, introduced, wrongIds)
         repo.progress.save()
     }
 
@@ -111,7 +114,7 @@ fun SessionScreen(
         }
         Srs.review(st, g)
         answered++; repo.progress.dayItems[Progress.today()] = (repo.progress.dayItems[Progress.today()] ?: 0) + 1
-        if (g > 0) correct++
+        if (g > 0) correct++ else wrongIds += item.cardId
         lastCorrect = g > 0
         if (g == 0 && requeued.add(item.cardId)) {
             val again = when (item) {
@@ -128,6 +131,7 @@ fun SessionScreen(
         st.wrong = (st.wrong - 1).coerceAtLeast(0); st.lapses = (st.lapses - 1).coerceAtLeast(0)
         Srs.review(st, 1)
         correct++
+        wrongIds.remove(item.cardId)
         val later = (idx + 1 until queue.size).firstOrNull { queue[it].cardId == item.cardId }
         if (later != null) queue.removeAt(later)
     }

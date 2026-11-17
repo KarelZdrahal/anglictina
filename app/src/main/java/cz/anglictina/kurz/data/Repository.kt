@@ -34,6 +34,8 @@ class Progress(private val file: File) {
     val daySeconds = HashMap<String, Int>()      // yyyy-MM-dd -> sekundy učení
     val dayItems = HashMap<String, Int>()        // yyyy-MM-dd -> počet odpovědí
     val bankNewByDay = HashMap<String, Int>()    // yyyy-MM-dd -> nově zavedená slova ze zásoby
+    /** Poslední procvičování: start, typ, sekundy, odpovědi, správně, nová slova, chybné položky. */
+    var last: JSONObject? = null
 
     init { load() }
 
@@ -47,6 +49,7 @@ class Progress(private val file: File) {
             o.optJSONObject("cards")?.let { c -> c.keys().forEach { cards[it] = CardState.fromJson(c.getJSONObject(it)) } }
             fun m(name: String, into: HashMap<String, Int>) = o.optJSONObject(name)?.let { c -> c.keys().forEach { into[it] = c.getInt(it) } }
             m("days", daySeconds); m("items", dayItems); m("bankNew", bankNewByDay)
+            last = o.optJSONObject("last")
         }
     }
 
@@ -56,8 +59,16 @@ class Progress(private val file: File) {
         o.put("days", JSONObject(daySeconds as Map<*, *>))
         o.put("items", JSONObject(dayItems as Map<*, *>))
         o.put("bankNew", JSONObject(bankNewByDay as Map<*, *>))
+        last?.let { o.put("last", it) }
         val tmp = File(file.parentFile, file.name + ".tmp")
         tmp.writeText(o.toString()); tmp.renameTo(file)
+    }
+
+    fun recordSession(start: Long, kind: String, seconds: Int, answered: Int, correct: Int, introduced: Int, wrong: List<String>) {
+        last = JSONObject().apply {
+            put("start", start); put("kind", kind); put("sec", seconds); put("answered", answered)
+            put("correct", correct); put("new", introduced); put("wrong", org.json.JSONArray(wrong.distinct().take(15)))
+        }
     }
 
     fun addTime(seconds: Int, items: Int) {
