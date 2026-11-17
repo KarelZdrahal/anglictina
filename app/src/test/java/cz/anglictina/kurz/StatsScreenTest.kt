@@ -21,7 +21,7 @@ import org.robolectric.annotation.Config
 @Config(sdk = [34], qualifiers = "w411dp-h891dp-xxhdpi")
 @org.robolectric.annotation.GraphicsMode(org.robolectric.annotation.GraphicsMode.Mode.NATIVE)
 class StatsScreenTest {
-    @get:Rule val rule = createComposeRule()
+    @get:Rule val rule = androidx.compose.ui.test.junit4.createAndroidComposeRule<androidx.activity.ComponentActivity>()
 
     @Test fun showsKnownWordsLastSessionAndChart() {
         val repo = Repository(RuntimeEnvironment.getApplication()).also { it.load() }
@@ -47,7 +47,9 @@ class StatsScreenTest {
         assertTrue("slovíčka ‚umím‘ nesedí", has("3"))
         assertTrue("chybí osa", has("Čárkovaná čára"))
         runCatching {
-            val bmp = rule.onRoot().captureToImage().asAndroidBitmap()
+            val v = rule.activity.window.decorView
+            val bmp = android.graphics.Bitmap.createBitmap(v.width, v.height, android.graphics.Bitmap.Config.ARGB_8888)
+            v.draw(android.graphics.Canvas(bmp))
             val out = java.io.ByteArrayOutputStream(); bmp.compress(android.graphics.Bitmap.CompressFormat.JPEG, 60, out)
             println("SCREENSHOT_BEGIN" + java.util.Base64.getEncoder().encodeToString(out.toByteArray()) + "SCREENSHOT_END")
         }.onFailure { println("SCREENSHOT_FAIL $it") }
