@@ -1,0 +1,80 @@
+#Listening|Poslech
+@listen
+Hi, I'm Tomáš. I'm a real early bird. I tend to get up at five, even at weekends. I go for a run, have a big breakfast and I'm at my desk by seven. By three o'clock I'm usually tired, so I try to do the difficult jobs in the morning.
+@q ## What time does Tomáš tend to get up? ## at five / at seven / at three ## at five
+@q ## What does he do first? ## He goes for a run. / He checks his emails. / He has a shower. ## He goes for a run.
+@q ## When does he do difficult jobs? ## in the morning / after three / in the evening ## in the morning
+@end
+@listen
+My flatmate is driving me crazy. She's always leaving her wet towels on the bathroom floor, and she keeps eating my yoghurts from the fridge. I've talked to her about it twice, but nothing changes. I think I'll start looking for a new flat.
+@q ## What does the flatmate keep doing? ## eating the speaker's yoghurts / playing loud music / coming home late ## eating the speaker's yoghurts
+@q ## How many times has the speaker talked to her? ## twice / never / five times ## twice
+@q ## What is the speaker thinking of doing? ## finding a new flat / buying a new fridge / asking the landlord for help ## finding a new flat
+@end
+@listen
+Sorry I'm late, everyone. The trains are running behind schedule again – that's the third time this week. Let's start the meeting now. We need to meet the deadline on Friday, so I'm afraid some of you may have to work overtime tomorrow.
+@q ## Why is the speaker late? ## The trains are delayed. / He overslept. / He had another meeting. ## The trains are delayed.
+@q ## When is the deadline? ## on Friday / tomorrow / next week ## on Friday
+@q ## What may some people have to do? ## work overtime / work at the weekend / cancel their holiday ## work overtime
+@end
+@listen
+When I was a student in Prague, I would study in the library until it closed at ten. Then my friends and I would grab a bite to eat at a little Vietnamese place round the corner. We used to have very little money, but those were great times.
+@q ## Where did the speaker study? ## in the library / at home / in a café ## in the library
+@q ## Where did they go to eat? ## a Vietnamese place / the student canteen / a friend's flat ## a Vietnamese place
+@q ## How does the speaker remember that time? ## as great times / as a difficult period / as boring ## as great times
+@end
+@listen
+I've been working from home for two years now. At first I fell into the habit of checking emails late at night. Now I have a rule: at six o'clock I switch off the laptop and go for a walk with the dog. It really helps me wind down.
+@q ## What bad habit did the speaker have at first? ## checking emails late at night / sleeping until noon / eating too much ## checking emails late at night
+@q ## What happens at six o'clock now? ## The laptop goes off. / The speaker starts work. / The dog has dinner. ## The laptop goes off.
+@end
+@listen
+My grandfather is ninety, and he's still a creature of habit. Every day he'll have soup for lunch at exactly twelve o'clock, then he'll sleep for half an hour in his armchair. If lunch is five minutes late, he gets really grumpy!
+@q ## How old is the grandfather? ## ninety / eighty / seventy ## ninety
+@q ## What does he do after lunch? ## He sleeps in his armchair. / He goes for a walk. / He reads the paper. ## He sleeps in his armchair.
+@q ## What happens if lunch is late? ## He gets grumpy. / He cooks it himself. / He doesn't eat. ## He gets grumpy.
+@end
+@listen
+Welcome to the team, Lucie! I'm Martin, and I'll show you the ropes this week. Don't worry if everything seems confusing at first – you'll get into the swing of things soon. Oh, and remember to clock in at the main entrance every morning.
+@q ## What will Martin do this week? ## show Lucie how things work / go on holiday / work from home ## show Lucie how things work
+@q ## What must Lucie remember to do? ## clock in at the main entrance / bring her own laptop / arrive before seven ## clock in at the main entrance
+@end
+@listen
+Honestly, I'm up to my eyes in work at the moment. My manager keeps giving me new projects, and I'm not inclined to say no because I want a promotion. But I haven't had a proper lunch break for weeks. Something has to change.
+@q ## Why doesn't the speaker say no to new projects? ## She wants a promotion. / She likes being busy. / Her colleagues are ill. ## She wants a promotion.
+@q ## What hasn't she had for weeks? ## a proper lunch break / a day off / a meeting with her manager ## a proper lunch break
+@end
+@listen
+I'm a night owl, so mornings are terrible for me. I hit the snooze button at least four times, then I rush out of the house without breakfast. Luckily my company has flexible working hours, so I can start at ten and work until seven.
+@q ## How many times does the speaker hit the snooze button? ## at least four times / once / twice ## at least four times
+@q ## What does the speaker often skip? ## breakfast / lunch / the bus ## breakfast
+@q ## What are the speaker's working hours? ## ten to seven / nine to five / seven to three ## ten to seven
+@end
+@listen
+Last week I had to pull an all-nighter to finish a report for a client. I promised myself it would be the last time. This month I'm making an effort to plan better: I write a to-do list every Monday and I don't take on extra work unless I really have time.
+@q ## Why did the speaker work all night? ## to finish a report / to prepare for an exam / to help a colleague ## to finish a report
+@q ## What does the speaker do every Monday now? ## writes a to-do list / works from home / meets the client ## writes a to-do list
+@end
+@listen
+In our office, there's one colleague who does the bare minimum. He'll arrive at nine on the dot, spend an hour making coffee and leave at five exactly. Then there's Jana, who always goes the extra mile. Guess who got the promotion?
+@q ## When does the first colleague arrive? ## at nine exactly / at ten / before eight ## at nine exactly
+@q ## What is Jana like? ## She always does more than necessary. / She is always late. / She only does the minimum. ## She always does more than necessary.
+@q ## Who probably got the promotion? ## Jana / the first colleague / nobody ## Jana
+@end
+@listen
+I used to drink five cups of coffee a day. It was a terrible habit, and I couldn't sleep at night. Now I have one cup in the morning and green tea in the afternoon. It was hard at first – old habits die hard – but I feel much better.
+@q ## How much coffee did the speaker use to drink? ## five cups a day / one cup a day / ten cups a week ## five cups a day
+@q ## What does the speaker drink in the afternoon now? ## green tea / coffee / water ## green tea
+@q ## How does the speaker feel now? ## much better / more tired / exactly the same ## much better
+@end
+@listen
+Dad, can I ask you something? Why do you always read the newspaper before you talk to anyone in the morning? You've done it every day for as long as I can remember. – Well, it's my quiet time. After that, I'm ready for the day – and for you!
+@q ## What does Dad always do in the morning? ## read the newspaper / go jogging / listen to the radio ## read the newspaper
+@q ## Why does he do it? ## It's his quiet time. / He needs it for work. / He doesn't like his children. ## It's his quiet time.
+@end
+@listen
+I've been in the same job for twelve years, and lately I've felt stuck in a rut. Every day is the same: the same desk, the same tasks, the same lunch. So I've decided to take an evening course in graphic design. Who knows? Maybe it's time for something completely new.
+@q ## How long has the speaker had the same job? ## twelve years / two years / twenty years ## twelve years
+@q ## How does the speaker feel? ## stuck in a rut / very excited / up to the eyes in work ## stuck in a rut
+@q ## What has the speaker decided to do? ## take a course in graphic design / leave the job tomorrow / move abroad ## take a course in graphic design
+@end

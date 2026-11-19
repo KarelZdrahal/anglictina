@@ -1,0 +1,621 @@
+{
+"id": "L02-b_routines",
+"lesson": "L02",
+"topic": "Routines: tenses, adverbs & word order",
+"topic_cz": "Rutina: časy, příslovce a slovosled",
+"level": "B1",
+"exercises": [
+{
+"id": "L02-b_routines-001",
+"type": "choose",
+"q": "I ___ (usually start/am usually starting) work at eight.",
+"a": "usually start"
+},
+{
+"id": "L02-b_routines-002",
+"type": "choose",
+"q": "This week I ___ (am working/work) from home because the office is being painted.",
+"a": "am working"
+},
+{
+"id": "L02-b_routines-003",
+"type": "choose",
+"q": "She ___ (never has/is never having) breakfast on weekdays.",
+"a": "never has"
+},
+{
+"id": "L02-b_routines-004",
+"type": "choose",
+"q": "Look! The boss ___ (is leaving/leaves) early today.",
+"a": "is leaving"
+},
+{
+"id": "L02-b_routines-005",
+"type": "choose",
+"q": "How often ___ (do you work/are you working) overtime?",
+"a": "do you work"
+},
+{
+"id": "L02-b_routines-006",
+"type": "choose",
+"q": "Sorry, I can't talk now – I ___ (am driving/drive) to a meeting.",
+"a": "am driving"
+},
+{
+"id": "L02-b_routines-007",
+"type": "choose",
+"q": "We ___ (hardly ever eat/are hardly ever eating) out during the week.",
+"a": "hardly ever eat"
+},
+{
+"id": "L02-b_routines-008",
+"type": "choose",
+"q": "At the moment, our team ___ (is preparing/prepares) a big presentation.",
+"a": "is preparing"
+},
+{
+"id": "L02-b_routines-009",
+"type": "choose",
+"q": "My husband ___ (goes/is going) to the gym three times a week.",
+"a": "goes"
+},
+{
+"id": "L02-b_routines-010",
+"type": "choose",
+"q": "These days more people ___ (are working/work) remotely than ever before.",
+"a": "are working"
+},
+{
+"id": "L02-b_routines-011",
+"type": "choose",
+"q": "The shop ___ (opens/is opening) at nine every day.",
+"a": "opens"
+},
+{
+"id": "L02-b_routines-012",
+"type": "choose",
+"q": "Why ___ (are you working/do you work) so late tonight?",
+"a": "are you working"
+},
+{
+"id": "L02-b_routines-013",
+"type": "choose",
+"q": "I ___ (am often/often am) tired on Monday mornings.",
+"a": "am often"
+},
+{
+"id": "L02-b_routines-014",
+"type": "choose",
+"q": "He ___ (always takes/takes always) the same train.",
+"a": "always takes"
+},
+{
+"id": "L02-b_routines-015",
+"type": "choose",
+"q": "We ___ (sometimes go/go sometimes) for a walk after lunch.",
+"a": "sometimes go"
+},
+{
+"id": "L02-b_routines-016",
+"type": "choose",
+"q": "She is ___ (rarely late/late rarely) for work.",
+"a": "rarely late"
+},
+{
+"id": "L02-b_routines-017",
+"type": "choose",
+"q": "___ (Do you usually/Usually do you) walk to work?",
+"a": "Do you usually"
+},
+{
+"id": "L02-b_routines-018",
+"type": "choose",
+"q": "I ___ (have never/never have) enough time in the morning.",
+"a": "never have"
+},
+{
+"id": "L02-b_routines-019",
+"type": "choose",
+"q": "They ___ (don't often/often don't) work at weekends.",
+"a": "don't often"
+},
+{
+"id": "L02-b_routines-020",
+"type": "choose",
+"q": "Our manager ___ (is usually/usually is) in the office before eight.",
+"a": "is usually"
+},
+{
+"id": "L02-b_routines-021",
+"type": "choose",
+"q": "I ___ (can never/never can) find a parking space near the office.",
+"a": "can never"
+},
+{
+"id": "L02-b_routines-022",
+"type": "choose",
+"q": "Jana ___ (is having/has) lunch with a client right now.",
+"a": "is having"
+},
+{
+"id": "L02-b_routines-023",
+"type": "choose",
+"q": "I ___ (think/am thinking) flexible hours are a great idea.",
+"a": "think"
+},
+{
+"id": "L02-b_routines-024",
+"type": "choose",
+"q": "I ___ (am thinking/think) about changing jobs.",
+"a": "am thinking"
+},
+{
+"id": "L02-b_routines-025",
+"type": "choose",
+"q": "He ___ (doesn't understand/isn't understanding) why we need another meeting.",
+"a": "doesn't understand"
+},
+{
+"id": "L02-b_routines-026",
+"type": "choose",
+"q": "This coffee ___ (tastes/is tasting) awful.",
+"a": "tastes"
+},
+{
+"id": "L02-b_routines-027",
+"type": "choose",
+"q": "My daughter ___ (is getting/gets) better at getting up early.",
+"a": "is getting"
+},
+{
+"id": "L02-b_routines-028",
+"type": "choose",
+"q": "I ___ (need/am needing) a break – I've been working since six.",
+"a": "need"
+},
+{
+"id": "L02-b_routines-029",
+"type": "choose",
+"q": "What time ___ (does your shift start/is your shift starting) tomorrow?",
+"a": "does your shift start"
+},
+{
+"id": "L02-b_routines-030",
+"type": "choose",
+"q": "The train ___ (leaves/is leaving) at 6:45 every morning.",
+"a": "leaves"
+},
+{
+"id": "L02-b_routines-031",
+"type": "choose",
+"q": "He ___ (works/is working) as a nurse, so he often does night shifts.",
+"a": "works"
+},
+{
+"id": "L02-b_routines-032",
+"type": "choose",
+"q": "I'm sorry, Mr Novák ___ (is talking/talks) to a customer. Can you wait?",
+"a": "is talking"
+},
+{
+"id": "L02-b_routines-033",
+"type": "choose",
+"q": "I ___ (once a week go/go once a week) swimming.",
+"a": "go once a week"
+},
+{
+"id": "L02-b_routines-034",
+"type": "choose",
+"q": "She checks her emails ___ (every hour/every hours).",
+"a": "every hour"
+},
+{
+"id": "L02-b_routines-035",
+"type": "choose",
+"q": "We have a team meeting ___ (every Monday/at every Monday).",
+"a": "every Monday"
+},
+{
+"id": "L02-b_routines-036",
+"type": "choose",
+"q": "I ___ (am not seeing/don't see) my parents very often – they live far away.",
+"a": "don't see"
+},
+{
+"id": "L02-b_routines-037",
+"type": "choose",
+"q": "Right now I ___ (am learning/learn) to wind down without my phone.",
+"a": "am learning"
+},
+{
+"id": "L02-b_routines-038",
+"type": "choose",
+"q": "How ___ (do you usually wind down/are you usually winding down) after work?",
+"a": "do you usually wind down"
+},
+{
+"id": "L02-b_routines-039",
+"type": "choose",
+"q": "Pavel ___ (owns/is owning) two coffee shops in Olomouc.",
+"a": "owns"
+},
+{
+"id": "L02-b_routines-040",
+"type": "choose",
+"q": "I ___ (am staying/stay) with a friend until I find a flat.",
+"a": "am staying"
+},
+{
+"id": "L02-b_routines-041",
+"type": "choose",
+"q": "My parents ___ (live/are living) in the same house they bought in 1985.",
+"a": "live"
+},
+{
+"id": "L02-b_routines-042",
+"type": "choose",
+"q": "Hurry up! Everyone ___ (is waiting/waits) for you.",
+"a": "is waiting"
+},
+{
+"id": "L02-b_routines-043",
+"type": "error",
+"q": "I am going to work by bus every day.",
+"a": "I go to work by bus every day."
+},
+{
+"id": "L02-b_routines-044",
+"type": "error",
+"q": "She doesn't works on Fridays.",
+"a": "She doesn't work on Fridays. | She does not work on Fridays."
+},
+{
+"id": "L02-b_routines-045",
+"type": "error",
+"q": "Look, it rains again!",
+"a": "Look, it's raining again! | Look, it is raining again!"
+},
+{
+"id": "L02-b_routines-046",
+"type": "error",
+"q": "I go always to bed at eleven.",
+"a": "I always go to bed at eleven."
+},
+{
+"id": "L02-b_routines-047",
+"type": "error",
+"q": "He is never late usually.",
+"a": "He is usually never late. | He's usually never late."
+},
+{
+"id": "L02-b_routines-048",
+"type": "error",
+"q": "How often you go to the gym?",
+"a": "How often do you go to the gym?"
+},
+{
+"id": "L02-b_routines-049",
+"type": "error",
+"q": "I am knowing the answer.",
+"a": "I know the answer."
+},
+{
+"id": "L02-b_routines-050",
+"type": "error",
+"q": "Are you liking your new job?",
+"a": "Do you like your new job?"
+},
+{
+"id": "L02-b_routines-051",
+"type": "error",
+"q": "We are wanting to finish early today.",
+"a": "We want to finish early today."
+},
+{
+"id": "L02-b_routines-052",
+"type": "error",
+"q": "She tends working late.",
+"a": "She tends to work late."
+},
+{
+"id": "L02-b_routines-053",
+"type": "error",
+"q": "I keep to forget my password.",
+"a": "I keep forgetting my password."
+},
+{
+"id": "L02-b_routines-054",
+"type": "error",
+"q": "He is inclined panicking under pressure.",
+"a": "He is inclined to panic under pressure. | He's inclined to panic under pressure."
+},
+{
+"id": "L02-b_routines-055",
+"type": "error",
+"q": "When I was a child, I would have a dog.",
+"a": "When I was a child, I used to have a dog. | When I was a child, I had a dog."
+},
+{
+"id": "L02-b_routines-056",
+"type": "error",
+"q": "I use to get up at six when I worked in the factory.",
+"a": "I used to get up at six when I worked in the factory."
+},
+{
+"id": "L02-b_routines-057",
+"type": "error",
+"q": "Did you used to work here?",
+"a": "Did you use to work here?"
+},
+{
+"id": "L02-b_routines-058",
+"type": "error",
+"q": "My brother always borrows my car! It's so annoying!",
+"a": "My brother is always borrowing my car! It's so annoying! | My brother's always borrowing my car! It's so annoying!"
+},
+{
+"id": "L02-b_routines-059",
+"type": "error",
+"q": "He doesn't tend to taking breaks.",
+"a": "He doesn't tend to take breaks. | He does not tend to take breaks."
+},
+{
+"id": "L02-b_routines-060",
+"type": "error",
+"q": "We used to living in Prague.",
+"a": "We used to live in Prague."
+},
+{
+"id": "L02-b_routines-061",
+"type": "error",
+"q": "She keeps on to call me at night.",
+"a": "She keeps on calling me at night."
+},
+{
+"id": "L02-b_routines-062",
+"type": "error",
+"q": "I tend not drinking coffee after six.",
+"a": "I tend not to drink coffee after six."
+},
+{
+"id": "L02-b_routines-063",
+"type": "error",
+"q": "My boss is always to change his mind.",
+"a": "My boss is always changing his mind."
+},
+{
+"id": "L02-b_routines-064",
+"type": "error",
+"q": "Usually I am get up early.",
+"a": "Usually I get up early. | I usually get up early."
+},
+{
+"id": "L02-b_routines-065",
+"type": "error",
+"q": "They work at the moment on a new project.",
+"a": "They are working on a new project at the moment. | They're working on a new project at the moment. | At the moment they are working on a new project."
+},
+{
+"id": "L02-b_routines-066",
+"type": "error",
+"q": "She has usually lunch at her desk.",
+"a": "She usually has lunch at her desk."
+},
+{
+"id": "L02-b_routines-067",
+"type": "error",
+"q": "I don't never work at weekends.",
+"a": "I never work at weekends. | I don't ever work at weekends."
+},
+{
+"id": "L02-b_routines-068",
+"type": "error",
+"q": "He works here since 2019.",
+"a": "He has worked here since 2019. | He has been working here since 2019. | He's worked here since 2019."
+},
+{
+"id": "L02-b_routines-069",
+"type": "error",
+"q": "As students, we will study all night before exams.",
+"a": "As students, we would study all night before exams. | As students, we used to study all night before exams."
+},
+{
+"id": "L02-b_routines-070",
+"type": "error",
+"q": "People tend to be work longer hours now.",
+"a": "People tend to work longer hours now."
+},
+{
+"id": "L02-b_routines-071",
+"type": "error",
+"q": "Do you can work from home?",
+"a": "Can you work from home?"
+},
+{
+"id": "L02-b_routines-072",
+"type": "error",
+"q": "I'm not inclined believing everything I read.",
+"a": "I'm not inclined to believe everything I read. | I am not inclined to believe everything I read."
+},
+{
+"id": "L02-b_routines-073",
+"type": "order",
+"q": "usually / I / at / get / up / seven",
+"a": "I usually get up at seven."
+},
+{
+"id": "L02-b_routines-074",
+"type": "order",
+"q": "never / she / late / is",
+"a": "She is never late."
+},
+{
+"id": "L02-b_routines-075",
+"type": "order",
+"q": "often / do / work / how / you / overtime",
+"a": "How often do you work overtime?"
+},
+{
+"id": "L02-b_routines-076",
+"type": "order",
+"q": "to / tend / I / better / work / the / in / morning",
+"a": "I tend to work better in the morning."
+},
+{
+"id": "L02-b_routines-077",
+"type": "order",
+"q": "keep / I / my / forgetting / password",
+"a": "I keep forgetting my password."
+},
+{
+"id": "L02-b_routines-078",
+"type": "order",
+"q": "is / always / he / interrupting / people",
+"a": "He is always interrupting people."
+},
+{
+"id": "L02-b_routines-079",
+"type": "order",
+"q": "inclined / is / she / to / panic",
+"a": "She is inclined to panic."
+},
+{
+"id": "L02-b_routines-080",
+"type": "order",
+"q": "used / we / to / live / near / the / office",
+"a": "We used to live near the office."
+},
+{
+"id": "L02-b_routines-081",
+"type": "order",
+"q": "would / I / study / all / night / before / exams",
+"a": "I would study all night before exams."
+},
+{
+"id": "L02-b_routines-082",
+"type": "order",
+"q": "don't / tend / we / to / eat / out / during / the / week",
+"a": "We don't tend to eat out during the week."
+},
+{
+"id": "L02-b_routines-083",
+"type": "order",
+"q": "hardly / ever / I / take / a / lunch / break",
+"a": "I hardly ever take a lunch break."
+},
+{
+"id": "L02-b_routines-084",
+"type": "order",
+"q": "is / my / working / from / home / sister",
+"a": "My sister is working from home."
+},
+{
+"id": "L02-b_routines-085",
+"type": "order",
+"q": "you / do / usually / wind / down / how",
+"a": "How do you usually wind down?"
+},
+{
+"id": "L02-b_routines-086",
+"type": "order",
+"q": "always / my / boss / is / changing / mind / his",
+"a": "My boss is always changing his mind."
+},
+{
+"id": "L02-b_routines-087",
+"type": "order",
+"q": "did / use / you / to / work / weekends / at",
+"a": "Did you use to work at weekends?"
+},
+{
+"id": "L02-b_routines-088",
+"type": "order",
+"q": "often / we / go / for / a / walk / after / lunch",
+"a": "We often go for a walk after lunch."
+},
+{
+"id": "L02-b_routines-089",
+"type": "order",
+"q": "keeps / the / printer / breaking / down",
+"a": "The printer keeps breaking down."
+},
+{
+"id": "L02-b_routines-090",
+"type": "order",
+"q": "rarely / is / he / in / the / office / before / nine",
+"a": "He is rarely in the office before nine."
+},
+{
+"id": "L02-b_routines-091",
+"type": "order",
+"q": "tends / she / to / leave / things / the / last / minute / to",
+"a": "She tends to leave things to the last minute."
+},
+{
+"id": "L02-b_routines-092",
+"type": "order",
+"q": "grandad / my / would / sit / garden / in / the / for / hours",
+"a": "My grandad would sit in the garden for hours."
+},
+{
+"id": "L02-b_routines-093",
+"type": "order",
+"q": "not / I / inclined / am / to / agree",
+"a": "I am not inclined to agree."
+},
+{
+"id": "L02-b_routines-094",
+"type": "order",
+"q": "always / you / are / checking / phone / your",
+"a": "You are always checking your phone."
+},
+{
+"id": "L02-b_routines-095",
+"type": "order",
+"q": "can / never / I / find / a / parking / space",
+"a": "I can never find a parking space."
+},
+{
+"id": "L02-b_routines-096",
+"type": "order",
+"q": "didn't / use / I / to / drink / coffee",
+"a": "I didn't use to drink coffee."
+},
+{
+"id": "L02-b_routines-097",
+"type": "order",
+"q": "is / she / still / preparing / the / report",
+"a": "She is still preparing the report."
+},
+{
+"id": "L02-b_routines-098",
+"type": "order",
+"q": "usually / are / we / busy / on / Mondays",
+"a": "We are usually busy on Mondays."
+},
+{
+"id": "L02-b_routines-099",
+"type": "order",
+"q": "kept / he / on / talking / for / an / hour",
+"a": "He kept on talking for an hour."
+},
+{
+"id": "L02-b_routines-100",
+"type": "order",
+"q": "meeting / our / weekly / starts / at / nine",
+"a": "Our weekly meeting starts at nine."
+},
+{
+"id": "L02-b_routines-101",
+"type": "order",
+"q": "people / tend / to / check / their / phones / too / often",
+"a": "People tend to check their phones too often."
+},
+{
+"id": "L02-b_routines-102",
+"type": "order",
+"q": "often / don't / they / work / late",
+"a": "They don't often work late."
+}
+]
+}

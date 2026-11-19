@@ -1,0 +1,64 @@
+#Translation|Překlad
+tr ## Obvykle vstávám v šest. ## I usually get up at six. | I usually get up at six o'clock. | I usually wake up at six.
+tr ## Tento týden pracuji z domova. ## I'm working from home this week. | This week I'm working from home. | I am working from home this week.
+tr ## Ráno mívám tendenci pracovat lépe. ## I tend to work better in the morning. | I tend to work better in the mornings.
+tr ## Pořád zapomínám heslo. ## I keep forgetting my password. | I keep forgetting the password. | I keep on forgetting my password.
+tr ## Je pořád pozdě! (rozčiluje mě to) ## He's always late! | She's always late! | He is always late! | She is always late!
+tr ## Neustále mě přerušuješ! ## You're always interrupting me! | You're constantly interrupting me! | You keep interrupting me!
+tr ## Jako student jsem se učil celou noc před zkouškami. ## As a student, I would study all night before exams. | As a student, I used to study all night before exams. | When I was a student, I would study all night before exams. | When I was a student, I used to study all night before exams.
+tr ## Dřív jsem bydlel blízko kanceláře. ## I used to live near the office. | I used to live close to the office.
+tr ## Dřív jsem nepil kávu. ## I didn't use to drink coffee. | I never used to drink coffee. | I did not use to drink coffee.
+tr ## Pracoval jsi dřív o víkendech? ## Did you use to work at weekends? | Did you use to work on weekends?
+tr ## Moje babička bude sedět na zahradě celé hodiny. ## My grandmother will sit in the garden for hours. | My grandma will sit in the garden for hours.
+tr ## Má sklon panikařit, když se blíží termín. ## He's inclined to panic when a deadline is approaching. | He is inclined to panic when a deadline gets close. | He's inclined to panic when deadlines get close. | He tends to panic when a deadline is approaching. | He tends to panic when deadlines get close.
+tr ## Během týdne obvykle nechodíme jíst ven. ## We don't tend to eat out during the week. | We don't usually eat out during the week. | We tend not to eat out during the week.
+tr ## Jsem ranní ptáče. ## I'm an early bird. | I am an early bird.
+tr ## Můj bratr je noční sova. ## My brother is a night owl.
+tr ## Snažím se dodržovat denní režim. ## I try to stick to a routine. | I'm trying to stick to a routine. | I try to stick to a daily routine.
+tr ## Je těžké zbavit se zlozvyku. ## It's hard to break a bad habit. | It is hard to break a bad habit. | It's difficult to break a bad habit.
+tr ## Zvykl jsem si jíst u stolu v kanceláři. ## I've fallen into the habit of eating at my desk. | I have fallen into the habit of eating at my desk. | I've got into the habit of eating at my desk.
+tr ## Je to tvor zvyku. ## He's a creature of habit. | She's a creature of habit. | He is a creature of habit. | She is a creature of habit.
+tr ## Každé ráno několikrát zmáčknu odložení budíku. ## Every morning I hit the snooze button several times. | I hit the snooze button several times every morning.
+tr ## Mám až nad hlavu práce. ## I'm up to my eyes in work. | I am up to my eyes in work.
+tr ## Musíme stihnout termín. ## We have to meet the deadline. | We must meet the deadline. | We need to meet the deadline.
+tr ## Nemůžu si vzít další práci. ## I can't take on any extra work. | I can't take on extra work. | I cannot take on any more work. | I can't take on any more work.
+tr ## Máme zpoždění oproti plánu. ## We're running behind schedule. | We are running behind schedule. | We're behind schedule.
+tr ## Minulý měsíc jsem pracoval přesčas každý den. ## I worked overtime every day last month. | Last month I worked overtime every day.
+tr ## Pojďme si rychle něco dát k jídlu. ## Let's grab a bite to eat. | Let's grab a bite.
+tr ## Jak relaxuješ po práci? ## How do you wind down after work? | How do you relax after work?
+tr ## Musíš si udělat čas na rodinu. ## You have to make time for your family. | You need to make time for your family. | You must make time for your family.
+tr ## Dělá jen to nejnutnější. ## He does the bare minimum. | She does the bare minimum. | He only does the bare minimum. | She only does the bare minimum.
+tr ## Snažím se být dochvilnější. ## I'm making an effort to be more punctual. | I'm trying to be more punctual. | I am making an effort to be more punctual.
+tr ## Cítím se jako ve vyjetých kolejích. ## I feel stuck in a rut. | I feel like I'm stuck in a rut. | I feel like I am stuck in a rut.
+tr ## Vždycky pro zákazníky udělá něco navíc. ## She always goes the extra mile for customers. | He always goes the extra mile for customers. | She always goes the extra mile for her customers. | He always goes the extra mile for his customers.
+tr ## Včera jsem probděl celou noc nad prací. ## I pulled an all-nighter yesterday. | Yesterday I pulled an all-nighter. | I burned the midnight oil yesterday.
+tr ## Můžeš nového kolegu zaučit? ## Can you show the new colleague the ropes? | Could you show the new colleague the ropes?
+tr ## Pomalu se do toho dostávám. ## I'm slowly getting into the swing of things. | I am slowly getting into the swing of things.
+tr ## Náš šéf si velmi potrpí na dochvilnost. ## Our boss is a stickler for punctuality. | Our boss is a real stickler for punctuality.
+tr ## Psaní na klávesnici se mi stalo druhou přirozeností. ## Typing has become second nature to me. | Typing became second nature to me.
+tr ## Starých zvyků se člověk těžko zbavuje. ## Old habits die hard.
+tr ## Naše firma nabízí pružnou pracovní dobu. ## Our company offers flexible working hours. | Our firm offers flexible working hours.
+tr ## Většina mých kolegů pracuje na dálku. ## Most of my colleagues work remotely. | Most of my colleagues work from home.
+tr ## Rovnováha mezi prací a soukromým životem je pro mě důležitá. ## Work-life balance is important to me. | A good work-life balance is important to me. | Work-life balance is important for me.
+tr ## Nesnáším každodenní dřinu. ## I hate the daily grind. | I can't stand the daily grind.
+tr ## Tiskárna se pořád kazí. ## The printer keeps breaking down. | The printer is always breaking down. | The printer keeps breaking.
+tr ## Lidé mají sklon věřit všemu, co čtou na internetu. ## People tend to believe everything they read online. | People are inclined to believe everything they read online. | People tend to believe everything they read on the internet.
+tr ## Když jsme byli malí, hráli jsme si venku až do tmy. ## When we were little, we would play outside until dark. | When we were children, we would play outside until dark. | When we were little, we used to play outside until dark. | When we were kids, we used to play outside until dark. | When we were kids, we would play outside until dark.
+tr ## Dřív tady bylo kino. ## There used to be a cinema here.
+tr ## Můj spolubydlící pořád nechává špinavé nádobí ve dřezu! ## My flatmate is always leaving dirty dishes in the sink! | My roommate is always leaving dirty dishes in the sink! | My flatmate keeps leaving dirty dishes in the sink!
+tr ## Moje kočka mě každé ráno budí v pět. ## My cat wakes me up at five every morning. | My cat will wake me up at five every morning. | Every morning my cat wakes me up at five.
+tr ## Nejsem nakloněn tomu souhlasit. ## I'm not inclined to agree. | I am not inclined to agree.
+tr ## Teď nemůžu mluvit, mám schůzku. ## I can't talk now, I'm in a meeting. | I can't talk now. I'm in a meeting. | I can't talk now, I have a meeting.
+tr ## Jak často pracuješ přesčas? ## How often do you work overtime?
+tr ## Skoro nikdy si nedávám polední pauzu. ## I hardly ever take a lunch break. | I almost never take a lunch break.
+tr ## Málokdy přijde do práce před devátou. ## He's rarely at work before nine. | He rarely comes to work before nine. | She rarely comes to work before nine. | She's rarely at work before nine. | He rarely gets to work before nine. | She rarely gets to work before nine.
+tr ## Udělal jsem chybu ve zprávě. ## I made a mistake in the report. | I've made a mistake in the report.
+tr ## Musím udělat nákup a uklidit. ## I have to do the shopping and the housework. | I need to do the shopping and the cleaning. | I have to do the shopping and the cleaning.
+tr ## Můžeš mi udělat laskavost? ## Can you do me a favour? | Could you do me a favour? | Can you do me a favor? | Could you do me a favor?
+tr ## Do pátku musíme udělat rozhodnutí. ## We have to make a decision by Friday. | We need to make a decision by Friday. | We must make a decision by Friday.
+tr ## Pořád si vymýšlí výmluvy. ## He's always making excuses. | She's always making excuses. | He keeps making excuses. | She keeps making excuses.
+tr ## Udělám, co budu moct. ## I'll do my best. | I will do my best. | I'll do what I can.
+tr ## Dělám pokroky v angličtině. ## I'm making progress in English. | I'm making progress with my English. | I am making progress in English.
+tr ## V práci se musíme pípnout při příchodu i odchodu. ## At work we have to clock in and clock out. | We have to clock in and out at work. | At work we have to clock in and out.
+tr ## Teenageři mívají sklon chodit spát pozdě. ## Teenagers tend to go to bed late.
+tr ## Šéf pořád mění termín. ## The boss keeps changing the deadline. | My boss keeps changing the deadline. | The boss is always changing the deadline.

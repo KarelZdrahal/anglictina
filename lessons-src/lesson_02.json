@@ -1,0 +1,875 @@
+{
+ "week": 2,
+ "id": "L02",
+ "date": "2026-11-19",
+ "level": "B1+",
+ "title_en": "Work & daily routines",
+ "title_cz": "Práce a denní režim",
+ "grammar_focus": "Habits and tendencies: tend to, be inclined to, keep (on) -ing, will/would, be always -ing",
+ "goals": [
+  "mluvit o pracovním dni, režimu a zvycích přesnými kolokacemi (meet a deadline, work-life balance, wind down…)",
+  "vyjadřovat zvyky a sklony strukturami tend to, be inclined to, keep -ing, will/would a be always -ing",
+  "zdvořile si stěžovat na otravné zvyky a domluvit se na pravidlech; mluvit o tom, co mám a nemám rád"
+ ],
+ "vocab_core": [
+  {
+   "en": "stick to a routine",
+   "ipa": "stɪk tu ə ruːˈtiːn",
+   "cz": "dodržovat (denní) režim",
+   "ex": "I find it hard to stick to a routine when I work from home."
+  },
+  {
+   "en": "break a habit",
+   "ipa": "breɪk ə ˈhæbɪt",
+   "cz": "zbavit se zvyku",
+   "ex": "It took me years to break the habit of checking my phone in bed."
+  },
+  {
+   "en": "fall into the habit of (doing)",
+   "ipa": "fɔːl ˈɪntə ðə ˈhæbɪt əv",
+   "cz": "zvyknout si (obvykle na něco špatného)",
+   "ex": "During lockdown I fell into the habit of skipping breakfast."
+  },
+  {
+   "en": "make a habit of (doing)",
+   "ipa": "meɪk ə ˈhæbɪt əv",
+   "cz": "udělat si z něčeho zvyk",
+   "ex": "She makes a habit of walking to work every day."
+  },
+  {
+   "en": "a creature of habit",
+   "ipa": "ə ˈkriːtʃər əv ˈhæbɪt",
+   "cz": "tvor zvyku",
+   "ex": "My dad is a creature of habit – he has the same breakfast every day."
+  },
+  {
+   "en": "an early bird",
+   "ipa": "ən ˈɜːli bɜːd",
+   "cz": "ranní ptáče",
+   "ex": "I'm an early bird, so I do my best work before nine."
+  },
+  {
+   "en": "a night owl",
+   "ipa": "ə naɪt aʊl",
+   "cz": "noční sova",
+   "ex": "As a night owl, she tends to start working at ten in the evening."
+  },
+  {
+   "en": "hit the snooze button",
+   "ipa": "hɪt ðə snuːz ˈbʌtn",
+   "cz": "odložit budík (o pár minut)",
+   "ex": "I keep hitting the snooze button and then I'm late."
+  },
+  {
+   "en": "the daily grind",
+   "ipa": "ðə ˈdeɪli ɡraɪnd",
+   "cz": "každodenní dřina, šeď všedních dnů",
+   "ex": "A weekend in the mountains helps me forget the daily grind."
+  },
+  {
+   "en": "work-life balance",
+   "ipa": "ˌwɜːk laɪf ˈbæləns",
+   "cz": "rovnováha mezi prací a osobním životem",
+   "ex": "Flexible hours have really improved my work-life balance."
+  },
+  {
+   "en": "flexible working hours",
+   "ipa": "ˈfleksəbl ˈwɜːkɪŋ ˈaʊəz",
+   "cz": "pružná pracovní doba",
+   "ex": "Our company offers flexible working hours, so I start at seven."
+  },
+  {
+   "en": "work remotely",
+   "ipa": "wɜːk rɪˈməʊtli",
+   "cz": "pracovat na dálku",
+   "ex": "Half of our team works remotely from different countries."
+  },
+  {
+   "en": "be up to your eyes in work",
+   "ipa": "bi ʌp tə jɔːr aɪz ɪn wɜːk",
+   "cz": "mít práce nad hlavu",
+   "ex": "Sorry, I can't help – I'm up to my eyes in work."
+  },
+  {
+   "en": "meet a deadline",
+   "ipa": "miːt ə ˈdedlaɪn",
+   "cz": "stihnout termín",
+   "ex": "We worked all weekend to meet the deadline."
+  },
+  {
+   "en": "take on extra work",
+   "ipa": "teɪk ɒn ˈekstrə wɜːk",
+   "cz": "vzít si práci navíc",
+   "ex": "He tends to take on extra work and then feels stressed."
+  },
+  {
+   "en": "run behind schedule",
+   "ipa": "rʌn bɪˈhaɪnd ˈʃedjuːl",
+   "cz": "mít skluz (za plánem)",
+   "ex": "The project is running two weeks behind schedule."
+  },
+  {
+   "en": "work overtime",
+   "ipa": "wɜːk ˈəʊvətaɪm",
+   "cz": "pracovat přesčas",
+   "ex": "Nurses often have to work overtime at weekends."
+  },
+  {
+   "en": "grab a bite (to eat)",
+   "ipa": "ɡræb ə baɪt",
+   "cz": "rychle něco sníst",
+   "ex": "Let's grab a bite before the meeting."
+  },
+  {
+   "en": "wind down",
+   "ipa": "waɪnd daʊn",
+   "cz": "zklidnit se, odpočinout si (po práci)",
+   "ex": "I usually wind down with a book before bed."
+  },
+  {
+   "en": "make an effort (to do)",
+   "ipa": "meɪk ən ˈefət",
+   "cz": "snažit se, vynaložit úsilí",
+   "ex": "I'm making an effort to go to bed before eleven."
+  },
+  {
+   "en": "do the bare minimum",
+   "ipa": "duː ðə beə ˈmɪnɪməm",
+   "cz": "dělat jen nezbytné minimum",
+   "ex": "He does the bare minimum and leaves at five on the dot."
+  },
+  {
+   "en": "make time for",
+   "ipa": "meɪk taɪm fə",
+   "cz": "najít si čas na",
+   "ex": "However busy she is, she always makes time for her kids."
+  }
+ ],
+ "vocab_ext": [
+  {
+   "en": "be stuck in a rut",
+   "ipa": "bi stʌk ɪn ə rʌt",
+   "cz": "zabřednout do stereotypu",
+   "ex": "I felt stuck in a rut, so I changed jobs."
+  },
+  {
+   "en": "go the extra mile",
+   "ipa": "ɡəʊ ði ˈekstrə maɪl",
+   "cz": "udělat něco navíc, překonat očekávání",
+   "ex": "Our receptionist always goes the extra mile for guests."
+  },
+  {
+   "en": "pull an all-nighter",
+   "ipa": "pʊl ən ˌɔːl ˈnaɪtə",
+   "cz": "probdít noc (prací, učením)",
+   "ex": "I had to pull an all-nighter to finish the report."
+  },
+  {
+   "en": "burn the midnight oil",
+   "ipa": "bɜːn ðə ˈmɪdnaɪt ɔɪl",
+   "cz": "pracovat dlouho do noci",
+   "ex": "Students tend to burn the midnight oil before exams."
+  },
+  {
+   "en": "show sb the ropes",
+   "ipa": "ʃəʊ ˈsʌmbədi ðə rəʊps",
+   "cz": "zaučit někoho",
+   "ex": "My colleague showed me the ropes in my first week."
+  },
+  {
+   "en": "get into the swing of things",
+   "ipa": "ɡet ˈɪntə ðə swɪŋ əv θɪŋz",
+   "cz": "dostat se do tempa, zajet se",
+   "ex": "After the holidays it takes me a few days to get into the swing of things."
+  },
+  {
+   "en": "clock in / clock out",
+   "ipa": "klɒk ɪn / klɒk aʊt",
+   "cz": "píchnout příchod / odchod",
+   "ex": "We have to clock in by 8.30."
+  },
+  {
+   "en": "be a stickler for (punctuality)",
+   "ipa": "bi ə ˈstɪklə fə",
+   "cz": "potrpět si na (dochvilnost)",
+   "ex": "My boss is a stickler for punctuality."
+  },
+  {
+   "en": "second nature",
+   "ipa": "ˈsekənd ˈneɪtʃə",
+   "cz": "druhá přirozenost",
+   "ex": "After a month, getting up at six became second nature."
+  },
+  {
+   "en": "old habits die hard",
+   "ipa": "əʊld ˈhæbɪts daɪ hɑːd",
+   "cz": "starých zvyků se člověk těžko zbavuje",
+   "ex": "I still write lists on paper – old habits die hard!"
+  }
+ ],
+ "parts": [
+  {
+   "n": 1,
+   "title": "Topic & vocabulary",
+   "title_cz": "Téma a slovní zásoba",
+   "minutes": 10,
+   "blocks": [
+    {
+     "type": "discussion",
+     "pair": true,
+     "label": "1A Warm-up",
+     "instr": "Discuss the questions with your partner.",
+     "items": [
+      "Are you an early bird or a night owl? When do you do your best work?",
+      "What does a typical working day look like for you? What do you like and dislike about it?",
+      "Which of your daily habits would you like to break? Which would you like to start?",
+      "Do you think working remotely improves or damages work-life balance?",
+      "What do you do to wind down after a long day?"
+     ]
+    },
+    {
+     "type": "vocab_table",
+     "which": "core",
+     "label": "1B Core vocabulary",
+     "instr": "Read the expressions. Tick (✓) those that are true for you at the moment."
+    },
+    {
+     "type": "vocab_table",
+     "which": "ext",
+     "label": "1C Extension",
+     "instr": "Idioms and phrases that make you sound more natural when you talk about work and routines."
+    },
+    {
+     "type": "match",
+     "label": "1D Match",
+     "instr": "Match the situations (1–8) with the expressions (a–h).",
+     "left": [
+      "She checks her email at 6 a.m. and goes running before work.",
+      "The report must be ready by Friday noon and it will be.",
+      "He has done exactly the same job in the same way for twelve years and feels bored.",
+      "She stays in the office until nine to finish things for a client – nobody asked her to.",
+      "He has fourteen projects and no free minute this week.",
+      "Every morning I press the button on my alarm clock three times.",
+      "After a month in the new job, using the system is automatic for me.",
+      "He never does more than he absolutely has to."
+     ],
+     "right": [
+      "be stuck in a rut",
+      "be up to your eyes in work",
+      "do the bare minimum",
+      "an early bird",
+      "go the extra mile",
+      "hit the snooze button",
+      "meet a deadline",
+      "second nature"
+     ],
+     "answers": [
+      "1d",
+      "2g",
+      "3a",
+      "4e",
+      "5b",
+      "6f",
+      "7h",
+      "8c"
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "1E Your week",
+     "instr": "Describe your typical working week to your partner using at least <b>five</b> expressions from 1B–1C. Your partner listens and then says which expression describes you best and why: <i>I think you're a creature of habit, because…</i>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Quick review (B1)",
+   "title_cz": "Krátké opakování (B1)",
+   "minutes": 12,
+   "blocks": [
+    {
+     "type": "grammar_box",
+     "label": "Review: present simple vs continuous, adverbs of frequency",
+     "html": "<table class='g'><tr><th>Present simple</th><th>Present continuous</th></tr><tr><td>zvyky, fakta, trvalé stavy<br><i>I usually <b>start</b> at eight.</i></td><td>děj právě teď, dočasná situace, vývoj<br><i>This month I<b>'m starting</b> at seven.</i></td></tr></table><p><b>Příslovce frekvence</b> stojí <b>před plnovýznamovým slovesem</b>, ale <b>za slovesem <i>be</i></b> a za pomocným slovesem: <i>She <b>often works</b> late.</i> × <i>She <b>is often</b> late.</i> × <i>I <b>have never</b> been late.</i><br>Výrazy <i>every day, once a week, from time to time</i> stojí obvykle <b>na konci</b> věty.</p>"
+    },
+    {
+     "type": "choose",
+     "label": "2A Choose",
+     "instr": "Choose the correct form.",
+     "items": [
+      {
+       "q": "I (usually walk / am usually walking) to work, but this week I (take / 'm taking) the tram.",
+       "a": "usually walk / 'm taking"
+      },
+      {
+       "q": "Our team (grows / is growing) fast – we have three new colleagues this month.",
+       "a": "is growing"
+      },
+      {
+       "q": "She (is never / never is) late for meetings.",
+       "a": "is never"
+      },
+      {
+       "q": "Why (do you wear / are you wearing) a suit today? Have you got an interview?",
+       "a": "are you wearing"
+      },
+      {
+       "q": "My boss (doesn't believe / isn't believing) in working from home.",
+       "a": "doesn't believe"
+      },
+      {
+       "q": "I (hardly ever eat / eat hardly ever) breakfast on weekdays.",
+       "a": "hardly ever eat"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "2B Word order",
+     "instr": "Put the adverb in the correct place and write the whole sentence.",
+     "items": [
+      {
+       "q": "I check my email before breakfast. (always)",
+       "a": "I always check my email before breakfast."
+      },
+      {
+       "q": "He is in the office on Fridays. (rarely)",
+       "a": "He is rarely in the office on Fridays."
+      },
+      {
+       "q": "We have lunch together. (once a week)",
+       "a": "We have lunch together once a week."
+      },
+      {
+       "q": "Do you work at weekends? (ever)",
+       "a": "Do you ever work at weekends?"
+      },
+      {
+       "q": "They have missed a deadline. (never)",
+       "a": "They have never missed a deadline."
+      }
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "2C Quick check: personalities (L1)",
+     "instr": "Use adjectives from Lesson 1 to describe the perfect colleague and the worst colleague (at least four adjectives each). Then compare with your partner: <i>The perfect colleague is reliable and easy-going, and he never…</i>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Development (B1+–B2)",
+   "title_cz": "Rozšíření a rozvoj (B1+–B2)",
+   "minutes": 33,
+   "blocks": [
+    {
+     "type": "grammar_box",
+     "label": "New grammar: talking about habits and tendencies",
+     "html": "<table class='g'><tr><th>Struktura</th><th>Význam</th><th>Příklad</th></tr><tr><td><b>tend to + infinitiv</b><br>(don't tend to / tend not to)</td><td>obvykle, mívat sklon</td><td><i>I <b>tend to</b> work better in the morning.</i><br><i>We <b>don't tend to</b> eat out during the week.</i></td></tr><tr><td><b>be inclined to</b> + infinitiv</td><td>mít sklon (často k něčemu ne úplně dobrému)</td><td><i>He<b>'s inclined to</b> panic when deadlines get close.</i></td></tr><tr><td><b>keep (on) + -ing</b></td><td>pořád, opakovaně (často otravně)</td><td><i>I <b>keep forgetting</b> my password.</i></td></tr><tr><td><b>will + infinitiv</b> (přítomnost)<br><b>would + infinitiv</b> (minulost)</td><td>typické, charakteristické chování</td><td><i>She<b>'ll</b> sit at her desk for hours without a break.</i><br><i>As a student I<b>'d</b> study all night before exams.</i></td></tr><tr><td><b>be always / constantly + -ing</b></td><td>opakovaný zvyk, který nás <b>rozčiluje</b></td><td><i>He<b>'s always interrupting</b> people in meetings!</i></td></tr></table><p>Pozor: <b>would</b> pro minulé zvyky jen u <b>dějů</b>, ne u stavů: ✓ <i>I <b>used to</b> have a long commute.</i> ✗ <i>I would have a long commute.</i><br><b>will/would</b> s důrazem (<i>He WILL leave his cup on my desk!</i>) vyjadřuje kritiku.</p>"
+    },
+    {
+     "type": "choose",
+     "label": "3A Choose",
+     "instr": "Choose the best option. Sometimes both are possible – then choose the one that sounds more natural.",
+     "items": [
+      {
+       "q": "I (tend to / am tending to) get up later at weekends.",
+       "a": "tend to"
+      },
+      {
+       "q": "My colleague (is always borrowing / always borrows) my stapler without asking – it drives me crazy!",
+       "a": "is always borrowing"
+      },
+      {
+       "q": "When I was a student, I (would / will) work in a café every summer.",
+       "a": "would"
+      },
+      {
+       "q": "I (keep making / keep to make) the same mistake in my reports.",
+       "a": "keep making"
+      },
+      {
+       "q": "When I lived in London, I (would have / used to have) a two-hour commute.",
+       "a": "used to have"
+      },
+      {
+       "q": "Our manager (is inclined to / inclines to) change her mind at the last minute.",
+       "a": "is inclined to"
+      },
+      {
+       "q": "People who work remotely (tend not to / don't tend) take enough breaks.",
+       "a": "tend not to"
+      },
+      {
+       "q": "My dad (will / would) always read the newspaper before he talks to anyone in the morning – he still does it.",
+       "a": "will"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "3B Rewrite",
+     "instr": "Rewrite the sentences using the word in brackets. Keep the meaning.",
+     "items": [
+      {
+       "q": "I usually feel tired after lunch. (tend)",
+       "a": "I tend to feel tired after lunch."
+      },
+      {
+       "q": "He forgets his ID card again and again. (keep)",
+       "a": "He keeps (on) forgetting his ID card."
+      },
+      {
+       "q": "As a child, I often hid under the table when guests came. (would)",
+       "a": "As a child, I would hide under the table when guests came."
+      },
+      {
+       "q": "She leaves dirty cups in the sink all the time and it annoys me. (always)",
+       "a": "She's always leaving dirty cups in the sink."
+      },
+      {
+       "q": "Petr often gets angry when he's tired. (inclined)",
+       "a": "Petr is inclined to get angry when he's tired."
+      },
+      {
+       "q": "We don't usually work late on Fridays. (tend)",
+       "a": "We don't tend to work late on Fridays. / We tend not to work late on Fridays."
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "label": "3C Reading",
+     "instr": "Read the article and decide if the sentences are true (T) or false (F). Then answer the questions.",
+     "title": "Why we are all creatures of habit",
+     "paras": [
+      "Think about what you did this morning. You probably got up at about the same time as yesterday, went to the bathroom, made a coffee in the same mug and checked the same apps on your phone. According to researchers at Duke University, around 40 percent of what we do every day is not the result of a decision at all – it is a habit.",
+      "Habits are the brain's way of saving energy. When we repeat an action in the same situation, the brain links the situation (the \"cue\") with the action and the reward that follows. After enough repetitions, we no longer need to think. That is why experienced drivers can change gear while having a conversation, and why many of us keep reaching for our phones even when we have nothing to check.",
+      "The problem is that the brain does not distinguish between good and bad habits. Office workers, for example, tend to fall into the habit of eating lunch at their desks. They believe they are saving time, but studies show that people who take a proper break are inclined to be more productive in the afternoon. Similarly, people who hit the snooze button every morning will often feel more tired, not less, because their sleep is interrupted again and again.",
+      "So how can we break a bad habit? Psychologists say that simply trying harder rarely works. A more effective strategy is to change the cue. If you keep eating biscuits at four o'clock, don't buy them – or replace them with fruit on your desk. If you want to start running, put your trainers next to the bed. Small changes in the environment make the new behaviour easier than the old one.",
+      "Building a new habit also takes longer than most people think. A well-known study from University College London found that it took participants on average 66 days – not the famous 21 – before a new behaviour, such as drinking a glass of water after breakfast, became automatic. The good news is that missing one day did not ruin the process. In other words, you don't need to be perfect. You just need to keep going until the new habit becomes second nature."
+     ],
+     "tf": [
+      {
+       "q": "According to the article, almost half of our daily actions are habits.",
+       "a": "T"
+      },
+      {
+       "q": "Habits make the brain work harder.",
+       "a": "F"
+      },
+      {
+       "q": "People who eat lunch at their desks are usually more productive.",
+       "a": "F"
+      },
+      {
+       "q": "Using the snooze button can make people feel more tired.",
+       "a": "T"
+      },
+      {
+       "q": "Psychologists recommend trying harder as the best way to break a habit.",
+       "a": "F"
+      },
+      {
+       "q": "In the UCL study, missing one day stopped the new habit from forming.",
+       "a": "F"
+      }
+     ],
+     "open": [
+      {
+       "q": "Find four examples of structures for talking about habits (tend to, keep -ing, will…) in the text.",
+       "a": "tend to fall into, are inclined to be, will often feel, keep reaching / keep eating, keep going."
+      },
+      {
+       "q": "Which strategy from paragraph 4 could work for one of your own habits? Discuss with your partner.",
+       "a": "Vlastní odpověď."
+      }
+     ]
+    },
+    {
+     "type": "listening",
+     "label": "3D Listening",
+     "instr": "Listen to Jana and Mark, two colleagues, talking during a coffee break (track L02). Answer the questions. If you don't have the audio, one of you reads the transcript from the key.",
+     "items": [
+      {
+       "q": "Why is Mark tired today?",
+       "options": [
+        "He worked late on a report.",
+        "His neighbour's dog woke him up.",
+        "He went to a party."
+       ],
+       "a": "a"
+      },
+      {
+       "q": "What does Jana say about herself?",
+       "options": [
+        "She's a night owl.",
+        "She's an early bird.",
+        "She can't stick to any routine."
+       ],
+       "a": "b"
+      },
+      {
+       "q": "What annoys Mark about their new colleague?",
+       "options": [
+        "He's always taking long lunches.",
+        "He keeps interrupting people in meetings.",
+        "He never answers emails."
+       ],
+       "a": "b"
+      },
+      {
+       "q": "How did Jana's working life change when the company introduced flexible hours?",
+       "a": "She starts at seven and finishes at three, so she can pick up her kids / she has a better work-life balance."
+      },
+      {
+       "q": "What does Mark tend to do when he's up to his eyes in work?",
+       "a": "He skips lunch / grabs a sandwich at his desk and then feels exhausted."
+      },
+      {
+       "q": "What do they decide to do at the end?",
+       "a": "To go for a proper lunch together on Friday (and not talk about work)."
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "3E Make or do?",
+     "instr": "Complete the sentences with the correct form of <b>make</b> or <b>do</b>.",
+     "items": [
+      {
+       "q": "I'm really trying to ______ an effort to leave the office on time.",
+       "a": "make"
+      },
+      {
+       "q": "He just ______ the bare minimum and never volunteers for anything.",
+       "a": "does"
+      },
+      {
+       "q": "Could you ______ me a favour and send this file to the client?",
+       "a": "do"
+      },
+      {
+       "q": "She ______ a habit of reading for twenty minutes before bed.",
+       "a": "makes"
+      },
+      {
+       "q": "We need to ______ some research before we ______ a decision.",
+       "a": "do / make"
+      },
+      {
+       "q": "However busy you are, you should ______ time for your family.",
+       "a": "make"
+      },
+      {
+       "q": "I'm ______ overtime this week to finish the project.",
+       "a": "doing"
+      },
+      {
+       "q": "Our new intern is ______ great progress.",
+       "a": "making"
+      }
+     ]
+    },
+    {
+     "type": "error",
+     "label": "3F Find the mistake",
+     "instr": "Each sentence has one mistake. Correct it.",
+     "items": [
+      {
+       "q": "I'm tending to drink too much coffee at work.",
+       "a": "I tend to drink too much coffee at work."
+      },
+      {
+       "q": "He keeps to forget his keys.",
+       "a": "He keeps forgetting his keys."
+      },
+      {
+       "q": "When I was young, I would live in a small village.",
+       "a": "When I was young, I used to live in a small village."
+      },
+      {
+       "q": "She always is complaining about her boss.",
+       "a": "She is always complaining about her boss."
+      },
+      {
+       "q": "We didn't meet the deadline because we did a lot of mistakes.",
+       "a": "We didn't meet the deadline because we made a lot of mistakes."
+      },
+      {
+       "q": "I'm up to my eye in work this week.",
+       "a": "I'm up to my eyes in work this week."
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "pair": true,
+     "label": "3G Role-play: annoying habits",
+     "instr": "You share an office. Each of you has some habits that annoy the other one. Use your role card. Complain politely, explain your side and agree on <b>three rules</b> for the office. Use the phrases in the box.",
+     "cards": [
+      {
+       "who": "Student A",
+       "text": "You're an early bird: you arrive at 7 and like a quiet office. Your colleague is always phoning friends loudly, keeps leaving dirty cups on the shared desk and will play music without headphones. You tend to eat lunch at your desk – you don't think that's a problem. You want the window open all the time."
+      },
+      {
+       "who": "Student B",
+       "text": "You're a night owl: you arrive at 10 and often work late. Your colleague keeps opening the window (you're always cold!), eats smelly food at the desk every day and is constantly reminding you about deadlines. You sometimes call your family during the day – you think it's normal. You like quiet music while you work."
+      }
+     ],
+     "phrases": [
+      "I don't want to sound rude, but…",
+      "It drives me crazy when you…",
+      "You're always … -ing, and…",
+      "I tend to … because…",
+      "I see what you mean, but…",
+      "What if we…?",
+      "Would you mind -ing…?",
+      "OK, let's agree that…"
+     ]
+    },
+    {
+     "type": "discussion",
+     "pair": true,
+     "label": "3H Likes and dislikes at work",
+     "instr": "Talk about your job (or studies). Use the phrases: <i>I can't stand…, I don't mind…, I'm (not) keen on…, What I like most is…, I'm fed up with…, I really enjoy…</i>",
+     "items": [
+      "What do you like most about your working day? And least?",
+      "Which tasks do you tend to put off? Why?",
+      "Would you prefer flexible hours or a fixed nine-to-five job? Why?",
+      "Do you think it's OK to answer work emails in the evening or at weekends?"
+     ]
+    },
+    {
+     "type": "writing",
+     "label": "3I Writing (homework): informal email",
+     "instr": "Your English-speaking friend is starting a job at your company next month. Write an informal email (120–150 words). Describe a typical working day, the office habits and routines, what people tend to do at lunch, and give two tips. Use at least <b>three</b> structures from 3A–3B (tend to, keep -ing, will, be always -ing…) and <b>five</b> expressions from 1B–1C. Start <i>Hi …,</i> and finish <i>See you soon, …</i>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Words to remember",
+   "title_cz": "Slovíčka k zapamatování",
+   "minutes": 5,
+   "blocks": [
+    {
+     "type": "memory",
+     "label": "4A Memorise",
+     "instr": "Learn the expressions below (the app helps you practise them every day). In pairs: one of you reads a Czech meaning, the other says the English expression and makes a sentence about their own routine."
+    },
+    {
+     "type": "memory_list",
+     "which": "core+ext"
+    }
+   ]
+  }
+ ],
+ "listening": {
+  "id": "L02",
+  "title": "Coffee break",
+  "lines": [
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Morning, Mark. You look exhausted. Are you OK?"
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Not really. I pulled an all-nighter. The report for the Brno client was running behind schedule, and the deadline is today at noon."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Oh no. Did you finish it?"
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Just about. I sent it at five this morning. I'm a night owl, so working late isn't usually a problem, but this time it was too much."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "I couldn't do that. I'm an early bird. I tend to fall asleep on the sofa at ten, even when I'm watching something good."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Lucky you. So what time do you start these days?"
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Seven. Since the company introduced flexible working hours, I start at seven and finish at three. It's completely changed my work-life balance. I can pick up the kids from school and still make time for a run."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "That sounds great. I should try it, but I keep hitting the snooze button. Three times every morning."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Old habits die hard. Anyway, how's the new guy? Tomáš, isn't it?"
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Don't ask. He's nice, but he's always interrupting people in meetings. Yesterday I tried to explain the budget and he kept jumping in with his own ideas."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Maybe he's just nervous. Remember your first month? You'd ask me about the system every five minutes."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Fair point. You showed me the ropes. And now it's second nature."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Exactly. Give him time. By the way, are you eating properly? You look like you're living on coffee."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "That's the problem. When I'm up to my eyes in work, I tend to skip lunch. I'll just grab a sandwich at my desk and then by four o'clock I'm completely exhausted."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Classic. You need to wind down a bit. Look, why don't we go for a proper lunch on Friday? The new Thai place by the station."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "I'd love that. But only if we don't talk about work."
+   },
+   {
+    "sp": "Jana",
+    "voice": "female",
+    "text": "Deal. No reports, no deadlines, no Tomáš."
+   },
+   {
+    "sp": "Mark",
+    "voice": "male",
+    "text": "Perfect. Now, I really need another coffee."
+   }
+  ]
+ },
+ "next_links": "Lekce 3 (Travel experiences) naváže: present perfect vs past simple (krátké opakování B1) a rozšíření o present perfect continuous, „It's the first time I've…“, by now / so far / lately. Zopakovat would/used to z této lekce při vyprávění o minulých cestách; slovíčka make/do a kolokace práce použít v rozhovoru o pracovních cestách.",
+ "extra_practice": [
+  {
+   "type": "choose",
+   "q": "I (tend to / am tending to) work better in the morning.",
+   "a": "tend to"
+  },
+  {
+   "type": "choose",
+   "q": "He (keeps forgetting / keeps to forget) his badge.",
+   "a": "keeps forgetting"
+  },
+  {
+   "type": "choose",
+   "q": "My sister (is always borrowing / always borrows) my clothes – it's so annoying!",
+   "a": "is always borrowing"
+  },
+  {
+   "type": "choose",
+   "q": "As a student, I (would / will) cycle to university every day.",
+   "a": "would"
+  },
+  {
+   "type": "choose",
+   "q": "We (used to / would) have an office in the city centre.",
+   "a": "used to"
+  },
+  {
+   "type": "choose",
+   "q": "She (is inclined to / is inclining to) work too hard.",
+   "a": "is inclined to"
+  },
+  {
+   "type": "choose",
+   "q": "I need to (make / do) an effort to go to bed earlier.",
+   "a": "make"
+  },
+  {
+   "type": "choose",
+   "q": "He only (does / makes) the bare minimum.",
+   "a": "does"
+  },
+  {
+   "type": "choose",
+   "q": "The project is running behind (schedule / timetable).",
+   "a": "schedule"
+  },
+  {
+   "type": "choose",
+   "q": "I'm up to my (eyes / ears) in work.",
+   "a": "eyes"
+  },
+  {
+   "type": "choose",
+   "q": "I (usually start / am usually starting) at eight, but this week I (start / 'm starting) at seven.",
+   "a": "usually start / 'm starting"
+  },
+  {
+   "type": "choose",
+   "q": "She (is never / never is) late.",
+   "a": "is never"
+  },
+  {
+   "type": "gap",
+   "q": "I keep _____ (hit) the snooze button.",
+   "a": "hitting"
+  },
+  {
+   "type": "gap",
+   "q": "We don't _____ to work late on Fridays.",
+   "a": "tend"
+  },
+  {
+   "type": "gap",
+   "q": "He _____ always leaving his cup on my desk!",
+   "a": "is | 's"
+  },
+  {
+   "type": "gap",
+   "q": "I find it hard to stick _____ a routine.",
+   "a": "to"
+  },
+  {
+   "type": "gap",
+   "q": "Flexible hours improved my work-life _____.",
+   "a": "balance"
+  },
+  {
+   "type": "gap",
+   "q": "We worked all night to _____ the deadline.",
+   "a": "meet"
+  },
+  {
+   "type": "order",
+   "q": "tends / she / to / late / work",
+   "a": "She tends to work late."
+  },
+  {
+   "type": "order",
+   "q": "always / he / is / complaining",
+   "a": "He is always complaining."
+  },
+  {
+   "type": "order",
+   "q": "keep / I / my / forgetting / password",
+   "a": "I keep forgetting my password."
+  }
+ ]
+}

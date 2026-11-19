@@ -1,0 +1,103 @@
+#Routines: tenses, adverbs & word order|Rutina: časy, příslovce a slovosled
+choose ## I ___ (usually start/am usually starting) work at eight. ## usually start
+choose ## This week I ___ (am working/work) from home because the office is being painted. ## am working
+choose ## She ___ (never has/is never having) breakfast on weekdays. ## never has
+choose ## Look! The boss ___ (is leaving/leaves) early today. ## is leaving
+choose ## How often ___ (do you work/are you working) overtime? ## do you work
+choose ## Sorry, I can't talk now – I ___ (am driving/drive) to a meeting. ## am driving
+choose ## We ___ (hardly ever eat/are hardly ever eating) out during the week. ## hardly ever eat
+choose ## At the moment, our team ___ (is preparing/prepares) a big presentation. ## is preparing
+choose ## My husband ___ (goes/is going) to the gym three times a week. ## goes
+choose ## These days more people ___ (are working/work) remotely than ever before. ## are working
+choose ## The shop ___ (opens/is opening) at nine every day. ## opens
+choose ## Why ___ (are you working/do you work) so late tonight? ## are you working
+choose ## I ___ (am often/often am) tired on Monday mornings. ## am often
+choose ## He ___ (always takes/takes always) the same train. ## always takes
+choose ## We ___ (sometimes go/go sometimes) for a walk after lunch. ## sometimes go
+choose ## She is ___ (rarely late/late rarely) for work. ## rarely late
+choose ## ___ (Do you usually/Usually do you) walk to work? ## Do you usually
+choose ## I ___ (have never/never have) enough time in the morning. ## never have
+choose ## They ___ (don't often/often don't) work at weekends. ## don't often
+choose ## Our manager ___ (is usually/usually is) in the office before eight. ## is usually
+choose ## I ___ (can never/never can) find a parking space near the office. ## can never
+choose ## Jana ___ (is having/has) lunch with a client right now. ## is having
+choose ## I ___ (think/am thinking) flexible hours are a great idea. ## think
+choose ## I ___ (am thinking/think) about changing jobs. ## am thinking
+choose ## He ___ (doesn't understand/isn't understanding) why we need another meeting. ## doesn't understand
+choose ## This coffee ___ (tastes/is tasting) awful. ## tastes
+choose ## My daughter ___ (is getting/gets) better at getting up early. ## is getting
+choose ## I ___ (need/am needing) a break – I've been working since six. ## need
+choose ## What time ___ (does your shift start/is your shift starting) tomorrow? ## does your shift start
+choose ## The train ___ (leaves/is leaving) at 6:45 every morning. ## leaves
+choose ## He ___ (works/is working) as a nurse, so he often does night shifts. ## works
+choose ## I'm sorry, Mr Novák ___ (is talking/talks) to a customer. Can you wait? ## is talking
+choose ## I ___ (once a week go/go once a week) swimming. ## go once a week
+choose ## She checks her emails ___ (every hour/every hours). ## every hour
+choose ## We have a team meeting ___ (every Monday/at every Monday). ## every Monday
+choose ## I ___ (am not seeing/don't see) my parents very often – they live far away. ## don't see
+choose ## Right now I ___ (am learning/learn) to wind down without my phone. ## am learning
+choose ## How ___ (do you usually wind down/are you usually winding down) after work? ## do you usually wind down
+choose ## Pavel ___ (owns/is owning) two coffee shops in Olomouc. ## owns
+choose ## I ___ (am staying/stay) with a friend until I find a flat. ## am staying
+choose ## My parents ___ (live/are living) in the same house they bought in 1985. ## live
+choose ## Hurry up! Everyone ___ (is waiting/waits) for you. ## is waiting
+error ## I am going to work by bus every day. ## I go to work by bus every day.
+error ## She doesn't works on Fridays. ## She doesn't work on Fridays. | She does not work on Fridays.
+error ## Look, it rains again! ## Look, it's raining again! | Look, it is raining again!
+error ## I go always to bed at eleven. ## I always go to bed at eleven.
+error ## He is never late usually. ## He is usually never late. | He's usually never late.
+error ## How often you go to the gym? ## How often do you go to the gym?
+error ## I am knowing the answer. ## I know the answer.
+error ## Are you liking your new job? ## Do you like your new job?
+error ## We are wanting to finish early today. ## We want to finish early today.
+error ## She tends working late. ## She tends to work late.
+error ## I keep to forget my password. ## I keep forgetting my password.
+error ## He is inclined panicking under pressure. ## He is inclined to panic under pressure. | He's inclined to panic under pressure.
+error ## When I was a child, I would have a dog. ## When I was a child, I used to have a dog. | When I was a child, I had a dog.
+error ## I use to get up at six when I worked in the factory. ## I used to get up at six when I worked in the factory.
+error ## Did you used to work here? ## Did you use to work here?
+error ## My brother always borrows my car! It's so annoying! ## My brother is always borrowing my car! It's so annoying! | My brother's always borrowing my car! It's so annoying!
+error ## He doesn't tend to taking breaks. ## He doesn't tend to take breaks. | He does not tend to take breaks.
+error ## We used to living in Prague. ## We used to live in Prague.
+error ## She keeps on to call me at night. ## She keeps on calling me at night.
+error ## I tend not drinking coffee after six. ## I tend not to drink coffee after six.
+error ## My boss is always to change his mind. ## My boss is always changing his mind.
+error ## Usually I am get up early. ## Usually I get up early. | I usually get up early.
+error ## They work at the moment on a new project. ## They are working on a new project at the moment. | They're working on a new project at the moment. | At the moment they are working on a new project.
+error ## She has usually lunch at her desk. ## She usually has lunch at her desk.
+error ## I don't never work at weekends. ## I never work at weekends. | I don't ever work at weekends.
+error ## He works here since 2019. ## He has worked here since 2019. | He has been working here since 2019. | He's worked here since 2019.
+error ## As students, we will study all night before exams. ## As students, we would study all night before exams. | As students, we used to study all night before exams.
+error ## People tend to be work longer hours now. ## People tend to work longer hours now.
+error ## Do you can work from home? ## Can you work from home?
+error ## I'm not inclined believing everything I read. ## I'm not inclined to believe everything I read. | I am not inclined to believe everything I read.
+order ## usually / I / at / get / up / seven ## I usually get up at seven.
+order ## never / she / late / is ## She is never late.
+order ## often / do / work / how / you / overtime ## How often do you work overtime?
+order ## to / tend / I / better / work / the / in / morning ## I tend to work better in the morning.
+order ## keep / I / my / forgetting / password ## I keep forgetting my password.
+order ## is / always / he / interrupting / people ## He is always interrupting people.
+order ## inclined / is / she / to / panic ## She is inclined to panic.
+order ## used / we / to / live / near / the / office ## We used to live near the office.
+order ## would / I / study / all / night / before / exams ## I would study all night before exams.
+order ## don't / tend / we / to / eat / out / during / the / week ## We don't tend to eat out during the week.
+order ## hardly / ever / I / take / a / lunch / break ## I hardly ever take a lunch break.
+order ## is / my / working / from / home / sister ## My sister is working from home.
+order ## you / do / usually / wind / down / how ## How do you usually wind down?
+order ## always / my / boss / is / changing / mind / his ## My boss is always changing his mind.
+order ## did / use / you / to / work / weekends / at ## Did you use to work at weekends?
+order ## often / we / go / for / a / walk / after / lunch ## We often go for a walk after lunch.
+order ## keeps / the / printer / breaking / down ## The printer keeps breaking down.
+order ## rarely / is / he / in / the / office / before / nine ## He is rarely in the office before nine.
+order ## tends / she / to / leave / things / the / last / minute / to ## She tends to leave things to the last minute.
+order ## grandad / my / would / sit / garden / in / the / for / hours ## My grandad would sit in the garden for hours.
+order ## not / I / inclined / am / to / agree ## I am not inclined to agree.
+order ## always / you / are / checking / phone / your ## You are always checking your phone.
+order ## can / never / I / find / a / parking / space ## I can never find a parking space.
+order ## didn't / use / I / to / drink / coffee ## I didn't use to drink coffee.
+order ## is / she / still / preparing / the / report ## She is still preparing the report.
+order ## usually / are / we / busy / on / Mondays ## We are usually busy on Mondays.
+order ## kept / he / on / talking / for / an / hour ## He kept on talking for an hour.
+order ## meeting / our / weekly / starts / at / nine ## Our weekly meeting starts at nine.
+order ## people / tend / to / check / their / phones / too / often ## People tend to check their phones too often.
+order ## often / don't / they / work / late ## They don't often work late.

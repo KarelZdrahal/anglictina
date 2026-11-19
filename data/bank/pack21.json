@@ -1,0 +1,358 @@
+{
+"id": "pack21",
+"topic": "Time & productivity",
+"topic_cz": "Čas a produktivita",
+"level": "B1+/B2/C1",
+"words": [
+{
+"id": "b21-procrastinate",
+"en": "procrastinate",
+"cz": "odkládat věci na později",
+"ex": "I always procrastinate when I have to write a report.",
+"level": "B2"
+},
+{
+"id": "b21-a-time-saver",
+"en": "a time-saver",
+"cz": "něco, co šetří čas",
+"ex": "A dishwasher is a real time-saver.",
+"level": "B1+"
+},
+{
+"id": "b21-time-consuming",
+"en": "time-consuming",
+"cz": "časově náročný",
+"ex": "Filling in these forms is really time-consuming.",
+"level": "B2"
+},
+{
+"id": "b21-a-time-waster",
+"en": "a time-waster",
+"cz": "ztráta času, zloděj času",
+"ex": "Endless meetings are a real time-waster.",
+"level": "B2"
+},
+{
+"id": "b21-kill-time",
+"en": "kill time",
+"cz": "zabíjet čas",
+"ex": "We killed time in a café before the train left.",
+"level": "B1+"
+},
+{
+"id": "b21-make-up-for-lost-time",
+"en": "make up for lost time",
+"cz": "dohnat ztracený čas",
+"ex": "After the holiday, I worked late to make up for lost time.",
+"level": "B2"
+},
+{
+"id": "b21-in-the-nick-of-time",
+"en": "in the nick of time",
+"cz": "na poslední chvíli, v pravou chvíli",
+"ex": "We got to the airport in the nick of time.",
+"level": "C1"
+},
+{
+"id": "b21-ahead-of-schedule",
+"en": "ahead of schedule",
+"cz": "s předstihem, dříve než plánováno",
+"ex": "The project was finished ahead of schedule.",
+"level": "B2"
+},
+{
+"id": "b21-behind-the-times",
+"en": "behind the times",
+"cz": "zastaralý, nejdoucí s dobou",
+"ex": "My boss is a bit behind the times with technology.",
+"level": "C1"
+},
+{
+"id": "b21-around-the-clock",
+"en": "around the clock",
+"cz": "nepřetržitě, ve dne v noci",
+"ex": "Nurses in this hospital work around the clock.",
+"level": "B2"
+},
+{
+"id": "b21-a-tight-schedule",
+"en": "a tight schedule",
+"cz": "nabitý program, napjatý harmonogram",
+"ex": "I'm on a tight schedule today, so let's be quick.",
+"level": "B2"
+},
+{
+"id": "b21-a-to-do-list",
+"en": "a to-do list",
+"cz": "seznam úkolů",
+"ex": "The first thing I do every morning is write a to-do list.",
+"level": "B1+"
+},
+{
+"id": "b21-tick-off",
+"en": "tick off",
+"cz": "odškrtnout (ze seznamu)",
+"ex": "It feels great to tick off the last task of the day.",
+"level": "B2"
+},
+{
+"id": "b21-get-round-to-doing",
+"en": "get round to (doing)",
+"cz": "dostat se k (něčemu)",
+"ex": "I finally got round to cleaning the garage.",
+"level": "B2"
+},
+{
+"id": "b21-be-pressed-for-time",
+"en": "be pressed for time",
+"cz": "mít málo času, spěchat",
+"ex": "Sorry, I'm a bit pressed for time right now.",
+"level": "C1"
+},
+{
+"id": "b21-free-up-time",
+"en": "free up time",
+"cz": "uvolnit si čas",
+"ex": "Online shopping frees up time at the weekend.",
+"level": "B2"
+},
+{
+"id": "b21-set-aside-time",
+"en": "set aside time",
+"cz": "vyhradit si čas",
+"ex": "I set aside an hour every day for exercise.",
+"level": "B2"
+},
+{
+"id": "b21-a-time-slot",
+"en": "a time slot",
+"cz": "časový úsek, termín",
+"ex": "Is there a free time slot on Tuesday afternoon?",
+"level": "B2"
+},
+{
+"id": "b21-squeeze-in",
+"en": "squeeze in",
+"cz": "vmáčknout, stihnout mezi něčím",
+"ex": "Can you squeeze in a short meeting before lunch?",
+"level": "B2"
+},
+{
+"id": "b21-drag-on",
+"en": "drag on",
+"cz": "táhnout se",
+"ex": "The meeting dragged on for three hours.",
+"level": "B2"
+},
+{
+"id": "b21-a-productive-day",
+"en": "a productive day",
+"cz": "produktivní den",
+"ex": "Mornings are when I have my most productive days.",
+"level": "B1+"
+},
+{
+"id": "b21-lose-track-of-time",
+"en": "lose track of time",
+"cz": "ztratit pojem o čase",
+"ex": "I lost track of time and missed the bus.",
+"level": "B2"
+},
+{
+"id": "b21-time-flies",
+"en": "time flies",
+"cz": "čas letí",
+"ex": "Time flies when you're having fun.",
+"level": "B1+"
+},
+{
+"id": "b21-on-the-dot",
+"en": "on the dot",
+"cz": "přesně (na minutu)",
+"ex": "The train left at seven on the dot.",
+"level": "B2"
+},
+{
+"id": "b21-a-last-minute-rush",
+"en": "a last-minute rush",
+"cz": "shon na poslední chvíli",
+"ex": "There's always a last-minute rush before the holidays.",
+"level": "B2"
+},
+{
+"id": "b21-leave-things-to-the-last-minute",
+"en": "leave things to the last minute",
+"cz": "nechávat věci na poslední chvíli",
+"ex": "My son always leaves his homework to the last minute.",
+"level": "B2"
+},
+{
+"id": "b21-stay-on-top-of-things",
+"en": "stay on top of (things)",
+"cz": "mít (věci) pod kontrolou",
+"ex": "It's hard to stay on top of my emails.",
+"level": "C1"
+},
+{
+"id": "b21-race-against-the-clock",
+"en": "race against the clock",
+"cz": "závodit s časem",
+"ex": "We were racing against the clock to finish the project.",
+"level": "C1"
+},
+{
+"id": "b21-take-your-time",
+"en": "take your time",
+"cz": "nespěchat, dát si načas",
+"ex": "Take your time – there is no hurry.",
+"level": "B1+"
+},
+{
+"id": "b21-a-hectic-week",
+"en": "a hectic week",
+"cz": "hektický týden",
+"ex": "It's been a hectic week at the office.",
+"level": "B2"
+},
+{
+"id": "b21-a-breather",
+"en": "a breather",
+"cz": "krátký oddech",
+"ex": "Let's take a breather and continue after lunch.",
+"level": "C1"
+},
+{
+"id": "b21-recharge-your-batteries",
+"en": "recharge your batteries",
+"cz": "nabít baterky",
+"ex": "A weekend in the mountains helps me recharge my batteries.",
+"level": "B2"
+},
+{
+"id": "b21-a-sense-of-urgency",
+"en": "a sense of urgency",
+"cz": "naléhavost, pocit naléhavosti",
+"ex": "There's no sense of urgency in this team.",
+"level": "C1"
+},
+{
+"id": "b21-time-management",
+"en": "time management",
+"cz": "hospodaření s časem",
+"ex": "Good time management reduces stress.",
+"level": "B2"
+},
+{
+"id": "b21-a-time-frame",
+"en": "a time frame",
+"cz": "časový rámec",
+"ex": "We need to agree on a realistic time frame.",
+"level": "C1"
+},
+{
+"id": "b21-a-daily-commute",
+"en": "a daily commute",
+"cz": "každodenní dojíždění",
+"ex": "My daily commute takes almost an hour.",
+"level": "B2"
+},
+{
+"id": "b21-a-lie-in",
+"en": "a lie-in",
+"cz": "přispání, dlouhé spaní",
+"ex": "On Sundays I love having a lie-in.",
+"level": "B2"
+},
+{
+"id": "b21-oversleep",
+"en": "oversleep",
+"cz": "zaspat",
+"ex": "I overslept and was late for work.",
+"level": "B1+"
+},
+{
+"id": "b21-a-power-nap",
+"en": "a power nap",
+"cz": "krátký osvěžující spánek",
+"ex": "A twenty-minute power nap gives me energy.",
+"level": "B2"
+},
+{
+"id": "b21-run-late",
+"en": "run late",
+"cz": "mít zpoždění, nestíhat",
+"ex": "Sorry, I'm running late – I'll be there in ten minutes.",
+"level": "B1+"
+},
+{
+"id": "b21-a-stopgap",
+"en": "a stopgap",
+"cz": "provizorní řešení",
+"ex": "This software is only a stopgap until we find something better.",
+"level": "C1"
+},
+{
+"id": "b21-at-short-notice",
+"en": "at short notice",
+"cz": "narychlo, s krátkým předstihem",
+"ex": "The meeting was cancelled at short notice.",
+"level": "C1"
+},
+{
+"id": "b21-in-due-course",
+"en": "in due course",
+"cz": "v pravý čas, časem",
+"ex": "You will receive the results in due course.",
+"level": "C1"
+},
+{
+"id": "b21-for-the-time-being",
+"en": "for the time being",
+"cz": "prozatím",
+"ex": "I'm living with my parents for the time being.",
+"level": "B2"
+},
+{
+"id": "b21-in-the-long-run",
+"en": "in the long run",
+"cz": "z dlouhodobého hlediska",
+"ex": "Healthy habits pay off in the long run.",
+"level": "B2"
+},
+{
+"id": "b21-a-wake-up-call",
+"en": "a wake-up call",
+"cz": "varovný signál, budíček",
+"ex": "Missing the deadline was a wake-up call for me.",
+"level": "C1"
+},
+{
+"id": "b21-be-set-in-your-ways",
+"en": "be set in your ways",
+"cz": "mít zažité zvyky, být neústupný",
+"ex": "My grandfather is very set in his ways.",
+"level": "C1"
+},
+{
+"id": "b21-have-time-on-your-hands",
+"en": "have time on your hands",
+"cz": "mít spoustu volného času",
+"ex": "Since I retired, I have a lot of time on my hands.",
+"level": "C1"
+},
+{
+"id": "b21-make-the-most-of",
+"en": "make the most of",
+"cz": "využít naplno",
+"ex": "Let's make the most of the sunny weather.",
+"level": "B2"
+},
+{
+"id": "b21-a-procrastinator",
+"en": "a procrastinator",
+"cz": "člověk, který vše odkládá",
+"ex": "I'm a terrible procrastinator, especially with paperwork.",
+"level": "C1"
+}
+]
+}

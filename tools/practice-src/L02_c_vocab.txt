@@ -1,0 +1,104 @@
+#Work & routine vocabulary in context|Slovíčka o práci a rutině v kontextu
+choose ## I try to ___ (stick to/stick on) a routine, even at weekends. ## stick to
+choose ## It took me months to ___ (break/broke) the habit of checking my phone in bed. ## break
+choose ## I've ___ (fallen into/fallen in) the habit of eating lunch at my desk. ## fallen into
+choose ## She ___ (makes a habit of/does a habit of) walking to work every day. ## makes a habit of
+choose ## My dad is a real creature of ___ (habit/habits) – he has eaten the same breakfast for thirty years. ## habit
+choose ## I'm an early ___ (bird/owl) – I love getting up at five. ## bird
+choose ## My brother is a night ___ (owl/bird); he does his best work after midnight. ## owl
+choose ## I always ___ (hit/press on) the snooze button at least three times. ## hit
+choose ## After a long holiday, it's hard to go back to the daily ___ (grind/ground). ## grind
+choose ## A good work-life ___ (balance/balancing) is more important to me than a high salary. ## balance
+choose ## Our company offers flexible working ___ (hours/times), so I can start at ten. ## hours
+choose ## Since the pandemic, many people ___ (work remotely/work remote) at least two days a week. ## work remotely
+choose ## Sorry, I can't come – I'm up to my ___ (eyes/ears) in work this week. ## eyes
+choose ## We worked all weekend to ___ (meet/catch) the deadline. ## meet
+choose ## I can't ___ (take on/take in) any extra work at the moment. ## take on
+choose ## The project is running ___ (behind/after) schedule, so we need more people. ## behind
+choose ## Nurses often have to work ___ (overtime/overhours) without extra pay. ## overtime
+choose ## Let's ___ (grab/catch) a bite to eat before the meeting. ## grab
+choose ## I need about an hour to ___ (wind down/wind up) after work. ## wind down
+choose ## He's ___ (making/doing) an effort to be more punctual. ## making
+choose ## Some employees only do the bare ___ (minimum/minimal) and then go home. ## minimum
+choose ## You should ___ (make time/do time) for your family, however busy you are. ## make time
+choose ## I've been doing the same thing for years – I feel stuck in a ___ (rut/hole). ## rut
+choose ## She always goes the extra ___ (mile/metre) for her customers. ## mile
+choose ## I had to ___ (pull/push) an all-nighter to finish the presentation. ## pull
+choose ## Students often burn the midnight ___ (oil/candle) before exams. ## oil
+choose ## Could you show the new intern the ___ (ropes/strings)? ## ropes
+choose ## After two weeks in the new job, I'm finally getting into the ___ (swing/swim) of things. ## swing
+choose ## In the factory, workers have to clock ___ (in/on) when they arrive. ## in
+choose ## At five o'clock everyone clocks ___ (out/off) and goes home. ## out
+choose ## Our teacher is a stickler ___ (for/about) punctuality – never be late! ## for
+choose ## After years of practice, typing has become second ___ (nature/habit) to me. ## nature
+choose ## I promised to stop eating sweets, but old habits die ___ (hard/slowly). ## hard
+choose ## Getting up at five every day? That's not my idea of a good ___ (work-life balance/daily grind). ## work-life balance
+choose ## Tom loves mornings, but his wife is a ___ (night owl/early bird) and hates them. ## night owl
+choose ## The train was late, so I ___ (ran behind schedule/met a deadline) all day. ## ran behind schedule
+choose ## I'm trying to ___ (make a habit of/break a habit of) going to bed before eleven. ## make a habit of
+choose ## Smoking is a hard habit to ___ (break/stick to). ## break
+choose ## When I started working from home, I ___ (fell into/made) the habit of working in my pyjamas. ## fell into
+choose ## He never does more than he has to – he just does the ___ (bare minimum/extra mile). ## bare minimum
+choose ## The new manager is a stickler for ___ (rules/minimum) and checks everything twice. ## rules
+choose ## Driving on the left felt strange at first, but now it's ___ (second nature/the daily grind). ## second nature
+choose ## I've been in the same job for ten years and I'm ___ (stuck in a rut/up to my eyes). I need a change. ## stuck in a rut
+choose ## Can you ___ (show me the ropes/clock me in)? It's my first day. ## show me the ropes
+choose ## I ___ (make/do) my homework every evening. ## do
+choose ## Could you ___ (do/make) me a favour? ## do
+choose ## Don't ___ (make/do) so much noise – the baby's asleep. ## make
+choose ## We need to ___ (make/do) a decision by Friday. ## make
+choose ## I always ___ (make/do) a list before I go shopping. ## make
+choose ## Who ___ (does/makes) the housework in your family? ## does
+choose ## I've ___ (made/done) a mistake in the report. ## made
+choose ## She ___ (does/makes) yoga every morning before work. ## does
+choose ## Can I ___ (make/do) a quick phone call? ## make
+choose ## He ___ (does/makes) a lot of business with Germany. ## does
+choose ## Let's ___ (make/do) a plan for next week. ## make
+choose ## I need to ___ (do/make) the shopping after work. ## do
+choose ## Our company ___ (made/did) a big profit last year. ## made
+choose ## You should ___ (do/make) some exercise every day. ## do
+choose ## Have you ___ (made/done) an appointment with the dentist? ## made
+choose ## I'm ___ (doing/making) a course in project management. ## doing
+choose ## Don't worry, you're ___ (making/doing) progress. ## making
+choose ## It doesn't ___ (make/do) any difference to me. ## make
+choose ## I'll ___ (do/make) my best, but I can't promise anything. ## do
+choose ## Could you ___ (make/do) the washing-up tonight? ## do
+choose ## They ___ (made/did) a lot of money selling old furniture. ## made
+choose ## I ___ (did/made) some research before the interview. ## did
+choose ## He's always ___ (making/doing) excuses for being late. ## making
+choose ## A walk in the park will ___ (do/make) you good. ## do
+choose ## I have to ___ (do/make) a presentation tomorrow. ## do
+choose ## Please ___ (make/do) sure you lock the door. ## make
+choose ## She ___ (made/did) friends with everyone in the office. ## made
+choose ## Do you ___ (make/do) the cooking or does your partner? ## do
+choose ## Let me ___ (make/do) a suggestion. ## make
+gap ## I'm trying to _____ to a routine: up at six, gym, work. ## stick
+gap ## Old habits die _____. ## hard
+gap ## She's an early _____ – she's at work by seven. ## bird
+gap ## My husband is a night _____ – he never goes to bed before one. ## owl
+gap ## I'm up to my _____ in work this week. ## eyes
+gap ## We have to _____ the deadline – no excuses. ## meet
+gap ## Sorry, we're running _____ schedule. ## behind
+gap ## Let's grab a _____ to eat. ## bite
+gap ## I usually wind _____ with a book and a cup of tea. ## down
+gap ## You need to _____ time for yourself. ## make
+gap ## He only does the bare _____. ## minimum
+gap ## Thanks for going the extra _____ to help us. ## mile
+gap ## I pulled an all-_____ to finish the essay. ## nighter
+gap ## Our boss is a stickler _____ punctuality. ## for
+gap ## Speaking English is becoming second _____ to her. ## nature
+gap ## After a month, I'm getting into the _____ of things. ## swing
+gap ## Could you show Martina the _____? She's new. ## ropes
+gap ## I feel stuck in a _____. Every day is the same. ## rut
+gap ## My grandmother is a creature of _____. ## habit
+gap ## It's hard to _____ a bad habit. ## break
+gap ## I've _____ into the habit of skipping breakfast. ## fallen | got
+gap ## I always hit the _____ button twice. ## snooze
+gap ## More and more people work _____ these days. ## remotely | from home
+gap ## Our company has flexible working _____. ## hours
+gap ## I hate the daily _____ of commuting. ## grind
+gap ## I can't take _____ any more projects. ## on
+gap ## Could you _____ me a favour and check this email? ## do
+gap ## I'm _____ a big effort to speak more in meetings. ## making
+gap ## Try not to _____ the same mistake again. ## make
+gap ## I need to _____ the housework before my parents arrive. ## do

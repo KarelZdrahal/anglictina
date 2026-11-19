@@ -1,0 +1,1029 @@
+{
+"id": "L02-a_habits",
+"lesson": "L02",
+"topic": "Habits and tendencies",
+"topic_cz": "Zvyky a sklony",
+"level": "B1",
+"exercises": [
+{
+"id": "L02-a_habits-001",
+"type": "choose",
+"q": "I ___ (tend to/tend) work better in the morning than in the afternoon.",
+"a": "tend to"
+},
+{
+"id": "L02-a_habits-002",
+"type": "choose",
+"q": "My boss ___ (tends to/is tending to) arrive before everyone else.",
+"a": "tends to"
+},
+{
+"id": "L02-a_habits-003",
+"type": "choose",
+"q": "We don't ___ (tend to/tend) eat out during the week.",
+"a": "tend to"
+},
+{
+"id": "L02-a_habits-004",
+"type": "choose",
+"q": "People ___ (tend to/tend at) check their phones as soon as they wake up.",
+"a": "tend to"
+},
+{
+"id": "L02-a_habits-005",
+"type": "choose",
+"q": "Teenagers ___ (tend to sleep/tend sleeping) later than adults.",
+"a": "tend to sleep"
+},
+{
+"id": "L02-a_habits-006",
+"type": "choose",
+"q": "My husband ___ (tends not to/doesn't tend) drink coffee after lunch.",
+"a": "tends not to"
+},
+{
+"id": "L02-a_habits-007",
+"type": "choose",
+"q": "Prices ___ (tend to go/tend going) up before Christmas.",
+"a": "tend to go"
+},
+{
+"id": "L02-a_habits-008",
+"type": "choose",
+"q": "Our meetings ___ (tend to drag/are tending to drag) on when the director is there.",
+"a": "tend to drag"
+},
+{
+"id": "L02-a_habits-009",
+"type": "choose",
+"q": "___ (Do you tend to/Are you tending to) work late on Fridays?",
+"a": "Do you tend to"
+},
+{
+"id": "L02-a_habits-010",
+"type": "choose",
+"q": "Night owls ___ (tend to feel/tend feel) more creative in the evening.",
+"a": "tend to feel"
+},
+{
+"id": "L02-a_habits-011",
+"type": "choose",
+"q": "My sister ___ (tends to/inclines to) leave everything to the last minute.",
+"a": "tends to"
+},
+{
+"id": "L02-a_habits-012",
+"type": "choose",
+"q": "In winter, I ___ (tend to stay/tend to staying) at home more.",
+"a": "tend to stay"
+},
+{
+"id": "L02-a_habits-013",
+"type": "choose",
+"q": "Young employees ___ (tend to change/tend changing) jobs more often.",
+"a": "tend to change"
+},
+{
+"id": "L02-a_habits-014",
+"type": "choose",
+"q": "Hana ___ (tends to/is inclined) get nervous before presentations.",
+"a": "tends to"
+},
+{
+"id": "L02-a_habits-015",
+"type": "choose",
+"q": "The traffic ___ (tends to be/tends being) worse on Monday mornings.",
+"a": "tends to be"
+},
+{
+"id": "L02-a_habits-016",
+"type": "choose",
+"q": "He's ___ (inclined to/inclined for) panic when deadlines get close.",
+"a": "inclined to"
+},
+{
+"id": "L02-a_habits-017",
+"type": "choose",
+"q": "I'm ___ (inclined to/incline to) agree with you, but let me think about it.",
+"a": "inclined to"
+},
+{
+"id": "L02-a_habits-018",
+"type": "choose",
+"q": "My colleague is ___ (inclined to exaggerate/inclined exaggerating) when he talks about his work.",
+"a": "inclined to exaggerate"
+},
+{
+"id": "L02-a_habits-019",
+"type": "choose",
+"q": "She ___ (is inclined to/inclines) be a bit lazy on Mondays.",
+"a": "is inclined to"
+},
+{
+"id": "L02-a_habits-020",
+"type": "choose",
+"q": "People who work from home are ___ (inclined to/inclined) work longer hours.",
+"a": "inclined to"
+},
+{
+"id": "L02-a_habits-021",
+"type": "choose",
+"q": "Our manager ___ (is inclined to/is inclining to) forget about small problems.",
+"a": "is inclined to"
+},
+{
+"id": "L02-a_habits-022",
+"type": "choose",
+"q": "I'm not ___ (inclined to/inclined for) trust people who are always late.",
+"a": "inclined to"
+},
+{
+"id": "L02-a_habits-023",
+"type": "choose",
+"q": "Tired drivers ___ (are inclined to make/are inclined making) mistakes.",
+"a": "are inclined to make"
+},
+{
+"id": "L02-a_habits-024",
+"type": "choose",
+"q": "Petr ___ (is inclined to/tends) take on too much work.",
+"a": "is inclined to"
+},
+{
+"id": "L02-a_habits-025",
+"type": "choose",
+"q": "When I'm stressed, I'm ___ (inclined to eat/inclined eating) too much chocolate.",
+"a": "inclined to eat"
+},
+{
+"id": "L02-a_habits-026",
+"type": "choose",
+"q": "I ___ (keep forgetting/keep to forget) my password.",
+"a": "keep forgetting"
+},
+{
+"id": "L02-a_habits-027",
+"type": "choose",
+"q": "The printer ___ (keeps breaking/keeps to break) down.",
+"a": "keeps breaking"
+},
+{
+"id": "L02-a_habits-028",
+"type": "choose",
+"q": "Why do you ___ (keep asking/keep ask) me the same question?",
+"a": "keep asking"
+},
+{
+"id": "L02-a_habits-029",
+"type": "choose",
+"q": "My phone ___ (keeps on ringing/keeps on ring) during meetings.",
+"a": "keeps on ringing"
+},
+{
+"id": "L02-a_habits-030",
+"type": "choose",
+"q": "She ___ (kept on talking/kept on to talk) even when nobody was listening.",
+"a": "kept on talking"
+},
+{
+"id": "L02-a_habits-031",
+"type": "choose",
+"q": "I ___ (keep hitting/keep to hit) the snooze button every morning.",
+"a": "keep hitting"
+},
+{
+"id": "L02-a_habits-032",
+"type": "choose",
+"q": "The kids ___ (keep interrupting/keep interrupt) me when I'm working from home.",
+"a": "keep interrupting"
+},
+{
+"id": "L02-a_habits-033",
+"type": "choose",
+"q": "We ___ (keep running/keep run) behind schedule on this project.",
+"a": "keep running"
+},
+{
+"id": "L02-a_habits-034",
+"type": "choose",
+"q": "He ___ (kept making/kept to make) the same mistake again and again.",
+"a": "kept making"
+},
+{
+"id": "L02-a_habits-035",
+"type": "choose",
+"q": "Don't ___ (keep checking/keep check) your emails – it's the weekend!",
+"a": "keep checking"
+},
+{
+"id": "L02-a_habits-036",
+"type": "choose",
+"q": "My neighbour ___ (keeps parking/keeps to park) in front of my garage.",
+"a": "keeps parking"
+},
+{
+"id": "L02-a_habits-037",
+"type": "choose",
+"q": "I ___ (keep meaning/keep mean) to start running, but I never do.",
+"a": "keep meaning"
+},
+{
+"id": "L02-a_habits-038",
+"type": "choose",
+"q": "The system ___ (keeps crashing/keeps crash) when I open this file.",
+"a": "keeps crashing"
+},
+{
+"id": "L02-a_habits-039",
+"type": "choose",
+"q": "Why does he ___ (keep on/keep to) complaining about his salary?",
+"a": "keep on"
+},
+{
+"id": "L02-a_habits-040",
+"type": "choose",
+"q": "You ___ (keep saying/keep say) you'll find a better job. When?",
+"a": "keep saying"
+},
+{
+"id": "L02-a_habits-041",
+"type": "choose",
+"q": "My grandad ___ (will/would) sit in the garden for hours, even now that he's ninety.",
+"a": "will"
+},
+{
+"id": "L02-a_habits-042",
+"type": "choose",
+"q": "She ___ (will/would) often work through her lunch break. It's typical of her.",
+"a": "will"
+},
+{
+"id": "L02-a_habits-043",
+"type": "choose",
+"q": "When I was a student, I ___ (would/will) study all night before exams.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-044",
+"type": "choose",
+"q": "As a child, I ___ (would/will) spend every summer at my grandparents' farm.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-045",
+"type": "choose",
+"q": "Every morning my dad ___ (will/would) read the newspaper before he talks to anyone – he still does it.",
+"a": "will"
+},
+{
+"id": "L02-a_habits-046",
+"type": "choose",
+"q": "In my first job, we ___ (would/will) finish work at three on Fridays.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-047",
+"type": "choose",
+"q": "A good teacher ___ (will/would) always make time for her students.",
+"a": "will"
+},
+{
+"id": "L02-a_habits-048",
+"type": "choose",
+"q": "Our old boss ___ (would/will) bring cakes on Fridays. We miss him.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-049",
+"type": "choose",
+"q": "When we lived in Brno, we ___ (would/will) go for a walk every Sunday.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-050",
+"type": "choose",
+"q": "My cat ___ (will/would) wake me up at five every morning if I don't close the door.",
+"a": "will"
+},
+{
+"id": "L02-a_habits-051",
+"type": "choose",
+"q": "Years ago, people ___ (would/will) write letters instead of emails.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-052",
+"type": "choose",
+"q": "He ___ (will/would) spend hours in the bathroom every morning. It drives me crazy!",
+"a": "will"
+},
+{
+"id": "L02-a_habits-053",
+"type": "choose",
+"q": "Before smartphones, I ___ (would/will) read a book on the train.",
+"a": "would"
+},
+{
+"id": "L02-a_habits-054",
+"type": "choose",
+"q": "When I lived in London, I ___ (used to have/would have) a two-hour commute.",
+"a": "used to have"
+},
+{
+"id": "L02-a_habits-055",
+"type": "choose",
+"q": "We ___ (used to/would) have an office in the city centre.",
+"a": "used to"
+},
+{
+"id": "L02-a_habits-056",
+"type": "choose",
+"q": "I ___ (used to/would) be a night owl, but now I go to bed at ten.",
+"a": "used to"
+},
+{
+"id": "L02-a_habits-057",
+"type": "choose",
+"q": "My father ___ (used to/would) own a small shop.",
+"a": "used to"
+},
+{
+"id": "L02-a_habits-058",
+"type": "choose",
+"q": "When I was younger, I ___ (used to like/would like) working late.",
+"a": "used to like"
+},
+{
+"id": "L02-a_habits-059",
+"type": "choose",
+"q": "She ___ (used to live/would live) next to her office.",
+"a": "used to live"
+},
+{
+"id": "L02-a_habits-060",
+"type": "choose",
+"q": "___ (Did you use to/Would you used to) work at weekends?",
+"a": "Did you use to"
+},
+{
+"id": "L02-a_habits-061",
+"type": "choose",
+"q": "I ___ (didn't use to/wouldn't use to) drink coffee at all.",
+"a": "didn't use to"
+},
+{
+"id": "L02-a_habits-062",
+"type": "choose",
+"q": "Our town ___ (used to be/would be) much quieter.",
+"a": "used to be"
+},
+{
+"id": "L02-a_habits-063",
+"type": "choose",
+"q": "He ___ (used to know/would know) everyone in the building.",
+"a": "used to know"
+},
+{
+"id": "L02-a_habits-064",
+"type": "choose",
+"q": "My brother ___ (is always borrowing/always borrows) my things without asking!",
+"a": "is always borrowing"
+},
+{
+"id": "L02-a_habits-065",
+"type": "choose",
+"q": "You ___ (are constantly interrupting/constantly interrupt) me! Let me finish!",
+"a": "are constantly interrupting"
+},
+{
+"id": "L02-a_habits-066",
+"type": "choose",
+"q": "My flatmate ___ (is always leaving/always leaves) dirty dishes in the sink. It's so annoying!",
+"a": "is always leaving"
+},
+{
+"id": "L02-a_habits-067",
+"type": "choose",
+"q": "He ___ (is forever complaining/forever complains) about his job. I'm tired of it.",
+"a": "is forever complaining"
+},
+{
+"id": "L02-a_habits-068",
+"type": "choose",
+"q": "She ___ (is always losing/always loses) her keys – it drives me mad!",
+"a": "is always losing"
+},
+{
+"id": "L02-a_habits-069",
+"type": "choose",
+"q": "Our printer ___ (is constantly running/constantly runs) out of paper!",
+"a": "is constantly running"
+},
+{
+"id": "L02-a_habits-070",
+"type": "choose",
+"q": "My colleague ___ (is always telling/always tells) me how busy he is. So irritating!",
+"a": "is always telling"
+},
+{
+"id": "L02-a_habits-071",
+"type": "choose",
+"q": "My dad ___ (is always forgetting/always forgets) where he parked the car!",
+"a": "is always forgetting"
+},
+{
+"id": "L02-a_habits-072",
+"type": "choose",
+"q": "They ___ (are always arguing/always argue) about money. I can't stand it.",
+"a": "are always arguing"
+},
+{
+"id": "L02-a_habits-073",
+"type": "choose",
+"q": "You ___ (are always checking/always check) your phone when I'm talking to you!",
+"a": "are always checking"
+},
+{
+"id": "L02-a_habits-074",
+"type": "choose",
+"q": "My sister ___ (was always borrowing/always borrowed) my clothes when we were teenagers.",
+"a": "was always borrowing"
+},
+{
+"id": "L02-a_habits-075",
+"type": "choose",
+"q": "My manager ___ (is always changing/always changes) his mind at the last minute!",
+"a": "is always changing"
+},
+{
+"id": "L02-a_habits-076",
+"type": "choose",
+"q": "I ___ (usually get up/am usually getting up) at half past six.",
+"a": "usually get up"
+},
+{
+"id": "L02-a_habits-077",
+"type": "choose",
+"q": "Mark is an early bird – he ___ (tends to start/tends starting) work at seven.",
+"a": "tends to start"
+},
+{
+"id": "L02-a_habits-078",
+"type": "choose",
+"q": "I ___ (keep falling/keep to fall) into the habit of eating at my desk.",
+"a": "keep falling"
+},
+{
+"id": "L02-a_habits-079",
+"type": "choose",
+"q": "As a young man, my grandfather ___ (would walk/used to walking) five kilometres to work.",
+"a": "would walk"
+},
+{
+"id": "L02-a_habits-080",
+"type": "choose",
+"q": "She ___ (tends to/would) be quite moody in the morning.",
+"a": "tends to"
+},
+{
+"id": "L02-a_habits-081",
+"type": "choose",
+"q": "I'm ___ (inclined to think/inclined thinking) that remote work is here to stay.",
+"a": "inclined to think"
+},
+{
+"id": "L02-a_habits-082",
+"type": "choose",
+"q": "Every evening he ___ (will sit/would sitting) in front of the TV until midnight.",
+"a": "will sit"
+},
+{
+"id": "L02-a_habits-083",
+"type": "choose",
+"q": "He WILL ___ (leave/leaving) his cup on my desk! I've asked him a hundred times!",
+"a": "leave"
+},
+{
+"id": "L02-a_habits-084",
+"type": "choose",
+"q": "We ___ (would always go/always went going) to the same café after school.",
+"a": "would always go"
+},
+{
+"id": "L02-a_habits-085",
+"type": "choose",
+"q": "I ___ (don't tend to/am not tending to) work overtime unless I really have to.",
+"a": "don't tend to"
+},
+{
+"id": "L02-a_habits-086",
+"type": "choose",
+"q": "Office workers ___ (are inclined to sit/are inclined sitting) for too long without a break.",
+"a": "are inclined to sit"
+},
+{
+"id": "L02-a_habits-087",
+"type": "choose",
+"q": "The bus ___ (keeps being/keeps to be) late this week.",
+"a": "keeps being"
+},
+{
+"id": "L02-a_habits-088",
+"type": "choose",
+"q": "When I was at school, my mum ___ (would make/will make) me breakfast every day.",
+"a": "would make"
+},
+{
+"id": "L02-a_habits-089",
+"type": "choose",
+"q": "Our new colleague ___ (is always asking/always is asking) questions – it's great, she's so curious.",
+"a": "is always asking"
+},
+{
+"id": "L02-a_habits-090",
+"type": "choose",
+"q": "In the past, shops ___ (used to close/would closing) at noon on Saturdays.",
+"a": "used to close"
+},
+{
+"id": "L02-a_habits-091",
+"type": "choose",
+"q": "Creatures of habit ___ (tend to eat/tend eating) the same breakfast every day.",
+"a": "tend to eat"
+},
+{
+"id": "L02-a_habits-092",
+"type": "choose",
+"q": "I ___ (keep telling/keep tell) myself I'll go to bed earlier.",
+"a": "keep telling"
+},
+{
+"id": "L02-a_habits-093",
+"type": "choose",
+"q": "He ___ (is inclined to be/is inclined being) rude when he's tired.",
+"a": "is inclined to be"
+},
+{
+"id": "L02-a_habits-094",
+"type": "choose",
+"q": "On Sundays we ___ (would have/used having) a big family lunch when I was a kid.",
+"a": "would have"
+},
+{
+"id": "L02-a_habits-095",
+"type": "choose",
+"q": "Mornings ___ (tend to be/tend be) the busiest time in our office.",
+"a": "tend to be"
+},
+{
+"id": "L02-a_habits-096",
+"type": "choose",
+"q": "Why ___ (are you always leaving/do you always leaving) the lights on?",
+"a": "are you always leaving"
+},
+{
+"id": "L02-a_habits-097",
+"type": "choose",
+"q": "I ___ (used to hate/would hate) my job, but now I love it.",
+"a": "used to hate"
+},
+{
+"id": "L02-a_habits-098",
+"type": "choose",
+"q": "The meeting ___ (kept getting/kept to get) postponed.",
+"a": "kept getting"
+},
+{
+"id": "L02-a_habits-099",
+"type": "choose",
+"q": "She ___ (will often stay/is often stay) late to help her colleagues. That's just how she is.",
+"a": "will often stay"
+},
+{
+"id": "L02-a_habits-100",
+"type": "choose",
+"q": "When it rains, people ___ (tend to drive/tend driving) more slowly.",
+"a": "tend to drive"
+},
+{
+"id": "L02-a_habits-101",
+"type": "choose",
+"q": "My parents ___ (would argue/would arguing) about who would do the washing-up.",
+"a": "would argue"
+},
+{
+"id": "L02-a_habits-102",
+"type": "choose",
+"q": "You ___ (keep on saying/keep on say) that, but you never do anything!",
+"a": "keep on saying"
+},
+{
+"id": "L02-a_habits-103",
+"type": "choose",
+"q": "Freelancers ___ (are inclined to/tend) take on extra work when they can.",
+"a": "are inclined to"
+},
+{
+"id": "L02-a_habits-104",
+"type": "choose",
+"q": "He ___ (used to be/would be) very shy, but now he's quite confident.",
+"a": "used to be"
+},
+{
+"id": "L02-a_habits-105",
+"type": "choose",
+"q": "I ___ (tend to grab/tend grabbing) a sandwich and eat at my desk.",
+"a": "tend to grab"
+},
+{
+"id": "L02-a_habits-106",
+"type": "choose",
+"q": "My son ___ (is constantly playing/constantly is playing) games on his phone!",
+"a": "is constantly playing"
+},
+{
+"id": "L02-a_habits-107",
+"type": "choose",
+"q": "As interns, we ___ (would make/will make) coffee for the whole team.",
+"a": "would make"
+},
+{
+"id": "L02-a_habits-108",
+"type": "choose",
+"q": "We don't ___ (tend to/use to) work on Saturdays any more.",
+"a": "tend to"
+},
+{
+"id": "L02-a_habits-109",
+"type": "choose",
+"q": "My little brother ___ (would hide/will hide) under the table when guests came.",
+"a": "would hide"
+},
+{
+"id": "L02-a_habits-110",
+"type": "choose",
+"q": "The lift ___ (keeps getting/keeps get) stuck between floors.",
+"a": "keeps getting"
+},
+{
+"id": "L02-a_habits-111",
+"type": "choose",
+"q": "People ___ (are inclined to/keep) believe what they read online.",
+"a": "are inclined to"
+},
+{
+"id": "L02-a_habits-112",
+"type": "choose",
+"q": "Did you ___ (use to/used to) walk to school?",
+"a": "use to"
+},
+{
+"id": "L02-a_habits-113",
+"type": "gap",
+"q": "I _____ (tend / work) better in the morning.",
+"a": "tend to work"
+},
+{
+"id": "L02-a_habits-114",
+"type": "gap",
+"q": "She _____ (tend / arrive) early for meetings.",
+"a": "tends to arrive"
+},
+{
+"id": "L02-a_habits-115",
+"type": "gap",
+"q": "We _____ (not / tend / eat out) during the week.",
+"a": "don't tend to eat out | do not tend to eat out | tend not to eat out"
+},
+{
+"id": "L02-a_habits-116",
+"type": "gap",
+"q": "My boss _____ (tend / reply) to emails late at night.",
+"a": "tends to reply"
+},
+{
+"id": "L02-a_habits-117",
+"type": "gap",
+"q": "People in big cities _____ (tend / walk) faster.",
+"a": "tend to walk"
+},
+{
+"id": "L02-a_habits-118",
+"type": "gap",
+"q": "_____ you _____ (tend / work) from home on Fridays?",
+"a": "do tend to work"
+},
+{
+"id": "L02-a_habits-119",
+"type": "gap",
+"q": "He _____ (not / tend / take) long lunch breaks.",
+"a": "doesn't tend to take | does not tend to take | tends not to take"
+},
+{
+"id": "L02-a_habits-120",
+"type": "gap",
+"q": "Our meetings _____ (tend / last) longer than planned.",
+"a": "tend to last"
+},
+{
+"id": "L02-a_habits-121",
+"type": "gap",
+"q": "Teenagers _____ (tend / go) to bed late.",
+"a": "tend to go"
+},
+{
+"id": "L02-a_habits-122",
+"type": "gap",
+"q": "My grandmother _____ (tend / repeat) the same stories.",
+"a": "tends to repeat"
+},
+{
+"id": "L02-a_habits-123",
+"type": "gap",
+"q": "He's _____ (inclined / panic) when he has too much work.",
+"a": "inclined to panic"
+},
+{
+"id": "L02-a_habits-124",
+"type": "gap",
+"q": "I'm _____ (inclined / believe) her story.",
+"a": "inclined to believe"
+},
+{
+"id": "L02-a_habits-125",
+"type": "gap",
+"q": "Petra is _____ (inclined / take) on too much work.",
+"a": "inclined to take"
+},
+{
+"id": "L02-a_habits-126",
+"type": "gap",
+"q": "People _____ (be / inclined / spend) more money when they are tired.",
+"a": "are inclined to spend"
+},
+{
+"id": "L02-a_habits-127",
+"type": "gap",
+"q": "My brother _____ (be / inclined / get) angry very quickly.",
+"a": "is inclined to get | 's inclined to get"
+},
+{
+"id": "L02-a_habits-128",
+"type": "gap",
+"q": "I _____ (keep / forget) my umbrella at work.",
+"a": "keep forgetting"
+},
+{
+"id": "L02-a_habits-129",
+"type": "gap",
+"q": "The phone _____ (keep / ring) all morning.",
+"a": "kept ringing | has kept ringing | keeps ringing"
+},
+{
+"id": "L02-a_habits-130",
+"type": "gap",
+"q": "Why do you _____ (keep / ask) me that?",
+"a": "keep asking"
+},
+{
+"id": "L02-a_habits-131",
+"type": "gap",
+"q": "He _____ (keep on / interrupt) me during meetings.",
+"a": "keeps on interrupting | kept on interrupting"
+},
+{
+"id": "L02-a_habits-132",
+"type": "gap",
+"q": "My laptop _____ (keep / switch) off for no reason.",
+"a": "keeps switching | kept switching"
+},
+{
+"id": "L02-a_habits-133",
+"type": "gap",
+"q": "I _____ (keep / hit) the snooze button.",
+"a": "keep hitting"
+},
+{
+"id": "L02-a_habits-134",
+"type": "gap",
+"q": "We _____ (keep / run) out of milk in the office.",
+"a": "keep running"
+},
+{
+"id": "L02-a_habits-135",
+"type": "gap",
+"q": "She _____ (keep / say) she'll find a new job.",
+"a": "keeps saying"
+},
+{
+"id": "L02-a_habits-136",
+"type": "gap",
+"q": "The kids _____ (keep / come) into my room while I'm on a call.",
+"a": "keep coming"
+},
+{
+"id": "L02-a_habits-137",
+"type": "gap",
+"q": "I _____ (keep / mean) to call my aunt.",
+"a": "keep meaning"
+},
+{
+"id": "L02-a_habits-138",
+"type": "gap",
+"q": "As a student, I _____ (would / work) in a café every summer.",
+"a": "would work | 'd work"
+},
+{
+"id": "L02-a_habits-139",
+"type": "gap",
+"q": "When we were children, we _____ (would / play) outside until dark.",
+"a": "would play | 'd play"
+},
+{
+"id": "L02-a_habits-140",
+"type": "gap",
+"q": "Every Christmas my grandma _____ (would / bake) ten kinds of biscuits.",
+"a": "would bake"
+},
+{
+"id": "L02-a_habits-141",
+"type": "gap",
+"q": "In my first job, I _____ (would / take) the night bus home.",
+"a": "would take | 'd take"
+},
+{
+"id": "L02-a_habits-142",
+"type": "gap",
+"q": "My dad _____ (would / tell) us stories before bed.",
+"a": "would tell"
+},
+{
+"id": "L02-a_habits-143",
+"type": "gap",
+"q": "My cat _____ (will / sit) by the door for hours waiting for me.",
+"a": "will sit"
+},
+{
+"id": "L02-a_habits-144",
+"type": "gap",
+"q": "He _____ (will / spend) all evening on his phone if you let him.",
+"a": "will spend | 'll spend"
+},
+{
+"id": "L02-a_habits-145",
+"type": "gap",
+"q": "She _____ (will / often / work) through her lunch break.",
+"a": "will often work | 'll often work"
+},
+{
+"id": "L02-a_habits-146",
+"type": "gap",
+"q": "A good manager _____ (will / always / listen) to the team.",
+"a": "will always listen"
+},
+{
+"id": "L02-a_habits-147",
+"type": "gap",
+"q": "Our neighbour _____ (will / play) loud music every Saturday night.",
+"a": "will play | 'll play"
+},
+{
+"id": "L02-a_habits-148",
+"type": "gap",
+"q": "I _____ (use / be) a night owl, but now I get up early.",
+"a": "used to be"
+},
+{
+"id": "L02-a_habits-149",
+"type": "gap",
+"q": "We _____ (use / live) in a small flat near the station.",
+"a": "used to live"
+},
+{
+"id": "L02-a_habits-150",
+"type": "gap",
+"q": "He _____ (not / use / like) coffee.",
+"a": "didn't use to like | did not use to like"
+},
+{
+"id": "L02-a_habits-151",
+"type": "gap",
+"q": "_____ you _____ (use / have) a long commute?",
+"a": "did use to have"
+},
+{
+"id": "L02-a_habits-152",
+"type": "gap",
+"q": "There _____ (use / be) a cinema in our street.",
+"a": "used to be"
+},
+{
+"id": "L02-a_habits-153",
+"type": "gap",
+"q": "She _____ (use / own) a bakery in the centre.",
+"a": "used to own"
+},
+{
+"id": "L02-a_habits-154",
+"type": "gap",
+"q": "My flatmate _____ (always / leave) the door open! It's so annoying!",
+"a": "is always leaving | 's always leaving"
+},
+{
+"id": "L02-a_habits-155",
+"type": "gap",
+"q": "You _____ (constantly / interrupt) me!",
+"a": "are constantly interrupting | 're constantly interrupting"
+},
+{
+"id": "L02-a_habits-156",
+"type": "gap",
+"q": "He _____ (always / complain) about the weather!",
+"a": "is always complaining | 's always complaining"
+},
+{
+"id": "L02-a_habits-157",
+"type": "gap",
+"q": "My brother _____ (always / borrow) my charger without asking!",
+"a": "is always borrowing | 's always borrowing"
+},
+{
+"id": "L02-a_habits-158",
+"type": "gap",
+"q": "Our dog _____ (always / bark) at the postman!",
+"a": "is always barking | 's always barking"
+},
+{
+"id": "L02-a_habits-159",
+"type": "gap",
+"q": "She _____ (forever / change) her plans at the last minute!",
+"a": "is forever changing | 's forever changing"
+},
+{
+"id": "L02-a_habits-160",
+"type": "gap",
+"q": "My colleague _____ (always / eat) my sandwiches from the fridge!",
+"a": "is always eating | 's always eating"
+},
+{
+"id": "L02-a_habits-161",
+"type": "gap",
+"q": "You _____ (always / lose) your glasses!",
+"a": "are always losing | 're always losing"
+},
+{
+"id": "L02-a_habits-162",
+"type": "gap",
+"q": "When I was a teenager, my mum _____ (always / tell) me to tidy my room.",
+"a": "was always telling | would always tell"
+},
+{
+"id": "L02-a_habits-163",
+"type": "gap",
+"q": "Creatures of habit _____ (tend / follow) the same routine every day.",
+"a": "tend to follow"
+},
+{
+"id": "L02-a_habits-164",
+"type": "gap",
+"q": "I _____ (keep / fall) into the habit of working late.",
+"a": "keep falling"
+},
+{
+"id": "L02-a_habits-165",
+"type": "gap",
+"q": "Before I had kids, I _____ (would / sleep) until ten on Sundays.",
+"a": "would sleep | 'd sleep | used to sleep"
+},
+{
+"id": "L02-a_habits-166",
+"type": "gap",
+"q": "Night owls _____ (be / inclined / feel) tired in the morning.",
+"a": "are inclined to feel"
+},
+{
+"id": "L02-a_habits-167",
+"type": "gap",
+"q": "My boss _____ (keep / change) the deadline.",
+"a": "keeps changing | kept changing"
+},
+{
+"id": "L02-a_habits-168",
+"type": "gap",
+"q": "People _____ (tend / underestimate) how long a task will take.",
+"a": "tend to underestimate"
+},
+{
+"id": "L02-a_habits-169",
+"type": "gap",
+"q": "When I lived abroad, I _____ (would / call) my parents every Sunday.",
+"a": "would call | 'd call | used to call"
+},
+{
+"id": "L02-a_habits-170",
+"type": "gap",
+"q": "He _____ (always / check) his phone during dinner!",
+"a": "is always checking | 's always checking"
+}
+]
+}

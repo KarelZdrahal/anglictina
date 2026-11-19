@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -8,6 +8,14 @@
    "id": "L01",
    "week": 1,
    "title": "People & personalities"
+  },
+  {
+   "file": "lessons/L02.json",
+   "v": 1,
+   "h": "08e2cb65b15a",
+   "id": "L02",
+   "week": 2,
+   "title": "Work & daily routines"
   }
  ],
  "bank": [
@@ -170,6 +178,14 @@
    "id": "pack20",
    "topic": "Idioms & expressions",
    "count": 50
+  },
+  {
+   "file": "bank/pack21.json",
+   "v": 1,
+   "h": "b4495fd0d166",
+   "id": "pack21",
+   "topic": "Time & productivity",
+   "count": 50
   }
  ],
  "practice": [
@@ -218,6 +234,54 @@
    "v": 1,
    "h": "02bc5bdcc67c",
    "id": "L01-f_listening",
+   "topic": "Listening",
+   "count": 37
+  },
+  {
+   "file": "practice/L02-a_habits.json",
+   "v": 1,
+   "h": "5a9add8f166c",
+   "id": "L02-a_habits",
+   "topic": "Habits and tendencies",
+   "count": 170
+  },
+  {
+   "file": "practice/L02-b_routines.json",
+   "v": 1,
+   "h": "1681b8f3ab08",
+   "id": "L02-b_routines",
+   "topic": "Routines: tenses, adverbs & word order",
+   "count": 102
+  },
+  {
+   "file": "practice/L02-c_vocab.json",
+   "v": 1,
+   "h": "ccc1f436bb8c",
+   "id": "L02-c_vocab",
+   "topic": "Work & routine vocabulary in context",
+   "count": 103
+  },
+  {
+   "file": "practice/L02-d_translate.json",
+   "v": 1,
+   "h": "dc365caf111d",
+   "id": "L02-d_translate",
+   "topic": "Translation",
+   "count": 63
+  },
+  {
+   "file": "practice/L02-e_reading.json",
+   "v": 1,
+   "h": "861ca70ec7c8",
+   "id": "L02-e_reading",
+   "topic": "Reading – articles",
+   "count": 30
+  },
+  {
+   "file": "practice/L02-f_listening.json",
+   "v": 1,
+   "h": "ef476c47b804",
+   "id": "L02-f_listening",
    "topic": "Listening",
    "count": 37
   }

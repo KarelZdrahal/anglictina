@@ -1,0 +1,453 @@
+{
+"id": "L02-f_listening",
+"lesson": "L02",
+"topic": "Listening",
+"topic_cz": "Poslech",
+"level": "B1",
+"exercises": [
+{
+"id": "L02-f_listening-001",
+"type": "listen",
+"q": "What time does Tomáš tend to get up?",
+"a": "at five",
+"options": [
+"at five",
+"at seven",
+"at three"
+],
+"text": "Hi, I'm Tomáš. I'm a real early bird. I tend to get up at five, even at weekends. I go for a run, have a big breakfast and I'm at my desk by seven. By three o'clock I'm usually tired, so I try to do the difficult jobs in the morning."
+},
+{
+"id": "L02-f_listening-002",
+"type": "listen",
+"q": "What does he do first?",
+"a": "He goes for a run.",
+"options": [
+"He goes for a run.",
+"He checks his emails.",
+"He has a shower."
+],
+"text": "Hi, I'm Tomáš. I'm a real early bird. I tend to get up at five, even at weekends. I go for a run, have a big breakfast and I'm at my desk by seven. By three o'clock I'm usually tired, so I try to do the difficult jobs in the morning."
+},
+{
+"id": "L02-f_listening-003",
+"type": "listen",
+"q": "When does he do difficult jobs?",
+"a": "in the morning",
+"options": [
+"in the morning",
+"after three",
+"in the evening"
+],
+"text": "Hi, I'm Tomáš. I'm a real early bird. I tend to get up at five, even at weekends. I go for a run, have a big breakfast and I'm at my desk by seven. By three o'clock I'm usually tired, so I try to do the difficult jobs in the morning."
+},
+{
+"id": "L02-f_listening-004",
+"type": "listen",
+"q": "What does the flatmate keep doing?",
+"a": "eating the speaker's yoghurts",
+"options": [
+"eating the speaker's yoghurts",
+"playing loud music",
+"coming home late"
+],
+"text": "My flatmate is driving me crazy. She's always leaving her wet towels on the bathroom floor, and she keeps eating my yoghurts from the fridge. I've talked to her about it twice, but nothing changes. I think I'll start looking for a new flat."
+},
+{
+"id": "L02-f_listening-005",
+"type": "listen",
+"q": "How many times has the speaker talked to her?",
+"a": "twice",
+"options": [
+"twice",
+"never",
+"five times"
+],
+"text": "My flatmate is driving me crazy. She's always leaving her wet towels on the bathroom floor, and she keeps eating my yoghurts from the fridge. I've talked to her about it twice, but nothing changes. I think I'll start looking for a new flat."
+},
+{
+"id": "L02-f_listening-006",
+"type": "listen",
+"q": "What is the speaker thinking of doing?",
+"a": "finding a new flat",
+"options": [
+"finding a new flat",
+"buying a new fridge",
+"asking the landlord for help"
+],
+"text": "My flatmate is driving me crazy. She's always leaving her wet towels on the bathroom floor, and she keeps eating my yoghurts from the fridge. I've talked to her about it twice, but nothing changes. I think I'll start looking for a new flat."
+},
+{
+"id": "L02-f_listening-007",
+"type": "listen",
+"q": "Why is the speaker late?",
+"a": "The trains are delayed.",
+"options": [
+"The trains are delayed.",
+"He overslept.",
+"He had another meeting."
+],
+"text": "Sorry I'm late, everyone. The trains are running behind schedule again – that's the third time this week. Let's start the meeting now. We need to meet the deadline on Friday, so I'm afraid some of you may have to work overtime tomorrow."
+},
+{
+"id": "L02-f_listening-008",
+"type": "listen",
+"q": "When is the deadline?",
+"a": "on Friday",
+"options": [
+"on Friday",
+"tomorrow",
+"next week"
+],
+"text": "Sorry I'm late, everyone. The trains are running behind schedule again – that's the third time this week. Let's start the meeting now. We need to meet the deadline on Friday, so I'm afraid some of you may have to work overtime tomorrow."
+},
+{
+"id": "L02-f_listening-009",
+"type": "listen",
+"q": "What may some people have to do?",
+"a": "work overtime",
+"options": [
+"work overtime",
+"work at the weekend",
+"cancel their holiday"
+],
+"text": "Sorry I'm late, everyone. The trains are running behind schedule again – that's the third time this week. Let's start the meeting now. We need to meet the deadline on Friday, so I'm afraid some of you may have to work overtime tomorrow."
+},
+{
+"id": "L02-f_listening-010",
+"type": "listen",
+"q": "Where did the speaker study?",
+"a": "in the library",
+"options": [
+"in the library",
+"at home",
+"in a café"
+],
+"text": "When I was a student in Prague, I would study in the library until it closed at ten. Then my friends and I would grab a bite to eat at a little Vietnamese place round the corner. We used to have very little money, but those were great times."
+},
+{
+"id": "L02-f_listening-011",
+"type": "listen",
+"q": "Where did they go to eat?",
+"a": "a Vietnamese place",
+"options": [
+"a Vietnamese place",
+"the student canteen",
+"a friend's flat"
+],
+"text": "When I was a student in Prague, I would study in the library until it closed at ten. Then my friends and I would grab a bite to eat at a little Vietnamese place round the corner. We used to have very little money, but those were great times."
+},
+{
+"id": "L02-f_listening-012",
+"type": "listen",
+"q": "How does the speaker remember that time?",
+"a": "as great times",
+"options": [
+"as great times",
+"as a difficult period",
+"as boring"
+],
+"text": "When I was a student in Prague, I would study in the library until it closed at ten. Then my friends and I would grab a bite to eat at a little Vietnamese place round the corner. We used to have very little money, but those were great times."
+},
+{
+"id": "L02-f_listening-013",
+"type": "listen",
+"q": "What bad habit did the speaker have at first?",
+"a": "checking emails late at night",
+"options": [
+"checking emails late at night",
+"sleeping until noon",
+"eating too much"
+],
+"text": "I've been working from home for two years now. At first I fell into the habit of checking emails late at night. Now I have a rule: at six o'clock I switch off the laptop and go for a walk with the dog. It really helps me wind down."
+},
+{
+"id": "L02-f_listening-014",
+"type": "listen",
+"q": "What happens at six o'clock now?",
+"a": "The laptop goes off.",
+"options": [
+"The laptop goes off.",
+"The speaker starts work.",
+"The dog has dinner."
+],
+"text": "I've been working from home for two years now. At first I fell into the habit of checking emails late at night. Now I have a rule: at six o'clock I switch off the laptop and go for a walk with the dog. It really helps me wind down."
+},
+{
+"id": "L02-f_listening-015",
+"type": "listen",
+"q": "How old is the grandfather?",
+"a": "ninety",
+"options": [
+"ninety",
+"eighty",
+"seventy"
+],
+"text": "My grandfather is ninety, and he's still a creature of habit. Every day he'll have soup for lunch at exactly twelve o'clock, then he'll sleep for half an hour in his armchair. If lunch is five minutes late, he gets really grumpy!"
+},
+{
+"id": "L02-f_listening-016",
+"type": "listen",
+"q": "What does he do after lunch?",
+"a": "He sleeps in his armchair.",
+"options": [
+"He sleeps in his armchair.",
+"He goes for a walk.",
+"He reads the paper."
+],
+"text": "My grandfather is ninety, and he's still a creature of habit. Every day he'll have soup for lunch at exactly twelve o'clock, then he'll sleep for half an hour in his armchair. If lunch is five minutes late, he gets really grumpy!"
+},
+{
+"id": "L02-f_listening-017",
+"type": "listen",
+"q": "What happens if lunch is late?",
+"a": "He gets grumpy.",
+"options": [
+"He gets grumpy.",
+"He cooks it himself.",
+"He doesn't eat."
+],
+"text": "My grandfather is ninety, and he's still a creature of habit. Every day he'll have soup for lunch at exactly twelve o'clock, then he'll sleep for half an hour in his armchair. If lunch is five minutes late, he gets really grumpy!"
+},
+{
+"id": "L02-f_listening-018",
+"type": "listen",
+"q": "What will Martin do this week?",
+"a": "show Lucie how things work",
+"options": [
+"show Lucie how things work",
+"go on holiday",
+"work from home"
+],
+"text": "Welcome to the team, Lucie! I'm Martin, and I'll show you the ropes this week. Don't worry if everything seems confusing at first – you'll get into the swing of things soon. Oh, and remember to clock in at the main entrance every morning."
+},
+{
+"id": "L02-f_listening-019",
+"type": "listen",
+"q": "What must Lucie remember to do?",
+"a": "clock in at the main entrance",
+"options": [
+"clock in at the main entrance",
+"bring her own laptop",
+"arrive before seven"
+],
+"text": "Welcome to the team, Lucie! I'm Martin, and I'll show you the ropes this week. Don't worry if everything seems confusing at first – you'll get into the swing of things soon. Oh, and remember to clock in at the main entrance every morning."
+},
+{
+"id": "L02-f_listening-020",
+"type": "listen",
+"q": "Why doesn't the speaker say no to new projects?",
+"a": "She wants a promotion.",
+"options": [
+"She wants a promotion.",
+"She likes being busy.",
+"Her colleagues are ill."
+],
+"text": "Honestly, I'm up to my eyes in work at the moment. My manager keeps giving me new projects, and I'm not inclined to say no because I want a promotion. But I haven't had a proper lunch break for weeks. Something has to change."
+},
+{
+"id": "L02-f_listening-021",
+"type": "listen",
+"q": "What hasn't she had for weeks?",
+"a": "a proper lunch break",
+"options": [
+"a proper lunch break",
+"a day off",
+"a meeting with her manager"
+],
+"text": "Honestly, I'm up to my eyes in work at the moment. My manager keeps giving me new projects, and I'm not inclined to say no because I want a promotion. But I haven't had a proper lunch break for weeks. Something has to change."
+},
+{
+"id": "L02-f_listening-022",
+"type": "listen",
+"q": "How many times does the speaker hit the snooze button?",
+"a": "at least four times",
+"options": [
+"at least four times",
+"once",
+"twice"
+],
+"text": "I'm a night owl, so mornings are terrible for me. I hit the snooze button at least four times, then I rush out of the house without breakfast. Luckily my company has flexible working hours, so I can start at ten and work until seven."
+},
+{
+"id": "L02-f_listening-023",
+"type": "listen",
+"q": "What does the speaker often skip?",
+"a": "breakfast",
+"options": [
+"breakfast",
+"lunch",
+"the bus"
+],
+"text": "I'm a night owl, so mornings are terrible for me. I hit the snooze button at least four times, then I rush out of the house without breakfast. Luckily my company has flexible working hours, so I can start at ten and work until seven."
+},
+{
+"id": "L02-f_listening-024",
+"type": "listen",
+"q": "What are the speaker's working hours?",
+"a": "ten to seven",
+"options": [
+"ten to seven",
+"nine to five",
+"seven to three"
+],
+"text": "I'm a night owl, so mornings are terrible for me. I hit the snooze button at least four times, then I rush out of the house without breakfast. Luckily my company has flexible working hours, so I can start at ten and work until seven."
+},
+{
+"id": "L02-f_listening-025",
+"type": "listen",
+"q": "Why did the speaker work all night?",
+"a": "to finish a report",
+"options": [
+"to finish a report",
+"to prepare for an exam",
+"to help a colleague"
+],
+"text": "Last week I had to pull an all-nighter to finish a report for a client. I promised myself it would be the last time. This month I'm making an effort to plan better: I write a to-do list every Monday and I don't take on extra work unless I really have time."
+},
+{
+"id": "L02-f_listening-026",
+"type": "listen",
+"q": "What does the speaker do every Monday now?",
+"a": "writes a to-do list",
+"options": [
+"writes a to-do list",
+"works from home",
+"meets the client"
+],
+"text": "Last week I had to pull an all-nighter to finish a report for a client. I promised myself it would be the last time. This month I'm making an effort to plan better: I write a to-do list every Monday and I don't take on extra work unless I really have time."
+},
+{
+"id": "L02-f_listening-027",
+"type": "listen",
+"q": "When does the first colleague arrive?",
+"a": "at nine exactly",
+"options": [
+"at nine exactly",
+"at ten",
+"before eight"
+],
+"text": "In our office, there's one colleague who does the bare minimum. He'll arrive at nine on the dot, spend an hour making coffee and leave at five exactly. Then there's Jana, who always goes the extra mile. Guess who got the promotion?"
+},
+{
+"id": "L02-f_listening-028",
+"type": "listen",
+"q": "What is Jana like?",
+"a": "She always does more than necessary.",
+"options": [
+"She always does more than necessary.",
+"She is always late.",
+"She only does the minimum."
+],
+"text": "In our office, there's one colleague who does the bare minimum. He'll arrive at nine on the dot, spend an hour making coffee and leave at five exactly. Then there's Jana, who always goes the extra mile. Guess who got the promotion?"
+},
+{
+"id": "L02-f_listening-029",
+"type": "listen",
+"q": "Who probably got the promotion?",
+"a": "Jana",
+"options": [
+"Jana",
+"the first colleague",
+"nobody"
+],
+"text": "In our office, there's one colleague who does the bare minimum. He'll arrive at nine on the dot, spend an hour making coffee and leave at five exactly. Then there's Jana, who always goes the extra mile. Guess who got the promotion?"
+},
+{
+"id": "L02-f_listening-030",
+"type": "listen",
+"q": "How much coffee did the speaker use to drink?",
+"a": "five cups a day",
+"options": [
+"five cups a day",
+"one cup a day",
+"ten cups a week"
+],
+"text": "I used to drink five cups of coffee a day. It was a terrible habit, and I couldn't sleep at night. Now I have one cup in the morning and green tea in the afternoon. It was hard at first – old habits die hard – but I feel much better."
+},
+{
+"id": "L02-f_listening-031",
+"type": "listen",
+"q": "What does the speaker drink in the afternoon now?",
+"a": "green tea",
+"options": [
+"green tea",
+"coffee",
+"water"
+],
+"text": "I used to drink five cups of coffee a day. It was a terrible habit, and I couldn't sleep at night. Now I have one cup in the morning and green tea in the afternoon. It was hard at first – old habits die hard – but I feel much better."
+},
+{
+"id": "L02-f_listening-032",
+"type": "listen",
+"q": "How does the speaker feel now?",
+"a": "much better",
+"options": [
+"much better",
+"more tired",
+"exactly the same"
+],
+"text": "I used to drink five cups of coffee a day. It was a terrible habit, and I couldn't sleep at night. Now I have one cup in the morning and green tea in the afternoon. It was hard at first – old habits die hard – but I feel much better."
+},
+{
+"id": "L02-f_listening-033",
+"type": "listen",
+"q": "What does Dad always do in the morning?",
+"a": "read the newspaper",
+"options": [
+"read the newspaper",
+"go jogging",
+"listen to the radio"
+],
+"text": "Dad, can I ask you something? Why do you always read the newspaper before you talk to anyone in the morning? You've done it every day for as long as I can remember. – Well, it's my quiet time. After that, I'm ready for the day – and for you!"
+},
+{
+"id": "L02-f_listening-034",
+"type": "listen",
+"q": "Why does he do it?",
+"a": "It's his quiet time.",
+"options": [
+"It's his quiet time.",
+"He needs it for work.",
+"He doesn't like his children."
+],
+"text": "Dad, can I ask you something? Why do you always read the newspaper before you talk to anyone in the morning? You've done it every day for as long as I can remember. – Well, it's my quiet time. After that, I'm ready for the day – and for you!"
+},
+{
+"id": "L02-f_listening-035",
+"type": "listen",
+"q": "How long has the speaker had the same job?",
+"a": "twelve years",
+"options": [
+"twelve years",
+"two years",
+"twenty years"
+],
+"text": "I've been in the same job for twelve years, and lately I've felt stuck in a rut. Every day is the same: the same desk, the same tasks, the same lunch. So I've decided to take an evening course in graphic design. Who knows? Maybe it's time for something completely new."
+},
+{
+"id": "L02-f_listening-036",
+"type": "listen",
+"q": "How does the speaker feel?",
+"a": "stuck in a rut",
+"options": [
+"stuck in a rut",
+"very excited",
+"up to the eyes in work"
+],
+"text": "I've been in the same job for twelve years, and lately I've felt stuck in a rut. Every day is the same: the same desk, the same tasks, the same lunch. So I've decided to take an evening course in graphic design. Who knows? Maybe it's time for something completely new."
+},
+{
+"id": "L02-f_listening-037",
+"type": "listen",
+"q": "What has the speaker decided to do?",
+"a": "take a course in graphic design",
+"options": [
+"take a course in graphic design",
+"leave the job tomorrow",
+"move abroad"
+],
+"text": "I've been in the same job for twelve years, and lately I've felt stuck in a rut. Every day is the same: the same desk, the same tasks, the same lunch. So I've decided to take an evening course in graphic design. Who knows? Maybe it's time for something completely new."
+}
+]
+}

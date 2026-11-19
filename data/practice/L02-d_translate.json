@@ -1,0 +1,387 @@
+{
+"id": "L02-d_translate",
+"lesson": "L02",
+"topic": "Translation",
+"topic_cz": "Překlad",
+"level": "B1",
+"exercises": [
+{
+"id": "L02-d_translate-001",
+"type": "translate",
+"q": "Obvykle vstávám v šest.",
+"a": "I usually get up at six. | I usually get up at six o'clock. | I usually wake up at six."
+},
+{
+"id": "L02-d_translate-002",
+"type": "translate",
+"q": "Tento týden pracuji z domova.",
+"a": "I'm working from home this week. | This week I'm working from home. | I am working from home this week."
+},
+{
+"id": "L02-d_translate-003",
+"type": "translate",
+"q": "Ráno mívám tendenci pracovat lépe.",
+"a": "I tend to work better in the morning. | I tend to work better in the mornings."
+},
+{
+"id": "L02-d_translate-004",
+"type": "translate",
+"q": "Pořád zapomínám heslo.",
+"a": "I keep forgetting my password. | I keep forgetting the password. | I keep on forgetting my password."
+},
+{
+"id": "L02-d_translate-005",
+"type": "translate",
+"q": "Je pořád pozdě! (rozčiluje mě to)",
+"a": "He's always late! | She's always late! | He is always late! | She is always late!"
+},
+{
+"id": "L02-d_translate-006",
+"type": "translate",
+"q": "Neustále mě přerušuješ!",
+"a": "You're always interrupting me! | You're constantly interrupting me! | You keep interrupting me!"
+},
+{
+"id": "L02-d_translate-007",
+"type": "translate",
+"q": "Jako student jsem se učil celou noc před zkouškami.",
+"a": "As a student, I would study all night before exams. | As a student, I used to study all night before exams. | When I was a student, I would study all night before exams. | When I was a student, I used to study all night before exams."
+},
+{
+"id": "L02-d_translate-008",
+"type": "translate",
+"q": "Dřív jsem bydlel blízko kanceláře.",
+"a": "I used to live near the office. | I used to live close to the office."
+},
+{
+"id": "L02-d_translate-009",
+"type": "translate",
+"q": "Dřív jsem nepil kávu.",
+"a": "I didn't use to drink coffee. | I never used to drink coffee. | I did not use to drink coffee."
+},
+{
+"id": "L02-d_translate-010",
+"type": "translate",
+"q": "Pracoval jsi dřív o víkendech?",
+"a": "Did you use to work at weekends? | Did you use to work on weekends?"
+},
+{
+"id": "L02-d_translate-011",
+"type": "translate",
+"q": "Moje babička bude sedět na zahradě celé hodiny.",
+"a": "My grandmother will sit in the garden for hours. | My grandma will sit in the garden for hours."
+},
+{
+"id": "L02-d_translate-012",
+"type": "translate",
+"q": "Má sklon panikařit, když se blíží termín.",
+"a": "He's inclined to panic when a deadline is approaching. | He is inclined to panic when a deadline gets close. | He's inclined to panic when deadlines get close. | He tends to panic when a deadline is approaching. | He tends to panic when deadlines get close."
+},
+{
+"id": "L02-d_translate-013",
+"type": "translate",
+"q": "Během týdne obvykle nechodíme jíst ven.",
+"a": "We don't tend to eat out during the week. | We don't usually eat out during the week. | We tend not to eat out during the week."
+},
+{
+"id": "L02-d_translate-014",
+"type": "translate",
+"q": "Jsem ranní ptáče.",
+"a": "I'm an early bird. | I am an early bird."
+},
+{
+"id": "L02-d_translate-015",
+"type": "translate",
+"q": "Můj bratr je noční sova.",
+"a": "My brother is a night owl."
+},
+{
+"id": "L02-d_translate-016",
+"type": "translate",
+"q": "Snažím se dodržovat denní režim.",
+"a": "I try to stick to a routine. | I'm trying to stick to a routine. | I try to stick to a daily routine."
+},
+{
+"id": "L02-d_translate-017",
+"type": "translate",
+"q": "Je těžké zbavit se zlozvyku.",
+"a": "It's hard to break a bad habit. | It is hard to break a bad habit. | It's difficult to break a bad habit."
+},
+{
+"id": "L02-d_translate-018",
+"type": "translate",
+"q": "Zvykl jsem si jíst u stolu v kanceláři.",
+"a": "I've fallen into the habit of eating at my desk. | I have fallen into the habit of eating at my desk. | I've got into the habit of eating at my desk."
+},
+{
+"id": "L02-d_translate-019",
+"type": "translate",
+"q": "Je to tvor zvyku.",
+"a": "He's a creature of habit. | She's a creature of habit. | He is a creature of habit. | She is a creature of habit."
+},
+{
+"id": "L02-d_translate-020",
+"type": "translate",
+"q": "Každé ráno několikrát zmáčknu odložení budíku.",
+"a": "Every morning I hit the snooze button several times. | I hit the snooze button several times every morning."
+},
+{
+"id": "L02-d_translate-021",
+"type": "translate",
+"q": "Mám až nad hlavu práce.",
+"a": "I'm up to my eyes in work. | I am up to my eyes in work."
+},
+{
+"id": "L02-d_translate-022",
+"type": "translate",
+"q": "Musíme stihnout termín.",
+"a": "We have to meet the deadline. | We must meet the deadline. | We need to meet the deadline."
+},
+{
+"id": "L02-d_translate-023",
+"type": "translate",
+"q": "Nemůžu si vzít další práci.",
+"a": "I can't take on any extra work. | I can't take on extra work. | I cannot take on any more work. | I can't take on any more work."
+},
+{
+"id": "L02-d_translate-024",
+"type": "translate",
+"q": "Máme zpoždění oproti plánu.",
+"a": "We're running behind schedule. | We are running behind schedule. | We're behind schedule."
+},
+{
+"id": "L02-d_translate-025",
+"type": "translate",
+"q": "Minulý měsíc jsem pracoval přesčas každý den.",
+"a": "I worked overtime every day last month. | Last month I worked overtime every day."
+},
+{
+"id": "L02-d_translate-026",
+"type": "translate",
+"q": "Pojďme si rychle něco dát k jídlu.",
+"a": "Let's grab a bite to eat. | Let's grab a bite."
+},
+{
+"id": "L02-d_translate-027",
+"type": "translate",
+"q": "Jak relaxuješ po práci?",
+"a": "How do you wind down after work? | How do you relax after work?"
+},
+{
+"id": "L02-d_translate-028",
+"type": "translate",
+"q": "Musíš si udělat čas na rodinu.",
+"a": "You have to make time for your family. | You need to make time for your family. | You must make time for your family."
+},
+{
+"id": "L02-d_translate-029",
+"type": "translate",
+"q": "Dělá jen to nejnutnější.",
+"a": "He does the bare minimum. | She does the bare minimum. | He only does the bare minimum. | She only does the bare minimum."
+},
+{
+"id": "L02-d_translate-030",
+"type": "translate",
+"q": "Snažím se být dochvilnější.",
+"a": "I'm making an effort to be more punctual. | I'm trying to be more punctual. | I am making an effort to be more punctual."
+},
+{
+"id": "L02-d_translate-031",
+"type": "translate",
+"q": "Cítím se jako ve vyjetých kolejích.",
+"a": "I feel stuck in a rut. | I feel like I'm stuck in a rut. | I feel like I am stuck in a rut."
+},
+{
+"id": "L02-d_translate-032",
+"type": "translate",
+"q": "Vždycky pro zákazníky udělá něco navíc.",
+"a": "She always goes the extra mile for customers. | He always goes the extra mile for customers. | She always goes the extra mile for her customers. | He always goes the extra mile for his customers."
+},
+{
+"id": "L02-d_translate-033",
+"type": "translate",
+"q": "Včera jsem probděl celou noc nad prací.",
+"a": "I pulled an all-nighter yesterday. | Yesterday I pulled an all-nighter. | I burned the midnight oil yesterday."
+},
+{
+"id": "L02-d_translate-034",
+"type": "translate",
+"q": "Můžeš nového kolegu zaučit?",
+"a": "Can you show the new colleague the ropes? | Could you show the new colleague the ropes?"
+},
+{
+"id": "L02-d_translate-035",
+"type": "translate",
+"q": "Pomalu se do toho dostávám.",
+"a": "I'm slowly getting into the swing of things. | I am slowly getting into the swing of things."
+},
+{
+"id": "L02-d_translate-036",
+"type": "translate",
+"q": "Náš šéf si velmi potrpí na dochvilnost.",
+"a": "Our boss is a stickler for punctuality. | Our boss is a real stickler for punctuality."
+},
+{
+"id": "L02-d_translate-037",
+"type": "translate",
+"q": "Psaní na klávesnici se mi stalo druhou přirozeností.",
+"a": "Typing has become second nature to me. | Typing became second nature to me."
+},
+{
+"id": "L02-d_translate-038",
+"type": "translate",
+"q": "Starých zvyků se člověk těžko zbavuje.",
+"a": "Old habits die hard."
+},
+{
+"id": "L02-d_translate-039",
+"type": "translate",
+"q": "Naše firma nabízí pružnou pracovní dobu.",
+"a": "Our company offers flexible working hours. | Our firm offers flexible working hours."
+},
+{
+"id": "L02-d_translate-040",
+"type": "translate",
+"q": "Většina mých kolegů pracuje na dálku.",
+"a": "Most of my colleagues work remotely. | Most of my colleagues work from home."
+},
+{
+"id": "L02-d_translate-041",
+"type": "translate",
+"q": "Rovnováha mezi prací a soukromým životem je pro mě důležitá.",
+"a": "Work-life balance is important to me. | A good work-life balance is important to me. | Work-life balance is important for me."
+},
+{
+"id": "L02-d_translate-042",
+"type": "translate",
+"q": "Nesnáším každodenní dřinu.",
+"a": "I hate the daily grind. | I can't stand the daily grind."
+},
+{
+"id": "L02-d_translate-043",
+"type": "translate",
+"q": "Tiskárna se pořád kazí.",
+"a": "The printer keeps breaking down. | The printer is always breaking down. | The printer keeps breaking."
+},
+{
+"id": "L02-d_translate-044",
+"type": "translate",
+"q": "Lidé mají sklon věřit všemu, co čtou na internetu.",
+"a": "People tend to believe everything they read online. | People are inclined to believe everything they read online. | People tend to believe everything they read on the internet."
+},
+{
+"id": "L02-d_translate-045",
+"type": "translate",
+"q": "Když jsme byli malí, hráli jsme si venku až do tmy.",
+"a": "When we were little, we would play outside until dark. | When we were children, we would play outside until dark. | When we were little, we used to play outside until dark. | When we were kids, we used to play outside until dark. | When we were kids, we would play outside until dark."
+},
+{
+"id": "L02-d_translate-046",
+"type": "translate",
+"q": "Dřív tady bylo kino.",
+"a": "There used to be a cinema here."
+},
+{
+"id": "L02-d_translate-047",
+"type": "translate",
+"q": "Můj spolubydlící pořád nechává špinavé nádobí ve dřezu!",
+"a": "My flatmate is always leaving dirty dishes in the sink! | My roommate is always leaving dirty dishes in the sink! | My flatmate keeps leaving dirty dishes in the sink!"
+},
+{
+"id": "L02-d_translate-048",
+"type": "translate",
+"q": "Moje kočka mě každé ráno budí v pět.",
+"a": "My cat wakes me up at five every morning. | My cat will wake me up at five every morning. | Every morning my cat wakes me up at five."
+},
+{
+"id": "L02-d_translate-049",
+"type": "translate",
+"q": "Nejsem nakloněn tomu souhlasit.",
+"a": "I'm not inclined to agree. | I am not inclined to agree."
+},
+{
+"id": "L02-d_translate-050",
+"type": "translate",
+"q": "Teď nemůžu mluvit, mám schůzku.",
+"a": "I can't talk now, I'm in a meeting. | I can't talk now. I'm in a meeting. | I can't talk now, I have a meeting."
+},
+{
+"id": "L02-d_translate-051",
+"type": "translate",
+"q": "Jak často pracuješ přesčas?",
+"a": "How often do you work overtime?"
+},
+{
+"id": "L02-d_translate-052",
+"type": "translate",
+"q": "Skoro nikdy si nedávám polední pauzu.",
+"a": "I hardly ever take a lunch break. | I almost never take a lunch break."
+},
+{
+"id": "L02-d_translate-053",
+"type": "translate",
+"q": "Málokdy přijde do práce před devátou.",
+"a": "He's rarely at work before nine. | He rarely comes to work before nine. | She rarely comes to work before nine. | She's rarely at work before nine. | He rarely gets to work before nine. | She rarely gets to work before nine."
+},
+{
+"id": "L02-d_translate-054",
+"type": "translate",
+"q": "Udělal jsem chybu ve zprávě.",
+"a": "I made a mistake in the report. | I've made a mistake in the report."
+},
+{
+"id": "L02-d_translate-055",
+"type": "translate",
+"q": "Musím udělat nákup a uklidit.",
+"a": "I have to do the shopping and the housework. | I need to do the shopping and the cleaning. | I have to do the shopping and the cleaning."
+},
+{
+"id": "L02-d_translate-056",
+"type": "translate",
+"q": "Můžeš mi udělat laskavost?",
+"a": "Can you do me a favour? | Could you do me a favour? | Can you do me a favor? | Could you do me a favor?"
+},
+{
+"id": "L02-d_translate-057",
+"type": "translate",
+"q": "Do pátku musíme udělat rozhodnutí.",
+"a": "We have to make a decision by Friday. | We need to make a decision by Friday. | We must make a decision by Friday."
+},
+{
+"id": "L02-d_translate-058",
+"type": "translate",
+"q": "Pořád si vymýšlí výmluvy.",
+"a": "He's always making excuses. | She's always making excuses. | He keeps making excuses. | She keeps making excuses."
+},
+{
+"id": "L02-d_translate-059",
+"type": "translate",
+"q": "Udělám, co budu moct.",
+"a": "I'll do my best. | I will do my best. | I'll do what I can."
+},
+{
+"id": "L02-d_translate-060",
+"type": "translate",
+"q": "Dělám pokroky v angličtině.",
+"a": "I'm making progress in English. | I'm making progress with my English. | I am making progress in English."
+},
+{
+"id": "L02-d_translate-061",
+"type": "translate",
+"q": "V práci se musíme pípnout při příchodu i odchodu.",
+"a": "At work we have to clock in and clock out. | We have to clock in and out at work. | At work we have to clock in and out."
+},
+{
+"id": "L02-d_translate-062",
+"type": "translate",
+"q": "Teenageři mívají sklon chodit spát pozdě.",
+"a": "Teenagers tend to go to bed late."
+},
+{
+"id": "L02-d_translate-063",
+"type": "translate",
+"q": "Šéf pořád mění termín.",
+"a": "The boss keeps changing the deadline. | My boss keeps changing the deadline. | The boss is always changing the deadline."
+}
+]
+}

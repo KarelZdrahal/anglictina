@@ -1,0 +1,81 @@
+#Reading – articles|Porozumění textu – články
+@text
+EARLY BIRDS AND NIGHT OWLS: IS YOUR BODY CLOCK TO BLAME?
+Some people jump out of bed at six, full of energy, while others hit the snooze button again and again and don't feel properly awake until lunchtime. For a long time, people who got up late were described as lazy. Today, scientists say the truth is more complicated: much of it depends on our "chronotype" – our natural body clock.
+Researchers believe that about a quarter of people are clear early birds and another quarter are true night owls. Everyone else is somewhere in between. Our chronotype is partly in our genes, but it also changes with age. Small children tend to wake up very early, teenagers are inclined to stay up late and sleep until noon, and many older people go back to being early birds.
+The problem is that most schools and workplaces are organised for early birds. A night owl who has to start work at seven will often feel tired, make more mistakes and need more coffee. Some studies even suggest that night owls who keep fighting against their body clock are more likely to suffer from stress.
+That is one reason why more companies now offer flexible working hours. "We don't care when people work, we care about results," says the director of a software company in Brno. "Our night owls tend to do their best work in the evening, and that's fine."
+So can a night owl become an early bird? Experts say small changes can help: get plenty of daylight in the morning, avoid screens late at night and try to stick to the same routine, even at weekends. But don't expect a miracle – your body clock may move by an hour or so, not more.
+@q ## What is a "chronotype"? ## our natural body clock / a type of alarm clock / a sleeping problem ## our natural body clock
+@q ## How many people are clear night owls, according to researchers? ## about a quarter / about half / almost everyone ## about a quarter
+@q ## What happens to many people when they get older? ## They become early birds again. / They sleep until noon. / They stop needing sleep. ## They become early birds again.
+@q ## Why does the software company in Brno offer flexible hours? ## It cares about results, not hours. / Its office is too small. / Its workers are all early birds. ## It cares about results, not hours.
+@q ## What do experts say about changing your chronotype? ## You can change it only a little. / You can change it completely. / It is impossible to change at all. ## You can change it only a little.
+@end
+@text
+THE FOUR-DAY WEEK: TOO GOOD TO BE TRUE?
+Imagine working four days a week for the same salary. For thousands of employees around the world, this is no longer a dream. In recent years, companies in Britain, Iceland, Spain and other countries have taken part in trials of a four-day working week, and the results have surprised many people.
+In one of the biggest trials, in the UK, about sixty companies reduced working hours by twenty percent without cutting pay. After six months, most of them decided to continue. Employees said they felt less stressed, slept better and had more time for their families and hobbies. Interestingly, the companies did not lose money – in many cases productivity stayed the same or even improved.
+How is that possible? Managers say that people tend to waste less time when they have fewer hours. Meetings become shorter, colleagues stop checking social media at their desks, and people focus on the most important tasks. "On Fridays I used to spend half the day answering unnecessary emails," says Sarah, a marketing manager. "Now I simply don't have time for that."
+However, the four-day week does not work for everyone. Hospitals, shops and restaurants need staff every day, so they have to organise shifts very carefully. Some employees also found that they had to work longer and more intense days to finish everything in four days. "On Thursdays I'm exhausted," admits one engineer. "But a three-day weekend is worth it."
+Critics also point out that the trials were voluntary, so the companies that took part were probably the ones most likely to succeed. Still, the idea is spreading, and for many workers, a better work-life balance is now more important than a higher salary.
+@q ## What happened in the UK trial? ## Hours were cut by 20% but pay stayed the same. / Pay was cut by 20%. / People worked longer hours for more money. ## Hours were cut by 20% but pay stayed the same.
+@q ## What did most companies decide after six months? ## to continue / to stop the trial / to cut salaries ## to continue
+@q ## Why, according to managers, does productivity not fall? ## People waste less time. / People work at weekends. / Companies hire more staff. ## People waste less time.
+@q ## What problem does the engineer mention? ## The working days are more tiring. / He has no time for lunch. / His salary is lower. ## The working days are more tiring.
+@q ## What is the critics' point? ## The companies chose to take part, so results may be too positive. / The trials were too short. / Workers didn't like the idea. ## The companies chose to take part, so results may be too positive.
+@end
+@text
+NIGHTS ON THE WARD
+Eva Horáková has been a nurse at a hospital in Ostrava for nineteen years, and for most of that time she has worked nights. Her shift starts at seven in the evening and finishes at seven in the morning.
+"People always ask me how I can do it," she says. "The truth is, I'm a natural night owl. Even as a child I would read under the covers with a torch until two in the morning. My mum was always telling me to go to sleep!"
+A typical night is never really typical. Eva will usually start by talking to the day nurses about each patient. Then she checks medicines and makes sure everyone is comfortable. Around midnight the ward tends to get quieter, and that's when she catches up on paperwork. "But you can never relax completely. Something always happens at three in the morning – that's the rule."
+Night work is not easy on the body. Eva admits that she used to struggle with sleep during the day. "In my first year I kept waking up at noon because of the noise outside. Now I have thick curtains and earplugs, and I stick to a strict routine: home, a light breakfast, shower, and bed by nine." She also makes a habit of going for a long walk before every shift, whatever the weather.
+What does she like about nights? "There's a special atmosphere. The team is small, so we really help each other. And patients are often more inclined to talk at night – they're worried, they can't sleep, and they want someone to listen."
+Would she ever go back to days? Eva laughs. "My husband keeps asking me that. Maybe when I'm older. For now, the night is my time."
+@q ## How long has Eva been a nurse? ## nineteen years / nine years / twelve years ## nineteen years
+@q ## What did Eva do as a child? ## She read late at night. / She got up very early. / She wanted to be a doctor. ## She read late at night.
+@q ## What usually happens around midnight on the ward? ## It gets quieter. / The day nurses arrive. / Patients have dinner. ## It gets quieter.
+@q ## What helped Eva sleep better during the day? ## thick curtains, earplugs and a routine / sleeping pills / moving to a quieter town ## thick curtains, earplugs and a routine
+@q ## Why do patients often talk more at night? ## They are worried and can't sleep. / They have more visitors. / The doctors ask them to. ## They are worried and can't sleep.
+@end
+@text
+HOW TO BREAK A BAD HABIT – AND MAKE A GOOD ONE
+We all have habits we would like to break: biting our nails, eating sweets in front of the TV, or checking our phones every five minutes. And we all have habits we would like to start, like exercising regularly or going to bed earlier. So why is it so hard to change?
+According to journalist Charles Duhigg, every habit works like a loop with three parts. First there is a cue – a trigger, such as feeling bored or arriving home from work. Then comes the routine – the behaviour itself, for example opening the fridge. Finally there is the reward – the pleasant feeling we get afterwards. After many repetitions, the brain connects the cue directly with the reward, and the behaviour becomes automatic.
+The good news is that we can use the same loop to our advantage. Experts say you shouldn't try to simply stop a bad habit; it is more effective to replace the routine with a better one. If you tend to eat biscuits when you are stressed at work, keep a bag of nuts on your desk or go for a five-minute walk instead. The cue and the reward stay the same – only the behaviour changes.
+To build a new habit, start small. Instead of promising yourself to run ten kilometres every day, put on your trainers and walk around the block. Connect the new habit to something you already do: "After I make my morning coffee, I'll do two minutes of stretching." And be patient. A famous study from University College London found that it takes an average of sixty-six days for a new behaviour to become automatic – not twenty-one, as many people believe.
+Finally, don't give up if you have a bad day. Missing one day doesn't ruin a habit. Missing a week might.
+@q ## What are the three parts of the habit loop? ## cue, routine, reward / plan, action, result / trigger, stress, sleep ## cue, routine, reward
+@q ## What do experts recommend instead of simply stopping a bad habit? ## replacing the routine with a better one / ignoring the cue / punishing yourself ## replacing the routine with a better one
+@q ## What is the advice about starting a new habit? ## Start with something small. / Start with a big goal. / Wait until you are motivated. ## Start with something small.
+@q ## How long does it take on average for a behaviour to become automatic, according to the study? ## 66 days / 21 days / one week ## 66 days
+@q ## What does the last paragraph say? ## Missing one day is not a big problem. / You must never miss a day. / Bad days ruin every habit. ## Missing one day is not a big problem.
+@end
+@text
+ONE YEAR OF WORKING FROM HOME – AN HONEST REVIEW
+Exactly a year ago, my company told us we could work remotely full-time. I was delighted. No more crowded trams, no more forty-minute commute, no more colleagues talking loudly on the phone next to me. Twelve months later, here is my honest review.
+Let's start with the good things. I have gained almost seven hours a week that I used to spend travelling. I now make time for breakfast with my kids, and I go for a run at lunchtime. I'm also more productive: I can concentrate for hours without interruptions, and I tend to finish my most difficult tasks before ten in the morning.
+But there have been problems too. In the first months, I fell into some really bad habits. I would roll out of bed at five to nine and start work in my pyjamas. I kept eating snacks all day because the kitchen was only five steps away. And because my laptop was always on the kitchen table, I never really finished work. I'd answer emails at ten at night and on Sunday afternoons. My work-life balance was worse than ever.
+The other thing I didn't expect was loneliness. I miss the small conversations by the coffee machine. On some days, the only person I spoke to was the delivery driver.
+So what has changed? I now have a proper desk in a small spare room, and when I close the door at six, the working day is over. I get dressed every morning as if I were going to the office. And I go to the office once a week to see my team – I actually look forward to it now.
+Would I go back to the office full-time? Definitely not. But working from home is not as easy as it looks.
+@q ## How much time does the writer save each week? ## almost seven hours / forty minutes / two days ## almost seven hours
+@q ## When does the writer tend to do the most difficult tasks? ## before ten in the morning / at lunchtime / late at night ## before ten in the morning
+@q ## Which bad habit did the writer fall into? ## working late in the evening / going to the office every day / skipping breakfast with the kids ## working late in the evening
+@q ## What surprised the writer? ## feeling lonely / having too many meetings / earning less money ## feeling lonely
+@q ## What is the writer's final opinion? ## Working from home is good, but not easy. / The office is better. / Everyone should work from home. ## Working from home is good, but not easy.
+@end
+@text
+MY GRANDFATHER'S WORKING LIFE
+My grandfather Josef worked in the same steelworks for forty-two years. When I was a child, he would sit me on his knee and tell me stories about his job, and I never got tired of listening.
+He used to get up at half past four every morning. My grandmother would make him coffee and two thick slices of bread with lard, and he would cycle six kilometres to the factory, whatever the weather. He was a real creature of habit: the same breakfast, the same bicycle, the same route. Even after he retired, he kept on waking up at half past four. "My body doesn't know I'm a pensioner," he used to joke.
+The work was hard and dangerous. There were no flexible working hours and nobody had heard of work-life balance. Workers clocked in at six and clocked out at two, and if you were late three times, you lost part of your salary. Grandad was a stickler for punctuality – in forty-two years he was never late once. He was proud of that.
+But he also remembered good things. Colleagues helped each other, and older workers showed the young ones the ropes. On Fridays, the whole team would go to the pub near the gate for a beer before going home. Many of his colleagues were his best friends for life.
+When I tell him about my job – working remotely, video calls, emails at midnight – he shakes his head. "You young people are always looking at your screens," he says. "We worked hard, but when we went home, work stayed at the factory." I'm inclined to think he has a point.
+@q ## How long did Josef work at the steelworks? ## forty-two years / twenty-four years / six years ## forty-two years
+@q ## How did he get to work? ## by bicycle / by bus / on foot ## by bicycle
+@q ## What happened after he retired? ## He still woke up at half past four. / He started sleeping late. / He went back to work. ## He still woke up at half past four.
+@q ## What happened to workers who were late three times? ## They lost part of their salary. / They lost their job. / They had to work at weekends. ## They lost part of their salary.
+@q ## What does the grandfather think about young people's work? ## Work does not stay at work any more. / Young people don't work hard. / Remote work is a great idea. ## Work does not stay at work any more.
+@end

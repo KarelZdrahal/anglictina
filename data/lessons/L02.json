@@ -1,0 +1,658 @@
+{
+ "id": "L02",
+ "week": 2,
+ "date": "2026-11-19",
+ "level": "B1+",
+ "title_en": "Work & daily routines",
+ "title_cz": "Práce a denní režim",
+ "grammar_focus": "Habits and tendencies: tend to, be inclined to, keep (on) -ing, will/would, be always -ing",
+ "grammar_html": "<p>• zvyky, fakta, trvalé stavy<br><i>I usually <b>start</b> at eight.</i><br>děj právě teď, dočasná situace, vývoj<br><i>This month I<b>'m starting</b> at seven.</i></p><p><b>Příslovce frekvence</b> stojí <b>před plnovýznamovým slovesem</b>, ale <b>za slovesem <i>be</i></b> a za pomocným slovesem: <i>She <b>often works</b> late.</i> × <i>She <b>is often</b> late.</i> × <i>I <b>have never</b> been late.</i><br>Výrazy <i>every day, once a week, from time to time</i> stojí obvykle <b>na konci</b> věty.</p>",
+ "audio": "lessons/L02.mp3",
+ "pdf": "lessons/L02.pdf",
+ "vocab": [
+  {
+   "id": "L02-stick-to-a-routine",
+   "en": "stick to a routine",
+   "cz": "dodržovat (denní) režim",
+   "ipa": "stɪk tu ə ruːˈtiːn",
+   "ex": "I find it hard to stick to a routine when I work from home."
+  },
+  {
+   "id": "L02-break-a-habit",
+   "en": "break a habit",
+   "cz": "zbavit se zvyku",
+   "ipa": "breɪk ə ˈhæbɪt",
+   "ex": "It took me years to break the habit of checking my phone in bed."
+  },
+  {
+   "id": "L02-fall-into-the-habit-of-doing",
+   "en": "fall into the habit of (doing)",
+   "cz": "zvyknout si (obvykle na něco špatného)",
+   "ipa": "fɔːl ˈɪntə ðə ˈhæbɪt əv",
+   "ex": "During lockdown I fell into the habit of skipping breakfast."
+  },
+  {
+   "id": "L02-make-a-habit-of-doing",
+   "en": "make a habit of (doing)",
+   "cz": "udělat si z něčeho zvyk",
+   "ipa": "meɪk ə ˈhæbɪt əv",
+   "ex": "She makes a habit of walking to work every day."
+  },
+  {
+   "id": "L02-a-creature-of-habit",
+   "en": "a creature of habit",
+   "cz": "tvor zvyku",
+   "ipa": "ə ˈkriːtʃər əv ˈhæbɪt",
+   "ex": "My dad is a creature of habit – he has the same breakfast every day."
+  },
+  {
+   "id": "L02-an-early-bird",
+   "en": "an early bird",
+   "cz": "ranní ptáče",
+   "ipa": "ən ˈɜːli bɜːd",
+   "ex": "I'm an early bird, so I do my best work before nine."
+  },
+  {
+   "id": "L02-a-night-owl",
+   "en": "a night owl",
+   "cz": "noční sova",
+   "ipa": "ə naɪt aʊl",
+   "ex": "As a night owl, she tends to start working at ten in the evening."
+  },
+  {
+   "id": "L02-hit-the-snooze-button",
+   "en": "hit the snooze button",
+   "cz": "odložit budík (o pár minut)",
+   "ipa": "hɪt ðə snuːz ˈbʌtn",
+   "ex": "I keep hitting the snooze button and then I'm late."
+  },
+  {
+   "id": "L02-the-daily-grind",
+   "en": "the daily grind",
+   "cz": "každodenní dřina, šeď všedních dnů",
+   "ipa": "ðə ˈdeɪli ɡraɪnd",
+   "ex": "A weekend in the mountains helps me forget the daily grind."
+  },
+  {
+   "id": "L02-work-life-balance",
+   "en": "work-life balance",
+   "cz": "rovnováha mezi prací a osobním životem",
+   "ipa": "ˌwɜːk laɪf ˈbæləns",
+   "ex": "Flexible hours have really improved my work-life balance."
+  },
+  {
+   "id": "L02-flexible-working-hours",
+   "en": "flexible working hours",
+   "cz": "pružná pracovní doba",
+   "ipa": "ˈfleksəbl ˈwɜːkɪŋ ˈaʊəz",
+   "ex": "Our company offers flexible working hours, so I start at seven."
+  },
+  {
+   "id": "L02-work-remotely",
+   "en": "work remotely",
+   "cz": "pracovat na dálku",
+   "ipa": "wɜːk rɪˈməʊtli",
+   "ex": "Half of our team works remotely from different countries."
+  },
+  {
+   "id": "L02-be-up-to-your-eyes-in-work",
+   "en": "be up to your eyes in work",
+   "cz": "mít práce nad hlavu",
+   "ipa": "bi ʌp tə jɔːr aɪz ɪn wɜːk",
+   "ex": "Sorry, I can't help – I'm up to my eyes in work."
+  },
+  {
+   "id": "L02-meet-a-deadline",
+   "en": "meet a deadline",
+   "cz": "stihnout termín",
+   "ipa": "miːt ə ˈdedlaɪn",
+   "ex": "We worked all weekend to meet the deadline."
+  },
+  {
+   "id": "L02-take-on-extra-work",
+   "en": "take on extra work",
+   "cz": "vzít si práci navíc",
+   "ipa": "teɪk ɒn ˈekstrə wɜːk",
+   "ex": "He tends to take on extra work and then feels stressed."
+  },
+  {
+   "id": "L02-run-behind-schedule",
+   "en": "run behind schedule",
+   "cz": "mít skluz (za plánem)",
+   "ipa": "rʌn bɪˈhaɪnd ˈʃedjuːl",
+   "ex": "The project is running two weeks behind schedule."
+  },
+  {
+   "id": "L02-work-overtime",
+   "en": "work overtime",
+   "cz": "pracovat přesčas",
+   "ipa": "wɜːk ˈəʊvətaɪm",
+   "ex": "Nurses often have to work overtime at weekends."
+  },
+  {
+   "id": "L02-grab-a-bite-to-eat",
+   "en": "grab a bite (to eat)",
+   "cz": "rychle něco sníst",
+   "ipa": "ɡræb ə baɪt",
+   "ex": "Let's grab a bite before the meeting."
+  },
+  {
+   "id": "L02-wind-down",
+   "en": "wind down",
+   "cz": "zklidnit se, odpočinout si (po práci)",
+   "ipa": "waɪnd daʊn",
+   "ex": "I usually wind down with a book before bed."
+  },
+  {
+   "id": "L02-make-an-effort-to-do",
+   "en": "make an effort (to do)",
+   "cz": "snažit se, vynaložit úsilí",
+   "ipa": "meɪk ən ˈefət",
+   "ex": "I'm making an effort to go to bed before eleven."
+  },
+  {
+   "id": "L02-do-the-bare-minimum",
+   "en": "do the bare minimum",
+   "cz": "dělat jen nezbytné minimum",
+   "ipa": "duː ðə beə ˈmɪnɪməm",
+   "ex": "He does the bare minimum and leaves at five on the dot."
+  },
+  {
+   "id": "L02-make-time-for",
+   "en": "make time for",
+   "cz": "najít si čas na",
+   "ipa": "meɪk taɪm fə",
+   "ex": "However busy she is, she always makes time for her kids."
+  },
+  {
+   "id": "L02-be-stuck-in-a-rut",
+   "en": "be stuck in a rut",
+   "cz": "zabřednout do stereotypu",
+   "ipa": "bi stʌk ɪn ə rʌt",
+   "ex": "I felt stuck in a rut, so I changed jobs.",
+   "ext": true
+  },
+  {
+   "id": "L02-go-the-extra-mile",
+   "en": "go the extra mile",
+   "cz": "udělat něco navíc, překonat očekávání",
+   "ipa": "ɡəʊ ði ˈekstrə maɪl",
+   "ex": "Our receptionist always goes the extra mile for guests.",
+   "ext": true
+  },
+  {
+   "id": "L02-pull-an-all-nighter",
+   "en": "pull an all-nighter",
+   "cz": "probdít noc (prací, učením)",
+   "ipa": "pʊl ən ˌɔːl ˈnaɪtə",
+   "ex": "I had to pull an all-nighter to finish the report.",
+   "ext": true
+  },
+  {
+   "id": "L02-burn-the-midnight-oil",
+   "en": "burn the midnight oil",
+   "cz": "pracovat dlouho do noci",
+   "ipa": "bɜːn ðə ˈmɪdnaɪt ɔɪl",
+   "ex": "Students tend to burn the midnight oil before exams.",
+   "ext": true
+  },
+  {
+   "id": "L02-show-sb-the-ropes",
+   "en": "show sb the ropes",
+   "cz": "zaučit někoho",
+   "ipa": "ʃəʊ ˈsʌmbədi ðə rəʊps",
+   "ex": "My colleague showed me the ropes in my first week.",
+   "ext": true
+  },
+  {
+   "id": "L02-get-into-the-swing-of-things",
+   "en": "get into the swing of things",
+   "cz": "dostat se do tempa, zajet se",
+   "ipa": "ɡet ˈɪntə ðə swɪŋ əv θɪŋz",
+   "ex": "After the holidays it takes me a few days to get into the swing of things.",
+   "ext": true
+  },
+  {
+   "id": "L02-clock-in-clock-out",
+   "en": "clock in / clock out",
+   "cz": "píchnout příchod / odchod",
+   "ipa": "klɒk ɪn / klɒk aʊt",
+   "ex": "We have to clock in by 8.30.",
+   "ext": true
+  },
+  {
+   "id": "L02-be-a-stickler-for-punctuality",
+   "en": "be a stickler for (punctuality)",
+   "cz": "potrpět si na (dochvilnost)",
+   "ipa": "bi ə ˈstɪklə fə",
+   "ex": "My boss is a stickler for punctuality.",
+   "ext": true
+  },
+  {
+   "id": "L02-second-nature",
+   "en": "second nature",
+   "cz": "druhá přirozenost",
+   "ipa": "ˈsekənd ˈneɪtʃə",
+   "ex": "After a month, getting up at six became second nature.",
+   "ext": true
+  },
+  {
+   "id": "L02-old-habits-die-hard",
+   "en": "old habits die hard",
+   "cz": "starých zvyků se člověk těžko zbavuje",
+   "ipa": "əʊld ˈhæbɪts daɪ hɑːd",
+   "ex": "I still write lists on paper – old habits die hard!",
+   "ext": true
+  }
+ ],
+ "exercises": [
+  {
+   "id": "L02-e001",
+   "type": "choose",
+   "q": "She checks her email at 6 a.m. and goes running before work. → (an early bird / be stuck in a rut / go the extra mile / meet a deadline)",
+   "a": "an early bird"
+  },
+  {
+   "id": "L02-e002",
+   "type": "choose",
+   "q": "The report must be ready by Friday noon and it will be. → (an early bird / be up to your eyes in work / meet a deadline / second nature)",
+   "a": "meet a deadline"
+  },
+  {
+   "id": "L02-e003",
+   "type": "choose",
+   "q": "He has done exactly the same job in the same way for twelve years and feels bored. → (an early bird / be stuck in a rut / be up to your eyes in work / hit the snooze button)",
+   "a": "be stuck in a rut"
+  },
+  {
+   "id": "L02-e004",
+   "type": "choose",
+   "q": "She stays in the office until nine to finish things for a client – nobody asked her to. → (be up to your eyes in work / go the extra mile / hit the snooze button / second nature)",
+   "a": "go the extra mile"
+  },
+  {
+   "id": "L02-e005",
+   "type": "choose",
+   "q": "He has fourteen projects and no free minute this week. → (be up to your eyes in work / do the bare minimum / go the extra mile / meet a deadline)",
+   "a": "be up to your eyes in work"
+  },
+  {
+   "id": "L02-e006",
+   "type": "choose",
+   "q": "Every morning I press the button on my alarm clock three times. → (be stuck in a rut / do the bare minimum / hit the snooze button / meet a deadline)",
+   "a": "hit the snooze button"
+  },
+  {
+   "id": "L02-e007",
+   "type": "choose",
+   "q": "After a month in the new job, using the system is automatic for me. → (be stuck in a rut / do the bare minimum / go the extra mile / second nature)",
+   "a": "second nature"
+  },
+  {
+   "id": "L02-e008",
+   "type": "choose",
+   "q": "He never does more than he absolutely has to. → (an early bird / do the bare minimum / hit the snooze button / second nature)",
+   "a": "do the bare minimum"
+  },
+  {
+   "id": "L02-e009",
+   "type": "choose",
+   "q": "I (usually walk / am usually walking) to work, but this week I (take / 'm taking) the tram.",
+   "a": "usually walk / 'm taking"
+  },
+  {
+   "id": "L02-e010",
+   "type": "choose",
+   "q": "Our team (grows / is growing) fast – we have three new colleagues this month.",
+   "a": "is growing"
+  },
+  {
+   "id": "L02-e011",
+   "type": "choose",
+   "q": "She (is never / never is) late for meetings.",
+   "a": "is never"
+  },
+  {
+   "id": "L02-e012",
+   "type": "choose",
+   "q": "Why (do you wear / are you wearing) a suit today? Have you got an interview?",
+   "a": "are you wearing"
+  },
+  {
+   "id": "L02-e013",
+   "type": "choose",
+   "q": "My boss (doesn't believe / isn't believing) in working from home.",
+   "a": "doesn't believe"
+  },
+  {
+   "id": "L02-e014",
+   "type": "choose",
+   "q": "I (hardly ever eat / eat hardly ever) breakfast on weekdays.",
+   "a": "hardly ever eat"
+  },
+  {
+   "id": "L02-e015",
+   "type": "gap",
+   "q": "I check my email before breakfast. (always)",
+   "a": "I always check my email before breakfast."
+  },
+  {
+   "id": "L02-e016",
+   "type": "gap",
+   "q": "He is in the office on Fridays. (rarely)",
+   "a": "He is rarely in the office on Fridays."
+  },
+  {
+   "id": "L02-e017",
+   "type": "gap",
+   "q": "We have lunch together. (once a week)",
+   "a": "We have lunch together once a week."
+  },
+  {
+   "id": "L02-e018",
+   "type": "gap",
+   "q": "Do you work at weekends? (ever)",
+   "a": "Do you ever work at weekends?"
+  },
+  {
+   "id": "L02-e019",
+   "type": "gap",
+   "q": "They have missed a deadline. (never)",
+   "a": "They have never missed a deadline."
+  },
+  {
+   "id": "L02-e020",
+   "type": "choose",
+   "q": "I (tend to / am tending to) get up later at weekends.",
+   "a": "tend to"
+  },
+  {
+   "id": "L02-e021",
+   "type": "choose",
+   "q": "My colleague (is always borrowing / always borrows) my stapler without asking – it drives me crazy!",
+   "a": "is always borrowing"
+  },
+  {
+   "id": "L02-e022",
+   "type": "choose",
+   "q": "When I was a student, I (would / will) work in a café every summer.",
+   "a": "would"
+  },
+  {
+   "id": "L02-e023",
+   "type": "choose",
+   "q": "I (keep making / keep to make) the same mistake in my reports.",
+   "a": "keep making"
+  },
+  {
+   "id": "L02-e024",
+   "type": "choose",
+   "q": "When I lived in London, I (would have / used to have) a two-hour commute.",
+   "a": "used to have"
+  },
+  {
+   "id": "L02-e025",
+   "type": "choose",
+   "q": "Our manager (is inclined to / inclines to) change her mind at the last minute.",
+   "a": "is inclined to"
+  },
+  {
+   "id": "L02-e026",
+   "type": "choose",
+   "q": "People who work remotely (tend not to / don't tend) take enough breaks.",
+   "a": "tend not to"
+  },
+  {
+   "id": "L02-e027",
+   "type": "choose",
+   "q": "My dad (will / would) always read the newspaper before he talks to anyone in the morning – he still does it.",
+   "a": "will"
+  },
+  {
+   "id": "L02-e028",
+   "type": "gap",
+   "q": "I usually feel tired after lunch. (tend)",
+   "a": "I tend to feel tired after lunch."
+  },
+  {
+   "id": "L02-e029",
+   "type": "gap",
+   "q": "He forgets his ID card again and again. (keep)",
+   "a": "He keeps (on) forgetting his ID card."
+  },
+  {
+   "id": "L02-e030",
+   "type": "gap",
+   "q": "As a child, I often hid under the table when guests came. (would)",
+   "a": "As a child, I would hide under the table when guests came."
+  },
+  {
+   "id": "L02-e031",
+   "type": "gap",
+   "q": "She leaves dirty cups in the sink all the time and it annoys me. (always)",
+   "a": "She's always leaving dirty cups in the sink."
+  },
+  {
+   "id": "L02-e032",
+   "type": "gap",
+   "q": "Petr often gets angry when he's tired. (inclined)",
+   "a": "Petr is inclined to get angry when he's tired."
+  },
+  {
+   "id": "L02-e033",
+   "type": "gap",
+   "q": "We don't usually work late on Fridays. (tend)",
+   "a": "We don't tend to work late on Fridays. / We tend not to work late on Fridays."
+  },
+  {
+   "id": "L02-e034",
+   "type": "gap",
+   "q": "I'm really trying to ______ an effort to leave the office on time.",
+   "a": "make"
+  },
+  {
+   "id": "L02-e035",
+   "type": "gap",
+   "q": "He just ______ the bare minimum and never volunteers for anything.",
+   "a": "does"
+  },
+  {
+   "id": "L02-e036",
+   "type": "gap",
+   "q": "Could you ______ me a favour and send this file to the client?",
+   "a": "do"
+  },
+  {
+   "id": "L02-e037",
+   "type": "gap",
+   "q": "She ______ a habit of reading for twenty minutes before bed.",
+   "a": "makes"
+  },
+  {
+   "id": "L02-e038",
+   "type": "gap",
+   "q": "We need to ______ some research before we ______ a decision.",
+   "a": "do / make"
+  },
+  {
+   "id": "L02-e039",
+   "type": "gap",
+   "q": "However busy you are, you should ______ time for your family.",
+   "a": "make"
+  },
+  {
+   "id": "L02-e040",
+   "type": "gap",
+   "q": "I'm ______ overtime this week to finish the project.",
+   "a": "doing"
+  },
+  {
+   "id": "L02-e041",
+   "type": "gap",
+   "q": "Our new intern is ______ great progress.",
+   "a": "making"
+  },
+  {
+   "id": "L02-e042",
+   "type": "error",
+   "q": "I'm tending to drink too much coffee at work.",
+   "a": "I tend to drink too much coffee at work."
+  },
+  {
+   "id": "L02-e043",
+   "type": "error",
+   "q": "He keeps to forget his keys.",
+   "a": "He keeps forgetting his keys."
+  },
+  {
+   "id": "L02-e044",
+   "type": "error",
+   "q": "When I was young, I would live in a small village.",
+   "a": "When I was young, I used to live in a small village."
+  },
+  {
+   "id": "L02-e045",
+   "type": "error",
+   "q": "She always is complaining about her boss.",
+   "a": "She is always complaining about her boss."
+  },
+  {
+   "id": "L02-e046",
+   "type": "error",
+   "q": "We didn't meet the deadline because we did a lot of mistakes.",
+   "a": "We didn't meet the deadline because we made a lot of mistakes."
+  },
+  {
+   "id": "L02-e047",
+   "type": "error",
+   "q": "I'm up to my eye in work this week.",
+   "a": "I'm up to my eyes in work this week."
+  },
+  {
+   "id": "L02-e048",
+   "type": "choose",
+   "q": "I (tend to / am tending to) work better in the morning.",
+   "a": "tend to"
+  },
+  {
+   "id": "L02-e049",
+   "type": "choose",
+   "q": "He (keeps forgetting / keeps to forget) his badge.",
+   "a": "keeps forgetting"
+  },
+  {
+   "id": "L02-e050",
+   "type": "choose",
+   "q": "My sister (is always borrowing / always borrows) my clothes – it's so annoying!",
+   "a": "is always borrowing"
+  },
+  {
+   "id": "L02-e051",
+   "type": "choose",
+   "q": "As a student, I (would / will) cycle to university every day.",
+   "a": "would"
+  },
+  {
+   "id": "L02-e052",
+   "type": "choose",
+   "q": "We (used to / would) have an office in the city centre.",
+   "a": "used to"
+  },
+  {
+   "id": "L02-e053",
+   "type": "choose",
+   "q": "She (is inclined to / is inclining to) work too hard.",
+   "a": "is inclined to"
+  },
+  {
+   "id": "L02-e054",
+   "type": "choose",
+   "q": "I need to (make / do) an effort to go to bed earlier.",
+   "a": "make"
+  },
+  {
+   "id": "L02-e055",
+   "type": "choose",
+   "q": "He only (does / makes) the bare minimum.",
+   "a": "does"
+  },
+  {
+   "id": "L02-e056",
+   "type": "choose",
+   "q": "The project is running behind (schedule / timetable).",
+   "a": "schedule"
+  },
+  {
+   "id": "L02-e057",
+   "type": "choose",
+   "q": "I'm up to my (eyes / ears) in work.",
+   "a": "eyes"
+  },
+  {
+   "id": "L02-e058",
+   "type": "choose",
+   "q": "I (usually start / am usually starting) at eight, but this week I (start / 'm starting) at seven.",
+   "a": "usually start / 'm starting"
+  },
+  {
+   "id": "L02-e059",
+   "type": "choose",
+   "q": "She (is never / never is) late.",
+   "a": "is never"
+  },
+  {
+   "id": "L02-e060",
+   "type": "gap",
+   "q": "I keep _____ (hit) the snooze button.",
+   "a": "hitting"
+  },
+  {
+   "id": "L02-e061",
+   "type": "gap",
+   "q": "We don't _____ to work late on Fridays.",
+   "a": "tend"
+  },
+  {
+   "id": "L02-e062",
+   "type": "gap",
+   "q": "He _____ always leaving his cup on my desk!",
+   "a": "is | 's"
+  },
+  {
+   "id": "L02-e063",
+   "type": "gap",
+   "q": "I find it hard to stick _____ a routine.",
+   "a": "to"
+  },
+  {
+   "id": "L02-e064",
+   "type": "gap",
+   "q": "Flexible hours improved my work-life _____.",
+   "a": "balance"
+  },
+  {
+   "id": "L02-e065",
+   "type": "gap",
+   "q": "We worked all night to _____ the deadline.",
+   "a": "meet"
+  },
+  {
+   "id": "L02-e066",
+   "type": "order",
+   "q": "tends / she / to / late / work",
+   "a": "She tends to work late."
+  },
+  {
+   "id": "L02-e067",
+   "type": "order",
+   "q": "always / he / is / complaining",
+   "a": "He is always complaining."
+  },
+  {
+   "id": "L02-e068",
+   "type": "order",
+   "q": "keep / I / my / forgetting / password",
+   "a": "I keep forgetting my password."
+  }
+ ]
+}

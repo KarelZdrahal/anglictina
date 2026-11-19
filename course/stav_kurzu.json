@@ -1,7 +1,7 @@
 {
  "course": "Roční kurz angličtiny B1 → B1+",
- "last_completed_week": 1,
- "next_week": 2,
+ "last_completed_week": 2,
+ "next_week": 3,
  "lessons": [
   {
    "week": 1,
@@ -51,13 +51,58 @@
     "take after sb"
    ],
    "notes_for_next": "Lekce 2 (Work & daily routines) naváže: zvyky (usually, tend to, will pro zvyk), kolokace make/do; zopakovat stavová slovesa a always + průběhový čas; small talk rozšířit o mluvení o práci."
+  },
+  {
+   "week": 2,
+   "date": "2026-11-19",
+   "status": "vygenerováno automaticky 19. 11. 2026, studuje se od čtvrtka 19. 11. 2026",
+   "topic": "Work & daily routines",
+   "grammar": "Opakování B1: present simple vs continuous, příslovce četnosti. Nové: tend to, be inclined to, keep (on) -ing, will/would pro zvyky, be always -ing; used to vs would (stavy)",
+   "vocab_core": [
+    "stick to a routine",
+    "break a habit",
+    "fall into the habit of (doing)",
+    "make a habit of (doing)",
+    "a creature of habit",
+    "an early bird",
+    "a night owl",
+    "hit the snooze button",
+    "the daily grind",
+    "work-life balance",
+    "flexible working hours",
+    "work remotely",
+    "be up to your eyes in work",
+    "meet a deadline",
+    "take on extra work",
+    "run behind schedule",
+    "work overtime",
+    "grab a bite (to eat)",
+    "wind down",
+    "make an effort (to do)",
+    "do the bare minimum",
+    "make time for"
+   ],
+   "vocab_ext": [
+    "be stuck in a rut",
+    "go the extra mile",
+    "pull an all-nighter",
+    "burn the midnight oil",
+    "show sb the ropes",
+    "get into the swing of things",
+    "clock in / clock out",
+    "be a stickler for (punctuality)",
+    "second nature",
+    "old habits die hard"
+   ],
+   "app": "procvičování L02-a…f: 505 úloh (6 článků, 14 poslechů); nové téma zásoby pack21 Time & productivity (50 položek)",
+   "notes_for_next": "Lekce 3 (Travel experiences) naváže: present perfect vs past simple (krátké opakování B1) a rozšíření o present perfect continuous, „It's the first time I've…“, by now / so far / lately. Zopakovat would/used to z této lekce při vyprávění o minulých cestách; slovíčka make/do a kolokace práce použít v rozhovoru o pracovních cestách."
   }
  ],
  "note": "Po vygenerování každé lekce sem přidej záznam: week, date, topic, grammar, vocab_core (seznam), vocab_extension (seznam), notes_for_next (co navázat, co zopakovat).",
- "last_generated_week": 1,
+ "last_generated_week": 2,
  "generation_day": "čtvrtek",
- "next_generation_date": "2026-11-19",
+ "next_generation_date": "2026-11-26",
  "schedule_note": "12. 11. 2026 se nic negeneruje. Lekce N vzniká ve čtvrtek 12. 11. 2026 + (N-1) týdnů, tj. L2 = 19. 11. 2026.",
  "level_policy": "Od lekce 2: opakovací část B1 (krátká, ~12 min), rozšiřující část a nová slovíčka B1+ až B2. Aplikace: zásoba B1+/B2 (C1 volitelně). Rozhodnutí Karla 13. 11. 2026.",
- "notes_for_next": "Lekce 2: opakovací část krátce B1 (present simple/continuous, stavová slovesa, povahová přídavná jména z L1); hlavní část B1+–B2 podle sylabu (tend to, keep doing, be always -ing; pracovní kolokace). Karel považoval dosavadní obsah za místy příliš jednoduchý – žádná základní B1 slova jako nová."
+ "notes_for_next": "Lekce 3 (Travel experiences): opakovací část krátce B1 (present perfect vs past simple); hlavní část B1+–B2 podle sylabu (present perfect continuous vs simple, It's the first time I've…, by now / so far / lately). Zopakovat would/used to z L2 při vyprávění o cestách, make/do a pracovní kolokace v rozhovoru o pracovních cestách. Žádná základní B1 slova jako nová."
 }
