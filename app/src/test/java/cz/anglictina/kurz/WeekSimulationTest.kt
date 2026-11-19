@@ -49,7 +49,10 @@ class WeekSimulationTest {
             }
         }
         println("týden: $totalDrills vět/textů, ${distinct.size} různých, opakování již zvládnutých $repeatedCorrect")
-        assertTrue("za týden málo různých vět: ${distinct.size}", distinct.size >= 400)
+        // Se dvěma a více lekcemi zabírají slovíčka k opakování až polovinu relace (záměrný strop),
+        // vět je tedy méně než u první lekce. Podstatné je, že se nevracejí již zvládnuté věty
+        // a že vět je každý den dost (≥ 50 denně v průměru).
+        assertTrue("za týden málo různých vět: ${distinct.size}", distinct.size >= 350)
         assertTrue("příliš mnoho opakování týchž vět: $repeatedCorrect z $totalDrills", repeatedCorrect * 10 <= totalDrills)
     }
 }
