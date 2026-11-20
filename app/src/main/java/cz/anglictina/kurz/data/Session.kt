@@ -27,13 +27,14 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
     private fun weakness(id: String): Double = p.peek(id)?.let { (it.wrong + 1.0) / (it.correct + 1.0) / it.ease } ?: 1.0
 
     /**
-     * Opakování lekcí: jen látka probraných lekcí (slovíčka, cvičení z lekce a k ní připravené sady procvičování).
+     * Opakování lekcí: jen látka aktuální lekce (slovíčka, cvičení z lekce a k ní připravené sady procvičování).
      * Slovíčka se opakují v rozestupech; u vět a textů má přednost NOVÁ varianta téhož jevu – správně
      * zodpovězená věta se znovu ukáže až po vyčerpání nových, špatně zodpovězená se vrací (než se zvládne).
      */
     fun lessons(minutes: Int): List<Item> {
         val target = minutes * 5 + 4                     // cca 12 s na položku
-        val lessons = repo.lessons
+        // jen aktuální (poslední vydaná) lekce – po čtvrteční lekci se opakování přepne na ni
+        val lessons = listOfNotNull(repo.currentLesson(now))
         if (lessons.isEmpty()) return emptyList()
         val ids = lessons.map { it.id }.toSet()
         val order = lessons.map { it.id }.reversed()     // nejnovější lekce první

@@ -6,6 +6,7 @@ import cz.anglictina.kurz.data.Mode
 import cz.anglictina.kurz.data.Repository
 import cz.anglictina.kurz.data.SessionBuilder
 import cz.anglictina.kurz.data.Srs
+import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -18,6 +19,19 @@ import kotlin.random.Random
 @RunWith(RobolectricTestRunner::class)
 @Config(sdk = [34])
 class WeekSimulationTest {
+    /** Opakování se přepíná na novou lekci v den jejího vydání (čtvrtek) a do další lekce zůstává. */
+    @Test fun currentLessonFollowsThursdayDates() {
+        val repo = Repository(RuntimeEnvironment.getApplication()).also { it.load() }
+        val tz = java.util.TimeZone.getDefault()
+        fun at(d: String) = java.text.SimpleDateFormat("yyyy-MM-dd HH:mm", java.util.Locale.US).apply { timeZone = tz }.parse("$d 12:00")!!.time
+        assertEquals("L01", repo.currentLesson(at("2026-11-12"))?.id)
+        assertEquals("L01", repo.currentLesson(at("2026-11-18"))?.id)
+        assertEquals("L02", repo.currentLesson(at("2026-11-19"))?.id)
+        assertEquals("L02", repo.currentLesson(at("2026-11-25"))?.id)
+        val items = SessionBuilder(repo, Random(1), at("2026-11-20")).lessons(20)
+        assertTrue("den po lekci 2 se nabízí lekce 1", items.isNotEmpty() && items.all { it.cardId.contains(":L02-") })
+    }
+
     @Test fun weekOfTwentyMinutesIsVaried() {
         val repo = Repository(RuntimeEnvironment.getApplication()).also { it.load() }
         assertTrue("chybí procvičování k lekci", repo.practice.any { it.lesson == "L01" })
@@ -30,6 +44,9 @@ class WeekSimulationTest {
         for (day in 0 until 7) {
             val now = base + day * DAY_MS
             val items = SessionBuilder(repo, Random(day), now).lessons(20)
+            val cur = repo.currentLesson(now)!!.id
+            val foreign = items.map { it.cardId }.filterNot { it.startsWith("w:$cur-") || it.startsWith("x:$cur-") }
+            assertTrue("den ${day + 1}: v opakování je látka mimo aktuální lekci $cur: ${foreign.take(5)}", foreign.isEmpty())
             val drills = items.filterIsInstance<Item.Drill>()
             val words = items.filterIsInstance<Item.Vocab>()
             val rep = drills.count { it.cardId in correctBefore }
@@ -49,10 +66,7 @@ class WeekSimulationTest {
             }
         }
         println("týden: $totalDrills vět/textů, ${distinct.size} různých, opakování již zvládnutých $repeatedCorrect")
-        // Se dvěma a více lekcemi zabírají slovíčka k opakování až polovinu relace (záměrný strop),
-        // vět je tedy méně než u první lekce. Podstatné je, že se nevracejí již zvládnuté věty
-        // a že vět je každý den dost (≥ 50 denně v průměru).
-        assertTrue("za týden málo různých vět: ${distinct.size}", distinct.size >= 350)
+        assertTrue("za týden málo různých vět: ${distinct.size}", distinct.size >= 400)
         assertTrue("příliš mnoho opakování týchž vět: $repeatedCorrect z $totalDrills", repeatedCorrect * 10 <= totalDrills)
     }
 }

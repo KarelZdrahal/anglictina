@@ -180,5 +180,11 @@ class Repository(private val ctx: Context) {
     }
 
     fun allLessonWords() = lessons.flatMap { it.words }
+
+    /** Aktuální lekce = poslední lekce s datem do dneška (lekce N platí od svého čtvrtka do dalšího). */
+    fun currentLesson(now: Long = System.currentTimeMillis()): Lesson? {
+        val today = java.text.SimpleDateFormat("yyyy-MM-dd", java.util.Locale.US).format(java.util.Date(now))
+        return lessons.lastOrNull { it.date.isNotBlank() && it.date <= today } ?: lessons.lastOrNull()
+    }
     fun allBankWords() = packs.flatMap { it.words }
 }

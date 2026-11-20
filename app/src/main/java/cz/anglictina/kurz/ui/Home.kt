@@ -55,8 +55,8 @@ fun HomeScreen(
     val now = System.currentTimeMillis()
     val todayMin = (p.daySeconds[Progress.today()] ?: 0) / 60
     val streak = p.streak()
-    val latest = repo.lessons.lastOrNull()
-    val lessonIds = repo.lessons.flatMap { l -> l.words.map { "w:" + it.id } + l.exercises.map { "x:" + it.id } }
+    val latest = repo.currentLesson(now)
+    val lessonIds = listOfNotNull(latest).flatMap { l -> l.words.map { "w:" + it.id } + l.exercises.map { "x:" + it.id } }
     val dueLessons = lessonIds.count { id -> p.peek(id)?.let { !it.isNew && it.due <= now } ?: false }
     val newLessons = lessonIds.count { id -> p.peek(id)?.isNew ?: true }
     val bankIds = repo.allBankWords().map { "w:" + it.id }
