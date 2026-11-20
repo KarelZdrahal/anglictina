@@ -29,7 +29,16 @@ class WeekSimulationTest {
         assertEquals("L02", repo.currentLesson(at("2026-11-19"))?.id)
         assertEquals("L02", repo.currentLesson(at("2026-11-25"))?.id)
         val items = SessionBuilder(repo, Random(1), at("2026-11-20")).lessons(20)
-        assertTrue("den po lekci 2 se nabízí lekce 1", items.isNotEmpty() && items.all { it.cardId.contains(":L02-") })
+        val l2 = items.count { it.cardId.contains(":L02-") }; val l1 = items.count { it.cardId.contains(":L01-") }
+        assertTrue("den po lekci 2: L02 $l2, L01 $l1 z ${items.size}", l2 + l1 == items.size && l2 * 100 / items.size in 72..88 && l1 > 0)
+        // u uživatele, který lekci 1 procvičoval (splatná slovíčka a chyby), musí poměr zůstat stejný
+        val p = repo.progress
+        repo.lessons.first { it.id == "L01" }.words.forEach { Srs.review(p.card("w:" + it.id), 2, at("2026-11-13")) }
+        repo.practice.filter { it.lesson == "L01" }.flatMap { it.exercises }.take(150)
+            .forEach { Srs.review(p.card("x:" + it.id), 0, at("2026-11-14")) }
+        val items2 = SessionBuilder(repo, Random(2), at("2026-11-20")).lessons(20)
+        val m2 = items2.count { it.cardId.contains(":L02-") } * 100 / items2.size
+        assertTrue("s pokrokem v L01 je podíl L02 jen $m2 %", m2 in 72..88)
     }
 
     @Test fun weekOfTwentyMinutesIsVaried() {
@@ -45,8 +54,9 @@ class WeekSimulationTest {
             val now = base + day * DAY_MS
             val items = SessionBuilder(repo, Random(day), now).lessons(20)
             val cur = repo.currentLesson(now)!!.id
-            val foreign = items.map { it.cardId }.filterNot { it.startsWith("w:$cur-") || it.startsWith("x:$cur-") }
-            assertTrue("den ${day + 1}: v opakování je látka mimo aktuální lekci $cur: ${foreign.take(5)}", foreign.isEmpty())
+            val share = items.count { it.cardId.startsWith("w:$cur-") || it.cardId.startsWith("x:$cur-") } * 100 / items.size
+            println("den ${day + 1}: podíl aktuální lekce $cur = $share %")
+            assertTrue("den ${day + 1}: podíl aktuální lekce $cur je $share % (má být ~80 %)", share in 72..88)
             val drills = items.filterIsInstance<Item.Drill>()
             val words = items.filterIsInstance<Item.Vocab>()
             val rep = drills.count { it.cardId in correctBefore }

@@ -1,5 +1,6 @@
 package cz.anglictina.kurz.data
 
+import kotlin.math.roundToInt
 import java.text.Normalizer
 import kotlin.random.Random
 
@@ -33,9 +34,45 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
      */
     fun lessons(minutes: Int): List<Item> {
         val target = minutes * 5 + 4                     // cca 12 s na položku
-        // jen aktuální (poslední vydaná) lekce – po čtvrteční lekci se opakování přepne na ni
-        val lessons = listOfNotNull(repo.currentLesson(now))
-        if (lessons.isEmpty()) return emptyList()
+        // aktuální (poslední vydaná) lekce ~80 %, minulé lekce ~20 % (Karel 20. 11. 2026)
+        val cur = repo.currentLesson(now) ?: return emptyList()
+        val past = repo.lessons.filter { it.week < cur.week }
+        if (past.isEmpty()) return finish(build(listOf(cur), target, maxTexts = 1, maxListens = 2))
+        val oldN = (target * 0.2).roundToInt()
+        val main = build(listOf(cur), target - oldN, maxTexts = 1, maxListens = 2)
+        val old = build(past, oldN, maxTexts = 0, maxListens = 1)
+        return finish(mix(main, old))
+    }
+
+    private fun textOf(i: Item) = (i as? Item.Drill)?.ex?.takeIf { it.type == "read" || it.type == "listen" }?.text?.takeIf { it.isNotBlank() }
+
+    /** Rozdělí na bloky – otázky k jednomu textu/poslechu zůstanou pohromadě. */
+    private fun chunks(items: List<Item>): List<List<Item>> {
+        val r = mutableListOf<MutableList<Item>>()
+        for (i in items) {
+            val t = textOf(i)
+            if (t != null && r.isNotEmpty() && textOf(r.last().last()) == t) r.last() += i else r += mutableListOf(i)
+        }
+        return r
+    }
+
+    /** Minulé lekce rovnoměrně mezi aktuální (zhruba každá pátá položka). */
+    private fun mix(main: List<Item>, old: List<Item>): MutableList<Item> {
+        val out = mutableListOf<Item>()
+        val mc = chunks(main); val oc = chunks(old).iterator()
+        val total = main.size + old.size
+        val every = if (old.isEmpty()) Int.MAX_VALUE else maxOf(2, total / old.size)
+        var since = 0
+        for (c in mc) {
+            out += c; since += c.size
+            if (since >= every - 1 && oc.hasNext()) { val o = oc.next(); out += o; since = 0 }
+        }
+        oc.forEach { out += it }
+        return out
+    }
+
+    private fun build(lessons: List<Lesson>, target: Int, maxTexts: Int, maxListens: Int): MutableList<Item> {
+        if (lessons.isEmpty() || target <= 0) return mutableListOf()
         val ids = lessons.map { it.id }.toSet()
         val order = lessons.map { it.id }.reversed()     // nejnovější lekce první
         val words = lessons.flatMap { it.words }
@@ -50,8 +87,8 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
             if ((e.type == "read" || e.type == "listen") && e.text.isNotBlank()) {
                 if ("x:" + e.id in used) return
                 if (isNew("x:" + e.id)) {
-                    if (e.type == "read") { if (texts >= 1) return; texts++ }
-                    else { if (listens >= 2) return; listens++ }
+                    if (e.type == "read") { if (texts >= maxTexts) return; texts++ }
+                    else { if (listens >= maxListens) return; listens++ }
                 }
                 // otázky k jednomu textu / poslechu jdou za sebou
                 drills.filter { it.type == e.type && it.text == e.text && (it.id == e.id || isNew("x:" + it.id) || retry(it.id)) }
@@ -108,7 +145,7 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
                 .sortedBy { (p.peek(it.first)?.lastSeen ?: 0L) - (weakness(it.first) * 86_400_000L).toLong() }
             for ((_, v) in rest) { when (v) { is Word -> addWord(v); is Exercise -> addDrill(v) }; if (out.size >= target) break }
         }
-        return finish(out)
+        return out
     }
 
     /** Věta/text zodpovězené naposledy špatně a už splatné. */
