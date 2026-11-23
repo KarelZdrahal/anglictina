@@ -163,7 +163,8 @@ fun SessionScreen(
             if (phase == Phase.FEEDBACK) {
                 LaunchedEffect(idx, lastCorrect) {
                     // správná odpověď: po krátké chvilce samo dál (u všech typů cvičení)
-                    if (lastCorrect) { delay(1100); if (phase == Phase.FEEDBACK) next() }
+                    val ms = repo.settings.advanceMs   // nastavitelné v Nastavení, 0 = čekat na tlačítko
+                    if (lastCorrect && ms > 0) { delay(ms.toLong()); if (phase == Phase.FEEDBACK) next() }
                 }
                 // tlačítko vždy (po správné odpovědi jen pro zrychlení – pokračuje se i samo)
                 Button(onClick = { next() }, modifier = Modifier.fillMaxWidth().height(52.dp)) { Text("Pokračovat") }

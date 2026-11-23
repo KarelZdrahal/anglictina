@@ -38,12 +38,13 @@ fun SettingsScreen(repo: Repository, onBack: () -> Unit, onSync: () -> Unit) {
     var minutes by remember { mutableFloatStateOf(s.minutes.toFloat()) }
     var dir by remember { mutableStateOf(s.direction) }
     var speak by remember { mutableStateOf(s.speakAuto) }
+    var advance by remember { mutableIntStateOf(s.advanceMs) }
     var rem by remember { mutableStateOf(s.reminderOn) }
     var hour by remember { mutableIntStateOf(s.reminderHour) }
     var minute by remember { mutableIntStateOf(s.reminderMinute) }
     var url by remember { mutableStateOf(s.dataUrl) }
     fun save() {
-        s.userName = name.trim().ifBlank { s.userName }; s.minutes = minutes.toInt(); s.direction = dir; s.speakAuto = speak
+        s.userName = name.trim().ifBlank { s.userName }; s.minutes = minutes.toInt(); s.direction = dir; s.speakAuto = speak; s.advanceMs = advance
         s.reminderOn = rem; s.reminderHour = hour; s.reminderMinute = minute; s.dataUrl = url.trim().ifBlank { BuildConfig.DATA_URL }
     }
 
@@ -64,6 +65,14 @@ fun SettingsScreen(repo: Repository, onBack: () -> Unit, onSync: () -> Unit) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Text("Automaticky přehrávat výslovnost", Modifier.weight(1f)); Switch(speak, { speak = it })
             }
+        }
+        Section("Po správné odpovědi") {
+            FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                listOf(2000 to "2 s", 3000 to "3 s", 5000 to "5 s", 8000 to "8 s", 0 to "Čekat na tlačítko").forEach { (k, l) ->
+                    FilterChip(selected = advance == k, onClick = { advance = k }, label = { Text(l) })
+                }
+            }
+            Text("Jak dlouho zůstane odpověď (a příkladová věta) na obrazovce, než se samo pokračuje. Tlačítko Pokračovat funguje vždy.", style = MaterialTheme.typography.bodySmall)
         }
         Section("Připomínka") {
             Row(verticalAlignment = Alignment.CenterVertically) { Text("Denní připomínka", Modifier.weight(1f)); Switch(rem, { rem = it }) }

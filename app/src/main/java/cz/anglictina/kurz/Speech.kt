@@ -24,8 +24,21 @@ class Speech(ctx: Context) : TextToSpeech.OnInitListener {
     fun say(text: String, slow: Boolean = false) {
         lastText = text
         if (!ready) return
+        val spoken = spokenForm(text)
         tts.setSpeechRate(if (slow) 0.6f else 0.92f)
-        tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, text.hashCode().toString())
+        tts.speak(spoken, TextToSpeech.QUEUE_FLUSH, null, text.hashCode().toString())
+    }
+
+    companion object {
+        /** Slovníkové zkratky se čtou celé: sb → somebody, sth → something, sb's → somebody's … */
+        fun spokenForm(text: String): String = text
+            .replace(Regex("\\bsb(?=['’]s\\b)", RegexOption.IGNORE_CASE), "somebody")
+            .replace(Regex("\\bsth(?=['’]s\\b)", RegexOption.IGNORE_CASE), "something")
+            .replace(Regex("\\bsb\\b\\.?", RegexOption.IGNORE_CASE), "somebody")
+            .replace(Regex("\\bsth\\b\\.?", RegexOption.IGNORE_CASE), "something")
+            .replace(Regex("\\bsw\\b\\.?", RegexOption.IGNORE_CASE), "somewhere")
+            .replace(Regex("\\bsmb\\b\\.?", RegexOption.IGNORE_CASE), "somebody")
+            .replace(Regex("\\bsmth\\b\\.?", RegexOption.IGNORE_CASE), "something")
     }
 
     fun shutdown() { tts.stop(); tts.shutdown() }
