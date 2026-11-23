@@ -257,8 +257,15 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
 
     companion object {
         private val optRe = Regex("\\(([^()]*/[^()]*)\\)")
-        fun parseOptions(q: String): List<String> = optRe.find(q)?.groupValues?.get(1)?.split("/")?.map { it.trim() } ?: emptyList()
-        fun promptWithBlank(q: String): String = optRe.replace(q, "_____")
+        /** Možnosti z „(a / b)“; má-li věta víc mezer, možnosti jsou všechny kombinace „a / c“, „a / d“ … (jedna volba vyplní všechny mezery). */
+        fun parseOptions(q: String): List<String> {
+            val groups = optRe.findAll(q).map { m -> m.groupValues[1].split("/").map { it.trim() } }.toList()
+            if (groups.isEmpty()) return emptyList()
+            return groups.drop(1).fold(groups.first()) { acc, g -> acc.flatMap { a -> g.map { b -> "$a / $b" } } }
+        }
+        private val blankOptRe = Regex("_{2,}\\s*\\(([^()]*/[^()]*)\\)")
+        /** „___ (a/b)“ i samotné „(a/b)“ se zobrazí jako jedna mezera. */
+        fun promptWithBlank(q: String): String = optRe.replace(blankOptRe.replace(q, "_____"), "_____")
 
         /** Příkladová věta s vynechaným slovem (nebo null, když slovo ve větě není). */
         fun blankExample(w: Word): String? {
