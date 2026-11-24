@@ -2,7 +2,7 @@
 """Převede lesson_XX.json (zdroj lekce) do formátu aplikace a aktualizuje data/index.json.
 Použití: python3 tools/export_app.py <lesson.json> [<lesson.json> …]
 Spouští se z kořene repozitáře."""
-import json, sys, re, os
+import itertools, json, sys, re, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
@@ -25,6 +25,24 @@ def export(src):
     ex = []; n = 0
     def add(t, q, a, options=None):
         nonlocal n; n += 1
+        if t == 'choose' and not options:
+            rx = re.compile(r'\(([^()]*/[^()]*)\)')
+            groups = [[o.strip() for o in g.split('/')] for g in rx.findall(q)]
+            if len(groups) > 1:
+                # víc mezer v jedné větě je v aplikaci matoucí: rozdělit na samostatné úlohy s jednou mezerou,
+                # ostatní mezery se doplní správnou odpovědí (id eNNNa, eNNNb … – stávající id se neposunou)
+                parts = [x.strip() for x in a.split(' / ')]
+                assert len(parts) == len(groups) and all(p in g for p, g in zip(parts, groups)), (lid, q, a)
+                for k in range(len(groups)):
+                    # ostatní mezery doplnit správnými tvary
+                    idx = [0]
+                    def rep(m):
+                        g = idx[0]; idx[0] += 1
+                        return m.group(0) if g == k else parts[g]
+                    qk = re.sub(r"(?<=\w) (?=['’])", '', rx.sub(rep, q))  # „I 'm“ → „I'm“
+                    ex.append(dict(id=f"{lid}-e{n:03d}{'abcdef'[k]}", type='choose', q=qk, a=parts[k]))
+                return
+            if groups: assert a.strip() in groups[0], (lid, q, a)
         e = dict(id=f"{lid}-e{n:03d}", type=t, q=q, a=a)
         if options: e['options'] = options
         ex.append(e)

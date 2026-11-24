@@ -470,8 +470,8 @@
 {
 "id": "L02-a_habits-078",
 "type": "choose",
-"q": "I ___ (keep falling/keep to fall) into the habit of eating at my desk.",
-"a": "keep falling"
+"q": "I ___ (keep eating/keep to eat) lunch at my desk, even though I know it's a bad habit.",
+"a": "keep eating"
 },
 {
 "id": "L02-a_habits-079",
@@ -986,8 +986,8 @@
 {
 "id": "L02-a_habits-164",
 "type": "gap",
-"q": "I _____ (keep / fall) into the habit of working late.",
-"a": "keep falling"
+"q": "I _____ (keep / check) my work emails late at night.",
+"a": "keep checking"
 },
 {
 "id": "L02-a_habits-165",

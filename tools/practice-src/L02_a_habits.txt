@@ -76,7 +76,7 @@ choose ## My sister ___ (was always borrowing/always borrowed) my clothes when w
 choose ## My manager ___ (is always changing/always changes) his mind at the last minute! ## is always changing
 choose ## I ___ (usually get up/am usually getting up) at half past six. ## usually get up
 choose ## Mark is an early bird – he ___ (tends to start/tends starting) work at seven. ## tends to start
-choose ## I ___ (keep falling/keep to fall) into the habit of eating at my desk. ## keep falling
+choose ## I ___ (keep eating/keep to eat) lunch at my desk, even though I know it's a bad habit. ## keep eating
 choose ## As a young man, my grandfather ___ (would walk/used to walking) five kilometres to work. ## would walk
 choose ## She ___ (tends to/would) be quite moody in the morning. ## tends to
 choose ## I'm ___ (inclined to think/inclined thinking) that remote work is here to stay. ## inclined to think
@@ -162,7 +162,7 @@ gap ## My colleague _____ (always / eat) my sandwiches from the fridge! ## is al
 gap ## You _____ (always / lose) your glasses! ## are always losing | 're always losing
 gap ## When I was a teenager, my mum _____ (always / tell) me to tidy my room. ## was always telling | would always tell
 gap ## Creatures of habit _____ (tend / follow) the same routine every day. ## tend to follow
-gap ## I _____ (keep / fall) into the habit of working late. ## keep falling
+gap ## I _____ (keep / check) my work emails late at night. ## keep checking
 gap ## Before I had kids, I _____ (would / sleep) until ten on Sundays. ## would sleep | 'd sleep | used to sleep
 gap ## Night owls _____ (be / inclined / feel) tired in the morning. ## are inclined to feel
 gap ## My boss _____ (keep / change) the deadline. ## keeps changing | kept changing

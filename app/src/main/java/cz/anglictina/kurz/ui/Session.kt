@@ -378,9 +378,16 @@ private fun DrillItem(it: Item.Drill, phase: Phase, lastCorrect: Boolean, given:
             if (phase == Phase.FEEDBACK) Verdict(lastCorrect, e.answer)
         }
         else -> {
-            val label = when (e.type) { "gap" -> "Doplň správný tvar slovesa"; "error" -> "Oprav chybu ve větě"; "transform" -> "Utvoř opak slova"; "translate" -> "Přelož do angličtiny"; else -> "Odpověz" }
+            val blanks = Regex("_{2,}").findAll(e.prompt).count()
+            val label = when (e.type) {
+                "gap" -> when {
+                    blanks == 0 -> "Přepiš větu s použitím slova v závorce"
+                    Regex("_{2,}\\s*\\([^()]+\\)").containsMatchIn(e.prompt) -> "Doplň správný tvar slova v závorce"
+                    else -> "Doplň do mezery"
+                }
+                "error" -> "Oprav chybu ve větě"; "transform" -> "Utvoř opak slova"; "translate" -> "Přelož do angličtiny"; else -> "Odpověz" }
             Prompt(label, e.prompt)
-            if (e.type == "gap") Text("Když je mezer víc, napiš odpovědi za sebou (např. „lives is staying“).", style = MaterialTheme.typography.bodySmall)
+            if (e.type == "gap" && blanks > 1) Text("Když je mezer víc, napiš odpovědi za sebou (např. „lives is staying“).", style = MaterialTheme.typography.bodySmall)
             if (e.type == "translate") Text("Uznávají se běžné varianty. Když to napíšeš jinak a správně, potvrď to tlačítkem pod odpovědí.", style = MaterialTheme.typography.bodySmall)
             AnswerField(given, setGiven, phase) { onGrade(if (SessionBuilder.matches(given, e.answer)) 2 else 0) }
             if (phase == Phase.ASK) Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {

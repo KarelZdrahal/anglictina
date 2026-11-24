@@ -295,10 +295,16 @@
    "a": "do the bare minimum"
   },
   {
-   "id": "L02-e009",
+   "id": "L02-e009a",
    "type": "choose",
-   "q": "I (usually walk / am usually walking) to work, but this week I (take / 'm taking) the tram.",
-   "a": "usually walk / 'm taking"
+   "q": "I (usually walk / am usually walking) to work, but this week I'm taking the tram.",
+   "a": "usually walk"
+  },
+  {
+   "id": "L02-e009b",
+   "type": "choose",
+   "q": "I usually walk to work, but this week I (take / 'm taking) the tram.",
+   "a": "'m taking"
   },
   {
    "id": "L02-e010",
@@ -418,7 +424,7 @@
    "id": "L02-e029",
    "type": "gap",
    "q": "He forgets his ID card again and again. (keep)",
-   "a": "He keeps (on) forgetting his ID card."
+   "a": "He keeps forgetting his ID card. | He keeps on forgetting his ID card."
   },
   {
    "id": "L02-e030",
@@ -430,7 +436,7 @@
    "id": "L02-e031",
    "type": "gap",
    "q": "She leaves dirty cups in the sink all the time and it annoys me. (always)",
-   "a": "She's always leaving dirty cups in the sink."
+   "a": "She's always leaving dirty cups in the sink. | She is always leaving dirty cups in the sink."
   },
   {
    "id": "L02-e032",
@@ -442,7 +448,7 @@
    "id": "L02-e033",
    "type": "gap",
    "q": "We don't usually work late on Fridays. (tend)",
-   "a": "We don't tend to work late on Fridays. / We tend not to work late on Fridays."
+   "a": "We don't tend to work late on Fridays. | We tend not to work late on Fridays."
   },
   {
    "id": "L02-e034",
@@ -484,7 +490,7 @@
    "id": "L02-e040",
    "type": "gap",
    "q": "I'm ______ overtime this week to finish the project.",
-   "a": "doing"
+   "a": "working | doing"
   },
   {
    "id": "L02-e041",
@@ -589,10 +595,16 @@
    "a": "eyes"
   },
   {
-   "id": "L02-e058",
+   "id": "L02-e058a",
    "type": "choose",
-   "q": "I (usually start / am usually starting) at eight, but this week I (start / 'm starting) at seven.",
-   "a": "usually start / 'm starting"
+   "q": "I (usually start / am usually starting) at eight, but this week I'm starting at seven.",
+   "a": "usually start"
+  },
+  {
+   "id": "L02-e058b",
+   "type": "choose",
+   "q": "I usually start at eight, but this week I (start / 'm starting) at seven.",
+   "a": "'m starting"
   },
   {
    "id": "L02-e059",

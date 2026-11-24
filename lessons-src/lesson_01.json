@@ -277,7 +277,7 @@
       "She always does what she promises.",
       "He never gives money to anyone.",
       "She tells everyone what to do.",
-      "He changes his mind about nothing – ever.",
+      "He never changes his mind, even when he's clearly wrong.",
       "She's happy and smiling most of the time.",
       "He talks a lot, even to strangers on the bus.",
       "She always remembers your birthday and asks how you are.",
@@ -381,7 +381,7 @@
       },
       {
        "q": "______ you ______ (understand) what I mean?",
-       "a": "Do you understand"
+       "a": "Do … understand"
       },
       {
        "q": "I ______ (not believe) him. He always ______ (exaggerate).",
@@ -389,7 +389,7 @@
       },
       {
        "q": "Why ______ you ______ (smile)? What's so funny?",
-       "a": "are you smiling"
+       "a": "are … smiling"
       },
       {
        "q": "More and more people ______ (work) from home these days.",

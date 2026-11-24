@@ -68,7 +68,7 @@ choose ## I'm sorry, I ___ (don't understand/am not understanding) what you mean
 choose ## The climate ___ (changes/is changing) faster than scientists expected. ## is changing
 choose ## Hana ___ (looks after/is looking after) her neighbour's dog this weekend. ## is looking after
 choose ## Shops in Czechia usually ___ (close/are closing) early on Sundays. ## close
-choose ## Hurry, the shop ___ (closes/is closing) in five minutes! ## closes
+choose ## On Saturdays the shop ___ (closes/is closing) at noon. ## closes
 choose ## What time ___ (does the museum open/is the museum opening) on Mondays? ## does the museum open
 choose ## Our neighbours ___ (have/are having) a party tonight – I can hear the music. ## are having
 choose ## My son ___ (grows/is growing) so fast – he needs new shoes every few months. ## is growing

@@ -278,7 +278,7 @@
 {
 "id": "L01-c_vocab-046",
 "type": "choose",
-"q": "I felt very ___ (insecure/confident/calm) when I started my new job.",
+"q": "I felt very ___ (insecure/confident/calm) when I started my new job – I was sure everyone else was better than me.",
 "a": "insecure"
 },
 {
@@ -296,7 +296,7 @@
 {
 "id": "L01-c_vocab-049",
 "type": "choose",
-"q": "He changed his opinion again – he's so ___ (unreliable/reliable/loyal).",
+"q": "He promised to come and then forgot again – he's so ___ (unreliable/reliable/loyal).",
 "a": "unreliable"
 },
 {

@@ -44,10 +44,10 @@ choose ## Don't be so ___ (impatient/patient/calm)! The bus will come in a minut
 choose ## It was really ___ (unkind/kind/thoughtful) of you to laugh at her mistake. ## unkind
 choose ## He never tells the truth. He's completely ___ (dishonest/honest/loyal). ## dishonest
 choose ## She's so ___ (disorganised/organised/reliable) – she's always losing her documents. ## disorganised
-choose ## I felt very ___ (insecure/confident/calm) when I started my new job. ## insecure
+choose ## I felt very ___ (insecure/confident/calm) when I started my new job – I was sure everyone else was better than me. ## insecure
 choose ## It's ___ (impolite/polite/thoughtful) to talk with your mouth full. ## impolite
 choose ## Our new colleague is a bit ___ (unfriendly/friendly/cheerful) – she never says hello. ## unfriendly
-choose ## He changed his opinion again – he's so ___ (unreliable/reliable/loyal). ## unreliable
+choose ## He promised to come and then forgot again – he's so ___ (unreliable/reliable/loyal). ## unreliable
 choose ## My sister is ___ (sensible/sensitive/stubborn): she always makes practical, reasonable decisions. ## sensible
 choose ## My brother is very ___ (sensitive/sensible/bossy) – he cries at sad films. ## sensitive
 choose ## A person who is relaxed and doesn't get upset easily is ___ (easy-going/outgoing/hard-working). ## easy-going

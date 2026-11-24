@@ -420,7 +420,7 @@
       },
       {
        "q": "He forgets his ID card again and again. (keep)",
-       "a": "He keeps (on) forgetting his ID card."
+       "a": "He keeps forgetting his ID card. | He keeps on forgetting his ID card."
       },
       {
        "q": "As a child, I often hid under the table when guests came. (would)",
@@ -428,7 +428,7 @@
       },
       {
        "q": "She leaves dirty cups in the sink all the time and it annoys me. (always)",
-       "a": "She's always leaving dirty cups in the sink."
+       "a": "She's always leaving dirty cups in the sink. | She is always leaving dirty cups in the sink."
       },
       {
        "q": "Petr often gets angry when he's tired. (inclined)",
@@ -436,7 +436,7 @@
       },
       {
        "q": "We don't usually work late on Fridays. (tend)",
-       "a": "We don't tend to work late on Fridays. / We tend not to work late on Fridays."
+       "a": "We don't tend to work late on Fridays. | We tend not to work late on Fridays."
       }
      ]
     },
@@ -566,7 +566,7 @@
       },
       {
        "q": "I'm ______ overtime this week to finish the project.",
-       "a": "doing"
+       "a": "working | doing"
       },
       {
        "q": "Our new intern is ______ great progress.",

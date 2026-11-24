@@ -304,7 +304,7 @@
   {
    "id": "L01-e004",
    "type": "choose",
-   "q": "He changes his mind about nothing – ever. → (absent-minded / cheerful / stubborn / talkative)",
+   "q": "He never changes his mind, even when he's clearly wrong. → (absent-minded / cheerful / stubborn / talkative)",
    "a": "stubborn"
   },
   {
@@ -401,7 +401,7 @@
    "id": "L01-e020",
    "type": "gap",
    "q": "______ you ______ (understand) what I mean?",
-   "a": "Do you understand"
+   "a": "Do … understand"
   },
   {
    "id": "L01-e021",
@@ -413,7 +413,7 @@
    "id": "L01-e022",
    "type": "gap",
    "q": "Why ______ you ______ (smile)? What's so funny?",
-   "a": "are you smiling"
+   "a": "are … smiling"
   },
   {
    "id": "L01-e023",

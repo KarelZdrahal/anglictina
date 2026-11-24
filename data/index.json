@@ -1,18 +1,18 @@
 {
- "version": 9,
+ "version": 16,
  "lessons": [
   {
    "file": "lessons/L01.json",
-   "v": 3,
-   "h": "524f2caad226",
+   "v": 4,
+   "h": "9b67455b8044",
    "id": "L01",
    "week": 1,
    "title": "People & personalities"
   },
   {
    "file": "lessons/L02.json",
-   "v": 1,
-   "h": "08e2cb65b15a",
+   "v": 5,
+   "h": "72aa0a07e9ad",
    "id": "L02",
    "week": 2,
    "title": "Work & daily routines"
@@ -191,8 +191,8 @@
  "practice": [
   {
    "file": "practice/L01-a_tenses.json",
-   "v": 1,
-   "h": "70dfa559c2f3",
+   "v": 2,
+   "h": "4b2a81dbb540",
    "id": "L01-a_tenses",
    "topic": "Present simple vs continuous",
    "count": 167
@@ -207,8 +207,8 @@
   },
   {
    "file": "practice/L01-c_vocab.json",
-   "v": 1,
-   "h": "fa49a8bf7c6b",
+   "v": 2,
+   "h": "b18df53de190",
    "id": "L01-c_vocab",
    "topic": "Personality vocabulary in context",
    "count": 96
@@ -239,8 +239,8 @@
   },
   {
    "file": "practice/L02-a_habits.json",
-   "v": 1,
-   "h": "5a9add8f166c",
+   "v": 2,
+   "h": "e0cb16b5659c",
    "id": "L02-a_habits",
    "topic": "Habits and tendencies",
    "count": 170
@@ -255,8 +255,8 @@
   },
   {
    "file": "practice/L02-c_vocab.json",
-   "v": 1,
-   "h": "ccc1f436bb8c",
+   "v": 2,
+   "h": "65dbf287a640",
    "id": "L02-c_vocab",
    "topic": "Work & routine vocabulary in context",
    "count": 103
