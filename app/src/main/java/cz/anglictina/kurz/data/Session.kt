@@ -37,11 +37,42 @@ class SessionBuilder(private val repo: Repository, private val rnd: Random = Ran
         // aktuální (poslední vydaná) lekce ~80 %, minulé lekce ~20 % (Karel 20. 11. 2026)
         val cur = repo.currentLesson(now) ?: return emptyList()
         val past = repo.lessons.filter { it.week < cur.week }
-        if (past.isEmpty()) return finish(build(listOf(cur), target, maxTexts = 1, maxListens = 2))
+        // poslech: 1 nahrávka na každých 10 minut (Karel 24. 11. 2026), nejméně jedna
+        val needListens = maxOf(1, minutes / 10)
+        if (past.isEmpty()) return finish(spreadListens(build(listOf(cur), target, maxTexts = 1, maxListens = needListens), cur, needListens))
         val oldN = (target * 0.2).roundToInt()
-        val main = build(listOf(cur), target - oldN, maxTexts = 1, maxListens = 2)
-        val old = build(past, oldN, maxTexts = 0, maxListens = 1)
+        val main = spreadListens(build(listOf(cur), target - oldN, maxTexts = 1, maxListens = needListens), cur, needListens)
+        val old = build(past, oldN, maxTexts = 0, maxListens = 0)
         return finish(mix(main, old))
+    }
+
+    /** Zajistí přesně [need] poslechových nahrávek (s jejich otázkami) rovnoměrně rozložených v relaci. */
+    private fun spreadListens(items: MutableList<Item>, lesson: Lesson, need: Int): MutableList<Item> {
+        val cs = chunks(items)
+        fun isListen(c: List<Item>) = (c.first() as? Item.Drill)?.ex?.type == "listen"
+        val listens = cs.filter { isListen(it) }.take(need).toMutableList()
+        val others = cs.filterNot { isListen(it) }.toMutableList()
+        if (listens.size < need) {
+            val have = listens.map { textOf(it.first()) }.toSet()
+            val byText = (lesson.exercises + repo.practice.filter { it.lesson == lesson.id }.flatMap { it.exercises })
+                .filter { it.type == "listen" && it.text.isNotBlank() && it.text !in have }
+                .groupBy { it.text }.values.shuffled(rnd)
+                .sortedWith(compareBy<List<Exercise>>({ g -> if (g.any { isNew("x:" + it.id) }) 0 else 1 },
+                    { g -> g.maxOf { p.peek("x:" + it.id)?.lastSeen ?: 0L } }))
+            byText.take(need - listens.size).forEach { g -> listens += g.sortedBy { it.id }.map { drillFor(it) } }
+        }
+        // délku relace zachovat: za přidané poslechy ubrat z konce
+        var extra = listens.sumOf { it.size } + others.sumOf { it.size } - items.size
+        while (extra > 0 && others.size > 1) { extra -= others.removeAt(others.size - 1).size }
+        val out = mutableListOf<Item>()
+        val step = maxOf(1, others.size / maxOf(1, listens.size))
+        val li = listens.iterator()
+        others.forEachIndexed { i, c ->
+            if (i % step == step / 2 && li.hasNext()) out += li.next()
+            out += c
+        }
+        li.forEach { out += it }
+        return out
     }
 
     private fun textOf(i: Item) = (i as? Item.Drill)?.ex?.takeIf { it.type == "read" || it.type == "listen" }?.text?.takeIf { it.isNotBlank() }

@@ -41,6 +41,18 @@ class WeekSimulationTest {
         assertTrue("s pokrokem v L01 je podíl L02 jen $m2 %", m2 in 72..88)
     }
 
+    /** Poslech: jedna nahrávka na každých 10 minut opakování (nejméně jedna). */
+    @Test fun oneListeningPerTenMinutes() {
+        val repo = Repository(RuntimeEnvironment.getApplication()).also { it.load() }
+        for ((min, need) in listOf(5 to 1, 10 to 1, 15 to 1, 20 to 2, 30 to 3)) {
+            for (seed in 1..3) {
+                val items = SessionBuilder(repo, Random(seed), System.currentTimeMillis()).lessons(min)
+                val texts = items.filterIsInstance<Item.Drill>().filter { it.ex.type == "listen" }.map { it.ex.text }.distinct()
+                assertEquals("$min min: poslechů ${texts.size}", need, texts.size)
+            }
+        }
+    }
+
     @Test fun weekOfTwentyMinutesIsVaried() {
         val repo = Repository(RuntimeEnvironment.getApplication()).also { it.load() }
         assertTrue("chybí procvičování k lekci", repo.practice.any { it.lesson == "L01" })
