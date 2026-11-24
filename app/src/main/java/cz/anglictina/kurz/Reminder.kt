@@ -56,7 +56,9 @@ class ReminderWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, param
             val f = File(ctx.filesDir, "progress.json")
             if (f.exists()) JSONObject(f.readText()).optJSONObject("days")?.optInt(Progress.today()) ?: 0 else 0
         }.getOrDefault(0)
-        if (secs >= 180) return Result.success()
+        // ten den už procvičoval, nebo má aplikaci právě otevřenou / před chvílí zavřel → nepřipomínat
+        if (secs > 0) return Result.success()
+        if (System.currentTimeMillis() - Settings(ctx).lastActive < 30 * 60_000L) return Result.success()
         if (Build.VERSION.SDK_INT >= 33 &&
             ContextCompat.checkSelfPermission(ctx, android.Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
         ) return Result.success()

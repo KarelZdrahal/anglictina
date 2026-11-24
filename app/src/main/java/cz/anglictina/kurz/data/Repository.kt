@@ -25,6 +25,8 @@ class Settings(ctx: Context) {
     var direction: String get() = p.getString("dir", "mix") ?: "mix"; set(v) = p.edit().putString("dir", v).apply()   // en2cz | cz2en | mix
     /** Po správné odpovědi pokračovat samo po tolika ms; 0 = čekat na tlačítko Pokračovat. */
     var advanceMs: Int get() = p.getInt("advanceMs", 3000); set(v) = p.edit().putInt("advanceMs", v).apply()
+    /** Kdy byla aplikace naposledy v popředí / naposledy zodpovězena úloha (připomínka pak nechodí). */
+    var lastActive: Long get() = p.getLong("lastActive", 0); set(v) = p.edit().putLong("lastActive", v).apply()
     var speakAuto: Boolean get() = p.getBoolean("speak", true); set(v) = p.edit().putBoolean("speak", v).apply()
     var dataUrl: String get() = p.getString("url", BuildConfig.DATA_URL) ?: BuildConfig.DATA_URL; set(v) = p.edit().putString("url", v).apply()
     var lastSync: Long get() = p.getLong("lastSync", 0); set(v) = p.edit().putLong("lastSync", v).apply()

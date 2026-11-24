@@ -12,11 +12,11 @@
 "level": "B2"
 },
 {
-"id": "b19-come-up-with",
-"en": "come up with",
-"cz": "vymyslet",
-"ex": "She came up with a brilliant plan.",
-"level": "B2"
+"id": "b19-set-out-to",
+"en": "set out to",
+"cz": "mít v úmyslu, předsevzít si",
+"ex": "She set out to prove them wrong.",
+"level": "C1"
 },
 {
 "id": "b19-come-down-to",
@@ -145,10 +145,10 @@
 "level": "B2"
 },
 {
-"id": "b19-rule-out",
-"en": "rule out",
-"cz": "vyloučit",
-"ex": "We can't rule anything out.",
+"id": "b19-iron-out",
+"en": "iron out",
+"cz": "vyžehlit, vyřešit (drobné problémy)",
+"ex": "We still need to iron out a few details.",
 "level": "C1"
 },
 {
@@ -201,17 +201,17 @@
 "level": "B2"
 },
 {
-"id": "b19-look-into",
-"en": "look into",
-"cz": "prošetřit",
-"ex": "We'll look into it.",
+"id": "b19-phase-out",
+"en": "phase out",
+"cz": "postupně ukončit, vyřadit",
+"ex": "Petrol cars will be phased out.",
 "level": "B2"
 },
 {
-"id": "b19-look-up-to",
-"en": "look up to",
-"cz": "vzhlížet k",
-"ex": "I look up to my father.",
+"id": "b19-hold-back",
+"en": "hold back",
+"cz": "zadržet; brzdit",
+"ex": "Fear of failure is holding you back.",
 "level": "B2"
 },
 {
@@ -236,18 +236,18 @@
 "level": "C1"
 },
 {
-"id": "b19-live-up-to",
-"en": "live up to",
-"cz": "dostát",
-"ex": "The film lived up to the hype.",
+"id": "b19-kick-off",
+"en": "kick off",
+"cz": "začít, odstartovat",
+"ex": "The festival kicks off on Friday.",
 "level": "B2"
 },
 {
-"id": "b19-cut-back-on",
-"en": "cut back on",
-"cz": "omezit",
-"ex": "We're cutting back on spending.",
-"level": "B2"
+"id": "b19-mull-over",
+"en": "mull over",
+"cz": "promýšlet, přemítat",
+"ex": "I need some time to mull it over.",
+"level": "C1"
 },
 {
 "id": "b19-drop-off",
@@ -292,11 +292,11 @@
 "level": "B1+"
 },
 {
-"id": "b19-find-out",
-"en": "find out",
-"cz": "zjistit",
-"ex": "I found out the truth.",
-"level": "B1+"
+"id": "b19-opt-out-of",
+"en": "opt out of",
+"cz": "odhlásit se z, nevyužít",
+"ex": "You can opt out of the newsletter.",
+"level": "B2"
 },
 {
 "id": "b19-look-after",
@@ -320,11 +320,11 @@
 "level": "B1+"
 },
 {
-"id": "b19-run-out-of",
-"en": "run out of",
-"cz": "dojít (něco)",
-"ex": "We've run out of milk.",
-"level": "B1+"
+"id": "b19-fend-off",
+"en": "fend off",
+"cz": "odrazit, odvrátit",
+"ex": "She fended off difficult questions.",
+"level": "C1"
 },
 {
 "id": "b19-set-up",

@@ -1,6 +1,6 @@
 #Advanced phrasal verbs|Frázová slovesa pro pokročilé
 come across|narazit na; působit|He comes across as arrogant.|B2
-come up with|vymyslet|She came up with a brilliant plan.|B2
+set out to|mít v úmyslu, předsevzít si|She set out to prove them wrong.|C1
 come down to|scvrknout se na|It all comes down to money.|C1
 get across|sdělit, vysvětlit|He struggled to get his point across.|C1
 get round to|dostat se k (něčemu)|I never got round to calling her.|C1
@@ -19,7 +19,7 @@ fall through|zkrachovat (plán)|Our holiday plans fell through.|C1
 fall apart|rozpadnout se|Their marriage fell apart.|B2
 back out|vycouvat|He backed out of the deal.|C1
 back up|podpořit; zálohovat|Can you back me up on this?|B2
-rule out|vyloučit|We can't rule anything out.|C1
+iron out|vyžehlit, vyřešit (drobné problémy)|We still need to iron out a few details.|C1
 sort out|vyřešit|I'll sort it out tomorrow.|B2
 stand out|vyčnívat|Her CV really stands out.|B2
 stand for|znamenat; tolerovat|I won't stand for this!|C1
@@ -27,24 +27,24 @@ make up for|vynahradit|I'll make up for being late.|C1
 make out|rozeznat|I couldn't make out what he said.|C1
 pull off|zvládnout (těžký úkol)|They pulled off an amazing win.|C1
 run into|narazit na (někoho)|I ran into an old friend.|B2
-look into|prošetřit|We'll look into it.|B2
-look up to|vzhlížet k|I look up to my father.|B2
+phase out|postupně ukončit, vyřadit|Petrol cars will be phased out.|B2
+hold back|zadržet; brzdit|Fear of failure is holding you back.|B2
 look down on|dívat se svrchu na|Don't look down on people.|C1
 go along with|souhlasit s, přistoupit na|I'll go along with your plan.|C1
 go through with|dotáhnout do konce|She went through with the divorce.|C1
-live up to|dostát|The film lived up to the hype.|B2
-cut back on|omezit|We're cutting back on spending.|B2
+kick off|začít, odstartovat|The festival kicks off on Friday.|B2
+mull over|promýšlet, přemítat|I need some time to mull it over.|C1
 drop off|usnout; vysadit|I dropped off during the film.|C1
 take after|být po někom|She takes after her mum.|B2
 take over|převzít|A bigger firm took over the company.|B2
 wear off|vyprchat|The painkillers wore off.|C1
 brush aside|odbýt, smést ze stolu|He brushed aside my concerns.|C1
 give up|vzdát se, přestat|Don't give up now.|B1+
-find out|zjistit|I found out the truth.|B1+
+opt out of|odhlásit se z, nevyužít|You can opt out of the newsletter.|B2
 look after|starat se o|Can you look after my cat?|B1+
 look forward to|těšit se na|I'm looking forward to the weekend.|B1+
 pick up|vyzvednout|I'll pick you up at six.|B1+
-run out of|dojít (něco)|We've run out of milk.|B1+
+fend off|odrazit, odvrátit|She fended off difficult questions.|C1
 set up|založit|He set up his own company.|B1+
 turn up|objevit se, dorazit|He turned up late.|B1+
 carry on|pokračovat|Carry on – I'm listening.|B1+

@@ -19,7 +19,7 @@ set aside time|vyhradit si čas|I set aside an hour every day for exercise.|B2
 a time slot|časový úsek, termín|Is there a free time slot on Tuesday afternoon?|B2
 squeeze in|vmáčknout, stihnout mezi něčím|Can you squeeze in a short meeting before lunch?|B2
 drag on|táhnout se|The meeting dragged on for three hours.|B2
-a productive day|produktivní den|Mornings are when I have my most productive days.|B1+
+a productive day|produktivní den|Yesterday was a really productive day – I finished everything on my list.|B1+
 lose track of time|ztratit pojem o čase|I lost track of time and missed the bus.|B2
 time flies|čas letí|Time flies when you're having fun.|B1+
 on the dot|přesně (na minutu)|The train left at seven on the dot.|B2

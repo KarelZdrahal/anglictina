@@ -14,7 +14,7 @@ multitask|dělat více věcí najednou|I'm not good at multitasking.|B2
 get the sack|dostat padáka|He got the sack for stealing.|B2
 climb the career ladder|stoupat po kariérním žebříčku|She's ambitious and wants to climb the career ladder.|B2
 a dead-end job|práce bez perspektivy|I'm stuck in a dead-end job.|C1
-on the job training|zaučení přímo v práci|We offer on-the-job training.|C1
+on-the-job training|zaučení přímo v práci|We offer on-the-job training.|C1
 be up to your eyes in|mít něčeho nad hlavu|I'm up to my eyes in paperwork.|C1
 call in sick|omluvit se z práce pro nemoc|Two people called in sick today.|B2
 fringe benefits|zaměstnanecké výhody|The salary is low, but the fringe benefits are good.|C1

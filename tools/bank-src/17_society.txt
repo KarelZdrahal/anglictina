@@ -36,7 +36,7 @@ inclusive|inkluzivní, otevřený všem|We want an inclusive society.|C1
 volunteer|dobrovolně pomáhat|She volunteers at a food bank.|B2
 food bank|potravinová banka|More families use food banks.|C1
 fundraiser|sbírková akce|We held a fundraiser for the school.|C1
-make ends meet|vyjít s penězi|Many families struggle to make ends meet.|B2
+live hand to mouth|žít z ruky do úst|Many families live hand to mouth.|C1
 the haves and have-nots|bohatí a chudí|The gap between the haves and have-nots is growing.|C1
 community spirit|sousedská soudržnost|There's a great community spirit here.|C1
 a volunteer|dobrovolník|She's a volunteer at a hospital.|B1+

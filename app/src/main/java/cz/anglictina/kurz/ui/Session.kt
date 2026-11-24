@@ -108,6 +108,7 @@ fun SessionScreen(
     }
 
     fun grade(item: Item, g: Int) {
+        repo.settings.lastActive = System.currentTimeMillis()
         val st = repo.progress.card(item.cardId)
         if (kind == SessionKind.BANK && st.isNew) {
             val d = Progress.today(); repo.progress.bankNewByDay[d] = (repo.progress.bankNewByDay[d] ?: 0) + 1

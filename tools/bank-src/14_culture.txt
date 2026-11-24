@@ -24,7 +24,7 @@ masterpiece|mistrovské dílo|It's considered a masterpiece.|B2
 a must-see|něco, co musíte vidět|The exhibition is a must-see.|C1
 highbrow|intelektuální, náročný|It's quite a highbrow programme.|C1
 lowbrow|nenáročný, lidový|I enjoy lowbrow comedy.|C1
-avant-garde|avantgardní|An avant-garde theatre group|C1
+avant-garde|avantgardní|We saw a very avant-garde play last night.|C1
 portray|ztvárnit, vylíčit|He portrays a lonely detective.|C1
 be set in|odehrávat se v|The story is set in Victorian London.|B2
 based on a true story|podle skutečné události|The film is based on a true story.|B2
@@ -36,7 +36,7 @@ catchy|chytlavý|It's a really catchy song.|B2
 grow on you|postupně se zalíbit|The album grows on you.|C1
 strike a chord|zarezonovat|Her words struck a chord with me.|C1
 take centre stage|dostat se do popředí|Climate took centre stage at the festival.|C1
-a stage fright|tréma|She suffers from stage fright.|C1
+stage fright|tréma|She suffers from stage fright.|C1
 behind the scenes|v zákulisí|We got a tour behind the scenes.|B2
 bring sth to life|oživit|The actors brought the story to life.|C1
 an exhibition|výstava|There's a new exhibition at the gallery.|B1+

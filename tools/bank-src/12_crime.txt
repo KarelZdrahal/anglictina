@@ -32,7 +32,7 @@ law-abiding|dodržující zákony|Most people are law-abiding citizens.|C1
 petty crime|drobná kriminalita|Petty crime is common in tourist areas.|C1
 reoffend|znovu spáchat trestný čin|Many prisoners reoffend.|C1
 crack down on|zakročit proti|Police are cracking down on speeding.|C1
-loophole|kličky v zákoně|They exploited a legal loophole.|C1
+loophole|klička v zákoně|They exploited a legal loophole.|C1
 miscarriage of justice|justiční omyl|His conviction was a miscarriage of justice.|C1
 take the law into your own hands|vzít spravedlnost do vlastních rukou|Don't take the law into your own hands.|C1
 scam|podvod|It's a phone scam.|B2

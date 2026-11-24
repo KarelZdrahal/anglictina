@@ -24,8 +24,8 @@ funding|financování|The project lost its funding.|B2
 a grant|grant|They received a research grant.|C1
 replicate|zopakovat (pokus)|Other scientists couldn't replicate the results.|C1
 debunk|vyvrátit (mýtus)|Scientists debunked the myth.|C1
-gene editing|genové editace|Gene editing raises ethical questions.|C1
-genetically modified|geneticky modifikovaný|Genetically modified crops|C1
+gene editing|genová editace|Gene editing raises ethical questions.|C1
+genetically modified|geneticky modifikovaný|Some countries ban genetically modified crops.|C1
 ethical concerns|etické obavy|There are ethical concerns about cloning.|C1
 space exploration|výzkum vesmíru|Space exploration is expensive.|B2
 launch|vypustit (raketu)|They launched a new satellite.|B2

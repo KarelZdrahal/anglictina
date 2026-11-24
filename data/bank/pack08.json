@@ -201,11 +201,11 @@
 "level": "C1"
 },
 {
-"id": "b08-breakthrough",
-"en": "breakthrough",
-"cz": "průlom",
-"ex": "It's a technological breakthrough.",
-"level": "C1"
+"id": "b08-open-source",
+"en": "open-source",
+"cz": "s otevřeným zdrojovým kódem",
+"ex": "Linux is open-source software.",
+"level": "B2"
 },
 {
 "id": "b08-early-adopter",

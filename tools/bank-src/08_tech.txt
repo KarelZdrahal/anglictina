@@ -27,7 +27,7 @@ wearable tech|nositelná elektronika|Smartwatches are wearable tech.|C1
 algorithm|algoritmus|The algorithm decides what you see.|C1
 artificial intelligence|umělá inteligence|AI is transforming medicine.|B2
 automation|automatizace|Automation will replace many jobs.|C1
-breakthrough|průlom|It's a technological breakthrough.|C1
+open-source|s otevřeným zdrojovým kódem|Linux is open-source software.|B2
 early adopter|ten, kdo si novinky pořizuje první|He's an early adopter of new gadgets.|C1
 plug-in|plugin, doplněk|Install this browser plug-in.|C1
 bandwidth|šířka pásma; kapacita (i člověka)|I don't have the bandwidth for this project.|C1

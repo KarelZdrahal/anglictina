@@ -47,5 +47,5 @@ a degree|vysokoškolský titul|She has a degree in biology.|B1+
 graduate from|absolvovat|He graduated from Charles University.|B1+
 make progress|dělat pokroky|You're making good progress.|B1+
 make a mistake|udělat chybu|Everyone makes mistakes.|B1+
-fluent in|mluvící plynně|She's fluent in three languages.|B1+
+fluent in|mluvící plynně (jazykem)|She's fluent in three languages.|B1+
 an online course|online kurz|I'm doing an online course.|B1+

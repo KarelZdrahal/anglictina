@@ -105,7 +105,7 @@
 {
 "id": "b16-pedestrianised",
 "en": "pedestrianised",
-"cz": "pěší (zóna)",
+"cz": "vyhrazený pro pěší",
 "ex": "The centre is pedestrianised.",
 "level": "C1"
 },
@@ -145,11 +145,11 @@
 "level": "C1"
 },
 {
-"id": "b16-run-down",
-"en": "run-down",
-"cz": "zanedbaný",
-"ex": "The station area is run-down.",
-"level": "B2"
+"id": "b16-a-no-go-area",
+"en": "a no-go area",
+"cz": "nebezpečná čtvrť, kam se raději nechodí",
+"ex": "This used to be a no-go area at night.",
+"level": "C1"
 },
 {
 "id": "b16-up-market",

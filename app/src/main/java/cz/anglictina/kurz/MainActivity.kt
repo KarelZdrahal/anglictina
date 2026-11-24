@@ -104,6 +104,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    override fun onPause() { super.onPause(); repo.progress.save() }
+    override fun onResume() { super.onResume(); repo.settings.lastActive = System.currentTimeMillis() }
+    override fun onPause() { super.onPause(); repo.settings.lastActive = System.currentTimeMillis(); repo.progress.save() }
     override fun onDestroy() { speech.shutdown(); super.onDestroy() }
 }
