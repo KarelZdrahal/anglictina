@@ -43,3 +43,4 @@ Každý čtvrtek ráno se vytvoří další lekce (datum v sylabu = čtvrtek, kd
 8. Commit + push do `main`. Aplikace si nový obsah stáhne sama.
 9. Nahraj PDF (lekce + klíč) a MP3 na Google Disk do složky Angličtina/Lekce (id 1W7BSnwSlH6eUexx1i1VhggBe4D1aKoQi).
 10. Pokud vznikla nová verze aplikace (Release na GitHubu), pošli Haně e-mailem odkaz na APK (https://github.com/KarelZdrahal/anglictina/releases/latest/download/anglictina.apk) se stručným popisem změn – vždy, bez ptaní (Karel 20. 11. 2026). Adresa je v paměti projektu.
+11. Kvalita úloh (Karel 24. 11. 2026): každá úloha musí dávat smysl sama o sobě, mít jednu mezeru a jednoznačně jednu správnou odpověď (distraktory jasně špatně). Alternativy odpovědí odděluj „ | “, nikdy lomítkem ani závorkou. Víc voleb v jedné větě export rozdělí na samostatné úlohy. DataConsistencyTest to hlídá.
