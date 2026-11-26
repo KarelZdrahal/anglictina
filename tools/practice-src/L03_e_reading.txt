@@ -1,0 +1,81 @@
+#Reading – articles|Porozumění textu – články
+@text
+STRANDED IN REYKJAVÍK: THE BEST MISTAKE OF MY LIFE
+Petra Malá, a 29-year-old nurse from Olomouc, had been dreaming about Iceland for years. Last March she finally booked a once-in-a-lifetime trip: four days, a rented car and a detailed itinerary that included glaciers, waterfalls and, if she was lucky, the northern lights.
+Things did not go to plan. On the second day a huge storm hit the island. The roads around the capital were closed, all flights were cancelled and Petra was stranded in Reykjavík. "I was furious at first," she remembers. "I had planned every hour of the trip, and suddenly I couldn't go anywhere." To make things worse, her hotel was fully booked for the next night because of a conference, so she had to find somewhere else to sleep.
+That was when her luck changed. A woman she had chatted to in a café heard about her problem and offered to put her up. "Her name was Sigrún, and she lived with her husband and two teenagers in a little house near the harbour. I stayed with them for three nights." Petra helped in the kitchen, picked up a few words of Icelandic and learnt more about the country than any guidebook could teach her.
+On her last evening the storm finally passed. Sigrún's husband drove them out of the city, away from the lights, and there it was: the aurora, green and purple, dancing over the mountains. "It's the first time I've ever cried because of the sky," Petra laughs.
+Since then, Petra has been travelling very differently. She still plans the main things, but she always leaves a few free days in her itinerary. "The storm taught me that the best moments are the ones you can't plan," she says. And she has been back to Iceland once already – to visit Sigrún's family.
+@q ## Why was Petra stranded in Reykjavík? ## A storm closed the roads and airport. / Her rented car broke down. / She lost her passport. ## A storm closed the roads and airport.
+@q ## Why couldn't Petra stay in her hotel? ## It was fully booked. / It was too expensive. / It was damaged by the storm. ## It was fully booked.
+@q ## How did Petra meet Sigrún? ## in a café / at the airport / at the hotel reception ## in a café
+@q ## What happened on Petra's last evening? ## She saw the northern lights. / She flew home. / She visited a glacier. ## She saw the northern lights.
+@q ## How has Petra changed the way she travels? ## She leaves free days in her itinerary. / She never plans anything. / She only travels in summer. ## She leaves free days in her itinerary.
+@end
+@text
+HOW TO SPOT A TOURIST TRAP
+Every traveller has been there. You've been walking around a beautiful old town all morning, you're hungry, and right next to the cathedral there's a restaurant with a sunny terrace. An hour later you have eaten a frozen pizza, paid three times the normal price and realised that you have just been ripped off. Here are a few simple rules that will help you avoid tourist traps.
+First, be careful with restaurants that have menus in six languages and photos of every dish. Places that local people go to don't usually need them. Even more suspicious are waiters who stand in the street and try to pull you inside. A good restaurant is usually busy enough without that.
+Second, walk two or three streets away from the main sights. Prices often drop by a third as soon as you leave the main square, and the food is often better too. If you see office workers having lunch somewhere, that's a very good sign.
+Third, be careful with anything that is "free". Free walking tours can be excellent, but some guides expect a large tip at the end, and "free" welcome drinks in bars are sometimes added to the bill later. Always ask about the price before you agree to anything.
+Fourth, use public transport or official taxis. At many airports, drivers wait at the exit and offer a "special price". In most cases, the special price is special only for them. Check how much a normal journey costs before you leave home and agree on the price before you get in.
+Finally, don't be too hard on yourself if it happens anyway. Almost everyone has been caught at least once. Lately, though, apps and online reviews have been making it much easier to find hidden gems instead.
+@q ## What is the article mainly about? ## how to avoid places that overcharge tourists / how to cook like a local / how to find cheap flights ## how to avoid places that overcharge tourists
+@q ## Why should you be careful with menus in many languages? ## Places for locals don't usually need them. / They are always very expensive. / The food is always frozen. ## Places for locals don't usually need them.
+@q ## What often happens when you walk away from the main square? ## Prices go down. / The restaurants close. / The food gets worse. ## Prices go down.
+@q ## What does the article say about free walking tours? ## Some guides expect a big tip. / They are always bad. / They are only for students. ## Some guides expect a big tip.
+@q ## What should you do before you get into a taxi? ## agree on the price / pay the driver / ask for a receipt ## agree on the price
+@end
+@text
+LIVING OUT OF A SUITCASE: THE LIFE OF A DIGITAL NOMAD
+Jakub Horák hasn't had a permanent address for three years. The 35-year-old web designer from Ostrava works for clients in Germany and the USA, and all he needs is a laptop and a good internet connection. So far he has lived in eleven countries, from Portugal to Thailand. "I've been working from Mexico for the last two months," he says on a video call, with a palm tree behind him.
+Jakub is one of a growing number of "digital nomads" – people who work online while travelling the world. Since the pandemic, many companies have become more open to remote work, and several countries, including Croatia, Estonia and Portugal, now offer special visas for people like him.
+The lifestyle looks perfect on social media, but Jakub says it isn't always easy. "You live out of a suitcase. Every two or three months you have to find a new flat, a new gym, new friends. Sometimes you feel very lonely." Time zones are another problem. When his American clients want a meeting, it is often late at night where he is.
+He has also learnt to travel light. "When I started, I had two huge suitcases. Now I have one backpack and a laptop bag. If I haven't used something for a month, I give it away." He spends less than he did in Ostrava, mainly because he chooses cheaper countries and stays for longer.
+Is he planning to settle down? "Not yet," he says. "I still have itchy feet. But I've been thinking about it lately. Maybe one day I'll find a place that feels like home and stay there. Until then, the world is my office."
+@q ## What does Jakub do? ## He's a web designer. / He's a travel agent. / He's a pilot. ## He's a web designer.
+@q ## How many countries has Jakub lived in so far? ## eleven / three / two ## eleven
+@q ## What problem do time zones cause him? ## He often has meetings late at night. / He often misses flights. / He can't sleep on planes. ## He often has meetings late at night.
+@q ## What does Jakub do with things he hasn't used for a month? ## He gives them away. / He sends them home. / He sells them online. ## He gives them away.
+@q ## What does Jakub say about settling down? ## He has been thinking about it. / He has already decided to do it. / He will never do it. ## He has been thinking about it.
+@end
+@text
+BEATING JET LAG
+If you have ever flown across several time zones, you probably know the feeling. You arrive in New York or Bangkok, the sun is shining, but your body thinks it's three o'clock in the morning. You feel tired, confused and hungry at strange times. Doctors call it "circadian rhythm disorder"; most of us simply call it jet lag.
+Jet lag happens because our body clock can't change as fast as a plane can fly. Scientists say it needs about one day for every time zone you cross. That means a trip from Prague to Tokyo, with a difference of eight hours, can leave you feeling strange for more than a week. Interestingly, most people find flying east harder than flying west, because it is easier to stay up late than to fall asleep early.
+So what can you do? Experts agree that light is the most important factor. When you arrive, try to spend time outside in daylight, especially in the morning if you have flown east. This tells your body clock that a new day has started. In the evening, avoid bright screens.
+Food and drink matter too. During a long-haul flight, drink plenty of water and avoid too much alcohol and coffee. Some travellers start eating at the new local times while they are still on the plane.
+Finally, don't sleep too much on your first day. A short nap of twenty minutes can help, but if you go to bed at four in the afternoon, you will probably be wide awake at midnight. Try to stay up until at least nine o'clock local time. It isn't easy, but your body will thank you the next morning.
+@q ## Why does jet lag happen? ## Our body clock changes more slowly than the plane flies. / Planes have too little oxygen. / People eat too much on planes. ## Our body clock changes more slowly than the plane flies.
+@q ## How long does the body need to adapt, according to scientists? ## about one day for each time zone / about one week for any trip / about one hour for each time zone ## about one day for each time zone
+@q ## Which direction do most people find more difficult? ## flying east / flying west / flying north ## flying east
+@q ## What is the most important factor in beating jet lag? ## light / food / exercise ## light
+@q ## What does the article recommend on your first day? ## Stay up until at least nine in the evening. / Sleep as much as possible. / Go to bed at four in the afternoon. ## Stay up until at least nine in the evening.
+@end
+@text
+EUROPE BY TRAIN ON A SHOESTRING
+When Anna and Marek finished university last June, they had very little money but a lot of free time. Instead of getting jobs immediately, they bought two Interrail passes and spent a month travelling around Europe by train. "It was the best decision we have ever made," says Anna.
+An Interrail pass lets you travel on most trains in more than thirty countries. For people under 28 it is much cheaper, and you can choose how many travel days you want. Anna and Marek chose ten travel days in one month. "That meant we had to plan carefully, but it also forced us to slow down," Marek explains. "We stayed at least three nights in every place."
+To save money, they slept in youth hostels and sometimes on night trains, which saves the cost of a hotel. In Ljubljana a friend from university put them up for free. They cooked their own meals and only ate out once or twice a week. "We set ourselves a budget of 35 euros a day each, and we managed it," says Anna proudly.
+Of course, not everything went smoothly. In Italy a train strike meant they were stranded in a small town for a whole day. "At first we were annoyed, but in the end it was a hidden gem: beautiful old streets, no tourists and the best ice cream of the trip." They also missed a connection in Vienna and had to wait five hours for the next train.
+Since they came back, they have both found jobs, but they have been saving for their next trip. "We've caught the travel bug," Marek says. "Next time we want to go to the Balkans – slowly, of course."
+@q ## When did Anna and Marek go on their trip? ## after finishing university / during their studies / after retiring ## after finishing university
+@q ## How many travel days did their pass include? ## ten / thirty / three ## ten
+@q ## Why did they sometimes sleep on night trains? ## to save the cost of a hotel / because the hostels were full / because they liked the views ## to save the cost of a hotel
+@q ## What happened in Italy? ## A train strike left them stranded. / They got ripped off in a restaurant. / They lost their passes. ## A train strike left them stranded.
+@q ## What have they been doing since they came back? ## saving for their next trip / travelling around the Balkans / studying for exams ## saving for their next trip
+@end
+@text
+CULTURE SHOCK: WHY THE SECOND MONTH IS THE HARDEST
+Moving abroad for work or study is exciting. But almost everyone who has lived in another country for a longer time has experienced culture shock – the confusion and stress we feel when everything around us is unfamiliar. Psychologists often describe it in four stages.
+The first stage is often called the "honeymoon". Everything is new and fascinating: the food, the streets, the people. You take photos of everything and send enthusiastic messages home. This stage can last a few days or a few weeks.
+Then comes the second stage, frustration. The things that seemed charming at first start to annoy you. You can't find your favourite food, simple tasks like opening a bank account take forever, and you keep making mistakes in the language. Many people feel homesick and tired. "I had been in Japan for about six weeks when it hit me," remembers Eva, a teacher from Pilsen. "I've never felt so lonely. I didn't understand the rules, and nobody explained them to me."
+The third stage is adjustment. Slowly you get your bearings. You learn how things work, you make a few friends and you pick up more of the language. Small successes, like a conversation with a neighbour, make you feel better.
+In the last stage, acceptance, the new country starts to feel like a second home. You don't love everything about it, but you understand it. Interestingly, many people experience "reverse culture shock" when they return home, because home has changed, and so have they.
+Eva has been living in Osaka for three years now. Her advice? "Expect the bad weeks. They don't mean you've made a mistake – they're part of the journey."
+@q ## What is culture shock? ## stress caused by an unfamiliar culture / a feeling of joy on holiday / an illness caused by foreign food ## stress caused by an unfamiliar culture
+@q ## What is typical of the "honeymoon" stage? ## Everything seems new and exciting. / People feel homesick. / People want to go home. ## Everything seems new and exciting.
+@q ## When did Eva start to feel bad in Japan? ## after about six weeks / on the first day / after three years ## after about six weeks
+@q ## What happens in the adjustment stage? ## You start to understand how things work. / You decide to go home. / You stop learning the language. ## You start to understand how things work.
+@q ## What is "reverse culture shock"? ## problems when you return home / problems on the first day abroad / problems with a new job ## problems when you return home
+@end

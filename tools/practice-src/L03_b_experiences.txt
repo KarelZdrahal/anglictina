@@ -1,0 +1,103 @@
+#Talking about experiences|Vyprávění o zážitcích
+choose ## I ___ (have been/went) to Scotland three times, and I'd love to go again. ## have been
+choose ## We ___ (visited/have visited) Rome last spring. ## visited
+choose ## ___ (Have you ever missed/Have you ever miss) a flight? ## Have you ever missed
+choose ## She ___ (lost/has lost) her passport on a trip to Egypt in 2023. ## lost
+choose ## When we arrived at the hotel, our room ___ (wasn't/hasn't been) ready. ## wasn't
+choose ## I ___ (have never seen/never saw) the northern lights, but it's on my list. ## have never seen
+choose ## We ___ (stayed/have stayed) in a tiny guest house when we were in Crete. ## stayed
+choose ## Our plane ___ (landed/has landed) two hours late yesterday. ## landed
+choose ## ___ (Did you go/Have you gone) anywhere nice last summer? ## Did you go
+choose ## I ___ (have been/was) to Vienna many times. ## have been
+choose ## They ___ (got/have got) ripped off by a taxi driver on their first night in Hanoi. ## got
+choose ## How many times ___ (have you been/did you go) to Italy in your life? ## have you been
+choose ## I ___ (met/have met) my husband on a train to Venice in 2015. ## met
+choose ## My grandparents ___ (have never flown/never flew) – they don't like planes. ## have never flown
+choose ## ___ (When did you get/When have you got) back from Croatia? ## When did you get
+choose ## We ___ (were stranded/have been stranded) in Oslo for two days last winter. ## were stranded
+choose ## I ___ (have already checked/already check) in, so I can relax now. ## have already checked
+choose ## Two years ago we ___ (travelled/have travelled) around Asia on a shoestring. ## travelled
+choose ## She ___ (has just come/just comes) back from Morocco – she's still unpacking. ## has just come
+choose ## I ___ (didn't like/haven't liked) the food when I was in England in 2019. ## didn't like
+choose ## ___ (Have you ever hitched/Have you ever hitch) a lift? ## Have you ever hitched
+choose ## The first time I ___ (went/have gone) abroad, I was only six. ## went
+choose ## We ___ (have had/had) a breathtaking view from our room last night. ## had
+choose ## Look! Somebody ___ (has taken/have taken) my bag! ## has taken
+choose ## Last year we ___ (missed/have missed) our connection in Frankfurt. ## missed
+choose ## I ___ (haven't been/didn't go) on holiday this year yet. ## haven't been
+choose ## What time ___ (did you set off/have you set off) this morning? ## did you set off
+choose ## The hotel ___ (was/has been) fully booked, so we slept in the car. ## was
+choose ## I ___ (have picked up/picked up) a few words of Greek since we arrived. ## have picked up
+choose ## When I was a student, I ___ (would spend/have spent) every summer in a tent. ## would spend
+choose ## As a child, I ___ (used to go/have gone) to the same campsite every year. ## used to go
+choose ## We ___ (didn't use to/haven't used to) travel abroad when I was little. ## didn't use to
+choose ## After a few months at home, I always ___ (get/getting) itchy feet. ## get
+choose ## I ___ (have never been/was never) to a hidden gem like this before. ## have never been
+choose ## The tour ___ (started/has started) at nine and ended at noon. ## started
+choose ## ___ (Have you seen/Did you see) the cathedral when you were in Seville? ## Did you see
+choose ## We ___ (have explored/explored) the whole old town on foot yesterday. ## explored
+choose ## Have you ever ___ (suffered/suffer) from jet lag? ## suffered
+choose ## I ___ (caught/have caught) the travel bug on a school trip to Paris in 2005. ## caught
+choose ## He ___ (has lived/lived) out of a suitcase for most of his career, and he still does. ## has lived
+choose ## We ___ (have been/were) in Berlin last week, but we didn't see much. ## were
+choose ## I ___ (have visited/visited) the British Museum when I was in London last May. ## visited
+error ## I am travelling around Europe for three weeks now. ## I have been travelling around Europe for three weeks now. | I've been travelling around Europe for three weeks now. | I have been traveling around Europe for three weeks now. | I've been traveling around Europe for three weeks now.
+error ## It's the first time I visit London. ## It's the first time I've visited London. | It's the first time I have visited London. | It is the first time I have visited London. | It is the first time I've visited London.
+error ## We have been visiting five museums so far. ## We have visited five museums so far. | We've visited five museums so far.
+error ## I have been knowing her since our trip to Italy. ## I have known her since our trip to Italy. | I've known her since our trip to Italy.
+error ## We have arrived in Lisbon yesterday. ## We arrived in Lisbon yesterday.
+error ## Lately I travel a lot for work. ## Lately I've been travelling a lot for work. | Lately I have been travelling a lot for work. | Lately I've been traveling a lot for work. | Lately I have been traveling a lot for work.
+error ## I live in Prague since 2015. ## I have lived in Prague since 2015. | I've lived in Prague since 2015. | I have been living in Prague since 2015. | I've been living in Prague since 2015.
+error ## How long are you waiting for the bus? ## How long have you been waiting for the bus?
+error ## She has been to Paris last summer. ## She went to Paris last summer.
+error ## We are here since Monday. ## We have been here since Monday. | We've been here since Monday.
+error ## I have been waiting for two hours ago. ## I have been waiting for two hours. | I've been waiting for two hours.
+error ## They have been travelling since three weeks. ## They have been travelling for three weeks. | They've been travelling for three weeks. | They have been traveling for three weeks. | They've been traveling for three weeks.
+error ## It's the first time I eat sushi. ## It's the first time I've eaten sushi. | It's the first time I have eaten sushi. | It is the first time I have eaten sushi. | It is the first time I've eaten sushi.
+error ## Have you ever went to Greece? ## Have you ever been to Greece?
+error ## I've lost my passport last night. ## I lost my passport last night.
+error ## When have you arrived? ## When did you arrive?
+error ## We've been having this car for ten years. ## We've had this car for ten years. | We have had this car for ten years.
+error ## She has gone to Spain three times. ## She has been to Spain three times. | She's been to Spain three times.
+error ## I haven't saw the sea yet. ## I haven't seen the sea yet. | I have not seen the sea yet.
+error ## So far we spend 500 euros. ## So far we've spent 500 euros. | So far we have spent 500 euros.
+error ## How many countries have you been visiting? ## How many countries have you visited?
+error ## I have been seeing this film three times. ## I have seen this film three times. | I've seen this film three times.
+error ## They should be at the hotel so far. ## They should be at the hotel by now.
+error ## I have been to Italy in 2019. ## I went to Italy in 2019. | I was in Italy in 2019.
+error ## We haven't been on holiday since two years. ## We haven't been on holiday for two years. | We have not been on holiday for two years.
+error ## He is working here for six months. ## He has been working here for six months. | He's been working here for six months.
+error ## This is the best view I have ever saw. ## This is the best view I've ever seen. | This is the best view I have ever seen.
+error ## I've already been booking the tickets. ## I've already booked the tickets. | I have already booked the tickets.
+error ## Have you ever stay in a youth hostel? ## Have you ever stayed in a youth hostel?
+error ## My feet hurt because I walk all day. ## My feet hurt because I've been walking all day. | My feet hurt because I have been walking all day.
+order ## been / have / to / you / Japan / ever ## Have you ever been to Japan?
+order ## first / it's / time / the / I've / here / been ## It's the first time I've been here.
+order ## I've / three / cities / visited ## I've visited three cities.
+order ## long / how / you / been / have / waiting ## How long have you been waiting?
+order ## been / I've / planning / trip / this / for / months ## I've been planning this trip for months.
+order ## never / she's / flown / business / class ## She's never flown business class.
+order ## you / have / long / known / how / Tom ## How long have you known Tom?
+order ## haven't / I / been / well / sleeping ## I haven't been sleeping well.
+order ## stranded / we / for / were / two / days ## We were stranded for two days.
+order ## set / we / off / early ## We set off early.
+order ## booked / we're / sorry / fully ## Sorry, we're fully booked.
+order ## a / lift / hitched / we / town / to / the / next ## We hitched a lift to the next town.
+order ## have / you / checked / yet / in ## Have you checked in yet?
+order ## ripped / we / got / taxi / by / a / off / driver ## We got ripped off by a taxi driver.
+order ## travelling / we've / for / been / weeks / three ## We've been travelling for three weeks.
+order ## many / how / have / you / countries / visited ## How many countries have you visited?
+order ## just / I've / back / come / from / Vietnam ## I've just come back from Vietnam.
+order ## known / I've / her / since / school ## I've known her since school.
+order ## ever / it's / the / best / meal / I've / had ## It's the best meal I've ever had.
+order ## she's / gone / to / the / station ## She's gone to the station.
+order ## put / a / us / up / family / local ## A local family put us up.
+order ## missed / we / connection / our / in / Vienna ## We missed our connection in Vienna.
+order ## packed / you / have / yet ## Have you packed yet?
+order ## explored / we / the / city / on / foot ## We explored the city on foot.
+order ## raining / it's / been / since / morning ## It's been raining since morning.
+order ## always / I / suffer / jet / lag / from ## I always suffer from jet lag.
+order ## did / when / you / back / get ## When did you get back?
+order ## the / second / it's / time / I've / missed / bus / the ## It's the second time I've missed the bus.
+order ## picked / I've / a / up / few / words / of / Greek ## I've picked up a few words of Greek.
+order ## stayed / we / a / stone's / throw / from / the / beach ## We stayed a stone's throw from the beach.

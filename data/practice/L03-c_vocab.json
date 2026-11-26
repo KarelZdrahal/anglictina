@@ -1,0 +1,609 @@
+{
+"id": "L03-c_vocab",
+"lesson": "L03",
+"topic": "Travel experiences – vocabulary",
+"topic_cz": "Zážitky z cestování – slovní zásoba",
+"level": "B1",
+"exercises": [
+{
+"id": "L03-c_vocab-001",
+"type": "choose",
+"q": "We ___ (set off/set up) at five to avoid the traffic.",
+"a": "set off"
+},
+{
+"id": "L03-c_vocab-002",
+"type": "choose",
+"q": "You can ___ (check in/check up) online 24 hours before your flight.",
+"a": "check in"
+},
+{
+"id": "L03-c_vocab-003",
+"type": "choose",
+"q": "We have to ___ (check out/check off) of the hotel by eleven.",
+"a": "check out"
+},
+{
+"id": "L03-c_vocab-004",
+"type": "choose",
+"q": "On the way to Australia we stopped ___ (over/by) in Singapore for two nights.",
+"a": "over"
+},
+{
+"id": "L03-c_vocab-005",
+"type": "choose",
+"q": "Our ___ (itinerary/inventory) was so full that we had no time to relax.",
+"a": "itinerary"
+},
+{
+"id": "L03-c_vocab-006",
+"type": "choose",
+"q": "We found a lovely village off the beaten ___ (track/road).",
+"a": "track"
+},
+{
+"id": "L03-c_vocab-007",
+"type": "choose",
+"q": "We rented a cabin in the mountains to get away from it ___ (all/everything).",
+"a": "all"
+},
+{
+"id": "L03-c_vocab-008",
+"type": "choose",
+"q": "I've learnt to travel ___ (light/lightly) – just one small backpack.",
+"a": "light"
+},
+{
+"id": "L03-c_vocab-009",
+"type": "choose",
+"q": "I always suffer from jet ___ (lag/lack) after flying east.",
+"a": "lag"
+},
+{
+"id": "L03-c_vocab-010",
+"type": "choose",
+"q": "We were ___ (stranded/strained) at the airport for two days because of the snow.",
+"a": "stranded"
+},
+{
+"id": "L03-c_vocab-011",
+"type": "choose",
+"q": "From the top there's a ___ (breathtaking/breathless) view of the whole valley.",
+"a": "breathtaking"
+},
+{
+"id": "L03-c_vocab-012",
+"type": "choose",
+"q": "The restaurant on the main square is a real tourist ___ (trap/trick).",
+"a": "trap"
+},
+{
+"id": "L03-c_vocab-013",
+"type": "choose",
+"q": "We sat in a café and soaked ___ (up/in) the atmosphere.",
+"a": "up"
+},
+{
+"id": "L03-c_vocab-014",
+"type": "choose",
+"q": "It took us a day to get our ___ (bearings/directions) in Tokyo.",
+"a": "bearings"
+},
+{
+"id": "L03-c_vocab-015",
+"type": "choose",
+"q": "We spent the morning taking ___ (in/up) the sights of Lisbon.",
+"a": "in"
+},
+{
+"id": "L03-c_vocab-016",
+"type": "choose",
+"q": "When the bus didn't come, we ___ (hitched/hiked) a lift to the next town.",
+"a": "hitched"
+},
+{
+"id": "L03-c_vocab-017",
+"type": "choose",
+"q": "Every hotel in town was fully ___ (booked/full) because of the festival.",
+"a": "booked"
+},
+{
+"id": "L03-c_vocab-018",
+"type": "choose",
+"q": "Seeing the northern lights was a once-in-a-___ (lifetime/life) experience.",
+"a": "lifetime"
+},
+{
+"id": "L03-c_vocab-019",
+"type": "choose",
+"q": "I've picked ___ (up/out) a few words of Portuguese on this trip.",
+"a": "up"
+},
+{
+"id": "L03-c_vocab-020",
+"type": "choose",
+"q": "I experienced real culture ___ (shock/surprise) during my first week in India.",
+"a": "shock"
+},
+{
+"id": "L03-c_vocab-021",
+"type": "choose",
+"q": "The best way to see Prague is to explore it on ___ (foot/feet).",
+"a": "foot"
+},
+{
+"id": "L03-c_vocab-022",
+"type": "choose",
+"q": "Our train was late, so we missed our ___ (connection/link) in Vienna.",
+"a": "connection"
+},
+{
+"id": "L03-c_vocab-023",
+"type": "choose",
+"q": "I can never sleep on long-___ (haul/distance) flights.",
+"a": "haul"
+},
+{
+"id": "L03-c_vocab-024",
+"type": "choose",
+"q": "After six months at home I always get itchy ___ (feet/legs).",
+"a": "feet"
+},
+{
+"id": "L03-c_vocab-025",
+"type": "choose",
+"q": "She caught the travel ___ (bug/virus) on a school trip to Italy.",
+"a": "bug"
+},
+{
+"id": "L03-c_vocab-026",
+"type": "choose",
+"q": "For my job I live out of a ___ (suitcase/wardrobe) three weeks a month.",
+"a": "suitcase"
+},
+{
+"id": "L03-c_vocab-027",
+"type": "choose",
+"q": "This tiny museum is a hidden ___ (gem/stone).",
+"a": "gem"
+},
+{
+"id": "L03-c_vocab-028",
+"type": "choose",
+"q": "We found an ___ (unspoilt/unspoken) beach with no hotels at all.",
+"a": "unspoilt"
+},
+{
+"id": "L03-c_vocab-029",
+"type": "choose",
+"q": "Český Krumlov is one of the most ___ (picturesque/pictorial) towns in Europe.",
+"a": "picturesque"
+},
+{
+"id": "L03-c_vocab-030",
+"type": "choose",
+"q": "As students we travelled around Asia on a ___ (shoestring/shoelace).",
+"a": "shoestring"
+},
+{
+"id": "L03-c_vocab-031",
+"type": "choose",
+"q": "A friend of ours put us ___ (up/on) for a week in Berlin.",
+"a": "up"
+},
+{
+"id": "L03-c_vocab-032",
+"type": "choose",
+"q": "We got ripped ___ (off/out) by a taxi driver at the airport.",
+"a": "off"
+},
+{
+"id": "L03-c_vocab-033",
+"type": "choose",
+"q": "Our hotel was a stone's ___ (throw/shot) from the beach.",
+"a": "throw"
+},
+{
+"id": "L03-c_vocab-034",
+"type": "choose",
+"q": "There was a heavy snowstorm and no planes could leave. We were ___ (stranded/fully booked).",
+"a": "stranded"
+},
+{
+"id": "L03-c_vocab-035",
+"type": "choose",
+"q": "A quiet village that isn't in any guidebook is ___ (off the beaten track/a tourist trap).",
+"a": "off the beaten track"
+},
+{
+"id": "L03-c_vocab-036",
+"type": "choose",
+"q": "A place where everything is overpriced and full of tourists is ___ (a tourist trap/a hidden gem).",
+"a": "a tourist trap"
+},
+{
+"id": "L03-c_vocab-037",
+"type": "choose",
+"q": "If you only take a small backpack, you ___ (travel light/live out of a suitcase).",
+"a": "travel light"
+},
+{
+"id": "L03-c_vocab-038",
+"type": "choose",
+"q": "If you feel tired and can't sleep after a long flight, you ___ (suffer from jet lag/get your bearings).",
+"a": "suffer from jet lag"
+},
+{
+"id": "L03-c_vocab-039",
+"type": "choose",
+"q": "If you pay much more than the normal price, you ___ (get ripped off/put sb up).",
+"a": "get ripped off"
+},
+{
+"id": "L03-c_vocab-040",
+"type": "choose",
+"q": "A beautiful little-known place is ___ (a hidden gem/a tourist trap).",
+"a": "a hidden gem"
+},
+{
+"id": "L03-c_vocab-041",
+"type": "choose",
+"q": "A trip you will probably never repeat is ___ (a once-in-a-lifetime trip/a long-haul flight).",
+"a": "a once-in-a-lifetime trip"
+},
+{
+"id": "L03-c_vocab-042",
+"type": "choose",
+"q": "If you never want to stay in one place for long, you ___ (have itchy feet/travel light).",
+"a": "have itchy feet"
+},
+{
+"id": "L03-c_vocab-043",
+"type": "choose",
+"q": "If you have very little money for your trip, you travel ___ (on a shoestring/off the beaten track).",
+"a": "on a shoestring"
+},
+{
+"id": "L03-c_vocab-044",
+"type": "choose",
+"q": "The feeling of confusion in a very different country is ___ (culture shock/jet lag).",
+"a": "culture shock"
+},
+{
+"id": "L03-c_vocab-045",
+"type": "choose",
+"q": "A place with no hotels, roads or crowds is ___ (unspoilt/fully booked).",
+"a": "unspoilt"
+},
+{
+"id": "L03-c_vocab-046",
+"type": "choose",
+"q": "If you start a journey, you ___ (set off/check out).",
+"a": "set off"
+},
+{
+"id": "L03-c_vocab-047",
+"type": "choose",
+"q": "If you leave a hotel and pay the bill, you ___ (check out/check in).",
+"a": "check out"
+},
+{
+"id": "L03-c_vocab-048",
+"type": "choose",
+"q": "If you stand by the road and ask drivers to take you, you ___ (hitch a lift/miss a connection).",
+"a": "hitch a lift"
+},
+{
+"id": "L03-c_vocab-049",
+"type": "choose",
+"q": "If you sit in a square and enjoy the mood of a place, you ___ (soak up the atmosphere/take in the sights).",
+"a": "soak up the atmosphere"
+},
+{
+"id": "L03-c_vocab-050",
+"type": "choose",
+"q": "If you stay at a friend's house for free, the friend ___ (puts you up/picks you up).",
+"a": "puts you up"
+},
+{
+"id": "L03-c_vocab-051",
+"type": "choose",
+"q": "When I arrive in a new city, I need a few hours to ___ (get my bearings/get away from it all).",
+"a": "get my bearings"
+},
+{
+"id": "L03-c_vocab-052",
+"type": "choose",
+"q": "Sorry, we have no free rooms tonight – we're ___ (fully booked/stranded).",
+"a": "fully booked"
+},
+{
+"id": "L03-c_vocab-053",
+"type": "choose",
+"q": "There's no direct flight, so we'll ___ (stop over/check out) in Dubai.",
+"a": "stop over"
+},
+{
+"id": "L03-c_vocab-054",
+"type": "choose",
+"q": "After a stressful year at work, I need to ___ (get away from it all/live out of a suitcase).",
+"a": "get away from it all"
+},
+{
+"id": "L03-c_vocab-055",
+"type": "choose",
+"q": "Our flight was delayed, so we ___ (missed/lost) our connection to Madrid.",
+"a": "missed"
+},
+{
+"id": "L03-c_vocab-056",
+"type": "choose",
+"q": "We ___ (explored/discovered on) the old town on foot.",
+"a": "explored"
+},
+{
+"id": "L03-c_vocab-057",
+"type": "choose",
+"q": "The view from the tower was ___ (breathtaking/breathtaken).",
+"a": "breathtaking"
+},
+{
+"id": "L03-c_vocab-058",
+"type": "choose",
+"q": "The tour guide showed us ___ (round/over) the castle.",
+"a": "round"
+},
+{
+"id": "L03-c_vocab-059",
+"type": "choose",
+"q": "My husband is ___ (a frequent flyer/a frequent flight) – he flies every week.",
+"a": "a frequent flyer"
+},
+{
+"id": "L03-c_vocab-060",
+"type": "choose",
+"q": "Could you give me a ___ (lift/hitch) to the station?",
+"a": "lift"
+},
+{
+"id": "L03-c_vocab-061",
+"type": "choose",
+"q": "We decided to ___ (stretch/break) our legs after four hours in the car.",
+"a": "stretch"
+},
+{
+"id": "L03-c_vocab-062",
+"type": "choose",
+"q": "The local market is well worth ___ (a visit/visit).",
+"a": "a visit"
+},
+{
+"id": "L03-c_vocab-063",
+"type": "choose",
+"q": "The hotel is ___ (within/inside) walking distance of the beach.",
+"a": "within"
+},
+{
+"id": "L03-c_vocab-064",
+"type": "choose",
+"q": "Tourists ___ (flock/herd) to Venice every summer.",
+"a": "flock"
+},
+{
+"id": "L03-c_vocab-065",
+"type": "choose",
+"q": "We ___ (went/did) sightseeing all day.",
+"a": "went"
+},
+{
+"id": "L03-c_vocab-066",
+"type": "choose",
+"q": "I like to ___ (go/make) on a trip at least twice a year.",
+"a": "go"
+},
+{
+"id": "L03-c_vocab-067",
+"type": "choose",
+"q": "We ___ (took/made) a day trip to the mountains.",
+"a": "took"
+},
+{
+"id": "L03-c_vocab-068",
+"type": "choose",
+"q": "Have a safe ___ (journey/travel)!",
+"a": "journey"
+},
+{
+"id": "L03-c_vocab-069",
+"type": "choose",
+"q": "How was your ___ (trip/travel) to Norway?",
+"a": "trip"
+},
+{
+"id": "L03-c_vocab-070",
+"type": "choose",
+"q": "The ___ (crossing/passing) from Dover to Calais takes about ninety minutes.",
+"a": "crossing"
+},
+{
+"id": "L03-c_vocab-071",
+"type": "choose",
+"q": "We booked a ___ (package holiday/package trip) with flights and hotel included.",
+"a": "package holiday"
+},
+{
+"id": "L03-c_vocab-072",
+"type": "choose",
+"q": "The town gets very crowded in ___ (peak season/top season).",
+"a": "peak season"
+},
+{
+"id": "L03-c_vocab-073",
+"type": "gap",
+"q": "We set _____ at dawn to avoid the heat.",
+"a": "off | out"
+},
+{
+"id": "L03-c_vocab-074",
+"type": "gap",
+"q": "On the way to Bali we stopped _____ in Singapore.",
+"a": "over | off"
+},
+{
+"id": "L03-c_vocab-075",
+"type": "gap",
+"q": "We have to check _____ of our room by noon.",
+"a": "out"
+},
+{
+"id": "L03-c_vocab-076",
+"type": "gap",
+"q": "A friend put us _____ for three nights in Paris.",
+"a": "up"
+},
+{
+"id": "L03-c_vocab-077",
+"type": "gap",
+"q": "It took me a whole day to get my _____ in the city.",
+"a": "bearings"
+},
+{
+"id": "L03-c_vocab-078",
+"type": "gap",
+"q": "The restaurants on the main square are a real tourist _____.",
+"a": "trap"
+},
+{
+"id": "L03-c_vocab-079",
+"type": "gap",
+"q": "We were _____ at the airport for a whole night because of fog.",
+"a": "stranded | stuck"
+},
+{
+"id": "L03-c_vocab-080",
+"type": "gap",
+"q": "I always take only a small backpack – I like to travel _____.",
+"a": "light"
+},
+{
+"id": "L03-c_vocab-081",
+"type": "gap",
+"q": "After the flight from Tokyo I suffered from jet _____ for a week.",
+"a": "lag"
+},
+{
+"id": "L03-c_vocab-082",
+"type": "gap",
+"q": "All the hotels were fully _____, so we slept in the car.",
+"a": "booked"
+},
+{
+"id": "L03-c_vocab-083",
+"type": "gap",
+"q": "We missed our _____ in Frankfurt because the first flight was late.",
+"a": "connection | connecting flight | flight"
+},
+{
+"id": "L03-c_vocab-084",
+"type": "gap",
+"q": "As students we travelled around Europe on a _____.",
+"a": "shoestring | budget"
+},
+{
+"id": "L03-c_vocab-085",
+"type": "gap",
+"q": "The taxi driver charged us 100 euros – we got ripped _____.",
+"a": "off"
+},
+{
+"id": "L03-c_vocab-086",
+"type": "gap",
+"q": "Our flat was a stone's _____ from the sea.",
+"a": "throw"
+},
+{
+"id": "L03-c_vocab-087",
+"type": "gap",
+"q": "This small café is a real hidden _____.",
+"a": "gem"
+},
+{
+"id": "L03-c_vocab-088",
+"type": "gap",
+"q": "I spend so many weeks in hotels that I live out of a _____.",
+"a": "suitcase"
+},
+{
+"id": "L03-c_vocab-089",
+"type": "gap",
+"q": "After a few months at home, I get itchy _____.",
+"a": "feet"
+},
+{
+"id": "L03-c_vocab-090",
+"type": "gap",
+"q": "She caught the travel _____ when she spent a year in Australia.",
+"a": "bug"
+},
+{
+"id": "L03-c_vocab-091",
+"type": "gap",
+"q": "We hitched a _____ with a friendly lorry driver.",
+"a": "lift | ride"
+},
+{
+"id": "L03-c_vocab-092",
+"type": "gap",
+"q": "The best way to see the old town is to explore it on _____.",
+"a": "foot"
+},
+{
+"id": "L03-c_vocab-093",
+"type": "gap",
+"q": "We sat on the terrace and soaked up the _____ of the old town.",
+"a": "atmosphere"
+},
+{
+"id": "L03-c_vocab-094",
+"type": "gap",
+"q": "It was a once-in-a-_____ trip – we'll never forget it.",
+"a": "lifetime"
+},
+{
+"id": "L03-c_vocab-095",
+"type": "gap",
+"q": "During my first week in China I experienced real culture _____.",
+"a": "shock"
+},
+{
+"id": "L03-c_vocab-096",
+"type": "gap",
+"q": "I've picked _____ a few words of Croatian.",
+"a": "up"
+},
+{
+"id": "L03-c_vocab-097",
+"type": "gap",
+"q": "We spent the afternoon taking _____ the sights.",
+"a": "in"
+},
+{
+"id": "L03-c_vocab-098",
+"type": "gap",
+"q": "The view from the top of the mountain was _____ (breath).",
+"a": "breathtaking"
+},
+{
+"id": "L03-c_vocab-099",
+"type": "gap",
+"q": "The coast here is completely _____ (spoil) – no hotels, no crowds.",
+"a": "unspoilt | unspoiled"
+},
+{
+"id": "L03-c_vocab-100",
+"type": "gap",
+"q": "It's one of the most _____ (picture) villages in Moravia.",
+"a": "picturesque"
+}
+]
+}

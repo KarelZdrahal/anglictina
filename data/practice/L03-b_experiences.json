@@ -1,0 +1,621 @@
+{
+"id": "L03-b_experiences",
+"lesson": "L03",
+"topic": "Talking about experiences",
+"topic_cz": "Vyprávění o zážitcích",
+"level": "B1",
+"exercises": [
+{
+"id": "L03-b_experiences-001",
+"type": "choose",
+"q": "I ___ (have been/went) to Scotland three times, and I'd love to go again.",
+"a": "have been"
+},
+{
+"id": "L03-b_experiences-002",
+"type": "choose",
+"q": "We ___ (visited/have visited) Rome last spring.",
+"a": "visited"
+},
+{
+"id": "L03-b_experiences-003",
+"type": "choose",
+"q": "___ (Have you ever missed/Have you ever miss) a flight?",
+"a": "Have you ever missed"
+},
+{
+"id": "L03-b_experiences-004",
+"type": "choose",
+"q": "She ___ (lost/has lost) her passport on a trip to Egypt in 2023.",
+"a": "lost"
+},
+{
+"id": "L03-b_experiences-005",
+"type": "choose",
+"q": "When we arrived at the hotel, our room ___ (wasn't/hasn't been) ready.",
+"a": "wasn't"
+},
+{
+"id": "L03-b_experiences-006",
+"type": "choose",
+"q": "I ___ (have never seen/never saw) the northern lights, but it's on my list.",
+"a": "have never seen"
+},
+{
+"id": "L03-b_experiences-007",
+"type": "choose",
+"q": "We ___ (stayed/have stayed) in a tiny guest house when we were in Crete.",
+"a": "stayed"
+},
+{
+"id": "L03-b_experiences-008",
+"type": "choose",
+"q": "Our plane ___ (landed/has landed) two hours late yesterday.",
+"a": "landed"
+},
+{
+"id": "L03-b_experiences-009",
+"type": "choose",
+"q": "___ (Did you go/Have you gone) anywhere nice last summer?",
+"a": "Did you go"
+},
+{
+"id": "L03-b_experiences-010",
+"type": "choose",
+"q": "I ___ (have been/was) to Vienna many times.",
+"a": "have been"
+},
+{
+"id": "L03-b_experiences-011",
+"type": "choose",
+"q": "They ___ (got/have got) ripped off by a taxi driver on their first night in Hanoi.",
+"a": "got"
+},
+{
+"id": "L03-b_experiences-012",
+"type": "choose",
+"q": "How many times ___ (have you been/did you go) to Italy in your life?",
+"a": "have you been"
+},
+{
+"id": "L03-b_experiences-013",
+"type": "choose",
+"q": "I ___ (met/have met) my husband on a train to Venice in 2015.",
+"a": "met"
+},
+{
+"id": "L03-b_experiences-014",
+"type": "choose",
+"q": "My grandparents ___ (have never flown/never flew) – they don't like planes.",
+"a": "have never flown"
+},
+{
+"id": "L03-b_experiences-015",
+"type": "choose",
+"q": "___ (When did you get/When have you got) back from Croatia?",
+"a": "When did you get"
+},
+{
+"id": "L03-b_experiences-016",
+"type": "choose",
+"q": "We ___ (were stranded/have been stranded) in Oslo for two days last winter.",
+"a": "were stranded"
+},
+{
+"id": "L03-b_experiences-017",
+"type": "choose",
+"q": "I ___ (have already checked/already check) in, so I can relax now.",
+"a": "have already checked"
+},
+{
+"id": "L03-b_experiences-018",
+"type": "choose",
+"q": "Two years ago we ___ (travelled/have travelled) around Asia on a shoestring.",
+"a": "travelled"
+},
+{
+"id": "L03-b_experiences-019",
+"type": "choose",
+"q": "She ___ (has just come/just comes) back from Morocco – she's still unpacking.",
+"a": "has just come"
+},
+{
+"id": "L03-b_experiences-020",
+"type": "choose",
+"q": "I ___ (didn't like/haven't liked) the food when I was in England in 2019.",
+"a": "didn't like"
+},
+{
+"id": "L03-b_experiences-021",
+"type": "choose",
+"q": "___ (Have you ever hitched/Have you ever hitch) a lift?",
+"a": "Have you ever hitched"
+},
+{
+"id": "L03-b_experiences-022",
+"type": "choose",
+"q": "The first time I ___ (went/have gone) abroad, I was only six.",
+"a": "went"
+},
+{
+"id": "L03-b_experiences-023",
+"type": "choose",
+"q": "We ___ (have had/had) a breathtaking view from our room last night.",
+"a": "had"
+},
+{
+"id": "L03-b_experiences-024",
+"type": "choose",
+"q": "Look! Somebody ___ (has taken/have taken) my bag!",
+"a": "has taken"
+},
+{
+"id": "L03-b_experiences-025",
+"type": "choose",
+"q": "Last year we ___ (missed/have missed) our connection in Frankfurt.",
+"a": "missed"
+},
+{
+"id": "L03-b_experiences-026",
+"type": "choose",
+"q": "I ___ (haven't been/didn't go) on holiday this year yet.",
+"a": "haven't been"
+},
+{
+"id": "L03-b_experiences-027",
+"type": "choose",
+"q": "What time ___ (did you set off/have you set off) this morning?",
+"a": "did you set off"
+},
+{
+"id": "L03-b_experiences-028",
+"type": "choose",
+"q": "The hotel ___ (was/has been) fully booked, so we slept in the car.",
+"a": "was"
+},
+{
+"id": "L03-b_experiences-029",
+"type": "choose",
+"q": "I ___ (have picked up/picked up) a few words of Greek since we arrived.",
+"a": "have picked up"
+},
+{
+"id": "L03-b_experiences-030",
+"type": "choose",
+"q": "When I was a student, I ___ (would spend/have spent) every summer in a tent.",
+"a": "would spend"
+},
+{
+"id": "L03-b_experiences-031",
+"type": "choose",
+"q": "As a child, I ___ (used to go/have gone) to the same campsite every year.",
+"a": "used to go"
+},
+{
+"id": "L03-b_experiences-032",
+"type": "choose",
+"q": "We ___ (didn't use to/haven't used to) travel abroad when I was little.",
+"a": "didn't use to"
+},
+{
+"id": "L03-b_experiences-033",
+"type": "choose",
+"q": "After a few months at home, I always ___ (get/getting) itchy feet.",
+"a": "get"
+},
+{
+"id": "L03-b_experiences-034",
+"type": "choose",
+"q": "I ___ (have never been/was never) to a hidden gem like this before.",
+"a": "have never been"
+},
+{
+"id": "L03-b_experiences-035",
+"type": "choose",
+"q": "The tour ___ (started/has started) at nine and ended at noon.",
+"a": "started"
+},
+{
+"id": "L03-b_experiences-036",
+"type": "choose",
+"q": "___ (Have you seen/Did you see) the cathedral when you were in Seville?",
+"a": "Did you see"
+},
+{
+"id": "L03-b_experiences-037",
+"type": "choose",
+"q": "We ___ (have explored/explored) the whole old town on foot yesterday.",
+"a": "explored"
+},
+{
+"id": "L03-b_experiences-038",
+"type": "choose",
+"q": "Have you ever ___ (suffered/suffer) from jet lag?",
+"a": "suffered"
+},
+{
+"id": "L03-b_experiences-039",
+"type": "choose",
+"q": "I ___ (caught/have caught) the travel bug on a school trip to Paris in 2005.",
+"a": "caught"
+},
+{
+"id": "L03-b_experiences-040",
+"type": "choose",
+"q": "He ___ (has lived/lived) out of a suitcase for most of his career, and he still does.",
+"a": "has lived"
+},
+{
+"id": "L03-b_experiences-041",
+"type": "choose",
+"q": "We ___ (have been/were) in Berlin last week, but we didn't see much.",
+"a": "were"
+},
+{
+"id": "L03-b_experiences-042",
+"type": "choose",
+"q": "I ___ (have visited/visited) the British Museum when I was in London last May.",
+"a": "visited"
+},
+{
+"id": "L03-b_experiences-043",
+"type": "error",
+"q": "I am travelling around Europe for three weeks now.",
+"a": "I have been travelling around Europe for three weeks now. | I've been travelling around Europe for three weeks now. | I have been traveling around Europe for three weeks now. | I've been traveling around Europe for three weeks now."
+},
+{
+"id": "L03-b_experiences-044",
+"type": "error",
+"q": "It's the first time I visit London.",
+"a": "It's the first time I've visited London. | It's the first time I have visited London. | It is the first time I have visited London. | It is the first time I've visited London."
+},
+{
+"id": "L03-b_experiences-045",
+"type": "error",
+"q": "We have been visiting five museums so far.",
+"a": "We have visited five museums so far. | We've visited five museums so far."
+},
+{
+"id": "L03-b_experiences-046",
+"type": "error",
+"q": "I have been knowing her since our trip to Italy.",
+"a": "I have known her since our trip to Italy. | I've known her since our trip to Italy."
+},
+{
+"id": "L03-b_experiences-047",
+"type": "error",
+"q": "We have arrived in Lisbon yesterday.",
+"a": "We arrived in Lisbon yesterday."
+},
+{
+"id": "L03-b_experiences-048",
+"type": "error",
+"q": "Lately I travel a lot for work.",
+"a": "Lately I've been travelling a lot for work. | Lately I have been travelling a lot for work. | Lately I've been traveling a lot for work. | Lately I have been traveling a lot for work."
+},
+{
+"id": "L03-b_experiences-049",
+"type": "error",
+"q": "I live in Prague since 2015.",
+"a": "I have lived in Prague since 2015. | I've lived in Prague since 2015. | I have been living in Prague since 2015. | I've been living in Prague since 2015."
+},
+{
+"id": "L03-b_experiences-050",
+"type": "error",
+"q": "How long are you waiting for the bus?",
+"a": "How long have you been waiting for the bus?"
+},
+{
+"id": "L03-b_experiences-051",
+"type": "error",
+"q": "She has been to Paris last summer.",
+"a": "She went to Paris last summer."
+},
+{
+"id": "L03-b_experiences-052",
+"type": "error",
+"q": "We are here since Monday.",
+"a": "We have been here since Monday. | We've been here since Monday."
+},
+{
+"id": "L03-b_experiences-053",
+"type": "error",
+"q": "I have been waiting for two hours ago.",
+"a": "I have been waiting for two hours. | I've been waiting for two hours."
+},
+{
+"id": "L03-b_experiences-054",
+"type": "error",
+"q": "They have been travelling since three weeks.",
+"a": "They have been travelling for three weeks. | They've been travelling for three weeks. | They have been traveling for three weeks. | They've been traveling for three weeks."
+},
+{
+"id": "L03-b_experiences-055",
+"type": "error",
+"q": "It's the first time I eat sushi.",
+"a": "It's the first time I've eaten sushi. | It's the first time I have eaten sushi. | It is the first time I have eaten sushi. | It is the first time I've eaten sushi."
+},
+{
+"id": "L03-b_experiences-056",
+"type": "error",
+"q": "Have you ever went to Greece?",
+"a": "Have you ever been to Greece?"
+},
+{
+"id": "L03-b_experiences-057",
+"type": "error",
+"q": "I've lost my passport last night.",
+"a": "I lost my passport last night."
+},
+{
+"id": "L03-b_experiences-058",
+"type": "error",
+"q": "When have you arrived?",
+"a": "When did you arrive?"
+},
+{
+"id": "L03-b_experiences-059",
+"type": "error",
+"q": "We've been having this car for ten years.",
+"a": "We've had this car for ten years. | We have had this car for ten years."
+},
+{
+"id": "L03-b_experiences-060",
+"type": "error",
+"q": "She has gone to Spain three times.",
+"a": "She has been to Spain three times. | She's been to Spain three times."
+},
+{
+"id": "L03-b_experiences-061",
+"type": "error",
+"q": "I haven't saw the sea yet.",
+"a": "I haven't seen the sea yet. | I have not seen the sea yet."
+},
+{
+"id": "L03-b_experiences-062",
+"type": "error",
+"q": "So far we spend 500 euros.",
+"a": "So far we've spent 500 euros. | So far we have spent 500 euros."
+},
+{
+"id": "L03-b_experiences-063",
+"type": "error",
+"q": "How many countries have you been visiting?",
+"a": "How many countries have you visited?"
+},
+{
+"id": "L03-b_experiences-064",
+"type": "error",
+"q": "I have been seeing this film three times.",
+"a": "I have seen this film three times. | I've seen this film three times."
+},
+{
+"id": "L03-b_experiences-065",
+"type": "error",
+"q": "They should be at the hotel so far.",
+"a": "They should be at the hotel by now."
+},
+{
+"id": "L03-b_experiences-066",
+"type": "error",
+"q": "I have been to Italy in 2019.",
+"a": "I went to Italy in 2019. | I was in Italy in 2019."
+},
+{
+"id": "L03-b_experiences-067",
+"type": "error",
+"q": "We haven't been on holiday since two years.",
+"a": "We haven't been on holiday for two years. | We have not been on holiday for two years."
+},
+{
+"id": "L03-b_experiences-068",
+"type": "error",
+"q": "He is working here for six months.",
+"a": "He has been working here for six months. | He's been working here for six months."
+},
+{
+"id": "L03-b_experiences-069",
+"type": "error",
+"q": "This is the best view I have ever saw.",
+"a": "This is the best view I've ever seen. | This is the best view I have ever seen."
+},
+{
+"id": "L03-b_experiences-070",
+"type": "error",
+"q": "I've already been booking the tickets.",
+"a": "I've already booked the tickets. | I have already booked the tickets."
+},
+{
+"id": "L03-b_experiences-071",
+"type": "error",
+"q": "Have you ever stay in a youth hostel?",
+"a": "Have you ever stayed in a youth hostel?"
+},
+{
+"id": "L03-b_experiences-072",
+"type": "error",
+"q": "My feet hurt because I walk all day.",
+"a": "My feet hurt because I've been walking all day. | My feet hurt because I have been walking all day."
+},
+{
+"id": "L03-b_experiences-073",
+"type": "order",
+"q": "been / have / to / you / Japan / ever",
+"a": "Have you ever been to Japan?"
+},
+{
+"id": "L03-b_experiences-074",
+"type": "order",
+"q": "first / it's / time / the / I've / here / been",
+"a": "It's the first time I've been here."
+},
+{
+"id": "L03-b_experiences-075",
+"type": "order",
+"q": "I've / three / cities / visited",
+"a": "I've visited three cities."
+},
+{
+"id": "L03-b_experiences-076",
+"type": "order",
+"q": "long / how / you / been / have / waiting",
+"a": "How long have you been waiting?"
+},
+{
+"id": "L03-b_experiences-077",
+"type": "order",
+"q": "been / I've / planning / trip / this / for / months",
+"a": "I've been planning this trip for months."
+},
+{
+"id": "L03-b_experiences-078",
+"type": "order",
+"q": "never / she's / flown / business / class",
+"a": "She's never flown business class."
+},
+{
+"id": "L03-b_experiences-079",
+"type": "order",
+"q": "you / have / long / known / how / Tom",
+"a": "How long have you known Tom?"
+},
+{
+"id": "L03-b_experiences-080",
+"type": "order",
+"q": "haven't / I / been / well / sleeping",
+"a": "I haven't been sleeping well."
+},
+{
+"id": "L03-b_experiences-081",
+"type": "order",
+"q": "stranded / we / for / were / two / days",
+"a": "We were stranded for two days."
+},
+{
+"id": "L03-b_experiences-082",
+"type": "order",
+"q": "set / we / off / early",
+"a": "We set off early."
+},
+{
+"id": "L03-b_experiences-083",
+"type": "order",
+"q": "booked / we're / sorry / fully",
+"a": "Sorry, we're fully booked."
+},
+{
+"id": "L03-b_experiences-084",
+"type": "order",
+"q": "a / lift / hitched / we / town / to / the / next",
+"a": "We hitched a lift to the next town."
+},
+{
+"id": "L03-b_experiences-085",
+"type": "order",
+"q": "have / you / checked / yet / in",
+"a": "Have you checked in yet?"
+},
+{
+"id": "L03-b_experiences-086",
+"type": "order",
+"q": "ripped / we / got / taxi / by / a / off / driver",
+"a": "We got ripped off by a taxi driver."
+},
+{
+"id": "L03-b_experiences-087",
+"type": "order",
+"q": "travelling / we've / for / been / weeks / three",
+"a": "We've been travelling for three weeks."
+},
+{
+"id": "L03-b_experiences-088",
+"type": "order",
+"q": "many / how / have / you / countries / visited",
+"a": "How many countries have you visited?"
+},
+{
+"id": "L03-b_experiences-089",
+"type": "order",
+"q": "just / I've / back / come / from / Vietnam",
+"a": "I've just come back from Vietnam."
+},
+{
+"id": "L03-b_experiences-090",
+"type": "order",
+"q": "known / I've / her / since / school",
+"a": "I've known her since school."
+},
+{
+"id": "L03-b_experiences-091",
+"type": "order",
+"q": "ever / it's / the / best / meal / I've / had",
+"a": "It's the best meal I've ever had."
+},
+{
+"id": "L03-b_experiences-092",
+"type": "order",
+"q": "she's / gone / to / the / station",
+"a": "She's gone to the station."
+},
+{
+"id": "L03-b_experiences-093",
+"type": "order",
+"q": "put / a / us / up / family / local",
+"a": "A local family put us up."
+},
+{
+"id": "L03-b_experiences-094",
+"type": "order",
+"q": "missed / we / connection / our / in / Vienna",
+"a": "We missed our connection in Vienna."
+},
+{
+"id": "L03-b_experiences-095",
+"type": "order",
+"q": "packed / you / have / yet",
+"a": "Have you packed yet?"
+},
+{
+"id": "L03-b_experiences-096",
+"type": "order",
+"q": "explored / we / the / city / on / foot",
+"a": "We explored the city on foot."
+},
+{
+"id": "L03-b_experiences-097",
+"type": "order",
+"q": "raining / it's / been / since / morning",
+"a": "It's been raining since morning."
+},
+{
+"id": "L03-b_experiences-098",
+"type": "order",
+"q": "always / I / suffer / jet / lag / from",
+"a": "I always suffer from jet lag."
+},
+{
+"id": "L03-b_experiences-099",
+"type": "order",
+"q": "did / when / you / back / get",
+"a": "When did you get back?"
+},
+{
+"id": "L03-b_experiences-100",
+"type": "order",
+"q": "the / second / it's / time / I've / missed / bus / the",
+"a": "It's the second time I've missed the bus."
+},
+{
+"id": "L03-b_experiences-101",
+"type": "order",
+"q": "picked / I've / a / up / few / words / of / Greek",
+"a": "I've picked up a few words of Greek."
+},
+{
+"id": "L03-b_experiences-102",
+"type": "order",
+"q": "stayed / we / a / stone's / throw / from / the / beach",
+"a": "We stayed a stone's throw from the beach."
+}
+]
+}

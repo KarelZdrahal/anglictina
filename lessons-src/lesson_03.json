@@ -1,0 +1,867 @@
+{
+ "week": 3,
+ "id": "L03",
+ "date": "2026-11-26",
+ "level": "B1+",
+ "title_en": "Travel experiences",
+ "title_cz": "Zážitky z cestování",
+ "grammar_focus": "Present perfect continuous vs simple; It's the first time I've…; by now, so far, lately",
+ "goals": [
+  "vyprávět o zážitcích z cest přesnými výrazy (off the beaten track, be stranded, get your bearings…)",
+  "rozlišovat present perfect continuous a simple, používat It's the first time I've…, so far, by now, lately",
+  "poutavě vyprávět příběh z cesty a reagovat na vyprávění druhého"
+ ],
+ "vocab_core": [
+  {
+   "en": "set off",
+   "ipa": "set ɒf",
+   "cz": "vyrazit (na cestu)",
+   "ex": "We set off at five to avoid the traffic."
+  },
+  {
+   "en": "check in / check out",
+   "ipa": "tʃek ɪn / tʃek aʊt",
+   "cz": "ubytovat se / odhlásit se (v hotelu); odbavit se",
+   "ex": "We checked in at the hotel late at night."
+  },
+  {
+   "en": "stop over (in)",
+   "ipa": "stɒp ˈəʊvə",
+   "cz": "zastavit se (cestou), udělat si mezizastávku",
+   "ex": "On the way to Bali we stopped over in Singapore for two nights."
+  },
+  {
+   "en": "an itinerary",
+   "ipa": "ən aɪˈtɪnərəri",
+   "cz": "plán cesty, itinerář",
+   "ex": "Our itinerary was so full that we never had time to relax."
+  },
+  {
+   "en": "off the beaten track",
+   "ipa": "ɒf ðə ˈbiːtn træk",
+   "cz": "mimo turistické trasy",
+   "ex": "We found a lovely village off the beaten track."
+  },
+  {
+   "en": "get away from it all",
+   "ipa": "ɡet əˈweɪ frəm ɪt ɔːl",
+   "cz": "utéct od všeho, vypnout",
+   "ex": "We rented a cabin in the mountains to get away from it all."
+  },
+  {
+   "en": "travel light",
+   "ipa": "ˈtrævl laɪt",
+   "cz": "cestovat nalehko",
+   "ex": "I've learnt to travel light – just one small backpack."
+  },
+  {
+   "en": "suffer from jet lag",
+   "ipa": "ˈsʌfə frəm ˈdʒet læɡ",
+   "cz": "trpět pásmovou nemocí",
+   "ex": "I always suffer from jet lag after flying east."
+  },
+  {
+   "en": "be stranded",
+   "ipa": "bi ˈstrændɪd",
+   "cz": "uvíznout (bez možnosti pokračovat)",
+   "ex": "We were stranded at the airport for two days because of the snow."
+  },
+  {
+   "en": "a breathtaking view",
+   "ipa": "ə ˈbreθteɪkɪŋ vjuː",
+   "cz": "úchvatný výhled",
+   "ex": "From the top there's a breathtaking view of the whole valley."
+  },
+  {
+   "en": "a tourist trap",
+   "ipa": "ə ˈtʊərɪst træp",
+   "cz": "past na turisty",
+   "ex": "The restaurant on the main square is a real tourist trap."
+  },
+  {
+   "en": "soak up the atmosphere",
+   "ipa": "səʊk ʌp ði ˈætməsfɪə",
+   "cz": "nasát atmosféru",
+   "ex": "We sat in a café and soaked up the atmosphere of the old town."
+  },
+  {
+   "en": "get your bearings",
+   "ipa": "ɡet jɔː ˈbeərɪŋz",
+   "cz": "zorientovat se",
+   "ex": "It took us a day to get our bearings in Tokyo."
+  },
+  {
+   "en": "take in the sights",
+   "ipa": "teɪk ɪn ðə saɪts",
+   "cz": "prohlédnout si pamětihodnosti",
+   "ex": "We spent the morning taking in the sights of Lisbon."
+  },
+  {
+   "en": "hitch a lift",
+   "ipa": "hɪtʃ ə lɪft",
+   "cz": "stopnout si auto, jet stopem",
+   "ex": "When the bus didn't come, we hitched a lift to the next town."
+  },
+  {
+   "en": "be fully booked",
+   "ipa": "bi ˈfʊli bʊkt",
+   "cz": "být plně obsazený",
+   "ex": "Every hotel in town was fully booked because of the festival."
+  },
+  {
+   "en": "a once-in-a-lifetime trip",
+   "ipa": "ə ˌwʌns ɪn ə ˈlaɪftaɪm trɪp",
+   "cz": "cesta, jaká se poštěstí jednou za život",
+   "ex": "Seeing the northern lights was part of a once-in-a-lifetime trip."
+  },
+  {
+   "en": "pick up a few words (of)",
+   "ipa": "pɪk ʌp ə fjuː wɜːdz",
+   "cz": "pochytit pár slov (z jazyka)",
+   "ex": "I've picked up a few words of Portuguese on this trip."
+  },
+  {
+   "en": "culture shock",
+   "ipa": "ˈkʌltʃə ʃɒk",
+   "cz": "kulturní šok",
+   "ex": "I experienced real culture shock during my first week in India."
+  },
+  {
+   "en": "explore on foot",
+   "ipa": "ɪkˈsplɔːr ɒn fʊt",
+   "cz": "prozkoumat pěšky",
+   "ex": "The best way to see Prague is to explore it on foot."
+  },
+  {
+   "en": "miss a connection",
+   "ipa": "mɪs ə kəˈnekʃn",
+   "cz": "nestihnout přípoj",
+   "ex": "Our train was late, so we missed our connection in Vienna."
+  },
+  {
+   "en": "a long-haul flight",
+   "ipa": "ə ˈlɒŋ hɔːl flaɪt",
+   "cz": "dálkový let",
+   "ex": "I can never sleep on long-haul flights."
+  }
+ ],
+ "vocab_ext": [
+  {
+   "en": "have itchy feet",
+   "ipa": "hæv ˈɪtʃi fiːt",
+   "cz": "nevydržet dlouho na jednom místě",
+   "ex": "After six months at home I always get itchy feet."
+  },
+  {
+   "en": "catch the travel bug",
+   "ipa": "kætʃ ðə ˈtrævl bʌɡ",
+   "cz": "propadnout cestování",
+   "ex": "She caught the travel bug on a school trip to Italy."
+  },
+  {
+   "en": "live out of a suitcase",
+   "ipa": "lɪv aʊt əv ə ˈsuːtkeɪs",
+   "cz": "žít z kufru",
+   "ex": "For my job I live out of a suitcase three weeks a month."
+  },
+  {
+   "en": "a hidden gem",
+   "ipa": "ə ˈhɪdn dʒem",
+   "cz": "skrytý klenot (málo známé krásné místo)",
+   "ex": "This tiny museum is a hidden gem."
+  },
+  {
+   "en": "unspoilt",
+   "ipa": "ʌnˈspɔɪlt",
+   "cz": "nedotčený, nezkažený (turismem)",
+   "ex": "We found an unspoilt beach with no hotels at all."
+  },
+  {
+   "en": "picturesque",
+   "ipa": "ˌpɪktʃəˈresk",
+   "cz": "malebný",
+   "ex": "Český Krumlov is one of the most picturesque towns in Europe."
+  },
+  {
+   "en": "travel on a shoestring",
+   "ipa": "ˈtrævl ɒn ə ˈʃuːstrɪŋ",
+   "cz": "cestovat s minimem peněz",
+   "ex": "As students we travelled around Asia on a shoestring."
+  },
+  {
+   "en": "put sb up",
+   "ipa": "pʊt ˈsʌmbədi ʌp",
+   "cz": "ubytovat někoho (u sebe)",
+   "ex": "A friend of ours put us up for a week in Berlin."
+  },
+  {
+   "en": "get ripped off",
+   "ipa": "ɡet rɪpt ɒf",
+   "cz": "nechat se natáhnout, přeplatit",
+   "ex": "We got ripped off by a taxi driver at the airport."
+  },
+  {
+   "en": "a stone's throw from",
+   "ipa": "ə stəʊnz θrəʊ frəm",
+   "cz": "co by kamenem dohodil od",
+   "ex": "Our hotel was a stone's throw from the beach."
+  }
+ ],
+ "parts": [
+  {
+   "n": 1,
+   "title": "Topic & vocabulary",
+   "title_cz": "Téma a slovní zásoba",
+   "minutes": 10,
+   "blocks": [
+    {
+     "type": "discussion",
+     "pair": true,
+     "label": "1A Warm-up",
+     "instr": "Discuss the questions with your partner.",
+     "items": [
+      "What's the most memorable trip you've ever been on? Why was it special?",
+      "Do you prefer places off the beaten track or famous sights? Why?",
+      "Do you plan a detailed itinerary or do you prefer to improvise?",
+      "Have you ever been stranded somewhere or missed a connection? What happened?",
+      "Where would you go to get away from it all?"
+     ]
+    },
+    {
+     "type": "vocab_table",
+     "which": "core",
+     "label": "1B Core vocabulary",
+     "instr": "Read the expressions. Tick (✓) those you have experienced yourself."
+    },
+    {
+     "type": "vocab_table",
+     "which": "ext",
+     "label": "1C Extension",
+     "instr": "Idioms and phrases that make your travel stories sound more natural."
+    },
+    {
+     "type": "match",
+     "label": "1D Match",
+     "instr": "Match the situations (1–8) with the expressions (a–h).",
+     "left": [
+      "There was a heavy snowstorm and no planes could leave for two days.",
+      "We visited a quiet village that isn't in any guidebook.",
+      "The coffee on the main square cost three times the normal price.",
+      "On the first day I didn't know where anything was in the city.",
+      "I only took a small backpack for a two-week trip.",
+      "After the flight from Tokyo I couldn't sleep at night for a week.",
+      "The hotel had no free rooms because of a big concert.",
+      "From the top of the hill we could see the whole lake and the mountains."
+     ],
+     "right": [
+      "a breathtaking view",
+      "a tourist trap",
+      "be fully booked",
+      "be stranded",
+      "get your bearings",
+      "off the beaten track",
+      "suffer from jet lag",
+      "travel light"
+     ],
+     "answers": [
+      "1d",
+      "2f",
+      "3b",
+      "4e",
+      "5h",
+      "6g",
+      "7c",
+      "8a"
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "1E Your travel profile",
+     "instr": "Tell your partner about your typical way of travelling. Use at least <b>five</b> expressions from 1B–1C. Your partner then decides which of these describes you best: <i>a luxury traveller, a backpacker on a shoestring, a planner with a detailed itinerary, or an explorer off the beaten track.</i>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Quick review (B1)",
+   "title_cz": "Krátké opakování (B1)",
+   "minutes": 12,
+   "blocks": [
+    {
+     "type": "grammar_box",
+     "label": "Review: present perfect vs past simple",
+     "html": "<table class='g'><tr><th>Present perfect</th><th>Past simple</th></tr><tr><td>zkušenost bez určení času, výsledek dnes<br><i>I<b>'ve been</b> to Norway twice.</i><br>s <i>ever, never, already, yet, just</i></td><td>ukončený děj v minulosti s určeným časem<br><i>I <b>went</b> to Norway last summer.</i><br>s <i>yesterday, last year, in 2019, two weeks ago, when…</i></td></tr></table><p>Typické vyprávění: otázka v present perfect, podrobnosti v past simple: <i>Have you ever <b>been</b> stranded? – Yes, I <b>was</b> stranded in Oslo in 2022. We <b>slept</b> at the airport.</i></p>"
+    },
+    {
+     "type": "choose",
+     "label": "2A Choose",
+     "instr": "Choose the correct form.",
+     "items": [
+      {
+       "q": "I (have been / went) to Scotland three times, and I'd love to go again.",
+       "a": "have been"
+      },
+      {
+       "q": "We (have visited / visited) Rome last spring.",
+       "a": "visited"
+      },
+      {
+       "q": "(Have you ever missed / Did you ever miss) a flight?",
+       "a": "Have you ever missed"
+      },
+      {
+       "q": "She (has lost / lost) her passport on the first day of the trip in 2023.",
+       "a": "lost"
+      },
+      {
+       "q": "I can't go out tonight – I (haven't packed / didn't pack) my suitcase yet.",
+       "a": "haven't packed"
+      },
+      {
+       "q": "When we arrived at the hotel, our room (wasn't / hasn't been) ready.",
+       "a": "wasn't"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "2B Complete",
+     "instr": "Put the verb in brackets into the present perfect or past simple.",
+     "items": [
+      {
+       "q": "I _____ (never / try) Indian food, but I'd love to.",
+       "a": "have never tried | 've never tried"
+      },
+      {
+       "q": "How many countries _____ (you / visit) so far?",
+       "a": "have you visited"
+      },
+      {
+       "q": "We _____ (stay) in a tiny guest house when we were in Crete.",
+       "a": "stayed"
+      },
+      {
+       "q": "_____ (you / book) the tickets yet?",
+       "a": "Have you booked"
+      },
+      {
+       "q": "Our plane _____ (land) two hours late yesterday.",
+       "a": "landed"
+      }
+     ]
+    },
+    {
+     "type": "task",
+     "pair": true,
+     "label": "2C Quick check: habits (L2)",
+     "instr": "Tell your partner about your holidays as a child. Use <i>used to</i> and <i>would</i> from Lesson 2: <i>Every summer we would go to…, My dad used to…</i> Then ask: <i>Have you ever been back there? When did you last go?</i>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Development (B1+–B2)",
+   "title_cz": "Rozšíření a rozvoj (B1+–B2)",
+   "minutes": 33,
+   "blocks": [
+    {
+     "type": "grammar_box",
+     "label": "New grammar: present perfect continuous vs simple; first time; by now, so far, lately",
+     "html": "<table class='g'><tr><th>Struktura</th><th>Použití</th><th>Příklad</th></tr><tr><td><b>present perfect continuous</b><br>have/has been + -ing</td><td>jak dlouho děj trvá (a stále trvá); viditelný následek nedávné činnosti</td><td><i>We<b>'ve been travelling</b> for three weeks.</i><br><i>I'm tired – I<b>'ve been walking</b> all day.</i></td></tr><tr><td><b>present perfect simple</b></td><td>kolik / kolikrát; dokončený výsledek</td><td><i>We<b>'ve visited</b> five cities so far.</i><br><i>I<b>'ve read</b> the whole guidebook.</i></td></tr><tr><td><b>It's the first time + present perfect</b></td><td>poprvé (česky přítomný čas!)</td><td><i>It's the first time I<b>'ve flown</b> business class.</i> = Letím business třídou poprvé.</td></tr><tr><td><b>so far / by now / lately</b></td><td>dosud / už (do teď) / v poslední době</td><td><i>So far we<b>'ve spent</b> €500.</i> <i>They should <b>be</b> there by now.</i> <i>I<b>'ve been working</b> a lot lately.</i></td></tr></table><p>Stavová slovesa (<i>know, be, have = vlastnit, like</i>) nemají průběhový tvar: ✓ <i>I<b>'ve known</b> him for years.</i> ✗ <i>I've been knowing him.</i></p>"
+    },
+    {
+     "type": "choose",
+     "label": "3A Choose",
+     "instr": "Choose the best option.",
+     "items": [
+      {
+       "q": "We (have been travelling / are travelling) around Spain for two weeks now.",
+       "a": "have been travelling"
+      },
+      {
+       "q": "So far we (have visited / have been visiting) four cities.",
+       "a": "have visited"
+      },
+      {
+       "q": "It's the first time I (have been / am) to Japan.",
+       "a": "have been"
+      },
+      {
+       "q": "I'm exhausted – we (have been walking / have walked) since eight o'clock.",
+       "a": "have been walking"
+      },
+      {
+       "q": "I (have known / have been knowing) our guide for years.",
+       "a": "have known"
+      },
+      {
+       "q": "Sorry I'm late! (Have you been waiting / Are you waiting) long?",
+       "a": "Have you been waiting"
+      },
+      {
+       "q": "Lately we (have been eating / ate) out a lot because the hotel has no kitchen.",
+       "a": "have been eating"
+      },
+      {
+       "q": "They left at six, so they should be at the airport (by now / so far).",
+       "a": "by now"
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "3B Rewrite",
+     "instr": "Rewrite the sentences using the word in brackets. Keep the meaning.",
+     "items": [
+      {
+       "q": "I have never been on a cruise before. (first time)",
+       "a": "It's the first time I've been on a cruise. | It is the first time I have been on a cruise."
+      },
+      {
+       "q": "We started learning Spanish in March. We are still learning it. (been)",
+       "a": "We've been learning Spanish since March. | We have been learning Spanish since March."
+      },
+      {
+       "q": "Up to now we have spent 300 euros. (so far)",
+       "a": "So far we've spent 300 euros. | So far we have spent 300 euros. | We've spent 300 euros so far."
+      },
+      {
+       "q": "It started raining three hours ago and it's still raining. (for)",
+       "a": "It's been raining for three hours. | It has been raining for three hours."
+      },
+      {
+       "q": "I haven't travelled much in the last few months. (lately)",
+       "a": "I haven't travelled much lately. | I have not travelled much lately."
+      },
+      {
+       "q": "I have never flown business class before. (first time)",
+       "a": "It's the first time I've flown business class. | It is the first time I have flown business class."
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "label": "3C Reading",
+     "instr": "Read the article and decide if the sentences are true (T) or false (F). Then answer the questions.",
+     "title": "Slow travel: why less is more",
+     "paras": [
+      "Ten cities in fourteen days, three flights, two night trains and hundreds of photos: for many years this was how Marta Novotná, a 34-year-old architect from Brno, used to travel. \"I would come home more tired than before I left,\" she says. \"I had seen everything, but I couldn't remember anything.\" Two years ago she decided to try something different. Since then she has been practising what is known as slow travel.",
+      "The idea is simple. Instead of rushing from one famous sight to another, slow travellers stay in one place for longer, explore on foot or by bike and try to live like locals. They rent a flat rather than a hotel room, shop at local markets and pick up a few words of the language. \"So far I've spent a month in a small town in Portugal and three weeks on a Greek island,\" Marta says. \"It's the first time I've really felt that I know a place.\"",
+      "Slow travel is also a reaction to over-tourism. Cities like Venice, Barcelona and Prague have been struggling with huge numbers of visitors for years, and many historic centres have turned into tourist traps. Slow travellers tend to avoid the busiest places in peak season and look for hidden gems off the beaten track. Because they stay longer, they also spend more money in small local businesses rather than in international chains.",
+      "Lately, the movement has been growing fast, partly thanks to remote work. More and more people can take their laptop and work from a village in the mountains for a few weeks. Travel companies have noticed: some now offer \"workations\" – longer stays with good Wi-Fi and a desk with a breathtaking view.",
+      "Critics point out that not everyone can afford to travel slowly. Most employees still have only a few weeks of holiday a year, and for families with children a long trip is often impossible. Marta agrees, but she says the principle works for short trips too. \"Even on a weekend, you can choose one town instead of three, leave the itinerary at home and just soak up the atmosphere. You'll come back rested – and with real memories.\""
+     ],
+     "tf": [
+      {
+       "q": "Marta used to visit many places on one trip.",
+       "a": "T"
+      },
+      {
+       "q": "Marta started slow travel ten years ago.",
+       "a": "F"
+      },
+      {
+       "q": "Slow travellers usually stay in big international hotels.",
+       "a": "F"
+      },
+      {
+       "q": "According to the article, slow travellers help small local businesses.",
+       "a": "T"
+      },
+      {
+       "q": "Remote work has helped the slow travel movement.",
+       "a": "T"
+      },
+      {
+       "q": "Marta thinks slow travel is only possible on long trips.",
+       "a": "F"
+      }
+     ],
+     "open": [
+      {
+       "q": "Find two examples of the present perfect continuous and two of the present perfect simple in the text.",
+       "a": "has been practising, have been struggling, has been growing; I've spent, I've really felt, have turned into, have noticed."
+      },
+      {
+       "q": "Would you like to try slow travel? Where would you go and for how long? Discuss with your partner.",
+       "a": "Vlastní odpověď."
+      }
+     ]
+    },
+    {
+     "type": "listening",
+     "label": "3D Listening",
+     "instr": "Listen to Lucie and Tom, two friends, talking about their travels (track L03). Answer the questions. If you don't have the audio, one of you reads the transcript from the key.",
+     "items": [
+      {
+       "q": "Where has Tom just come back from?",
+       "options": [
+        "Vietnam",
+        "Norway",
+        "Morocco"
+       ],
+       "a": "a"
+      },
+      {
+       "q": "How long has Lucie been planning her next trip?",
+       "options": [
+        "for two weeks",
+        "for about three months",
+        "since last year"
+       ],
+       "a": "b"
+      },
+      {
+       "q": "What happened to Tom in Hanoi?",
+       "options": [
+        "He lost his passport.",
+        "He got ripped off by a taxi driver.",
+        "He missed his flight home."
+       ],
+       "a": "b"
+      },
+      {
+       "q": "Why was Tom stranded on the way to the north?",
+       "a": "There was a huge storm and a landslide closed the road, so the bus couldn't continue."
+      },
+      {
+       "q": "What does Lucie say about her trip to Norway?",
+       "a": "She's going by train and ferry, travelling light; it's the first time she's travelled alone."
+      },
+      {
+       "q": "What tip does Tom give Lucie?",
+       "a": "Don't plan every day – leave a few free days in the itinerary and go off the beaten track."
+      }
+     ]
+    },
+    {
+     "type": "gap",
+     "label": "3E Phrasal verbs for travel",
+     "instr": "Complete the sentences with the correct particle: <b>off, in, out, over, up, round</b>.",
+     "items": [
+      {
+       "q": "We set _____ at dawn to avoid the heat.",
+       "a": "off | out"
+      },
+      {
+       "q": "You can check _____ online 24 hours before the flight.",
+       "a": "in"
+      },
+      {
+       "q": "We have to check _____ of the hotel by eleven.",
+       "a": "out"
+      },
+      {
+       "q": "On the way to Australia we stopped _____ in Dubai.",
+       "a": "over | off"
+      },
+      {
+       "q": "A friend put us _____ for a few nights in Berlin.",
+       "a": "up"
+      },
+      {
+       "q": "We spent the afternoon walking _____ the old town.",
+       "a": "round | around | through | about"
+      }
+     ]
+    },
+    {
+     "type": "error",
+     "label": "3F Find the mistake",
+     "instr": "Each sentence has one mistake. Correct it.",
+     "items": [
+      {
+       "q": "I am travelling around Europe for three weeks now.",
+       "a": "I have been travelling around Europe for three weeks now. | I've been travelling around Europe for three weeks now."
+      },
+      {
+       "q": "It's the first time I visit London.",
+       "a": "It's the first time I've visited London. | It is the first time I have visited London."
+      },
+      {
+       "q": "We have been visiting five museums so far.",
+       "a": "We have visited five museums so far. | We've visited five museums so far."
+      },
+      {
+       "q": "I have been knowing her since our trip to Italy.",
+       "a": "I have known her since our trip to Italy. | I've known her since our trip to Italy."
+      },
+      {
+       "q": "We have arrived in Lisbon yesterday.",
+       "a": "We arrived in Lisbon yesterday."
+      },
+      {
+       "q": "Lately I travel a lot for work.",
+       "a": "Lately I've been travelling a lot for work. | Lately I have been travelling a lot for work."
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "pair": true,
+     "label": "3G Role-play: a travel story",
+     "instr": "Use your role card. Tell your partner about a trip where something went wrong. Your partner listens, reacts and asks follow-up questions. Then swap. Use the phrases in the box.",
+     "cards": [
+      {
+       "who": "Student A",
+       "text": "Last year you went on a once-in-a-lifetime trip to Iceland. Your flight was cancelled, you were stranded in Oslo for a night, the hotel in Reykjavík was fully booked when you finally arrived, but then a local family put you up and you saw the northern lights. Tell the story in the right order."
+      },
+      {
+       "who": "Student B",
+       "text": "You've been travelling around Italy for two weeks. So far you've visited Rome and Florence. In Rome you got ripped off in a tourist trap, you missed a train connection and you lost your phone. But yesterday you found a hidden gem: a tiny village off the beaten track. Tell your partner about it."
+      }
+     ],
+     "phrases": [
+      "You'll never believe what happened…",
+      "It all started when…",
+      "To make things worse,…",
+      "In the end,…",
+      "Luckily,…",
+      "Really? What did you do?",
+      "That must have been awful / amazing!",
+      "Have you ever…?"
+     ]
+    },
+    {
+     "type": "discussion",
+     "pair": true,
+     "label": "3H Talking about experiences",
+     "instr": "Ask and answer. Use the present perfect for the question and the past simple for the details. React with: <i>Really? No way! How amazing! That sounds awful!</i>",
+     "items": [
+      "What's the most beautiful place you've ever been to? When did you go there?",
+      "Have you ever been ripped off on holiday? What happened?",
+      "Where have you been travelling lately? Have you been anywhere for work?",
+      "What's something you've never done but would like to do on a trip?"
+     ]
+    },
+    {
+     "type": "writing",
+     "label": "3I Writing (homework): a travel blog post",
+     "instr": "Write a short travel blog post (120–150 words) about a trip you are on now (real or imaginary). Say how long you've been travelling, what you've seen so far, what you've been doing lately and one thing that has gone wrong. Use at least <b>three</b> examples of the present perfect continuous, <i>It's the first time I've…</i>, and <b>five</b> expressions from 1B–1C. Give your post a title."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Words to remember",
+   "title_cz": "Slovíčka k zapamatování",
+   "minutes": 5,
+   "blocks": [
+    {
+     "type": "memory",
+     "label": "4A Memorise",
+     "instr": "Learn the expressions below (the app helps you practise them every day). In pairs: one of you reads a Czech meaning, the other says the English expression and makes a sentence about a trip they have been on."
+    },
+    {
+     "type": "memory_list",
+     "which": "core+ext"
+    }
+   ]
+  }
+ ],
+ "listening": {
+  "id": "L03",
+  "title": "Travel stories",
+  "lines": [
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Tom! You're back! How long have you been home?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Only since Saturday. I'm still suffering from jet lag. I keep waking up at four in the morning."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "So how was Vietnam? Was it the trip of a lifetime?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "It was amazing, honestly. But it didn't start very well. On the first night in Hanoi I got ripped off by a taxi driver. I paid about four times the normal price."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Oh no. That happens to everyone on the first day, before you get your bearings."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Exactly. And then on the way to the north there was a huge storm. A landslide closed the road and our bus couldn't continue. We were stranded in a tiny village for two days."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Two days? What did you do?"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "That was the best part, actually. There was no hotel, so a local family put us up. We ate with them, I picked up a few words of Vietnamese, and the view of the rice fields was breathtaking."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "That sounds like a real hidden gem. Definitely off the beaten track."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Definitely. And what about you? Weren't you planning a trip to Norway?"
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Yes! I've been planning it for about three months. I'm setting off in June. I'm going by train and ferry, and I'm travelling light – just one backpack."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "By train all the way? That's brave."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Well, it's the first time I've travelled alone, so I'm a bit nervous. I've already booked the first three nights, but the itinerary is still quite full."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Can I give you one tip? Don't plan every single day. Leave a few free days and go wherever people recommend. The best moments are never in the guidebook."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "That's good advice. My mum keeps sending me lists of things I must see."
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "Ignore half of them. And avoid the restaurants on the main square in Bergen. Total tourist trap."
+   },
+   {
+    "sp": "Lucie",
+    "voice": "female",
+    "text": "Noted. Now, show me your photos. I've been waiting for weeks!"
+   },
+   {
+    "sp": "Tom",
+    "voice": "male",
+    "text": "OK, but I warn you – I've got about two thousand."
+   }
+  ]
+ },
+ "next_links": "Lekce 4 (Life stories) se zaměří na předminulý čas (past perfect simple a continuous) a spojení by the time, as soon as, no sooner… than; v opakování se vrátíme k past simple a past continuous. Slovní zásoba: životní události (settle down, make a fresh start, come of age).",
+ "extra_practice": [
+  {
+   "type": "choose",
+   "q": "We (have been driving / are driving) for six hours – let's stop for a coffee.",
+   "a": "have been driving"
+  },
+  {
+   "type": "choose",
+   "q": "So far we (have visited / have been visiting) three castles.",
+   "a": "have visited"
+  },
+  {
+   "type": "choose",
+   "q": "It's the first time I (have eaten / eat) sushi in Japan.",
+   "a": "have eaten"
+  },
+  {
+   "type": "choose",
+   "q": "I (have known / have been knowing) my travel partner since school.",
+   "a": "have known"
+  },
+  {
+   "type": "choose",
+   "q": "They set off at seven, so they should be there (by now / lately).",
+   "a": "by now"
+  },
+  {
+   "type": "choose",
+   "q": "We (went / have been) to Greece last summer.",
+   "a": "went"
+  },
+  {
+   "type": "choose",
+   "q": "(Have you ever been / Have you ever went) to Iceland?",
+   "a": "Have you ever been"
+  },
+  {
+   "type": "choose",
+   "q": "The hotel was fully (booked / full) because of the festival.",
+   "a": "booked"
+  },
+  {
+   "type": "choose",
+   "q": "We found a lovely village off the beaten (track / road).",
+   "a": "track"
+  },
+  {
+   "type": "choose",
+   "q": "I always suffer from jet (lag / delay) after long-haul flights.",
+   "a": "lag"
+  },
+  {
+   "type": "choose",
+   "q": "It took us a day to get our (bearings / ways) in the city.",
+   "a": "bearings"
+  },
+  {
+   "type": "choose",
+   "q": "That restaurant is a real tourist (trap / trip).",
+   "a": "trap"
+  },
+  {
+   "type": "gap",
+   "q": "We've _____ (travel) around Portugal for two weeks.",
+   "a": "been travelling | been traveling | travelled | traveled"
+  },
+  {
+   "type": "gap",
+   "q": "It's the first time I've _____ (fly) alone.",
+   "a": "flown"
+  },
+  {
+   "type": "gap",
+   "q": "We set _____ early in the morning.",
+   "a": "off | out"
+  },
+  {
+   "type": "gap",
+   "q": "We stopped _____ in Singapore on the way to Bali.",
+   "a": "over | off"
+  },
+  {
+   "type": "gap",
+   "q": "I've learnt to travel _____ – just one backpack.",
+   "a": "light"
+  },
+  {
+   "type": "gap",
+   "q": "We were _____ at the airport because of the snow.",
+   "a": "stranded | stuck"
+  },
+  {
+   "type": "order",
+   "q": "been / we've / travelling / for / weeks / three",
+   "a": "We've been travelling for three weeks."
+  },
+  {
+   "type": "order",
+   "q": "first / it's / the / time / I've / been / here",
+   "a": "It's the first time I've been here."
+  },
+  {
+   "type": "order",
+   "q": "we've / spent / euros / two / hundred",
+   "a": "We've spent two hundred euros."
+  }
+ ]
+}

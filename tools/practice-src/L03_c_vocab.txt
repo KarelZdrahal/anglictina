@@ -1,0 +1,101 @@
+#Travel experiences – vocabulary|Zážitky z cestování – slovní zásoba
+choose ## We ___ (set off/set up) at five to avoid the traffic. ## set off
+choose ## You can ___ (check in/check up) online 24 hours before your flight. ## check in
+choose ## We have to ___ (check out/check off) of the hotel by eleven. ## check out
+choose ## On the way to Australia we stopped ___ (over/by) in Singapore for two nights. ## over
+choose ## Our ___ (itinerary/inventory) was so full that we had no time to relax. ## itinerary
+choose ## We found a lovely village off the beaten ___ (track/road). ## track
+choose ## We rented a cabin in the mountains to get away from it ___ (all/everything). ## all
+choose ## I've learnt to travel ___ (light/lightly) – just one small backpack. ## light
+choose ## I always suffer from jet ___ (lag/lack) after flying east. ## lag
+choose ## We were ___ (stranded/strained) at the airport for two days because of the snow. ## stranded
+choose ## From the top there's a ___ (breathtaking/breathless) view of the whole valley. ## breathtaking
+choose ## The restaurant on the main square is a real tourist ___ (trap/trick). ## trap
+choose ## We sat in a café and soaked ___ (up/in) the atmosphere. ## up
+choose ## It took us a day to get our ___ (bearings/directions) in Tokyo. ## bearings
+choose ## We spent the morning taking ___ (in/up) the sights of Lisbon. ## in
+choose ## When the bus didn't come, we ___ (hitched/hiked) a lift to the next town. ## hitched
+choose ## Every hotel in town was fully ___ (booked/full) because of the festival. ## booked
+choose ## Seeing the northern lights was a once-in-a-___ (lifetime/life) experience. ## lifetime
+choose ## I've picked ___ (up/out) a few words of Portuguese on this trip. ## up
+choose ## I experienced real culture ___ (shock/surprise) during my first week in India. ## shock
+choose ## The best way to see Prague is to explore it on ___ (foot/feet). ## foot
+choose ## Our train was late, so we missed our ___ (connection/link) in Vienna. ## connection
+choose ## I can never sleep on long-___ (haul/distance) flights. ## haul
+choose ## After six months at home I always get itchy ___ (feet/legs). ## feet
+choose ## She caught the travel ___ (bug/virus) on a school trip to Italy. ## bug
+choose ## For my job I live out of a ___ (suitcase/wardrobe) three weeks a month. ## suitcase
+choose ## This tiny museum is a hidden ___ (gem/stone). ## gem
+choose ## We found an ___ (unspoilt/unspoken) beach with no hotels at all. ## unspoilt
+choose ## Český Krumlov is one of the most ___ (picturesque/pictorial) towns in Europe. ## picturesque
+choose ## As students we travelled around Asia on a ___ (shoestring/shoelace). ## shoestring
+choose ## A friend of ours put us ___ (up/on) for a week in Berlin. ## up
+choose ## We got ripped ___ (off/out) by a taxi driver at the airport. ## off
+choose ## Our hotel was a stone's ___ (throw/shot) from the beach. ## throw
+choose ## There was a heavy snowstorm and no planes could leave. We were ___ (stranded/fully booked). ## stranded
+choose ## A quiet village that isn't in any guidebook is ___ (off the beaten track/a tourist trap). ## off the beaten track
+choose ## A place where everything is overpriced and full of tourists is ___ (a tourist trap/a hidden gem). ## a tourist trap
+choose ## If you only take a small backpack, you ___ (travel light/live out of a suitcase). ## travel light
+choose ## If you feel tired and can't sleep after a long flight, you ___ (suffer from jet lag/get your bearings). ## suffer from jet lag
+choose ## If you pay much more than the normal price, you ___ (get ripped off/put sb up). ## get ripped off
+choose ## A beautiful little-known place is ___ (a hidden gem/a tourist trap). ## a hidden gem
+choose ## A trip you will probably never repeat is ___ (a once-in-a-lifetime trip/a long-haul flight). ## a once-in-a-lifetime trip
+choose ## If you never want to stay in one place for long, you ___ (have itchy feet/travel light). ## have itchy feet
+choose ## If you have very little money for your trip, you travel ___ (on a shoestring/off the beaten track). ## on a shoestring
+choose ## The feeling of confusion in a very different country is ___ (culture shock/jet lag). ## culture shock
+choose ## A place with no hotels, roads or crowds is ___ (unspoilt/fully booked). ## unspoilt
+choose ## If you start a journey, you ___ (set off/check out). ## set off
+choose ## If you leave a hotel and pay the bill, you ___ (check out/check in). ## check out
+choose ## If you stand by the road and ask drivers to take you, you ___ (hitch a lift/miss a connection). ## hitch a lift
+choose ## If you sit in a square and enjoy the mood of a place, you ___ (soak up the atmosphere/take in the sights). ## soak up the atmosphere
+choose ## If you stay at a friend's house for free, the friend ___ (puts you up/picks you up). ## puts you up
+choose ## When I arrive in a new city, I need a few hours to ___ (get my bearings/get away from it all). ## get my bearings
+choose ## Sorry, we have no free rooms tonight – we're ___ (fully booked/stranded). ## fully booked
+choose ## There's no direct flight, so we'll ___ (stop over/check out) in Dubai. ## stop over
+choose ## After a stressful year at work, I need to ___ (get away from it all/live out of a suitcase). ## get away from it all
+choose ## Our flight was delayed, so we ___ (missed/lost) our connection to Madrid. ## missed
+choose ## We ___ (explored/discovered on) the old town on foot. ## explored
+choose ## The view from the tower was ___ (breathtaking/breathtaken). ## breathtaking
+choose ## The tour guide showed us ___ (round/over) the castle. ## round
+choose ## My husband is ___ (a frequent flyer/a frequent flight) – he flies every week. ## a frequent flyer
+choose ## Could you give me a ___ (lift/hitch) to the station? ## lift
+choose ## We decided to ___ (stretch/break) our legs after four hours in the car. ## stretch
+choose ## The local market is well worth ___ (a visit/visit). ## a visit
+choose ## The hotel is ___ (within/inside) walking distance of the beach. ## within
+choose ## Tourists ___ (flock/herd) to Venice every summer. ## flock
+choose ## We ___ (went/did) sightseeing all day. ## went
+choose ## I like to ___ (go/make) on a trip at least twice a year. ## go
+choose ## We ___ (took/made) a day trip to the mountains. ## took
+choose ## Have a safe ___ (journey/travel)! ## journey
+choose ## How was your ___ (trip/travel) to Norway? ## trip
+choose ## The ___ (crossing/passing) from Dover to Calais takes about ninety minutes. ## crossing
+choose ## We booked a ___ (package holiday/package trip) with flights and hotel included. ## package holiday
+choose ## The town gets very crowded in ___ (peak season/top season). ## peak season
+gap ## We set _____ at dawn to avoid the heat. ## off | out
+gap ## On the way to Bali we stopped _____ in Singapore. ## over | off
+gap ## We have to check _____ of our room by noon. ## out
+gap ## A friend put us _____ for three nights in Paris. ## up
+gap ## It took me a whole day to get my _____ in the city. ## bearings
+gap ## The restaurants on the main square are a real tourist _____. ## trap
+gap ## We were _____ at the airport for a whole night because of fog. ## stranded | stuck
+gap ## I always take only a small backpack – I like to travel _____. ## light
+gap ## After the flight from Tokyo I suffered from jet _____ for a week. ## lag
+gap ## All the hotels were fully _____, so we slept in the car. ## booked
+gap ## We missed our _____ in Frankfurt because the first flight was late. ## connection | connecting flight | flight
+gap ## As students we travelled around Europe on a _____. ## shoestring | budget
+gap ## The taxi driver charged us 100 euros – we got ripped _____. ## off
+gap ## Our flat was a stone's _____ from the sea. ## throw
+gap ## This small café is a real hidden _____. ## gem
+gap ## I spend so many weeks in hotels that I live out of a _____. ## suitcase
+gap ## After a few months at home, I get itchy _____. ## feet
+gap ## She caught the travel _____ when she spent a year in Australia. ## bug
+gap ## We hitched a _____ with a friendly lorry driver. ## lift | ride
+gap ## The best way to see the old town is to explore it on _____. ## foot
+gap ## We sat on the terrace and soaked up the _____ of the old town. ## atmosphere
+gap ## It was a once-in-a-_____ trip – we'll never forget it. ## lifetime
+gap ## During my first week in China I experienced real culture _____. ## shock
+gap ## I've picked _____ a few words of Croatian. ## up
+gap ## We spent the afternoon taking _____ the sights. ## in
+gap ## The view from the top of the mountain was _____ (breath). ## breathtaking
+gap ## The coast here is completely _____ (spoil) – no hotels, no crowds. ## unspoilt | unspoiled
+gap ## It's one of the most _____ (picture) villages in Moravia. ## picturesque

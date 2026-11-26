@@ -1,0 +1,453 @@
+{
+"id": "L03-f_listening",
+"lesson": "L03",
+"topic": "Listening",
+"topic_cz": "Poslech",
+"level": "B1",
+"exercises": [
+{
+"id": "L03-f_listening-001",
+"type": "listen",
+"q": "How long have Daniel and his wife been travelling?",
+"a": "for four months",
+"options": [
+"for four months",
+"for four weeks",
+"for a year"
+],
+"text": "Hi, I'm Daniel. My wife and I have been travelling around South America for four months now. So far we've visited Peru, Bolivia and Chile, and next week we're setting off for Argentina. The hardest part has been the altitude in Bolivia – we couldn't sleep for days."
+},
+{
+"id": "L03-f_listening-002",
+"type": "listen",
+"q": "Which country are they going to next?",
+"a": "Argentina",
+"options": [
+"Argentina",
+"Peru",
+"Brazil"
+],
+"text": "Hi, I'm Daniel. My wife and I have been travelling around South America for four months now. So far we've visited Peru, Bolivia and Chile, and next week we're setting off for Argentina. The hardest part has been the altitude in Bolivia – we couldn't sleep for days."
+},
+{
+"id": "L03-f_listening-003",
+"type": "listen",
+"q": "What was the hardest part of the trip?",
+"a": "the altitude in Bolivia",
+"options": [
+"the altitude in Bolivia",
+"the food in Peru",
+"the long bus rides in Chile"
+],
+"text": "Hi, I'm Daniel. My wife and I have been travelling around South America for four months now. So far we've visited Peru, Bolivia and Chile, and next week we're setting off for Argentina. The hardest part has been the altitude in Bolivia – we couldn't sleep for days."
+},
+{
+"id": "L03-f_listening-004",
+"type": "listen",
+"q": "Why has the flight been delayed?",
+"a": "because of fog",
+"options": [
+"because of fog",
+"because of a strike",
+"because of a technical problem"
+],
+"text": "Good morning, passengers. This is an announcement for everyone on flight BA 857 to London. Because of fog, this flight has been delayed by three hours. If you have a connection in London, please speak to our staff at gate twelve. Free drinks and sandwiches are available in the café on the first floor."
+},
+{
+"id": "L03-f_listening-005",
+"type": "listen",
+"q": "Where should passengers with a connection go?",
+"a": "to gate twelve",
+"options": [
+"to gate twelve",
+"to the first floor",
+"to the check-in desk"
+],
+"text": "Good morning, passengers. This is an announcement for everyone on flight BA 857 to London. Because of fog, this flight has been delayed by three hours. If you have a connection in London, please speak to our staff at gate twelve. Free drinks and sandwiches are available in the café on the first floor."
+},
+{
+"id": "L03-f_listening-006",
+"type": "listen",
+"q": "What is new for the speaker?",
+"a": "travelling alone",
+"options": [
+"travelling alone",
+"staying in hostels",
+"visiting museums"
+],
+"text": "It's the first time I've travelled alone, and I was really nervous before I left. But honestly, it's been amazing. I've met so many people in the hostels, and I can do exactly what I want. Yesterday I spent six hours in one museum and nobody complained!"
+},
+{
+"id": "L03-f_listening-007",
+"type": "listen",
+"q": "How does the speaker feel about the trip now?",
+"a": "It has been amazing.",
+"options": [
+"It has been amazing.",
+"It has been boring.",
+"It has been lonely."
+],
+"text": "It's the first time I've travelled alone, and I was really nervous before I left. But honestly, it's been amazing. I've met so many people in the hostels, and I can do exactly what I want. Yesterday I spent six hours in one museum and nobody complained!"
+},
+{
+"id": "L03-f_listening-008",
+"type": "listen",
+"q": "What did the speaker do yesterday?",
+"a": "spent six hours in a museum",
+"options": [
+"spent six hours in a museum",
+"met friends in a hostel",
+"went on a long walk"
+],
+"text": "It's the first time I've travelled alone, and I was really nervous before I left. But honestly, it's been amazing. I've met so many people in the hostels, and I can do exactly what I want. Yesterday I spent six hours in one museum and nobody complained!"
+},
+{
+"id": "L03-f_listening-009",
+"type": "listen",
+"q": "What did the man offer to do?",
+"a": "show them the way",
+"options": [
+"show them the way",
+"carry their bags",
+"sell them a map"
+],
+"text": "We got completely ripped off on our first night in Marrakech. A man offered to show us the way to our riad, which is a traditional guest house. He walked with us for ten minutes and then asked for fifty euros. We paid because we didn't know what else to do. Since then, we've always used a map on our phones."
+},
+{
+"id": "L03-f_listening-010",
+"type": "listen",
+"q": "How much did the man ask for?",
+"a": "fifty euros",
+"options": [
+"fifty euros",
+"fifteen euros",
+"five euros"
+],
+"text": "We got completely ripped off on our first night in Marrakech. A man offered to show us the way to our riad, which is a traditional guest house. He walked with us for ten minutes and then asked for fifty euros. We paid because we didn't know what else to do. Since then, we've always used a map on our phones."
+},
+{
+"id": "L03-f_listening-011",
+"type": "listen",
+"q": "What have they done since then?",
+"a": "used a map on their phones",
+"options": [
+"used a map on their phones",
+"taken taxis everywhere",
+"stayed in big hotels"
+],
+"text": "We got completely ripped off on our first night in Marrakech. A man offered to show us the way to our riad, which is a traditional guest house. He walked with us for ten minutes and then asked for fifty euros. We paid because we didn't know what else to do. Since then, we've always used a map on our phones."
+},
+{
+"id": "L03-f_listening-012",
+"type": "listen",
+"q": "How long is the tour?",
+"a": "about two hours",
+"options": [
+"about two hours",
+"about half an hour",
+"all day"
+],
+"text": "Welcome to the Old Town walking tour. We'll be exploring on foot for about two hours, so I hope you're wearing comfortable shoes. We'll start at the cathedral, then walk down to the river and finish at the castle, where there's a breathtaking view of the whole city. Please stay together – the streets are quite narrow."
+},
+{
+"id": "L03-f_listening-013",
+"type": "listen",
+"q": "Where does the tour finish?",
+"a": "at the castle",
+"options": [
+"at the castle",
+"at the cathedral",
+"at the river"
+],
+"text": "Welcome to the Old Town walking tour. We'll be exploring on foot for about two hours, so I hope you're wearing comfortable shoes. We'll start at the cathedral, then walk down to the river and finish at the castle, where there's a breathtaking view of the whole city. Please stay together – the streets are quite narrow."
+},
+{
+"id": "L03-f_listening-014",
+"type": "listen",
+"q": "Why should people stay together?",
+"a": "The streets are narrow.",
+"options": [
+"The streets are narrow.",
+"The tour is very fast.",
+"The castle closes early."
+],
+"text": "Welcome to the Old Town walking tour. We'll be exploring on foot for about two hours, so I hope you're wearing comfortable shoes. We'll start at the cathedral, then walk down to the river and finish at the castle, where there's a breathtaking view of the whole city. Please stay together – the streets are quite narrow."
+},
+{
+"id": "L03-f_listening-015",
+"type": "listen",
+"q": "Why does the speaker travel so much?",
+"a": "for work",
+"options": [
+"for work",
+"for a university course",
+"to visit family"
+],
+"text": "I've been living out of a suitcase for almost a year. My company sends me to a different country every few weeks. People think it's glamorous, but I mostly see airports and hotel rooms. Lately I've been trying to stay an extra day at the weekend, so I can at least take in the sights."
+},
+{
+"id": "L03-f_listening-016",
+"type": "listen",
+"q": "What does the speaker mostly see?",
+"a": "airports and hotel rooms",
+"options": [
+"airports and hotel rooms",
+"beaches and mountains",
+"museums and galleries"
+],
+"text": "I've been living out of a suitcase for almost a year. My company sends me to a different country every few weeks. People think it's glamorous, but I mostly see airports and hotel rooms. Lately I've been trying to stay an extra day at the weekend, so I can at least take in the sights."
+},
+{
+"id": "L03-f_listening-017",
+"type": "listen",
+"q": "What has the speaker been doing lately?",
+"a": "staying an extra day at the weekend",
+"options": [
+"staying an extra day at the weekend",
+"taking fewer trips",
+"working from home"
+],
+"text": "I've been living out of a suitcase for almost a year. My company sends me to a different country every few weeks. People think it's glamorous, but I mostly see airports and hotel rooms. Lately I've been trying to stay an extra day at the weekend, so I can at least take in the sights."
+},
+{
+"id": "L03-f_listening-018",
+"type": "listen",
+"q": "What is the speaker looking for?",
+"a": "the train station",
+"options": [
+"the train station",
+"a hotel",
+"a restaurant"
+],
+"text": "Excuse me, I've just arrived and I'm trying to get my bearings. Is the train station far from here? … Oh, only ten minutes on foot? Great. And is there anywhere to leave my luggage? I don't want to carry this suitcase around all day."
+},
+{
+"id": "L03-f_listening-019",
+"type": "listen",
+"q": "How far is it?",
+"a": "ten minutes on foot",
+"options": [
+"ten minutes on foot",
+"ten minutes by bus",
+"an hour on foot"
+],
+"text": "Excuse me, I've just arrived and I'm trying to get my bearings. Is the train station far from here? … Oh, only ten minutes on foot? Great. And is there anywhere to leave my luggage? I don't want to carry this suitcase around all day."
+},
+{
+"id": "L03-f_listening-020",
+"type": "listen",
+"q": "What was the weather like?",
+"a": "It rained every day.",
+"options": [
+"It rained every day.",
+"It was sunny.",
+"It snowed."
+],
+"text": "Our trip to the Scottish Highlands was a bit of a disaster. It rained every single day, the car broke down near Inverness, and the only hotel in the village was fully booked. In the end, a farmer put us up for the night. His wife made us the best breakfast I've ever had, so it wasn't all bad."
+},
+{
+"id": "L03-f_listening-021",
+"type": "listen",
+"q": "Who put them up for the night?",
+"a": "a farmer",
+"options": [
+"a farmer",
+"a hotel owner",
+"a friend from Inverness"
+],
+"text": "Our trip to the Scottish Highlands was a bit of a disaster. It rained every single day, the car broke down near Inverness, and the only hotel in the village was fully booked. In the end, a farmer put us up for the night. His wife made us the best breakfast I've ever had, so it wasn't all bad."
+},
+{
+"id": "L03-f_listening-022",
+"type": "listen",
+"q": "What was the good part of the experience?",
+"a": "the breakfast",
+"options": [
+"the breakfast",
+"the hotel",
+"the car"
+],
+"text": "Our trip to the Scottish Highlands was a bit of a disaster. It rained every single day, the car broke down near Inverness, and the only hotel in the village was fully booked. In the end, a farmer put us up for the night. His wife made us the best breakfast I've ever had, so it wasn't all bad."
+},
+{
+"id": "L03-f_listening-023",
+"type": "listen",
+"q": "When does the speaker suffer from jet lag?",
+"a": "after flying east",
+"options": [
+"after flying east",
+"after flying west",
+"after short flights"
+],
+"text": "I always suffer from jet lag after flying east. When I came back from Australia last month, I couldn't sleep properly for a week. This time I've been trying something new. I've been going to bed an hour earlier every night before the flight, and I'm drinking lots of water. Let's see if it works."
+},
+{
+"id": "L03-f_listening-024",
+"type": "listen",
+"q": "What has the speaker been doing before this flight?",
+"a": "going to bed earlier",
+"options": [
+"going to bed earlier",
+"drinking more coffee",
+"sleeping during the day"
+],
+"text": "I always suffer from jet lag after flying east. When I came back from Australia last month, I couldn't sleep properly for a week. This time I've been trying something new. I've been going to bed an hour earlier every night before the flight, and I'm drinking lots of water. Let's see if it works."
+},
+{
+"id": "L03-f_listening-025",
+"type": "listen",
+"q": "Why is the hotel fully booked?",
+"a": "because of a music festival",
+"options": [
+"because of a music festival",
+"because of a conference",
+"because of a football match"
+],
+"text": "Sorry, sir, but we don't have any rooms tonight. We're fully booked because of the music festival. You could try the guest house by the bridge – it's a stone's throw from here. If they're full too, I can call a hotel in the next town for you."
+},
+{
+"id": "L03-f_listening-026",
+"type": "listen",
+"q": "Where is the guest house?",
+"a": "by the bridge",
+"options": [
+"by the bridge",
+"in the next town",
+"at the train station"
+],
+"text": "Sorry, sir, but we don't have any rooms tonight. We're fully booked because of the music festival. You could try the guest house by the bridge – it's a stone's throw from here. If they're full too, I can call a hotel in the next town for you."
+},
+{
+"id": "L03-f_listening-027",
+"type": "listen",
+"q": "What does the receptionist offer to do?",
+"a": "call a hotel in the next town",
+"options": [
+"call a hotel in the next town",
+"give him a discount",
+"find him a taxi"
+],
+"text": "Sorry, sir, but we don't have any rooms tonight. We're fully booked because of the music festival. You could try the guest house by the bridge – it's a stone's throw from here. If they're full too, I can call a hotel in the next town for you."
+},
+{
+"id": "L03-f_listening-028",
+"type": "listen",
+"q": "When did the speaker's parents start travelling a lot?",
+"a": "when they retired",
+"options": [
+"when they retired",
+"when they got married",
+"when the speaker was born"
+],
+"text": "My parents caught the travel bug when they retired. Since then, they've been on six cruises and they've visited more than forty countries. My mum keeps a diary of every trip, and my dad has taken thousands of photos. I think they've travelled more in the last five years than in the rest of their lives."
+},
+{
+"id": "L03-f_listening-029",
+"type": "listen",
+"q": "How many cruises have they been on?",
+"a": "six",
+"options": [
+"six",
+"forty",
+"five"
+],
+"text": "My parents caught the travel bug when they retired. Since then, they've been on six cruises and they've visited more than forty countries. My mum keeps a diary of every trip, and my dad has taken thousands of photos. I think they've travelled more in the last five years than in the rest of their lives."
+},
+{
+"id": "L03-f_listening-030",
+"type": "listen",
+"q": "What does the speaker's mum do on every trip?",
+"a": "She keeps a diary.",
+"options": [
+"She keeps a diary.",
+"She takes photos.",
+"She buys souvenirs."
+],
+"text": "My parents caught the travel bug when they retired. Since then, they've been on six cruises and they've visited more than forty countries. My mum keeps a diary of every trip, and my dad has taken thousands of photos. I think they've travelled more in the last five years than in the rest of their lives."
+},
+{
+"id": "L03-f_listening-031",
+"type": "listen",
+"q": "Why are there fewer tourists on Vis?",
+"a": "It's further from the coast.",
+"options": [
+"It's further from the coast.",
+"It's very expensive.",
+"It has no beaches."
+],
+"text": "If you want to get away from it all, try the little island of Vis in Croatia. It's further from the coast than most islands, so there are fewer tourists. The beaches are unspoilt, the fish is fresh and the wine is excellent. The ferry from Split takes about two and a half hours."
+},
+{
+"id": "L03-f_listening-032",
+"type": "listen",
+"q": "How long does the ferry from Split take?",
+"a": "about two and a half hours",
+"options": [
+"about two and a half hours",
+"about half an hour",
+"about five hours"
+],
+"text": "If you want to get away from it all, try the little island of Vis in Croatia. It's further from the coast than most islands, so there are fewer tourists. The beaches are unspoilt, the fish is fresh and the wine is excellent. The ferry from Split takes about two and a half hours."
+},
+{
+"id": "L03-f_listening-033",
+"type": "listen",
+"q": "Why did they miss their connection?",
+"a": "Their first flight was late.",
+"options": [
+"Their first flight was late.",
+"They went to the wrong gate.",
+"They overslept."
+],
+"text": "We missed our connection in Frankfurt because our first flight was forty minutes late. The airline put us on the next flight, but that was seven hours later. We've been sitting at the gate since lunchtime and we've already drunk about five coffees each. I think I'll never complain about a short delay again."
+},
+{
+"id": "L03-f_listening-034",
+"type": "listen",
+"q": "How long did they have to wait for the next flight?",
+"a": "seven hours",
+"options": [
+"seven hours",
+"forty minutes",
+"five hours"
+],
+"text": "We missed our connection in Frankfurt because our first flight was forty minutes late. The airline put us on the next flight, but that was seven hours later. We've been sitting at the gate since lunchtime and we've already drunk about five coffees each. I think I'll never complain about a short delay again."
+},
+{
+"id": "L03-f_listening-035",
+"type": "listen",
+"q": "Where have they been sitting since lunchtime?",
+"a": "at the gate",
+"options": [
+"at the gate",
+"in a hotel",
+"in a restaurant in the city"
+],
+"text": "We missed our connection in Frankfurt because our first flight was forty minutes late. The airline put us on the next flight, but that was seven hours later. We've been sitting at the gate since lunchtime and we've already drunk about five coffees each. I think I'll never complain about a short delay again."
+},
+{
+"id": "L03-f_listening-036",
+"type": "listen",
+"q": "How long has the speaker been learning Spanish?",
+"a": "for two years",
+"options": [
+"for two years",
+"for two months",
+"for a month"
+],
+"text": "I've been learning Spanish for two years, but I've never really used it. So this summer I'm going to spend a month in a small town in Andalusia. I've booked a room with a local family and a language course every morning. I hope I'll come back speaking much better – and with a few new friends."
+},
+{
+"id": "L03-f_listening-037",
+"type": "listen",
+"q": "Where will the speaker stay?",
+"a": "with a local family",
+"options": [
+"with a local family",
+"in a hotel",
+"in a youth hostel"
+],
+"text": "I've been learning Spanish for two years, but I've never really used it. So this summer I'm going to spend a month in a small town in Andalusia. I've booked a room with a local family and a language course every morning. I hope I'll come back speaking much better – and with a few new friends."
+}
+]
+}

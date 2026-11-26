@@ -1,0 +1,358 @@
+{
+"id": "pack22",
+"topic": "Language & communication",
+"topic_cz": "Jazyk a komunikace",
+"level": "B1+/B2/C1",
+"words": [
+{
+"id": "b22-make-small-talk",
+"en": "make small talk",
+"cz": "vést nezávaznou konverzaci",
+"ex": "I'm not very good at making small talk at parties.",
+"level": "B1+"
+},
+{
+"id": "b22-get-the-wrong-end-of-the-stick",
+"en": "get the wrong end of the stick",
+"cz": "špatně něco pochopit",
+"ex": "I think you've got the wrong end of the stick – I wasn't criticising you.",
+"level": "C1"
+},
+{
+"id": "b22-beat-about-the-bush",
+"en": "beat about the bush",
+"cz": "chodit kolem horké kaše",
+"ex": "Stop beating about the bush and tell me what happened.",
+"level": "B2"
+},
+{
+"id": "b22-get-to-the-point",
+"en": "get to the point",
+"cz": "přejít k věci",
+"ex": "We don't have much time, so let me get straight to the point.",
+"level": "B1+"
+},
+{
+"id": "b22-a-slip-of-the-tongue",
+"en": "a slip of the tongue",
+"cz": "přeřeknutí",
+"ex": "I called him Peter, but it was just a slip of the tongue.",
+"level": "B2"
+},
+{
+"id": "b22-be-on-the-tip-of-your-tongue",
+"en": "be on the tip of your tongue",
+"cz": "mít něco na jazyku",
+"ex": "Her name is on the tip of my tongue, but I can't remember it.",
+"level": "B2"
+},
+{
+"id": "b22-mumble",
+"en": "mumble",
+"cz": "mumlat, brblat",
+"ex": "Please don't mumble – I can't understand a word.",
+"level": "B2"
+},
+{
+"id": "b22-whisper",
+"en": "whisper",
+"cz": "šeptat",
+"ex": "She whispered something in his ear.",
+"level": "B1+"
+},
+{
+"id": "b22-raise-your-voice",
+"en": "raise your voice",
+"cz": "zvýšit hlas",
+"ex": "There's no need to raise your voice – I can hear you.",
+"level": "B1+"
+},
+{
+"id": "b22-interrupt",
+"en": "interrupt",
+"cz": "skočit do řeči, přerušit",
+"ex": "Sorry to interrupt, but your taxi is here.",
+"level": "B1+"
+},
+{
+"id": "b22-tactful",
+"en": "tactful",
+"cz": "taktní, ohleduplný",
+"ex": "It wasn't very tactful to ask her about her age.",
+"level": "B2"
+},
+{
+"id": "b22-blunt",
+"en": "blunt",
+"cz": "příliš přímý, neomalený",
+"ex": "To be blunt, your plan won't work.",
+"level": "B2"
+},
+{
+"id": "b22-outspoken",
+"en": "outspoken",
+"cz": "otevřený, říkající názory bez obalu",
+"ex": "She's very outspoken on environmental issues.",
+"level": "C1"
+},
+{
+"id": "b22-articulate",
+"en": "articulate",
+"cz": "výřečný, schopný se jasně vyjádřit",
+"ex": "He's an articulate speaker who explains complex ideas clearly.",
+"level": "C1"
+},
+{
+"id": "b22-long-winded",
+"en": "long-winded",
+"cz": "rozvláčný, zdlouhavý",
+"ex": "His explanation was so long-winded that we all got bored.",
+"level": "C1"
+},
+{
+"id": "b22-straightforward",
+"en": "straightforward",
+"cz": "jednoduchý, přímočarý",
+"ex": "The instructions are quite straightforward.",
+"level": "B2"
+},
+{
+"id": "b22-misinterpret",
+"en": "misinterpret",
+"cz": "špatně si vyložit",
+"ex": "She misinterpreted my silence as anger.",
+"level": "C1"
+},
+{
+"id": "b22-clarify",
+"en": "clarify",
+"cz": "objasnit, upřesnit",
+"ex": "Could you clarify what you mean by \"soon\"?",
+"level": "B2"
+},
+{
+"id": "b22-elaborate-on",
+"en": "elaborate on",
+"cz": "rozvést, podrobněji vysvětlit",
+"ex": "Could you elaborate on your last point?",
+"level": "C1"
+},
+{
+"id": "b22-paraphrase",
+"en": "paraphrase",
+"cz": "parafrázovat, vyjádřit jinými slovy",
+"ex": "Try to paraphrase the text in your own words.",
+"level": "C1"
+},
+{
+"id": "b22-convey",
+"en": "convey",
+"cz": "vyjádřit, předat (sdělení)",
+"ex": "It's hard to convey emotions in a short email.",
+"level": "C1"
+},
+{
+"id": "b22-body-language",
+"en": "body language",
+"cz": "řeč těla",
+"ex": "His body language showed that he was nervous.",
+"level": "B1+"
+},
+{
+"id": "b22-eye-contact",
+"en": "eye contact",
+"cz": "oční kontakt",
+"ex": "Try to make eye contact with the audience.",
+"level": "B1+"
+},
+{
+"id": "b22-tone-of-voice",
+"en": "tone of voice",
+"cz": "tón hlasu",
+"ex": "I didn't like her tone of voice.",
+"level": "B1+"
+},
+{
+"id": "b22-a-mother-tongue",
+"en": "a mother tongue",
+"cz": "mateřský jazyk",
+"ex": "Her mother tongue is Polish, but she speaks perfect Czech.",
+"level": "B2"
+},
+{
+"id": "b22-bilingual",
+"en": "bilingual",
+"cz": "dvojjazyčný",
+"ex": "Their children are bilingual in English and Czech.",
+"level": "B2"
+},
+{
+"id": "b22-a-dialect",
+"en": "a dialect",
+"cz": "nářečí",
+"ex": "In this region people speak a strong dialect.",
+"level": "B2"
+},
+{
+"id": "b22-slang",
+"en": "slang",
+"cz": "slang",
+"ex": "Teenagers use a lot of slang that their parents don't understand.",
+"level": "B1+"
+},
+{
+"id": "b22-jargon",
+"en": "jargon",
+"cz": "odborná hantýrka, žargon",
+"ex": "The report was full of legal jargon.",
+"level": "C1"
+},
+{
+"id": "b22-a-figure-of-speech",
+"en": "a figure of speech",
+"cz": "obrazné vyjádření",
+"ex": "\"It's raining cats and dogs\" is just a figure of speech.",
+"level": "C1"
+},
+{
+"id": "b22-lost-for-words",
+"en": "lost for words",
+"cz": "neschopný slova",
+"ex": "When she told me the news, I was lost for words.",
+"level": "B2"
+},
+{
+"id": "b22-put-sth-into-words",
+"en": "put sth into words",
+"cz": "vyjádřit slovy",
+"ex": "It's difficult to put my feelings into words.",
+"level": "B2"
+},
+{
+"id": "b22-have-a-way-with-words",
+"en": "have a way with words",
+"cz": "umět s jazykem, být výřečný",
+"ex": "My grandfather always had a way with words.",
+"level": "C1"
+},
+{
+"id": "b22-break-the-ice",
+"en": "break the ice",
+"cz": "prolomit ledy",
+"ex": "He told a joke to break the ice.",
+"level": "B2"
+},
+{
+"id": "b22-hold-your-tongue",
+"en": "hold your tongue",
+"cz": "držet jazyk za zuby",
+"ex": "I wanted to argue, but I held my tongue.",
+"level": "B2"
+},
+{
+"id": "b22-get-the-message",
+"en": "get the message",
+"cz": "pochopit (náznak)",
+"ex": "I didn't reply to his messages, and he finally got the message.",
+"level": "B2"
+},
+{
+"id": "b22-drop-a-hint",
+"en": "drop a hint",
+"cz": "naznačit, udělat narážku",
+"ex": "She dropped a few hints about what she wanted for her birthday.",
+"level": "B2"
+},
+{
+"id": "b22-word-of-mouth",
+"en": "word of mouth",
+"cz": "ústní doporučení, šeptanda",
+"ex": "The restaurant became popular by word of mouth.",
+"level": "B2"
+},
+{
+"id": "b22-talk-sb-into-sth",
+"en": "talk sb into sth",
+"cz": "přemluvit někoho k něčemu",
+"ex": "My friends talked me into going on the trip.",
+"level": "B2"
+},
+{
+"id": "b22-talk-sb-out-of-sth",
+"en": "talk sb out of sth",
+"cz": "rozmluvit někomu něco",
+"ex": "I tried to talk him out of selling his car.",
+"level": "B2"
+},
+{
+"id": "b22-rephrase",
+"en": "rephrase",
+"cz": "přeformulovat",
+"ex": "Let me rephrase the question.",
+"level": "B2"
+},
+{
+"id": "b22-a-pep-talk",
+"en": "a pep talk",
+"cz": "povzbudivá řeč",
+"ex": "The coach gave the team a pep talk before the match.",
+"level": "C1"
+},
+{
+"id": "b22-spell-out",
+"en": "spell out",
+"cz": "vysvětlit polopatě",
+"ex": "Do I have to spell it out for you?",
+"level": "C1"
+},
+{
+"id": "b22-reassure",
+"en": "reassure",
+"cz": "uklidnit, ujistit",
+"ex": "The doctor reassured me that it was nothing serious.",
+"level": "B2"
+},
+{
+"id": "b22-persuasive",
+"en": "persuasive",
+"cz": "přesvědčivý",
+"ex": "She made a very persuasive argument.",
+"level": "B2"
+},
+{
+"id": "b22-eloquent",
+"en": "eloquent",
+"cz": "výmluvný, výřečný",
+"ex": "He gave an eloquent speech at the wedding.",
+"level": "C1"
+},
+{
+"id": "b22-a-heart-to-heart",
+"en": "a heart-to-heart",
+"cz": "upřímný rozhovor od srdce",
+"ex": "We had a heart-to-heart about our future.",
+"level": "C1"
+},
+{
+"id": "b22-a-misunderstanding",
+"en": "a misunderstanding",
+"cz": "nedorozumění",
+"ex": "I'm sorry, there must have been a misunderstanding.",
+"level": "B1+"
+},
+{
+"id": "b22-get-your-point-across",
+"en": "get your point across",
+"cz": "prosadit, srozumitelně sdělit svůj názor",
+"ex": "I tried to get my point across, but nobody was listening.",
+"level": "B2"
+},
+{
+"id": "b22-put-sb-in-the-picture",
+"en": "put sb in the picture",
+"cz": "uvést někoho do obrazu",
+"ex": "Let me put you in the picture before the meeting starts.",
+"level": "B2"
+}
+]
+}

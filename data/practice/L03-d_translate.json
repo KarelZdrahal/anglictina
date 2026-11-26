@@ -1,0 +1,387 @@
+{
+"id": "L03-d_translate",
+"lesson": "L03",
+"topic": "Translation",
+"topic_cz": "Překlad",
+"level": "B1",
+"exercises": [
+{
+"id": "L03-d_translate-001",
+"type": "translate",
+"q": "Cestujeme po Španělsku už tři týdny.",
+"a": "We've been travelling around Spain for three weeks. | We have been travelling around Spain for three weeks. | We've been traveling around Spain for three weeks. | We have been traveling around Spain for three weeks."
+},
+{
+"id": "L03-d_translate-002",
+"type": "translate",
+"q": "Čekám na autobus dvacet minut.",
+"a": "I've been waiting for the bus for twenty minutes. | I have been waiting for the bus for twenty minutes."
+},
+{
+"id": "L03-d_translate-003",
+"type": "translate",
+"q": "Zatím jsme navštívili čtyři města.",
+"a": "So far we've visited four cities. | So far we have visited four cities. | We've visited four cities so far. | We have visited four cities so far."
+},
+{
+"id": "L03-d_translate-004",
+"type": "translate",
+"q": "Letím business třídou poprvé.",
+"a": "It's the first time I've flown business class. | It is the first time I have flown business class. | This is the first time I've flown business class."
+},
+{
+"id": "L03-d_translate-005",
+"type": "translate",
+"q": "Jsem na Islandu poprvé.",
+"a": "It's the first time I've been to Iceland. | It is the first time I have been to Iceland. | This is the first time I've been to Iceland. | It's the first time I've been in Iceland."
+},
+{
+"id": "L03-d_translate-006",
+"type": "translate",
+"q": "Jak dlouho se učíš španělsky?",
+"a": "How long have you been learning Spanish? | How long have you been studying Spanish?"
+},
+{
+"id": "L03-d_translate-007",
+"type": "translate",
+"q": "Kolik zemí jsi už navštívil?",
+"a": "How many countries have you visited? | How many countries have you already visited? | How many countries have you visited so far?"
+},
+{
+"id": "L03-d_translate-008",
+"type": "translate",
+"q": "Znám našeho průvodce léta.",
+"a": "I've known our guide for years. | I have known our guide for years. | I've known our tour guide for years."
+},
+{
+"id": "L03-d_translate-009",
+"type": "translate",
+"q": "Jsem unavený, celý den jsme chodili po městě.",
+"a": "I'm tired, we've been walking around the city all day. | I'm tired – we've been walking around the city all day. | I am tired, we have been walking around the city all day. | I'm tired. We've been walking around the city all day."
+},
+{
+"id": "L03-d_translate-010",
+"type": "translate",
+"q": "Už by měli být na letišti.",
+"a": "They should be at the airport by now. | They should be at the airport now."
+},
+{
+"id": "L03-d_translate-011",
+"type": "translate",
+"q": "V poslední době hodně cestuji.",
+"a": "I've been travelling a lot lately. | I have been travelling a lot lately. | Lately I've been travelling a lot. | I've been traveling a lot lately. | I've been travelling a lot recently."
+},
+{
+"id": "L03-d_translate-012",
+"type": "translate",
+"q": "Ztratil jsem pas!",
+"a": "I've lost my passport! | I have lost my passport!"
+},
+{
+"id": "L03-d_translate-013",
+"type": "translate",
+"q": "Právě jsme se ubytovali v hotelu.",
+"a": "We've just checked in at the hotel. | We have just checked in at the hotel. | We've just checked into the hotel. | We have just checked into the hotel."
+},
+{
+"id": "L03-d_translate-014",
+"type": "translate",
+"q": "Ještě jsem si nesbalil kufr.",
+"a": "I haven't packed my suitcase yet. | I have not packed my suitcase yet. | I haven't packed my case yet."
+},
+{
+"id": "L03-d_translate-015",
+"type": "translate",
+"q": "Byl jsi někdy ve Skotsku?",
+"a": "Have you ever been to Scotland?"
+},
+{
+"id": "L03-d_translate-016",
+"type": "translate",
+"q": "Loni v létě jsme byli v Řecku.",
+"a": "We were in Greece last summer. | Last summer we were in Greece. | We went to Greece last summer. | Last summer we went to Greece."
+},
+{
+"id": "L03-d_translate-017",
+"type": "translate",
+"q": "Vyrazili jsme v pět ráno.",
+"a": "We set off at five in the morning. | We set off at 5 a.m. | We set off at five o'clock in the morning."
+},
+{
+"id": "L03-d_translate-018",
+"type": "translate",
+"q": "Z hotelu se musíme odhlásit do jedenácti.",
+"a": "We have to check out of the hotel by eleven. | We must check out of the hotel by eleven. | We need to check out of the hotel by eleven."
+},
+{
+"id": "L03-d_translate-019",
+"type": "translate",
+"q": "Cestou do Austrálie jsme se zastavili v Dubaji.",
+"a": "On the way to Australia we stopped over in Dubai. | We stopped over in Dubai on the way to Australia. | On our way to Australia we stopped over in Dubai."
+},
+{
+"id": "L03-d_translate-020",
+"type": "translate",
+"q": "Našli jsme krásnou vesnici mimo turistické trasy.",
+"a": "We found a beautiful village off the beaten track. | We found a lovely village off the beaten track."
+},
+{
+"id": "L03-d_translate-021",
+"type": "translate",
+"q": "Potřebuju utéct od všeho.",
+"a": "I need to get away from it all."
+},
+{
+"id": "L03-d_translate-022",
+"type": "translate",
+"q": "Rád cestuji nalehko.",
+"a": "I like travelling light. | I like to travel light. | I like traveling light."
+},
+{
+"id": "L03-d_translate-023",
+"type": "translate",
+"q": "Po dlouhém letu vždycky trpím pásmovou nemocí.",
+"a": "I always suffer from jet lag after a long flight. | After a long flight I always suffer from jet lag. | I always suffer from jet lag after a long-haul flight."
+},
+{
+"id": "L03-d_translate-024",
+"type": "translate",
+"q": "Kvůli sněhu jsme uvízli na letišti.",
+"a": "We were stranded at the airport because of the snow. | Because of the snow we were stranded at the airport. | We were stranded at the airport because of snow."
+},
+{
+"id": "L03-d_translate-025",
+"type": "translate",
+"q": "Z hory je úchvatný výhled.",
+"a": "There's a breathtaking view from the mountain. | There is a breathtaking view from the mountain. | The view from the mountain is breathtaking."
+},
+{
+"id": "L03-d_translate-026",
+"type": "translate",
+"q": "Ta restaurace na náměstí je past na turisty.",
+"a": "The restaurant on the square is a tourist trap. | That restaurant on the square is a tourist trap. | The restaurant in the square is a tourist trap."
+},
+{
+"id": "L03-d_translate-027",
+"type": "translate",
+"q": "Seděli jsme v kavárně a nasávali atmosféru.",
+"a": "We sat in a café and soaked up the atmosphere. | We sat in a cafe and soaked up the atmosphere."
+},
+{
+"id": "L03-d_translate-028",
+"type": "translate",
+"q": "Trvalo nám den, než jsme se zorientovali.",
+"a": "It took us a day to get our bearings."
+},
+{
+"id": "L03-d_translate-029",
+"type": "translate",
+"q": "Celé dopoledne jsme si prohlíželi pamětihodnosti.",
+"a": "We spent the whole morning taking in the sights. | We were taking in the sights all morning. | We spent all morning taking in the sights."
+},
+{
+"id": "L03-d_translate-030",
+"type": "translate",
+"q": "Jeli jsme stopem do dalšího města.",
+"a": "We hitched a lift to the next town. | We hitched a ride to the next town. | We hitchhiked to the next town."
+},
+{
+"id": "L03-d_translate-031",
+"type": "translate",
+"q": "Všechny hotely byly plně obsazené.",
+"a": "All the hotels were fully booked. | All hotels were fully booked. | Every hotel was fully booked."
+},
+{
+"id": "L03-d_translate-032",
+"type": "translate",
+"q": "Byla to cesta, jaká se poštěstí jednou za život.",
+"a": "It was a once-in-a-lifetime trip. | It was the trip of a lifetime."
+},
+{
+"id": "L03-d_translate-033",
+"type": "translate",
+"q": "Pochytil jsem pár slov portugalsky.",
+"a": "I've picked up a few words of Portuguese. | I have picked up a few words of Portuguese. | I picked up a few words of Portuguese."
+},
+{
+"id": "L03-d_translate-034",
+"type": "translate",
+"q": "První týden v Indii jsem zažil kulturní šok.",
+"a": "I experienced culture shock during my first week in India. | In my first week in India I experienced culture shock. | I had culture shock in my first week in India. | I experienced culture shock in my first week in India."
+},
+{
+"id": "L03-d_translate-035",
+"type": "translate",
+"q": "Nejlepší je prozkoumat město pěšky.",
+"a": "The best thing is to explore the city on foot. | It's best to explore the city on foot. | The best way is to explore the city on foot."
+},
+{
+"id": "L03-d_translate-036",
+"type": "translate",
+"q": "Nestihli jsme přípoj ve Vídni.",
+"a": "We missed our connection in Vienna. | We missed the connection in Vienna."
+},
+{
+"id": "L03-d_translate-037",
+"type": "translate",
+"q": "Na dálkových letech nikdy nespím.",
+"a": "I never sleep on long-haul flights."
+},
+{
+"id": "L03-d_translate-038",
+"type": "translate",
+"q": "Po pár měsících doma nevydržím na jednom místě.",
+"a": "After a few months at home I get itchy feet. | After a few months at home I have itchy feet."
+},
+{
+"id": "L03-d_translate-039",
+"type": "translate",
+"q": "Propadla cestování na studijním pobytu v Itálii.",
+"a": "She caught the travel bug while studying in Italy. | She caught the travel bug during her studies in Italy. | She caught the travel bug on a study stay in Italy."
+},
+{
+"id": "L03-d_translate-040",
+"type": "translate",
+"q": "Kvůli práci žiju z kufru.",
+"a": "I live out of a suitcase because of my job. | Because of my job I live out of a suitcase. | I live out of a suitcase because of work."
+},
+{
+"id": "L03-d_translate-041",
+"type": "translate",
+"q": "To muzeum je skrytý klenot.",
+"a": "The museum is a hidden gem. | That museum is a hidden gem. | This museum is a hidden gem."
+},
+{
+"id": "L03-d_translate-042",
+"type": "translate",
+"q": "Našli jsme pláž nedotčenou turismem.",
+"a": "We found an unspoilt beach. | We found an unspoiled beach. | We found a beach unspoilt by tourism."
+},
+{
+"id": "L03-d_translate-043",
+"type": "translate",
+"q": "Je to jedno z nejmalebnějších měst v Evropě.",
+"a": "It's one of the most picturesque towns in Europe. | It is one of the most picturesque towns in Europe. | It's one of the most picturesque cities in Europe."
+},
+{
+"id": "L03-d_translate-044",
+"type": "translate",
+"q": "Jako studenti jsme cestovali s minimem peněz.",
+"a": "As students we travelled on a shoestring. | As students we traveled on a shoestring. | When we were students we travelled on a shoestring."
+},
+{
+"id": "L03-d_translate-045",
+"type": "translate",
+"q": "Kamarád nás na týden ubytoval u sebe.",
+"a": "A friend put us up for a week. | A friend of ours put us up for a week. | Our friend put us up for a week."
+},
+{
+"id": "L03-d_translate-046",
+"type": "translate",
+"q": "Taxikář nás natáhl.",
+"a": "We got ripped off by the taxi driver. | The taxi driver ripped us off. | We got ripped off by a taxi driver."
+},
+{
+"id": "L03-d_translate-047",
+"type": "translate",
+"q": "Náš hotel byl co by kamenem dohodil od pláže.",
+"a": "Our hotel was a stone's throw from the beach."
+},
+{
+"id": "L03-d_translate-048",
+"type": "translate",
+"q": "Je to poprvé, co cestuje sama.",
+"a": "It's the first time she's travelled alone. | It's the first time she has travelled alone. | It is the first time she has travelled alone. | It's the first time she's traveled alone. | It's the first time she has travelled on her own."
+},
+{
+"id": "L03-d_translate-049",
+"type": "translate",
+"q": "Je to nejhezčí výhled, jaký jsem kdy viděl.",
+"a": "It's the most beautiful view I've ever seen. | It is the most beautiful view I have ever seen. | It's the best view I've ever seen."
+},
+{
+"id": "L03-d_translate-050",
+"type": "translate",
+"q": "Celé ráno prší.",
+"a": "It's been raining all morning. | It has been raining all morning."
+},
+{
+"id": "L03-d_translate-051",
+"type": "translate",
+"q": "Bydlí v Lisabonu od roku 2021.",
+"a": "She has lived in Lisbon since 2021. | She's lived in Lisbon since 2021. | She has been living in Lisbon since 2021. | She's been living in Lisbon since 2021. | He has lived in Lisbon since 2021. | He's lived in Lisbon since 2021. | He has been living in Lisbon since 2021."
+},
+{
+"id": "L03-d_translate-052",
+"type": "translate",
+"q": "Na tuhle cestu šetřím od loňského léta.",
+"a": "I've been saving for this trip since last summer. | I have been saving for this trip since last summer."
+},
+{
+"id": "L03-d_translate-053",
+"type": "translate",
+"q": "Na dovolené jsem nebyl dva roky.",
+"a": "I haven't been on holiday for two years. | I have not been on holiday for two years."
+},
+{
+"id": "L03-d_translate-054",
+"type": "translate",
+"q": "Tom tu není, odjel na nádraží.",
+"a": "Tom isn't here, he's gone to the station. | Tom isn't here – he's gone to the station. | Tom is not here, he has gone to the station. | Tom isn't here. He's gone to the station."
+},
+{
+"id": "L03-d_translate-055",
+"type": "translate",
+"q": "Ve Španělsku jsem byl třikrát.",
+"a": "I've been to Spain three times. | I have been to Spain three times."
+},
+{
+"id": "L03-d_translate-056",
+"type": "translate",
+"q": "Kdy jste se vrátili z Chorvatska?",
+"a": "When did you get back from Croatia? | When did you come back from Croatia? | When did you return from Croatia?"
+},
+{
+"id": "L03-d_translate-057",
+"type": "translate",
+"q": "Od té doby, co jsme přijeli, jsme neviděli žádné turisty.",
+"a": "We haven't seen any tourists since we arrived. | We have not seen any tourists since we arrived."
+},
+{
+"id": "L03-d_translate-058",
+"type": "translate",
+"q": "Promiň, že jdu pozdě. Čekáš dlouho?",
+"a": "Sorry I'm late. Have you been waiting long? | Sorry I'm late. Have you been waiting for long? | Sorry, I'm late. Have you been waiting long?"
+},
+{
+"id": "L03-d_translate-059",
+"type": "translate",
+"q": "Plánuje tu cestu od ledna.",
+"a": "She's been planning the trip since January. | She has been planning the trip since January. | He's been planning the trip since January. | He has been planning the trip since January. | She's been planning this trip since January. | He's been planning this trip since January."
+},
+{
+"id": "L03-d_translate-060",
+"type": "translate",
+"q": "Zatím jsme utratili pět set eur.",
+"a": "So far we've spent five hundred euros. | So far we have spent five hundred euros. | We've spent five hundred euros so far. | So far we've spent 500 euros. | We've spent 500 euros so far."
+},
+{
+"id": "L03-d_translate-061",
+"type": "translate",
+"q": "Je to poprvé, co jsem jel stopem.",
+"a": "It's the first time I've hitched a lift. | It is the first time I have hitched a lift. | It's the first time I've hitchhiked."
+},
+{
+"id": "L03-d_translate-062",
+"type": "translate",
+"q": "Ten hotel je v pěší vzdálenosti od centra.",
+"a": "The hotel is within walking distance of the centre. | The hotel is within walking distance of the center. | That hotel is within walking distance of the centre."
+},
+{
+"id": "L03-d_translate-063",
+"type": "translate",
+"q": "V poslední době špatně spím.",
+"a": "I haven't been sleeping well lately. | I have not been sleeping well lately. | I've been sleeping badly lately. | I haven't been sleeping well recently."
+}
+]
+}

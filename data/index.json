@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 20,
  "lessons": [
   {
    "file": "lessons/L01.json",
@@ -16,6 +16,14 @@
    "id": "L02",
    "week": 2,
    "title": "Work & daily routines"
+  },
+  {
+   "file": "lessons/L03.json",
+   "v": 3,
+   "h": "5cdecd3e87ff",
+   "id": "L03",
+   "week": 3,
+   "title": "Travel experiences"
   }
  ],
  "bank": [
@@ -186,6 +194,14 @@
    "id": "pack21",
    "topic": "Time & productivity",
    "count": 50
+  },
+  {
+   "file": "bank/pack22.json",
+   "v": 1,
+   "h": "c956643c69d6",
+   "id": "pack22",
+   "topic": "Language & communication",
+   "count": 50
   }
  ],
  "practice": [
@@ -282,6 +298,54 @@
    "v": 1,
    "h": "ef476c47b804",
    "id": "L02-f_listening",
+   "topic": "Listening",
+   "count": 37
+  },
+  {
+   "file": "practice/L03-a_perfect.json",
+   "v": 1,
+   "h": "c2752ad90d7e",
+   "id": "L03-a_perfect",
+   "topic": "Present perfect continuous and simple",
+   "count": 171
+  },
+  {
+   "file": "practice/L03-b_experiences.json",
+   "v": 1,
+   "h": "cbae0c952a31",
+   "id": "L03-b_experiences",
+   "topic": "Talking about experiences",
+   "count": 102
+  },
+  {
+   "file": "practice/L03-c_vocab.json",
+   "v": 1,
+   "h": "3f1453116387",
+   "id": "L03-c_vocab",
+   "topic": "Travel experiences – vocabulary",
+   "count": 100
+  },
+  {
+   "file": "practice/L03-d_translate.json",
+   "v": 1,
+   "h": "8da7d1862050",
+   "id": "L03-d_translate",
+   "topic": "Translation",
+   "count": 63
+  },
+  {
+   "file": "practice/L03-e_reading.json",
+   "v": 1,
+   "h": "781ae32fc991",
+   "id": "L03-e_reading",
+   "topic": "Reading – articles",
+   "count": 30
+  },
+  {
+   "file": "practice/L03-f_listening.json",
+   "v": 1,
+   "h": "7a65fcb61219",
+   "id": "L03-f_listening",
    "topic": "Listening",
    "count": 37
   }

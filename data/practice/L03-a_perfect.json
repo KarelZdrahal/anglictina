@@ -1,0 +1,1035 @@
+{
+"id": "L03-a_perfect",
+"lesson": "L03",
+"topic": "Present perfect continuous and simple",
+"topic_cz": "Předpřítomný čas průběhový a prostý",
+"level": "B1",
+"exercises": [
+{
+"id": "L03-a_perfect-001",
+"type": "choose",
+"q": "We ___ (have been travelling/are travelling) around Spain for three weeks now.",
+"a": "have been travelling"
+},
+{
+"id": "L03-a_perfect-002",
+"type": "choose",
+"q": "I ___ (have been waiting/am waiting) for the bus for forty minutes.",
+"a": "have been waiting"
+},
+{
+"id": "L03-a_perfect-003",
+"type": "choose",
+"q": "She ___ (has been working/works) as a tour guide since 2020.",
+"a": "has been working"
+},
+{
+"id": "L03-a_perfect-004",
+"type": "choose",
+"q": "They ___ (have been driving/are driving) since six o'clock this morning.",
+"a": "have been driving"
+},
+{
+"id": "L03-a_perfect-005",
+"type": "choose",
+"q": "How long ___ (have you been learning/are you learning) Portuguese?",
+"a": "have you been learning"
+},
+{
+"id": "L03-a_perfect-006",
+"type": "choose",
+"q": "It ___ (has been raining/is raining) since we arrived in Bergen.",
+"a": "has been raining"
+},
+{
+"id": "L03-a_perfect-007",
+"type": "choose",
+"q": "My brother ___ (has been backpacking/backpacks) around Asia for six months.",
+"a": "has been backpacking"
+},
+{
+"id": "L03-a_perfect-008",
+"type": "choose",
+"q": "We ___ (have been looking/are looking) for a hotel for two hours.",
+"a": "have been looking"
+},
+{
+"id": "L03-a_perfect-009",
+"type": "choose",
+"q": "I ___ (have been saving/save) for this trip since last summer.",
+"a": "have been saving"
+},
+{
+"id": "L03-a_perfect-010",
+"type": "choose",
+"q": "How long ___ (have they been waiting/do they wait) at the gate?",
+"a": "have they been waiting"
+},
+{
+"id": "L03-a_perfect-011",
+"type": "choose",
+"q": "The plane ___ (has been circling/is circling) above the airport for half an hour.",
+"a": "has been circling"
+},
+{
+"id": "L03-a_perfect-012",
+"type": "choose",
+"q": "Lucie ___ (has been planning/plans) her trip to Norway for three months.",
+"a": "has been planning"
+},
+{
+"id": "L03-a_perfect-013",
+"type": "choose",
+"q": "We ___ (have been queuing/queue) at passport control for ages.",
+"a": "have been queuing"
+},
+{
+"id": "L03-a_perfect-014",
+"type": "choose",
+"q": "He ___ (has been living/lives) out of a suitcase since he started his new job.",
+"a": "has been living"
+},
+{
+"id": "L03-a_perfect-015",
+"type": "choose",
+"q": "I ___ (have been feeling/feel) a bit homesick since Sunday.",
+"a": "have been feeling"
+},
+{
+"id": "L03-a_perfect-016",
+"type": "choose",
+"q": "The children ___ (have been swimming/are swimming) since breakfast and they're still in the pool.",
+"a": "have been swimming"
+},
+{
+"id": "L03-a_perfect-017",
+"type": "choose",
+"q": "Our guide ___ (has been showing/shows) tourists around Prague for twenty years.",
+"a": "has been showing"
+},
+{
+"id": "L03-a_perfect-018",
+"type": "choose",
+"q": "We ___ (have been staying/are staying) with friends in Berlin since Friday.",
+"a": "have been staying"
+},
+{
+"id": "L03-a_perfect-019",
+"type": "choose",
+"q": "How long ___ (has your sister been travelling/does your sister travel) on her own?",
+"a": "has your sister been travelling"
+},
+{
+"id": "L03-a_perfect-020",
+"type": "choose",
+"q": "The train ___ (has been standing/stands) at this station for fifteen minutes.",
+"a": "has been standing"
+},
+{
+"id": "L03-a_perfect-021",
+"type": "choose",
+"q": "I ___ (have been trying/try) to book a table since lunchtime.",
+"a": "have been trying"
+},
+{
+"id": "L03-a_perfect-022",
+"type": "choose",
+"q": "You look tired. ___ (Have you been sleeping/Do you sleep) badly lately?",
+"a": "Have you been sleeping"
+},
+{
+"id": "L03-a_perfect-023",
+"type": "choose",
+"q": "They ___ (have been arguing/argue) about the itinerary all morning.",
+"a": "have been arguing"
+},
+{
+"id": "L03-a_perfect-024",
+"type": "choose",
+"q": "She ___ (has been taking/takes) Spanish lessons since January.",
+"a": "has been taking"
+},
+{
+"id": "L03-a_perfect-025",
+"type": "choose",
+"q": "We ___ (have been cycling/cycle) along the coast for five days now.",
+"a": "have been cycling"
+},
+{
+"id": "L03-a_perfect-026",
+"type": "choose",
+"q": "So far we ___ (have visited/have been visiting) six countries.",
+"a": "have visited"
+},
+{
+"id": "L03-a_perfect-027",
+"type": "choose",
+"q": "I ___ (have taken/have been taking) more than three hundred photos this week.",
+"a": "have taken"
+},
+{
+"id": "L03-a_perfect-028",
+"type": "choose",
+"q": "We ___ (have stayed/have been staying) in four different hotels on this trip.",
+"a": "have stayed"
+},
+{
+"id": "L03-a_perfect-029",
+"type": "choose",
+"q": "How many countries ___ (have you visited/have you been visiting) so far?",
+"a": "have you visited"
+},
+{
+"id": "L03-a_perfect-030",
+"type": "choose",
+"q": "She ___ (has read/has been reading) three guidebooks about Japan.",
+"a": "has read"
+},
+{
+"id": "L03-a_perfect-031",
+"type": "choose",
+"q": "I ___ (have sent/have been sending) ten postcards so far.",
+"a": "have sent"
+},
+{
+"id": "L03-a_perfect-032",
+"type": "choose",
+"q": "We ___ (have spent/have been spending) about 800 euros so far.",
+"a": "have spent"
+},
+{
+"id": "L03-a_perfect-033",
+"type": "choose",
+"q": "They ___ (have climbed/have been climbing) four mountains this summer.",
+"a": "have climbed"
+},
+{
+"id": "L03-a_perfect-034",
+"type": "choose",
+"q": "How many times ___ (have you flown/have you been flying) to London?",
+"a": "have you flown"
+},
+{
+"id": "L03-a_perfect-035",
+"type": "choose",
+"q": "He ___ (has missed/has been missing) his connection twice this year.",
+"a": "has missed"
+},
+{
+"id": "L03-a_perfect-036",
+"type": "choose",
+"q": "We ___ (have driven/have been driving) 500 kilometres since this morning.",
+"a": "have driven"
+},
+{
+"id": "L03-a_perfect-037",
+"type": "choose",
+"q": "I ___ (have tried/have been trying) five local dishes today.",
+"a": "have tried"
+},
+{
+"id": "L03-a_perfect-038",
+"type": "choose",
+"q": "Our group ___ (has seen/has been seeing) all the main sights of Rome.",
+"a": "has seen"
+},
+{
+"id": "L03-a_perfect-039",
+"type": "choose",
+"q": "So far I ___ (have learnt/have been learning) about twenty words of Greek.",
+"a": "have learnt"
+},
+{
+"id": "L03-a_perfect-040",
+"type": "choose",
+"q": "She ___ (has written/has been writing) three posts for her travel blog this week.",
+"a": "has written"
+},
+{
+"id": "L03-a_perfect-041",
+"type": "choose",
+"q": "We ___ (have finished/have been finishing) the tour, so let's have lunch.",
+"a": "have finished"
+},
+{
+"id": "L03-a_perfect-042",
+"type": "choose",
+"q": "Oh no, I ___ (have lost/have been losing) my passport!",
+"a": "have lost"
+},
+{
+"id": "L03-a_perfect-043",
+"type": "choose",
+"q": "Great news – we ___ (have found/have been finding) a cheap flight to Lisbon!",
+"a": "have found"
+},
+{
+"id": "L03-a_perfect-044",
+"type": "choose",
+"q": "I ___ (have just booked/have just been booking) our tickets online.",
+"a": "have just booked"
+},
+{
+"id": "L03-a_perfect-045",
+"type": "choose",
+"q": "The museum ___ (has closed/has been closing) – we're too late.",
+"a": "has closed"
+},
+{
+"id": "L03-a_perfect-046",
+"type": "choose",
+"q": "I ___ (have known/have been knowing) our tour guide since school.",
+"a": "have known"
+},
+{
+"id": "L03-a_perfect-047",
+"type": "choose",
+"q": "We ___ (have had/have been having) this old tent for fifteen years.",
+"a": "have had"
+},
+{
+"id": "L03-a_perfect-048",
+"type": "choose",
+"q": "She ___ (has always loved/has always been loving) the sea.",
+"a": "has always loved"
+},
+{
+"id": "L03-a_perfect-049",
+"type": "choose",
+"q": "I ___ (have never understood/have never been understanding) why people visit tourist traps.",
+"a": "have never understood"
+},
+{
+"id": "L03-a_perfect-050",
+"type": "choose",
+"q": "He ___ (has been/has been being) in Paris since Monday.",
+"a": "has been"
+},
+{
+"id": "L03-a_perfect-051",
+"type": "choose",
+"q": "They ___ (have owned/have been owning) a cottage in the mountains for years.",
+"a": "have owned"
+},
+{
+"id": "L03-a_perfect-052",
+"type": "choose",
+"q": "How long ___ (have you known/have you been knowing) Tom?",
+"a": "have you known"
+},
+{
+"id": "L03-a_perfect-053",
+"type": "choose",
+"q": "I ___ (have wanted/have been wanting) to see the northern lights since I was a child.",
+"a": "have wanted"
+},
+{
+"id": "L03-a_perfect-054",
+"type": "choose",
+"q": "We ___ (have belonged/have been belonging) to a hiking club for ten years.",
+"a": "have belonged"
+},
+{
+"id": "L03-a_perfect-055",
+"type": "choose",
+"q": "This hotel ___ (has belonged/has been belonging) to the same family since 1920.",
+"a": "has belonged"
+},
+{
+"id": "L03-a_perfect-056",
+"type": "choose",
+"q": "How long ___ (have you had/have you been having) your passport?",
+"a": "have you had"
+},
+{
+"id": "L03-a_perfect-057",
+"type": "choose",
+"q": "I ___ (have believed/have been believing) in slow travel since my trip to Portugal.",
+"a": "have believed"
+},
+{
+"id": "L03-a_perfect-058",
+"type": "choose",
+"q": "It's the first time I ___ (have flown/fly) business class.",
+"a": "have flown"
+},
+{
+"id": "L03-a_perfect-059",
+"type": "choose",
+"q": "It's the first time we ___ (have been/are) to Iceland.",
+"a": "have been"
+},
+{
+"id": "L03-a_perfect-060",
+"type": "choose",
+"q": "This is the first time I ___ (have eaten/eat) octopus.",
+"a": "have eaten"
+},
+{
+"id": "L03-a_perfect-061",
+"type": "choose",
+"q": "It's the first time she ___ (has travelled/travels) alone.",
+"a": "has travelled"
+},
+{
+"id": "L03-a_perfect-062",
+"type": "choose",
+"q": "Is it the first time you ___ (have visited/visit) Prague?",
+"a": "have visited"
+},
+{
+"id": "L03-a_perfect-063",
+"type": "choose",
+"q": "It's the first time they ___ (have stayed/stay) in a youth hostel.",
+"a": "have stayed"
+},
+{
+"id": "L03-a_perfect-064",
+"type": "choose",
+"q": "This is the second time I ___ (have missed/miss) my flight this year.",
+"a": "have missed"
+},
+{
+"id": "L03-a_perfect-065",
+"type": "choose",
+"q": "It's the first time I ___ (have seen/see) snow in May.",
+"a": "have seen"
+},
+{
+"id": "L03-a_perfect-066",
+"type": "choose",
+"q": "It's the first time we ___ (have hitched/hitch) a lift.",
+"a": "have hitched"
+},
+{
+"id": "L03-a_perfect-067",
+"type": "choose",
+"q": "This is the third time he ___ (has lost/loses) his luggage.",
+"a": "has lost"
+},
+{
+"id": "L03-a_perfect-068",
+"type": "choose",
+"q": "It's the first time my parents ___ (have been/are) on a cruise.",
+"a": "have been"
+},
+{
+"id": "L03-a_perfect-069",
+"type": "choose",
+"q": "It's the first time I ___ (have driven/drive) on the left.",
+"a": "have driven"
+},
+{
+"id": "L03-a_perfect-070",
+"type": "choose",
+"q": "This is the best view I ___ (have ever seen/ever see).",
+"a": "have ever seen"
+},
+{
+"id": "L03-a_perfect-071",
+"type": "choose",
+"q": "It's the most beautiful beach we ___ (have ever been/are ever) to.",
+"a": "have ever been"
+},
+{
+"id": "L03-a_perfect-072",
+"type": "choose",
+"q": "That was the longest flight I ___ (have ever been/am ever) on.",
+"a": "have ever been"
+},
+{
+"id": "L03-a_perfect-073",
+"type": "choose",
+"q": "I've been working here ___ (since/for) 2019.",
+"a": "since"
+},
+{
+"id": "L03-a_perfect-074",
+"type": "choose",
+"q": "We've been travelling ___ (for/since) three weeks.",
+"a": "for"
+},
+{
+"id": "L03-a_perfect-075",
+"type": "choose",
+"q": "She has lived abroad ___ (since/for) she was eighteen.",
+"a": "since"
+},
+{
+"id": "L03-a_perfect-076",
+"type": "choose",
+"q": "They've been waiting at the airport ___ (for/since) six hours.",
+"a": "for"
+},
+{
+"id": "L03-a_perfect-077",
+"type": "choose",
+"q": "It has been raining ___ (since/for) Tuesday.",
+"a": "since"
+},
+{
+"id": "L03-a_perfect-078",
+"type": "choose",
+"q": "I haven't been on holiday ___ (for/since) two years.",
+"a": "for"
+},
+{
+"id": "L03-a_perfect-079",
+"type": "choose",
+"q": "___ (So far/Ago) we've seen three castles.",
+"a": "So far"
+},
+{
+"id": "L03-a_perfect-080",
+"type": "choose",
+"q": "They left at seven, so they should be at the hotel ___ (by now/so far).",
+"a": "by now"
+},
+{
+"id": "L03-a_perfect-081",
+"type": "choose",
+"q": "I've been feeling really tired ___ (lately/ago).",
+"a": "lately"
+},
+{
+"id": "L03-a_perfect-082",
+"type": "choose",
+"q": "We booked the flights two weeks ___ (ago/lately).",
+"a": "ago"
+},
+{
+"id": "L03-a_perfect-083",
+"type": "choose",
+"q": "___ (Have you been travelling/Do you travel) much lately?",
+"a": "Have you been travelling"
+},
+{
+"id": "L03-a_perfect-084",
+"type": "choose",
+"q": "I haven't packed my suitcase ___ (yet/already).",
+"a": "yet"
+},
+{
+"id": "L03-a_perfect-085",
+"type": "choose",
+"q": "We have ___ (already/yet) checked in online.",
+"a": "already"
+},
+{
+"id": "L03-a_perfect-086",
+"type": "choose",
+"q": "I have ___ (just/yet) landed in Rome – I'll call you later.",
+"a": "just"
+},
+{
+"id": "L03-a_perfect-087",
+"type": "choose",
+"q": "___ (How long/How many times) have you been waiting?",
+"a": "How long"
+},
+{
+"id": "L03-a_perfect-088",
+"type": "choose",
+"q": "___ (How many/How long) countries have you visited?",
+"a": "How many"
+},
+{
+"id": "L03-a_perfect-089",
+"type": "choose",
+"q": "___ (How long/How many) have you been living in Brno?",
+"a": "How long"
+},
+{
+"id": "L03-a_perfect-090",
+"type": "choose",
+"q": "___ (How much/How long) money have you spent so far?",
+"a": "How much"
+},
+{
+"id": "L03-a_perfect-091",
+"type": "choose",
+"q": "The trip has been great ___ (so far/by then).",
+"a": "so far"
+},
+{
+"id": "L03-a_perfect-092",
+"type": "choose",
+"q": "The concert must have started ___ (by now/lately).",
+"a": "by now"
+},
+{
+"id": "L03-a_perfect-093",
+"type": "choose",
+"q": "Prices in the city centre have been going up ___ (lately/ago).",
+"a": "lately"
+},
+{
+"id": "L03-a_perfect-094",
+"type": "choose",
+"q": "She's ___ (been/gone) to Spain three times.",
+"a": "been"
+},
+{
+"id": "L03-a_perfect-095",
+"type": "choose",
+"q": "Tom isn't here – he's ___ (gone/been) to the station to buy tickets.",
+"a": "gone"
+},
+{
+"id": "L03-a_perfect-096",
+"type": "choose",
+"q": "Have you ever ___ (been/gone) to Scotland?",
+"a": "been"
+},
+{
+"id": "L03-a_perfect-097",
+"type": "choose",
+"q": "My parents have ___ (gone/been) to Italy and they're coming back next week.",
+"a": "gone"
+},
+{
+"id": "L03-a_perfect-098",
+"type": "choose",
+"q": "I've ___ (been/gone) to the new aquapark – it was great!",
+"a": "been"
+},
+{
+"id": "L03-a_perfect-099",
+"type": "choose",
+"q": "Where's Hana? She's ___ (gone/been) to the hotel reception.",
+"a": "gone"
+},
+{
+"id": "L03-a_perfect-100",
+"type": "choose",
+"q": "I'm out of breath because I ___ (have been running/have been run) for the bus.",
+"a": "have been running"
+},
+{
+"id": "L03-a_perfect-101",
+"type": "choose",
+"q": "Your hands are so cold! ___ (Have you been standing/Have you being standing) outside?",
+"a": "Have you been standing"
+},
+{
+"id": "L03-a_perfect-102",
+"type": "choose",
+"q": "The streets are wet – it ___ (has been raining/has been rained).",
+"a": "has been raining"
+},
+{
+"id": "L03-a_perfect-103",
+"type": "choose",
+"q": "My legs hurt because we ___ (have been walking/have been walked) all day.",
+"a": "have been walking"
+},
+{
+"id": "L03-a_perfect-104",
+"type": "choose",
+"q": "You're so brown! ___ (Have you been lying/Have you been lain) on the beach?",
+"a": "Have you been lying"
+},
+{
+"id": "L03-a_perfect-105",
+"type": "choose",
+"q": "Sorry I'm late. ___ (Have you been waiting/Have you waited been) long?",
+"a": "Have you been waiting"
+},
+{
+"id": "L03-a_perfect-106",
+"type": "choose",
+"q": "Her eyes are red because she ___ (has been crying/has been cried).",
+"a": "has been crying"
+},
+{
+"id": "L03-a_perfect-107",
+"type": "choose",
+"q": "I'm sunburnt because I ___ (have been sunbathing/have sunbathing) without sun cream.",
+"a": "have been sunbathing"
+},
+{
+"id": "L03-a_perfect-108",
+"type": "choose",
+"q": "The car is dirty because we ___ (have been driving/has been driving) on country roads.",
+"a": "have been driving"
+},
+{
+"id": "L03-a_perfect-109",
+"type": "choose",
+"q": "She ___ (has been cooking/have been cooking) – the whole flat smells of garlic.",
+"a": "has been cooking"
+},
+{
+"id": "L03-a_perfect-110",
+"type": "choose",
+"q": "I'm hungry because I ___ (haven't eaten/haven't been ate) since breakfast.",
+"a": "haven't eaten"
+},
+{
+"id": "L03-a_perfect-111",
+"type": "choose",
+"q": "We ___ (haven't seen/didn't see) any tourists since we left the main road.",
+"a": "haven't seen"
+},
+{
+"id": "L03-a_perfect-112",
+"type": "choose",
+"q": "He ___ (hasn't called/didn't call) me since he arrived in Japan.",
+"a": "hasn't called"
+},
+{
+"id": "L03-a_perfect-113",
+"type": "choose",
+"q": "I ___ (haven't been sleeping/haven't slept been) well since I came back from Asia.",
+"a": "haven't been sleeping"
+},
+{
+"id": "L03-a_perfect-114",
+"type": "gap",
+"q": "We _____ (travel) around Spain for three weeks now.",
+"a": "have been travelling | 've been travelling | have been traveling | 've been traveling"
+},
+{
+"id": "L03-a_perfect-115",
+"type": "gap",
+"q": "I _____ (wait) for the tram for twenty minutes.",
+"a": "have been waiting | 've been waiting"
+},
+{
+"id": "L03-a_perfect-116",
+"type": "gap",
+"q": "She _____ (work) as a flight attendant since 2018.",
+"a": "has been working | 's been working | has worked | 's worked"
+},
+{
+"id": "L03-a_perfect-117",
+"type": "gap",
+"q": "It _____ (snow) since early morning.",
+"a": "has been snowing | 's been snowing"
+},
+{
+"id": "L03-a_perfect-118",
+"type": "gap",
+"q": "They _____ (drive) for five hours without a break.",
+"a": "have been driving | 've been driving | have driven | 've driven"
+},
+{
+"id": "L03-a_perfect-119",
+"type": "gap",
+"q": "How long _____ (you / learn) Spanish?",
+"a": "have you been learning"
+},
+{
+"id": "L03-a_perfect-120",
+"type": "gap",
+"q": "Tom _____ (plan) this trip since January.",
+"a": "has been planning | 's been planning"
+},
+{
+"id": "L03-a_perfect-121",
+"type": "gap",
+"q": "We _____ (look) for the hostel for an hour.",
+"a": "have been looking | 've been looking"
+},
+{
+"id": "L03-a_perfect-122",
+"type": "gap",
+"q": "My feet hurt – I _____ (walk) around the old town all day.",
+"a": "have been walking | 've been walking"
+},
+{
+"id": "L03-a_perfect-123",
+"type": "gap",
+"q": "You look tired. _____ (you / work) too much lately?",
+"a": "Have you been working"
+},
+{
+"id": "L03-a_perfect-124",
+"type": "gap",
+"q": "Lately, more people _____ (choose) slow travel.",
+"a": "have been choosing | 've been choosing | have chosen | 've chosen"
+},
+{
+"id": "L03-a_perfect-125",
+"type": "gap",
+"q": "The baby _____ (cry) since the plane took off.",
+"a": "has been crying | 's been crying"
+},
+{
+"id": "L03-a_perfect-126",
+"type": "gap",
+"q": "I _____ (save) money for this trip for two years.",
+"a": "have been saving | 've been saving | have saved | 've saved"
+},
+{
+"id": "L03-a_perfect-127",
+"type": "gap",
+"q": "We _____ (queue) at the check-in desk for ages.",
+"a": "have been queuing | 've been queuing | have been queueing | 've been queueing"
+},
+{
+"id": "L03-a_perfect-128",
+"type": "gap",
+"q": "She _____ (study) Japanese since she came back from Tokyo.",
+"a": "has been studying | 's been studying | has studied | 's studied"
+},
+{
+"id": "L03-a_perfect-129",
+"type": "gap",
+"q": "Why is your hair wet? _____ (you / swim)?",
+"a": "Have you been swimming"
+},
+{
+"id": "L03-a_perfect-130",
+"type": "gap",
+"q": "They _____ (argue) about the hotel since breakfast.",
+"a": "have been arguing | 've been arguing"
+},
+{
+"id": "L03-a_perfect-131",
+"type": "gap",
+"q": "Sorry I'm late. How long _____ (you / wait)?",
+"a": "have you been waiting"
+},
+{
+"id": "L03-a_perfect-132",
+"type": "gap",
+"q": "We _____ (stay) at a lovely guest house since Monday.",
+"a": "have been staying | 've been staying | have stayed | 've stayed"
+},
+{
+"id": "L03-a_perfect-133",
+"type": "gap",
+"q": "I _____ (not / sleep) well since I came back from China.",
+"a": "haven't been sleeping | have not been sleeping | haven't slept | have not slept"
+},
+{
+"id": "L03-a_perfect-134",
+"type": "gap",
+"q": "So far we _____ (visit) four museums.",
+"a": "have visited | 've visited"
+},
+{
+"id": "L03-a_perfect-135",
+"type": "gap",
+"q": "I _____ (take) over two hundred photos today.",
+"a": "have taken | 've taken"
+},
+{
+"id": "L03-a_perfect-136",
+"type": "gap",
+"q": "How many countries _____ (you / visit)?",
+"a": "have you visited"
+},
+{
+"id": "L03-a_perfect-137",
+"type": "gap",
+"q": "We _____ (spend) all our money – we have to go home.",
+"a": "have spent | 've spent"
+},
+{
+"id": "L03-a_perfect-138",
+"type": "gap",
+"q": "She _____ (lose) her phone three times on this trip.",
+"a": "has lost | 's lost"
+},
+{
+"id": "L03-a_perfect-139",
+"type": "gap",
+"q": "I _____ (just / book) a flight to Rome.",
+"a": "have just booked | 've just booked"
+},
+{
+"id": "L03-a_perfect-140",
+"type": "gap",
+"q": "They _____ (already / check) out of the hotel.",
+"a": "have already checked | 've already checked"
+},
+{
+"id": "L03-a_perfect-141",
+"type": "gap",
+"q": "_____ (you / pack) your suitcase yet?",
+"a": "Have you packed"
+},
+{
+"id": "L03-a_perfect-142",
+"type": "gap",
+"q": "We _____ (not / see) the cathedral yet.",
+"a": "haven't seen | have not seen"
+},
+{
+"id": "L03-a_perfect-143",
+"type": "gap",
+"q": "He _____ (fly) to New York four times this year.",
+"a": "has flown | 's flown"
+},
+{
+"id": "L03-a_perfect-144",
+"type": "gap",
+"q": "I _____ (read) the whole guidebook.",
+"a": "have read | 've read"
+},
+{
+"id": "L03-a_perfect-145",
+"type": "gap",
+"q": "Our group _____ (climb) three mountains so far.",
+"a": "has climbed | 's climbed"
+},
+{
+"id": "L03-a_perfect-146",
+"type": "gap",
+"q": "How many postcards _____ (you / write)?",
+"a": "have you written"
+},
+{
+"id": "L03-a_perfect-147",
+"type": "gap",
+"q": "We _____ (drive) 300 kilometres since lunch.",
+"a": "have driven | 've driven"
+},
+{
+"id": "L03-a_perfect-148",
+"type": "gap",
+"q": "I _____ (know) Lucie since we were at school.",
+"a": "have known | 've known"
+},
+{
+"id": "L03-a_perfect-149",
+"type": "gap",
+"q": "They _____ (have) their camper van for ten years.",
+"a": "have had | 've had"
+},
+{
+"id": "L03-a_perfect-150",
+"type": "gap",
+"q": "How long _____ (you / know) your travel partner?",
+"a": "have you known"
+},
+{
+"id": "L03-a_perfect-151",
+"type": "gap",
+"q": "She _____ (always / want) to visit Japan.",
+"a": "has always wanted | 's always wanted"
+},
+{
+"id": "L03-a_perfect-152",
+"type": "gap",
+"q": "I _____ (be) in Vienna since Friday.",
+"a": "have been | 've been"
+},
+{
+"id": "L03-a_perfect-153",
+"type": "gap",
+"q": "The castle _____ (belong) to the same family for 400 years.",
+"a": "has belonged | 's belonged"
+},
+{
+"id": "L03-a_perfect-154",
+"type": "gap",
+"q": "It's the first time I _____ (try) Vietnamese food.",
+"a": "have tried | 've tried"
+},
+{
+"id": "L03-a_perfect-155",
+"type": "gap",
+"q": "It's the first time we _____ (be) to Greece.",
+"a": "have been | 've been"
+},
+{
+"id": "L03-a_perfect-156",
+"type": "gap",
+"q": "This is the first time she _____ (travel) on her own.",
+"a": "has travelled | 's travelled | has traveled | 's traveled"
+},
+{
+"id": "L03-a_perfect-157",
+"type": "gap",
+"q": "Is it the first time you _____ (stay) in a hostel?",
+"a": "have stayed | 've stayed"
+},
+{
+"id": "L03-a_perfect-158",
+"type": "gap",
+"q": "This is the second time he _____ (miss) the last bus.",
+"a": "has missed | 's missed"
+},
+{
+"id": "L03-a_perfect-159",
+"type": "gap",
+"q": "It's the first time I _____ (see) the sea.",
+"a": "have seen | 've seen"
+},
+{
+"id": "L03-a_perfect-160",
+"type": "gap",
+"q": "It's the first time they _____ (fly) long-haul.",
+"a": "have flown | 've flown"
+},
+{
+"id": "L03-a_perfect-161",
+"type": "gap",
+"q": "This is the best hotel we _____ (ever / stay) in.",
+"a": "have ever stayed | 've ever stayed"
+},
+{
+"id": "L03-a_perfect-162",
+"type": "gap",
+"q": "It's the most picturesque town I _____ (ever / visit).",
+"a": "have ever visited | 've ever visited"
+},
+{
+"id": "L03-a_perfect-163",
+"type": "gap",
+"q": "It's the first time I _____ (ride) a camel.",
+"a": "have ridden | 've ridden"
+},
+{
+"id": "L03-a_perfect-164",
+"type": "gap",
+"q": "Kate isn't here. She _____ (go) to the beach.",
+"a": "has gone | 's gone"
+},
+{
+"id": "L03-a_perfect-165",
+"type": "gap",
+"q": "I _____ (be) to Paris twice, but never in summer.",
+"a": "have been | 've been"
+},
+{
+"id": "L03-a_perfect-166",
+"type": "gap",
+"q": "Your face is red. _____ (you / lie) in the sun?",
+"a": "Have you been lying"
+},
+{
+"id": "L03-a_perfect-167",
+"type": "gap",
+"q": "The road is wet because it _____ (rain).",
+"a": "has been raining | 's been raining | has rained | 's rained"
+},
+{
+"id": "L03-a_perfect-168",
+"type": "gap",
+"q": "I'm out of breath because I _____ (run) for the last ten minutes.",
+"a": "have been running | 've been running"
+},
+{
+"id": "L03-a_perfect-169",
+"type": "gap",
+"q": "We _____ (not / hear) from Tom since he left for Peru.",
+"a": "haven't heard | have not heard"
+},
+{
+"id": "L03-a_perfect-170",
+"type": "gap",
+"q": "They _____ (not / eat) anything since the flight.",
+"a": "haven't eaten | have not eaten"
+},
+{
+"id": "L03-a_perfect-171",
+"type": "gap",
+"q": "I _____ (think) about moving abroad lately.",
+"a": "have been thinking | 've been thinking"
+}
+]
+}

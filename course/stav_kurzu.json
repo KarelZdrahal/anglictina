@@ -1,7 +1,7 @@
 {
  "course": "Roční kurz angličtiny B1 → B1+",
- "last_completed_week": 2,
- "next_week": 3,
+ "last_completed_week": 3,
+ "next_week": 4,
  "lessons": [
   {
    "week": 1,
@@ -96,13 +96,58 @@
    ],
    "app": "procvičování L02-a…f: 505 úloh (6 článků, 14 poslechů); nové téma zásoby pack21 Time & productivity (50 položek)",
    "notes_for_next": "Lekce 3 (Travel experiences) naváže: present perfect vs past simple (krátké opakování B1) a rozšíření o present perfect continuous, „It's the first time I've…“, by now / so far / lately. Zopakovat would/used to z této lekce při vyprávění o minulých cestách; slovíčka make/do a kolokace práce použít v rozhovoru o pracovních cestách."
+  },
+  {
+   "week": 3,
+   "date": "2026-11-26",
+   "status": "vygenerováno automaticky 26. 11. 2026, studuje se od čtvrtka 26. 11. 2026",
+   "topic": "Travel experiences",
+   "grammar": "Opakování B1: present perfect vs past simple. Nové: present perfect continuous vs simple, It's the first time I've…, by now / so far / lately, been vs gone",
+   "vocab_core": [
+    "set off",
+    "check in / check out",
+    "stop over (in)",
+    "an itinerary",
+    "off the beaten track",
+    "get away from it all",
+    "travel light",
+    "suffer from jet lag",
+    "be stranded",
+    "a breathtaking view",
+    "a tourist trap",
+    "soak up the atmosphere",
+    "get your bearings",
+    "take in the sights",
+    "hitch a lift",
+    "be fully booked",
+    "a once-in-a-lifetime trip",
+    "pick up a few words (of)",
+    "culture shock",
+    "explore on foot",
+    "miss a connection",
+    "a long-haul flight"
+   ],
+   "vocab_ext": [
+    "have itchy feet",
+    "catch the travel bug",
+    "live out of a suitcase",
+    "a hidden gem",
+    "unspoilt",
+    "picturesque",
+    "travel on a shoestring",
+    "put sb up",
+    "get ripped off",
+    "a stone's throw from"
+   ],
+   "app": "procvičování L03-a…f: 503 úloh (6 článků, 14 poslechů) + 66 úloh z lekce; nové téma zásoby pack22 Language & communication (50 položek)",
+   "notes_for_next": "Lekce 4 (Life stories) naváže: krátké opakování B1 past simple vs past continuous; nové past perfect simple a continuous, by the time, as soon as, no sooner… than. Při vyprávění životních příběhů zopakovat present perfect (zkušenosti) a slovíčka z cestování (a once-in-a-lifetime trip, catch the travel bug)."
   }
  ],
  "note": "Po vygenerování každé lekce sem přidej záznam: week, date, topic, grammar, vocab_core (seznam), vocab_extension (seznam), notes_for_next (co navázat, co zopakovat).",
- "last_generated_week": 2,
+ "last_generated_week": 3,
  "generation_day": "čtvrtek",
- "next_generation_date": "2026-11-26",
+ "next_generation_date": "2026-12-03",
  "schedule_note": "12. 11. 2026 se nic negeneruje. Lekce N vzniká ve čtvrtek 12. 11. 2026 + (N-1) týdnů, tj. L2 = 19. 11. 2026.",
  "level_policy": "Od lekce 2: opakovací část B1 (krátká, ~12 min), rozšiřující část a nová slovíčka B1+ až B2. Aplikace: zásoba B1+/B2 (C1 volitelně). Rozhodnutí Karla 13. 11. 2026.",
- "notes_for_next": "Lekce 3 (Travel experiences): opakovací část krátce B1 (present perfect vs past simple); hlavní část B1+–B2 podle sylabu (present perfect continuous vs simple, It's the first time I've…, by now / so far / lately). Zopakovat would/used to z L2 při vyprávění o cestách, make/do a pracovní kolokace v rozhovoru o pracovních cestách. Žádná základní B1 slova jako nová."
+ "notes_for_next": "Lekce 4 (Life stories): opakovací část krátce B1 (past simple vs past continuous); hlavní část B1+–B2 podle sylabu (past perfect simple a continuous; by the time, no sooner… than, as soon as). Slovní zásoba životní události (settle down, make a fresh start, come of age…). Zopakovat present perfect a It's the first time z L3 a cestovatelské výrazy při vyprávění. Žádná základní B1 slova jako nová. Další téma zásoby pack23 (ne komunikace, ne cestování)."
 }

@@ -1,0 +1,646 @@
+{
+ "id": "L03",
+ "week": 3,
+ "date": "2026-11-26",
+ "level": "B1+",
+ "title_en": "Travel experiences",
+ "title_cz": "Zážitky z cestování",
+ "grammar_focus": "Present perfect continuous vs simple; It's the first time I've…; by now, so far, lately",
+ "grammar_html": "<p>• zkušenost bez určení času, výsledek dnes<br><i>I<b>'ve been</b> to Norway twice.</i><br>s <i>ever, never, already, yet, just</i><br>ukončený děj v minulosti s určeným časem<br><i>I <b>went</b> to Norway last summer.</i><br>s <i>yesterday, last year, in 2019, two weeks ago, when…</i></p><p>Typické vyprávění: otázka v present perfect, podrobnosti v past simple: <i>Have you ever <b>been</b> stranded? – Yes, I <b>was</b> stranded in Oslo in 2022. We <b>slept</b> at the airport.</i></p>",
+ "audio": "lessons/L03.mp3",
+ "pdf": "lessons/L03.pdf",
+ "vocab": [
+  {
+   "id": "L03-set-off",
+   "en": "set off",
+   "cz": "vyrazit (na cestu)",
+   "ipa": "set ɒf",
+   "ex": "We set off at five to avoid the traffic."
+  },
+  {
+   "id": "L03-check-in-check-out",
+   "en": "check in / check out",
+   "cz": "ubytovat se / odhlásit se (v hotelu); odbavit se",
+   "ipa": "tʃek ɪn / tʃek aʊt",
+   "ex": "We checked in at the hotel late at night."
+  },
+  {
+   "id": "L03-stop-over-in",
+   "en": "stop over (in)",
+   "cz": "zastavit se (cestou), udělat si mezizastávku",
+   "ipa": "stɒp ˈəʊvə",
+   "ex": "On the way to Bali we stopped over in Singapore for two nights."
+  },
+  {
+   "id": "L03-an-itinerary",
+   "en": "an itinerary",
+   "cz": "plán cesty, itinerář",
+   "ipa": "ən aɪˈtɪnərəri",
+   "ex": "Our itinerary was so full that we never had time to relax."
+  },
+  {
+   "id": "L03-off-the-beaten-track",
+   "en": "off the beaten track",
+   "cz": "mimo turistické trasy",
+   "ipa": "ɒf ðə ˈbiːtn træk",
+   "ex": "We found a lovely village off the beaten track."
+  },
+  {
+   "id": "L03-get-away-from-it-all",
+   "en": "get away from it all",
+   "cz": "utéct od všeho, vypnout",
+   "ipa": "ɡet əˈweɪ frəm ɪt ɔːl",
+   "ex": "We rented a cabin in the mountains to get away from it all."
+  },
+  {
+   "id": "L03-travel-light",
+   "en": "travel light",
+   "cz": "cestovat nalehko",
+   "ipa": "ˈtrævl laɪt",
+   "ex": "I've learnt to travel light – just one small backpack."
+  },
+  {
+   "id": "L03-suffer-from-jet-lag",
+   "en": "suffer from jet lag",
+   "cz": "trpět pásmovou nemocí",
+   "ipa": "ˈsʌfə frəm ˈdʒet læɡ",
+   "ex": "I always suffer from jet lag after flying east."
+  },
+  {
+   "id": "L03-be-stranded",
+   "en": "be stranded",
+   "cz": "uvíznout (bez možnosti pokračovat)",
+   "ipa": "bi ˈstrændɪd",
+   "ex": "We were stranded at the airport for two days because of the snow."
+  },
+  {
+   "id": "L03-a-breathtaking-view",
+   "en": "a breathtaking view",
+   "cz": "úchvatný výhled",
+   "ipa": "ə ˈbreθteɪkɪŋ vjuː",
+   "ex": "From the top there's a breathtaking view of the whole valley."
+  },
+  {
+   "id": "L03-a-tourist-trap",
+   "en": "a tourist trap",
+   "cz": "past na turisty",
+   "ipa": "ə ˈtʊərɪst træp",
+   "ex": "The restaurant on the main square is a real tourist trap."
+  },
+  {
+   "id": "L03-soak-up-the-atmosphere",
+   "en": "soak up the atmosphere",
+   "cz": "nasát atmosféru",
+   "ipa": "səʊk ʌp ði ˈætməsfɪə",
+   "ex": "We sat in a café and soaked up the atmosphere of the old town."
+  },
+  {
+   "id": "L03-get-your-bearings",
+   "en": "get your bearings",
+   "cz": "zorientovat se",
+   "ipa": "ɡet jɔː ˈbeərɪŋz",
+   "ex": "It took us a day to get our bearings in Tokyo."
+  },
+  {
+   "id": "L03-take-in-the-sights",
+   "en": "take in the sights",
+   "cz": "prohlédnout si pamětihodnosti",
+   "ipa": "teɪk ɪn ðə saɪts",
+   "ex": "We spent the morning taking in the sights of Lisbon."
+  },
+  {
+   "id": "L03-hitch-a-lift",
+   "en": "hitch a lift",
+   "cz": "stopnout si auto, jet stopem",
+   "ipa": "hɪtʃ ə lɪft",
+   "ex": "When the bus didn't come, we hitched a lift to the next town."
+  },
+  {
+   "id": "L03-be-fully-booked",
+   "en": "be fully booked",
+   "cz": "být plně obsazený",
+   "ipa": "bi ˈfʊli bʊkt",
+   "ex": "Every hotel in town was fully booked because of the festival."
+  },
+  {
+   "id": "L03-a-once-in-a-lifetime-trip",
+   "en": "a once-in-a-lifetime trip",
+   "cz": "cesta, jaká se poštěstí jednou za život",
+   "ipa": "ə ˌwʌns ɪn ə ˈlaɪftaɪm trɪp",
+   "ex": "Seeing the northern lights was part of a once-in-a-lifetime trip."
+  },
+  {
+   "id": "L03-pick-up-a-few-words-of",
+   "en": "pick up a few words (of)",
+   "cz": "pochytit pár slov (z jazyka)",
+   "ipa": "pɪk ʌp ə fjuː wɜːdz",
+   "ex": "I've picked up a few words of Portuguese on this trip."
+  },
+  {
+   "id": "L03-culture-shock",
+   "en": "culture shock",
+   "cz": "kulturní šok",
+   "ipa": "ˈkʌltʃə ʃɒk",
+   "ex": "I experienced real culture shock during my first week in India."
+  },
+  {
+   "id": "L03-explore-on-foot",
+   "en": "explore on foot",
+   "cz": "prozkoumat pěšky",
+   "ipa": "ɪkˈsplɔːr ɒn fʊt",
+   "ex": "The best way to see Prague is to explore it on foot."
+  },
+  {
+   "id": "L03-miss-a-connection",
+   "en": "miss a connection",
+   "cz": "nestihnout přípoj",
+   "ipa": "mɪs ə kəˈnekʃn",
+   "ex": "Our train was late, so we missed our connection in Vienna."
+  },
+  {
+   "id": "L03-a-long-haul-flight",
+   "en": "a long-haul flight",
+   "cz": "dálkový let",
+   "ipa": "ə ˈlɒŋ hɔːl flaɪt",
+   "ex": "I can never sleep on long-haul flights."
+  },
+  {
+   "id": "L03-have-itchy-feet",
+   "en": "have itchy feet",
+   "cz": "nevydržet dlouho na jednom místě",
+   "ipa": "hæv ˈɪtʃi fiːt",
+   "ex": "After six months at home I always get itchy feet.",
+   "ext": true
+  },
+  {
+   "id": "L03-catch-the-travel-bug",
+   "en": "catch the travel bug",
+   "cz": "propadnout cestování",
+   "ipa": "kætʃ ðə ˈtrævl bʌɡ",
+   "ex": "She caught the travel bug on a school trip to Italy.",
+   "ext": true
+  },
+  {
+   "id": "L03-live-out-of-a-suitcase",
+   "en": "live out of a suitcase",
+   "cz": "žít z kufru",
+   "ipa": "lɪv aʊt əv ə ˈsuːtkeɪs",
+   "ex": "For my job I live out of a suitcase three weeks a month.",
+   "ext": true
+  },
+  {
+   "id": "L03-a-hidden-gem",
+   "en": "a hidden gem",
+   "cz": "skrytý klenot (málo známé krásné místo)",
+   "ipa": "ə ˈhɪdn dʒem",
+   "ex": "This tiny museum is a hidden gem.",
+   "ext": true
+  },
+  {
+   "id": "L03-unspoilt",
+   "en": "unspoilt",
+   "cz": "nedotčený, nezkažený (turismem)",
+   "ipa": "ʌnˈspɔɪlt",
+   "ex": "We found an unspoilt beach with no hotels at all.",
+   "ext": true
+  },
+  {
+   "id": "L03-picturesque",
+   "en": "picturesque",
+   "cz": "malebný",
+   "ipa": "ˌpɪktʃəˈresk",
+   "ex": "Český Krumlov is one of the most picturesque towns in Europe.",
+   "ext": true
+  },
+  {
+   "id": "L03-travel-on-a-shoestring",
+   "en": "travel on a shoestring",
+   "cz": "cestovat s minimem peněz",
+   "ipa": "ˈtrævl ɒn ə ˈʃuːstrɪŋ",
+   "ex": "As students we travelled around Asia on a shoestring.",
+   "ext": true
+  },
+  {
+   "id": "L03-put-sb-up",
+   "en": "put sb up",
+   "cz": "ubytovat někoho (u sebe)",
+   "ipa": "pʊt ˈsʌmbədi ʌp",
+   "ex": "A friend of ours put us up for a week in Berlin.",
+   "ext": true
+  },
+  {
+   "id": "L03-get-ripped-off",
+   "en": "get ripped off",
+   "cz": "nechat se natáhnout, přeplatit",
+   "ipa": "ɡet rɪpt ɒf",
+   "ex": "We got ripped off by a taxi driver at the airport.",
+   "ext": true
+  },
+  {
+   "id": "L03-a-stone-s-throw-from",
+   "en": "a stone's throw from",
+   "cz": "co by kamenem dohodil od",
+   "ipa": "ə stəʊnz θrəʊ frəm",
+   "ex": "Our hotel was a stone's throw from the beach.",
+   "ext": true
+  }
+ ],
+ "exercises": [
+  {
+   "id": "L03-e001",
+   "type": "choose",
+   "q": "There was a heavy snowstorm and no planes could leave for two days. → (a breathtaking view / be stranded / get your bearings / suffer from jet lag)",
+   "a": "be stranded"
+  },
+  {
+   "id": "L03-e002",
+   "type": "choose",
+   "q": "We visited a quiet village that isn't in any guidebook. → (a breathtaking view / be fully booked / off the beaten track / suffer from jet lag)",
+   "a": "off the beaten track"
+  },
+  {
+   "id": "L03-e003",
+   "type": "choose",
+   "q": "The coffee on the main square cost three times the normal price. → (a tourist trap / be fully booked / get your bearings / suffer from jet lag)",
+   "a": "a tourist trap"
+  },
+  {
+   "id": "L03-e004",
+   "type": "choose",
+   "q": "On the first day I didn't know where anything was in the city. → (a tourist trap / get your bearings / off the beaten track / travel light)",
+   "a": "get your bearings"
+  },
+  {
+   "id": "L03-e005",
+   "type": "choose",
+   "q": "I only took a small backpack for a two-week trip. → (a breathtaking view / be fully booked / get your bearings / travel light)",
+   "a": "travel light"
+  },
+  {
+   "id": "L03-e006",
+   "type": "choose",
+   "q": "After the flight from Tokyo I couldn't sleep at night for a week. → (a tourist trap / be stranded / suffer from jet lag / travel light)",
+   "a": "suffer from jet lag"
+  },
+  {
+   "id": "L03-e007",
+   "type": "choose",
+   "q": "The hotel had no free rooms because of a big concert. → (be fully booked / be stranded / off the beaten track / travel light)",
+   "a": "be fully booked"
+  },
+  {
+   "id": "L03-e008",
+   "type": "choose",
+   "q": "From the top of the hill we could see the whole lake and the mountains. → (a breathtaking view / a tourist trap / be stranded / off the beaten track)",
+   "a": "a breathtaking view"
+  },
+  {
+   "id": "L03-e009",
+   "type": "choose",
+   "q": "I (have been / went) to Scotland three times, and I'd love to go again.",
+   "a": "have been"
+  },
+  {
+   "id": "L03-e010",
+   "type": "choose",
+   "q": "We (have visited / visited) Rome last spring.",
+   "a": "visited"
+  },
+  {
+   "id": "L03-e011",
+   "type": "choose",
+   "q": "(Have you ever missed / Did you ever miss) a flight?",
+   "a": "Have you ever missed"
+  },
+  {
+   "id": "L03-e012",
+   "type": "choose",
+   "q": "She (has lost / lost) her passport on the first day of the trip in 2023.",
+   "a": "lost"
+  },
+  {
+   "id": "L03-e013",
+   "type": "choose",
+   "q": "I can't go out tonight – I (haven't packed / didn't pack) my suitcase yet.",
+   "a": "haven't packed"
+  },
+  {
+   "id": "L03-e014",
+   "type": "choose",
+   "q": "When we arrived at the hotel, our room (wasn't / hasn't been) ready.",
+   "a": "wasn't"
+  },
+  {
+   "id": "L03-e015",
+   "type": "gap",
+   "q": "I _____ (never / try) Indian food, but I'd love to.",
+   "a": "have never tried | 've never tried"
+  },
+  {
+   "id": "L03-e016",
+   "type": "gap",
+   "q": "How many countries _____ (you / visit) so far?",
+   "a": "have you visited"
+  },
+  {
+   "id": "L03-e017",
+   "type": "gap",
+   "q": "We _____ (stay) in a tiny guest house when we were in Crete.",
+   "a": "stayed"
+  },
+  {
+   "id": "L03-e018",
+   "type": "gap",
+   "q": "_____ (you / book) the tickets yet?",
+   "a": "Have you booked"
+  },
+  {
+   "id": "L03-e019",
+   "type": "gap",
+   "q": "Our plane _____ (land) two hours late yesterday.",
+   "a": "landed"
+  },
+  {
+   "id": "L03-e020",
+   "type": "choose",
+   "q": "We (have been travelling / are travelling) around Spain for two weeks now.",
+   "a": "have been travelling"
+  },
+  {
+   "id": "L03-e021",
+   "type": "choose",
+   "q": "So far we (have visited / have been visiting) four cities.",
+   "a": "have visited"
+  },
+  {
+   "id": "L03-e022",
+   "type": "choose",
+   "q": "It's the first time I (have been / am) to Japan.",
+   "a": "have been"
+  },
+  {
+   "id": "L03-e023",
+   "type": "choose",
+   "q": "I'm exhausted – we (have been walking / have walked) since eight o'clock.",
+   "a": "have been walking"
+  },
+  {
+   "id": "L03-e024",
+   "type": "choose",
+   "q": "I (have known / have been knowing) our guide for years.",
+   "a": "have known"
+  },
+  {
+   "id": "L03-e025",
+   "type": "choose",
+   "q": "Sorry I'm late! (Have you been waiting / Are you waiting) long?",
+   "a": "Have you been waiting"
+  },
+  {
+   "id": "L03-e026",
+   "type": "choose",
+   "q": "Lately we (have been eating / ate) out a lot because the hotel has no kitchen.",
+   "a": "have been eating"
+  },
+  {
+   "id": "L03-e027",
+   "type": "choose",
+   "q": "They left at six, so they should be at the airport (by now / so far).",
+   "a": "by now"
+  },
+  {
+   "id": "L03-e028",
+   "type": "gap",
+   "q": "I have never been on a cruise before. (first time)",
+   "a": "It's the first time I've been on a cruise. | It is the first time I have been on a cruise."
+  },
+  {
+   "id": "L03-e029",
+   "type": "gap",
+   "q": "We started learning Spanish in March. We are still learning it. (been)",
+   "a": "We've been learning Spanish since March. | We have been learning Spanish since March."
+  },
+  {
+   "id": "L03-e030",
+   "type": "gap",
+   "q": "Up to now we have spent 300 euros. (so far)",
+   "a": "So far we've spent 300 euros. | So far we have spent 300 euros. | We've spent 300 euros so far."
+  },
+  {
+   "id": "L03-e031",
+   "type": "gap",
+   "q": "It started raining three hours ago and it's still raining. (for)",
+   "a": "It's been raining for three hours. | It has been raining for three hours."
+  },
+  {
+   "id": "L03-e032",
+   "type": "gap",
+   "q": "I haven't travelled much in the last few months. (lately)",
+   "a": "I haven't travelled much lately. | I have not travelled much lately."
+  },
+  {
+   "id": "L03-e033",
+   "type": "gap",
+   "q": "I have never flown business class before. (first time)",
+   "a": "It's the first time I've flown business class. | It is the first time I have flown business class."
+  },
+  {
+   "id": "L03-e034",
+   "type": "gap",
+   "q": "We set _____ at dawn to avoid the heat.",
+   "a": "off | out"
+  },
+  {
+   "id": "L03-e035",
+   "type": "gap",
+   "q": "You can check _____ online 24 hours before the flight.",
+   "a": "in"
+  },
+  {
+   "id": "L03-e036",
+   "type": "gap",
+   "q": "We have to check _____ of the hotel by eleven.",
+   "a": "out"
+  },
+  {
+   "id": "L03-e037",
+   "type": "gap",
+   "q": "On the way to Australia we stopped _____ in Dubai.",
+   "a": "over | off"
+  },
+  {
+   "id": "L03-e038",
+   "type": "gap",
+   "q": "A friend put us _____ for a few nights in Berlin.",
+   "a": "up"
+  },
+  {
+   "id": "L03-e039",
+   "type": "gap",
+   "q": "We spent the afternoon walking _____ the old town.",
+   "a": "round | around | through | about"
+  },
+  {
+   "id": "L03-e040",
+   "type": "error",
+   "q": "I am travelling around Europe for three weeks now.",
+   "a": "I have been travelling around Europe for three weeks now. | I've been travelling around Europe for three weeks now."
+  },
+  {
+   "id": "L03-e041",
+   "type": "error",
+   "q": "It's the first time I visit London.",
+   "a": "It's the first time I've visited London. | It is the first time I have visited London."
+  },
+  {
+   "id": "L03-e042",
+   "type": "error",
+   "q": "We have been visiting five museums so far.",
+   "a": "We have visited five museums so far. | We've visited five museums so far."
+  },
+  {
+   "id": "L03-e043",
+   "type": "error",
+   "q": "I have been knowing her since our trip to Italy.",
+   "a": "I have known her since our trip to Italy. | I've known her since our trip to Italy."
+  },
+  {
+   "id": "L03-e044",
+   "type": "error",
+   "q": "We have arrived in Lisbon yesterday.",
+   "a": "We arrived in Lisbon yesterday."
+  },
+  {
+   "id": "L03-e045",
+   "type": "error",
+   "q": "Lately I travel a lot for work.",
+   "a": "Lately I've been travelling a lot for work. | Lately I have been travelling a lot for work."
+  },
+  {
+   "id": "L03-e046",
+   "type": "choose",
+   "q": "We (have been driving / are driving) for six hours – let's stop for a coffee.",
+   "a": "have been driving"
+  },
+  {
+   "id": "L03-e047",
+   "type": "choose",
+   "q": "So far we (have visited / have been visiting) three castles.",
+   "a": "have visited"
+  },
+  {
+   "id": "L03-e048",
+   "type": "choose",
+   "q": "It's the first time I (have eaten / eat) sushi in Japan.",
+   "a": "have eaten"
+  },
+  {
+   "id": "L03-e049",
+   "type": "choose",
+   "q": "I (have known / have been knowing) my travel partner since school.",
+   "a": "have known"
+  },
+  {
+   "id": "L03-e050",
+   "type": "choose",
+   "q": "They set off at seven, so they should be there (by now / lately).",
+   "a": "by now"
+  },
+  {
+   "id": "L03-e051",
+   "type": "choose",
+   "q": "We (went / have been) to Greece last summer.",
+   "a": "went"
+  },
+  {
+   "id": "L03-e052",
+   "type": "choose",
+   "q": "(Have you ever been / Have you ever went) to Iceland?",
+   "a": "Have you ever been"
+  },
+  {
+   "id": "L03-e053",
+   "type": "choose",
+   "q": "The hotel was fully (booked / full) because of the festival.",
+   "a": "booked"
+  },
+  {
+   "id": "L03-e054",
+   "type": "choose",
+   "q": "We found a lovely village off the beaten (track / road).",
+   "a": "track"
+  },
+  {
+   "id": "L03-e055",
+   "type": "choose",
+   "q": "I always suffer from jet (lag / delay) after long-haul flights.",
+   "a": "lag"
+  },
+  {
+   "id": "L03-e056",
+   "type": "choose",
+   "q": "It took us a day to get our (bearings / ways) in the city.",
+   "a": "bearings"
+  },
+  {
+   "id": "L03-e057",
+   "type": "choose",
+   "q": "That restaurant is a real tourist (trap / trip).",
+   "a": "trap"
+  },
+  {
+   "id": "L03-e058",
+   "type": "gap",
+   "q": "We've _____ (travel) around Portugal for two weeks.",
+   "a": "been travelling | been traveling | travelled | traveled"
+  },
+  {
+   "id": "L03-e059",
+   "type": "gap",
+   "q": "It's the first time I've _____ (fly) alone.",
+   "a": "flown"
+  },
+  {
+   "id": "L03-e060",
+   "type": "gap",
+   "q": "We set _____ early in the morning.",
+   "a": "off | out"
+  },
+  {
+   "id": "L03-e061",
+   "type": "gap",
+   "q": "We stopped _____ in Singapore on the way to Bali.",
+   "a": "over | off"
+  },
+  {
+   "id": "L03-e062",
+   "type": "gap",
+   "q": "I've learnt to travel _____ – just one backpack.",
+   "a": "light"
+  },
+  {
+   "id": "L03-e063",
+   "type": "gap",
+   "q": "We were _____ at the airport because of the snow.",
+   "a": "stranded | stuck"
+  },
+  {
+   "id": "L03-e064",
+   "type": "order",
+   "q": "been / we've / travelling / for / weeks / three",
+   "a": "We've been travelling for three weeks."
+  },
+  {
+   "id": "L03-e065",
+   "type": "order",
+   "q": "first / it's / the / time / I've / been / here",
+   "a": "It's the first time I've been here."
+  },
+  {
+   "id": "L03-e066",
+   "type": "order",
+   "q": "we've / spent / euros / two / hundred",
+   "a": "We've spent two hundred euros."
+  }
+ ]
+}

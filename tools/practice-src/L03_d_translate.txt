@@ -1,0 +1,64 @@
+#Translation|Překlad
+tr ## Cestujeme po Španělsku už tři týdny. ## We've been travelling around Spain for three weeks. | We have been travelling around Spain for three weeks. | We've been traveling around Spain for three weeks. | We have been traveling around Spain for three weeks.
+tr ## Čekám na autobus dvacet minut. ## I've been waiting for the bus for twenty minutes. | I have been waiting for the bus for twenty minutes.
+tr ## Zatím jsme navštívili čtyři města. ## So far we've visited four cities. | So far we have visited four cities. | We've visited four cities so far. | We have visited four cities so far.
+tr ## Letím business třídou poprvé. ## It's the first time I've flown business class. | It is the first time I have flown business class. | This is the first time I've flown business class.
+tr ## Jsem na Islandu poprvé. ## It's the first time I've been to Iceland. | It is the first time I have been to Iceland. | This is the first time I've been to Iceland. | It's the first time I've been in Iceland.
+tr ## Jak dlouho se učíš španělsky? ## How long have you been learning Spanish? | How long have you been studying Spanish?
+tr ## Kolik zemí jsi už navštívil? ## How many countries have you visited? | How many countries have you already visited? | How many countries have you visited so far?
+tr ## Znám našeho průvodce léta. ## I've known our guide for years. | I have known our guide for years. | I've known our tour guide for years.
+tr ## Jsem unavený, celý den jsme chodili po městě. ## I'm tired, we've been walking around the city all day. | I'm tired – we've been walking around the city all day. | I am tired, we have been walking around the city all day. | I'm tired. We've been walking around the city all day.
+tr ## Už by měli být na letišti. ## They should be at the airport by now. | They should be at the airport now.
+tr ## V poslední době hodně cestuji. ## I've been travelling a lot lately. | I have been travelling a lot lately. | Lately I've been travelling a lot. | I've been traveling a lot lately. | I've been travelling a lot recently.
+tr ## Ztratil jsem pas! ## I've lost my passport! | I have lost my passport!
+tr ## Právě jsme se ubytovali v hotelu. ## We've just checked in at the hotel. | We have just checked in at the hotel. | We've just checked into the hotel. | We have just checked into the hotel.
+tr ## Ještě jsem si nesbalil kufr. ## I haven't packed my suitcase yet. | I have not packed my suitcase yet. | I haven't packed my case yet.
+tr ## Byl jsi někdy ve Skotsku? ## Have you ever been to Scotland?
+tr ## Loni v létě jsme byli v Řecku. ## We were in Greece last summer. | Last summer we were in Greece. | We went to Greece last summer. | Last summer we went to Greece.
+tr ## Vyrazili jsme v pět ráno. ## We set off at five in the morning. | We set off at 5 a.m. | We set off at five o'clock in the morning.
+tr ## Z hotelu se musíme odhlásit do jedenácti. ## We have to check out of the hotel by eleven. | We must check out of the hotel by eleven. | We need to check out of the hotel by eleven.
+tr ## Cestou do Austrálie jsme se zastavili v Dubaji. ## On the way to Australia we stopped over in Dubai. | We stopped over in Dubai on the way to Australia. | On our way to Australia we stopped over in Dubai.
+tr ## Našli jsme krásnou vesnici mimo turistické trasy. ## We found a beautiful village off the beaten track. | We found a lovely village off the beaten track.
+tr ## Potřebuju utéct od všeho. ## I need to get away from it all.
+tr ## Rád cestuji nalehko. ## I like travelling light. | I like to travel light. | I like traveling light.
+tr ## Po dlouhém letu vždycky trpím pásmovou nemocí. ## I always suffer from jet lag after a long flight. | After a long flight I always suffer from jet lag. | I always suffer from jet lag after a long-haul flight.
+tr ## Kvůli sněhu jsme uvízli na letišti. ## We were stranded at the airport because of the snow. | Because of the snow we were stranded at the airport. | We were stranded at the airport because of snow.
+tr ## Z hory je úchvatný výhled. ## There's a breathtaking view from the mountain. | There is a breathtaking view from the mountain. | The view from the mountain is breathtaking.
+tr ## Ta restaurace na náměstí je past na turisty. ## The restaurant on the square is a tourist trap. | That restaurant on the square is a tourist trap. | The restaurant in the square is a tourist trap.
+tr ## Seděli jsme v kavárně a nasávali atmosféru. ## We sat in a café and soaked up the atmosphere. | We sat in a cafe and soaked up the atmosphere.
+tr ## Trvalo nám den, než jsme se zorientovali. ## It took us a day to get our bearings.
+tr ## Celé dopoledne jsme si prohlíželi pamětihodnosti. ## We spent the whole morning taking in the sights. | We were taking in the sights all morning. | We spent all morning taking in the sights.
+tr ## Jeli jsme stopem do dalšího města. ## We hitched a lift to the next town. | We hitched a ride to the next town. | We hitchhiked to the next town.
+tr ## Všechny hotely byly plně obsazené. ## All the hotels were fully booked. | All hotels were fully booked. | Every hotel was fully booked.
+tr ## Byla to cesta, jaká se poštěstí jednou za život. ## It was a once-in-a-lifetime trip. | It was the trip of a lifetime.
+tr ## Pochytil jsem pár slov portugalsky. ## I've picked up a few words of Portuguese. | I have picked up a few words of Portuguese. | I picked up a few words of Portuguese.
+tr ## První týden v Indii jsem zažil kulturní šok. ## I experienced culture shock during my first week in India. | In my first week in India I experienced culture shock. | I had culture shock in my first week in India. | I experienced culture shock in my first week in India.
+tr ## Nejlepší je prozkoumat město pěšky. ## The best thing is to explore the city on foot. | It's best to explore the city on foot. | The best way is to explore the city on foot.
+tr ## Nestihli jsme přípoj ve Vídni. ## We missed our connection in Vienna. | We missed the connection in Vienna.
+tr ## Na dálkových letech nikdy nespím. ## I never sleep on long-haul flights.
+tr ## Po pár měsících doma nevydržím na jednom místě. ## After a few months at home I get itchy feet. | After a few months at home I have itchy feet.
+tr ## Propadla cestování na studijním pobytu v Itálii. ## She caught the travel bug while studying in Italy. | She caught the travel bug during her studies in Italy. | She caught the travel bug on a study stay in Italy.
+tr ## Kvůli práci žiju z kufru. ## I live out of a suitcase because of my job. | Because of my job I live out of a suitcase. | I live out of a suitcase because of work.
+tr ## To muzeum je skrytý klenot. ## The museum is a hidden gem. | That museum is a hidden gem. | This museum is a hidden gem.
+tr ## Našli jsme pláž nedotčenou turismem. ## We found an unspoilt beach. | We found an unspoiled beach. | We found a beach unspoilt by tourism.
+tr ## Je to jedno z nejmalebnějších měst v Evropě. ## It's one of the most picturesque towns in Europe. | It is one of the most picturesque towns in Europe. | It's one of the most picturesque cities in Europe.
+tr ## Jako studenti jsme cestovali s minimem peněz. ## As students we travelled on a shoestring. | As students we traveled on a shoestring. | When we were students we travelled on a shoestring.
+tr ## Kamarád nás na týden ubytoval u sebe. ## A friend put us up for a week. | A friend of ours put us up for a week. | Our friend put us up for a week.
+tr ## Taxikář nás natáhl. ## We got ripped off by the taxi driver. | The taxi driver ripped us off. | We got ripped off by a taxi driver.
+tr ## Náš hotel byl co by kamenem dohodil od pláže. ## Our hotel was a stone's throw from the beach.
+tr ## Je to poprvé, co cestuje sama. ## It's the first time she's travelled alone. | It's the first time she has travelled alone. | It is the first time she has travelled alone. | It's the first time she's traveled alone. | It's the first time she has travelled on her own.
+tr ## Je to nejhezčí výhled, jaký jsem kdy viděl. ## It's the most beautiful view I've ever seen. | It is the most beautiful view I have ever seen. | It's the best view I've ever seen.
+tr ## Celé ráno prší. ## It's been raining all morning. | It has been raining all morning.
+tr ## Bydlí v Lisabonu od roku 2021. ## She has lived in Lisbon since 2021. | She's lived in Lisbon since 2021. | She has been living in Lisbon since 2021. | She's been living in Lisbon since 2021. | He has lived in Lisbon since 2021. | He's lived in Lisbon since 2021. | He has been living in Lisbon since 2021.
+tr ## Na tuhle cestu šetřím od loňského léta. ## I've been saving for this trip since last summer. | I have been saving for this trip since last summer.
+tr ## Na dovolené jsem nebyl dva roky. ## I haven't been on holiday for two years. | I have not been on holiday for two years.
+tr ## Tom tu není, odjel na nádraží. ## Tom isn't here, he's gone to the station. | Tom isn't here – he's gone to the station. | Tom is not here, he has gone to the station. | Tom isn't here. He's gone to the station.
+tr ## Ve Španělsku jsem byl třikrát. ## I've been to Spain three times. | I have been to Spain three times.
+tr ## Kdy jste se vrátili z Chorvatska? ## When did you get back from Croatia? | When did you come back from Croatia? | When did you return from Croatia?
+tr ## Od té doby, co jsme přijeli, jsme neviděli žádné turisty. ## We haven't seen any tourists since we arrived. | We have not seen any tourists since we arrived.
+tr ## Promiň, že jdu pozdě. Čekáš dlouho? ## Sorry I'm late. Have you been waiting long? | Sorry I'm late. Have you been waiting for long? | Sorry, I'm late. Have you been waiting long?
+tr ## Plánuje tu cestu od ledna. ## She's been planning the trip since January. | She has been planning the trip since January. | He's been planning the trip since January. | He has been planning the trip since January. | She's been planning this trip since January. | He's been planning this trip since January.
+tr ## Zatím jsme utratili pět set eur. ## So far we've spent five hundred euros. | So far we have spent five hundred euros. | We've spent five hundred euros so far. | So far we've spent 500 euros. | We've spent 500 euros so far.
+tr ## Je to poprvé, co jsem jel stopem. ## It's the first time I've hitched a lift. | It is the first time I have hitched a lift. | It's the first time I've hitchhiked.
+tr ## Ten hotel je v pěší vzdálenosti od centra. ## The hotel is within walking distance of the centre. | The hotel is within walking distance of the center. | That hotel is within walking distance of the centre.
+tr ## V poslední době špatně spím. ## I haven't been sleeping well lately. | I have not been sleeping well lately. | I've been sleeping badly lately. | I haven't been sleeping well recently.
