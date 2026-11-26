@@ -191,4 +191,18 @@ class Repository(private val ctx: Context) {
         return lessons.lastOrNull { it.date.isNotBlank() && it.date <= today } ?: lessons.lastOrNull()
     }
     fun allBankWords() = packs.flatMap { it.words }
+
+    /**
+     * Zvládnutí lekce 0..1 pro modrou čáru v přehledu lekcí (Karel 26. 11. 2026):
+     * počítají se všechna cvičení lekce včetně procvičovacích sad (věta naposledy zodpovězená správně = hotovo)
+     * a slovíčka lekce (s fajfkou = 1, rozpracované = 0,5).
+     */
+    fun lessonMastery(l: Lesson): Float {
+        val ex = l.exercises + practice.filter { it.lesson == l.id }.flatMap { it.exercises }
+        val total = l.words.size + ex.size
+        if (total == 0) return 0f
+        val w = l.words.sumOf { progress.peek("w:" + it.id)?.let { s -> if (s.mastered) 1.0 else if (s.learning) 0.5 else 0.0 } ?: 0.0 }
+        val x = ex.count { progress.peek("x:" + it.id)?.let { s -> !s.isNew && s.reps >= 1 } ?: false }
+        return ((w + x) / total).toFloat().coerceIn(0f, 1f)
+    }
 }

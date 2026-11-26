@@ -44,13 +44,10 @@ import cz.anglictina.kurz.data.Repository
 
 @Composable
 fun LessonsScreen(repo: Repository, onBack: () -> Unit, onOpen: (String) -> Unit) {
-    val p = repo.progress
     Screen("Lekce", onBack = onBack) {
         if (repo.lessons.isEmpty()) Text("Zatím žádné lekce.")
         repo.lessons.reversed().forEach { l ->
-            val ids = l.words.map { "w:" + it.id } + l.exercises.map { "x:" + it.id }
-            val m = ids.count { p.peek(it)?.mastered == true }
-            val lr = ids.count { p.peek(it)?.learning == true }
+            val mastery = repo.lessonMastery(l)
             Section {
                 Column(Modifier.fillMaxWidth().clickable { onOpen(l.id) }) {
                     Text("Lekce ${l.week} · ${l.date}", style = MaterialTheme.typography.labelMedium)
@@ -58,7 +55,7 @@ fun LessonsScreen(repo: Repository, onBack: () -> Unit, onOpen: (String) -> Unit
                     Text(l.titleCz)
                     Text(l.grammarFocus, style = MaterialTheme.typography.bodySmall)
                     Spacer(Modifier.height(6.dp))
-                    LinearProgressIndicator(progress = { if (ids.isEmpty()) 0f else (m + lr * 0.4f) / ids.size }, modifier = Modifier.fillMaxWidth())
+                    LinearProgressIndicator(progress = { mastery }, modifier = Modifier.fillMaxWidth())
                 }
             }
         }
